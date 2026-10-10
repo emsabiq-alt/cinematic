@@ -17,6 +17,7 @@ import re
 import sys
 import wave
 from pathlib import Path
+import whisper_compat  # noqa: F401 (av>=14 shim)
 
 MAX_WORDS = 7
 MIN_WORDS = 3
@@ -276,6 +277,9 @@ def process_project(project_dir):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("project", help="Project path e.g. D:/project/a045")
+    parser.add_argument("project", nargs="?", help="Project directory (or CINEMATIC_PROJECT_DIR)")
     args = parser.parse_args()
-    process_project(args.project)
+    _proj = args.project or os.environ.get("CINEMATIC_PROJECT_DIR")
+    if not _proj:
+        parser.error("project directory required (arg or CINEMATIC_PROJECT_DIR)")
+    process_project(_proj)

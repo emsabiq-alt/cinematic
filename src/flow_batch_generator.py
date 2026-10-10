@@ -1,12 +1,14 @@
-"""flow_batch_generator_a044.py — Google Flow Batch Generator for Merapi 1006.
+"""flow_batch_generator.py — Google Flow batch image generator (via Chrome CDP).
 
 Features:
-- Connects to Chrome DevTools Protocol at port 9222 (flow.google.com).
-- Dispatches prompt to ProseMirror editor with input events.
-- Dispatches real mouse events to "Start generation" button.
-- Detects new images dynamically (supporting flow.google.com/asb and flow-content.google).
+- Connects to Chrome DevTools Protocol (default port 9222, env CHROME_CDP_PORT).
+- Drives generation inside an authenticated flow.google.com project tab.
+- Detects new images dynamically (flow.google.com/asb and flow-content.google).
 - Auto-crops edge borders if needed and resizes to 1920x1080 Full-Bleed 16:9.
 - Progress tracking and resuming capability (skips existing images > 50KB).
+
+Project layout is resolved from the ``project`` argument (or CINEMATIC_PROJECT_DIR);
+storyboard is read from ``<project>/input/storyboard.json``.
 """
 import argparse
 import json
@@ -17,12 +19,15 @@ import urllib.request
 import websocket
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from cine_paths import project_dir  # noqa: E402
+
 CDP_PORT = int(os.environ.get("CHROME_CDP_PORT", 9222))
 CDP_BASE = f"http://127.0.0.1:{CDP_PORT}"
 
-BASE = Path("D:/project/a044")
+BASE = project_dir()
 FLOW_DIR = BASE / "output" / "flow_images"
-STORY_PATH = BASE / "input" / "merapi_master_storyboard_enriched.json"
+STORY_PATH = BASE / "input" / "storyboard.json"
 MAPPING_JSON = BASE / "output" / "flow_mapping.json"
 LOG_FILE = BASE / "flow_generator.log"
 
@@ -187,7 +192,7 @@ def run_batch(start_idx=1, end_idx=75, delay_between=14):
     runner.connect()
 
     records = []
-    print(f"\n=== MEMULAI GENERASI GOOGLE FLOW A044 (Shots {start_idx} s/d {end_idx}) ===")
+    print(f"\n=== MEMULAI GENERASI GOOGLE FLOW (Shots {start_idx} s/d {end_idx}) ===")
 
     try:
         for idx in range(start_idx, end_idx + 1):
@@ -233,10 +238,23 @@ def run_batch(start_idx=1, end_idx=75, delay_between=14):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Generate Flow images for shots in range")
+    parser.add_argument("project", nargs="?", help="Project directory (or CINEMATIC_PROJECT_DIR)")
     parser.add_argument("--start", type=int, default=1)
-    parser.add_argument("--end", type=int, default=75)
+    parser.add_argument("--end", type=int, default=90)
     parser.add_argument("--delay", type=int, default=14)
     args = parser.parse_args()
+    if args.project:
+        import os
+        os.environ["CINEMATIC_PROJECT_DIR"] = args.project
+        # re-resolve module-level paths for the new project
+        BASE = project_dir()
+        FLOW_DIR = BASE / "output" / "flow_images"
+        STORY_PATH = BASE / "input" / "storyboard.json"
+        MAPPING_JSON = BASE / "output" / "flow_mapping.json"
+        LOG_FILE = BASE / "flow_generator.log"
+        FLOW_DIR.mkdir(parents=True, exist_ok=True)
+        globals().update(BASE=BASE, FLOW_DIR=FLOW_DIR, STORY_PATH=STORY_PATH,
+                         MAPPING_JSON=MAPPING_JSON, LOG_FILE=LOG_FILE)
 
     run_batch(args.start, args.end, args.delay)

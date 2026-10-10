@@ -227,9 +227,10 @@ def _apply_glitch(bgr, intensity=0.5, seed=42):
 
 def _load_film_burn_frames(project, W=1920, H=1080):
     """Muat aset film burn otentik untuk efek overlay light leak saat masuk dan keluar babak."""
+    from cine_paths import ASSETS_DIR
     burn_path = Path(project) / "assets" / "transitions" / "film_burn_4k_22vk.mp4"
     if not burn_path.exists():
-        burn_path = Path("D:/project/render-p404/assets/transitions/film_burn_4k_22vk.mp4")
+        burn_path = ASSETS_DIR / "transitions" / "film_burn_4k_22vk.mp4"
     if not burn_path.exists():
         return [], []
     try:

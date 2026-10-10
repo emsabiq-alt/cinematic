@@ -228,8 +228,11 @@ def run_tts_subtitles(project, voice=None):
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
-    ap.add_argument("project")
+    ap.add_argument("project", nargs="?", help="Project directory (or CINEMATIC_PROJECT_DIR)")
     ap.add_argument("--voice")
     args = ap.parse_args()
-    r = run_tts_subtitles(args.project, args.voice)
+    _proj = args.project or os.environ.get("CINEMATIC_PROJECT_DIR")
+    if not _proj:
+        ap.error("project directory required (arg or CINEMATIC_PROJECT_DIR)")
+    r = run_tts_subtitles(_proj, args.voice)
     print(f"TTS_SUBTITLES_DONE wav={r['wav_count']} srt={r['srt_count']} dur={r['total_duration']:.1f}s", flush=True)

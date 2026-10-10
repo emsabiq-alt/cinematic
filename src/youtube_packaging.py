@@ -365,15 +365,16 @@ def create_fallback_thumbnail(png_path, hook_text, title_text, variant_num=1):
     ]
     draw.polygon(points, fill=(28, 18, 12), outline=(14, 9, 6))
 
-    # Try font loading
+    # Try font loading: repo assets first, then system fonts
+    from cine_paths import find_font
     font_paths = [
-        Path("D:/project/render-p404/assets/fonts/CourierPrime-Bold.ttf"),
-        Path("C:/Windows/Fonts/georgiab.ttf"),
-        Path("C:/Windows/Fonts/arialbd.ttf"),
+        find_font("CourierPrime-Bold.ttf"),
+        find_font("Georgia-Bold.ttf", "georgiab.ttf"),
+        find_font("Poppins-Bold.ttf", "arialbd.ttf"),
     ]
     font_hook = None
     for fp in font_paths:
-        if fp.exists():
+        if fp:
             try:
                 font_hook = ImageFont.truetype(str(fp), 68)
                 break

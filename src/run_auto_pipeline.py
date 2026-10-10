@@ -1,9 +1,10 @@
-"""
-run_auto_pipeline_a057.py
-End-to-end automated runner for project a057:
-1. Generates all remaining visual assets in Google Flow (output/flow_images/shot_001.png - shot_090.png)
+"""run_auto_pipeline.py
+End-to-end automated runner for a cinematic project:
+1. Generates all remaining visual assets in Google Flow (output/flow_images/shot_*.png)
 2. Runs master continuous render and assembly via render_continuous_babak.py
 3. Updates STATE.md and project.json when completed.
+
+Usage:  python run_auto_pipeline.py [project_dir]   (or set CINEMATIC_PROJECT_DIR)
 """
 import sys
 import os
@@ -12,8 +13,11 @@ import json
 import subprocess
 from pathlib import Path
 
-PROJECT_DIR = Path("D:/project/a057")
-SRC_DIR = Path("D:/project/render-p404/src")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from cine_paths import project_dir  # noqa: E402
+
+PROJECT_DIR = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else project_dir()
+SRC_DIR = Path(__file__).resolve().parent
 LOG_FILE = PROJECT_DIR / "export" / "pipeline_execution.log"
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
@@ -23,6 +27,16 @@ def log(msg):
     print(line, flush=True)
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(line + "\n")
+
+def total_shots():
+    cfg_path = PROJECT_DIR / "project.json"
+    if cfg_path.exists():
+        try:
+            return int(json.loads(cfg_path.read_text(encoding="utf-8")).get("total_shots") or 90)
+        except (ValueError, TypeError):
+            pass
+    return 90
+
 
 def check_flow_images_count():
     flow_dir = PROJECT_DIR / "output" / "flow_images"
@@ -36,9 +50,9 @@ def run_visual_assets():
     
     while True:
         cnt = check_flow_images_count()
-        log(f"Aset gambar valid saat ini: {cnt}/90")
-        if cnt >= 90:
-            log("✓ Seluruh 90 aset gambar Google Flow telah selesai!")
+        log(f"Aset gambar valid saat ini: {cnt}/{total_shots()}")
+        if cnt >= total_shots():
+            log("✓ Seluruh aset gambar Google Flow telah selesai!")
             break
             
         log("Menjalankan generator Flow...")
@@ -54,24 +68,15 @@ def run_visual_assets():
             log(f"  [Error] Flow runner exception: {e}")
             
         new_cnt = check_flow_images_count()
-        if new_cnt >= 90:
+        if new_cnt >= total_shots():
             break
         log("Menunggu 5 detik sebelum batch berikutnya...")
         time.sleep(5)
 
 def run_master_render():
-    log("=== TAHAP 2: RENDER CONTINUOUS MASTER FILM BABAK 1-5 ===")
+    log("=== TAHAP 2: RENDER CONTINUOUS MASTER FILM ===")
     render_script = SRC_DIR / "render_continuous_babak.py"
-    cmd = [
-        "uv", "run",
-        "--with", "faster-whisper",
-        "--with", "av<14",
-        "--with", "soundfile",
-        "--with", "Pillow",
-        "--with", "opencv-python",
-        "python", str(render_script),
-        str(PROJECT_DIR)
-    ]
+    cmd = [sys.executable, "-u", str(render_script), str(PROJECT_DIR)]
     log(f"Menjalankan command: {' '.join(cmd)}")
     proc = subprocess.Popen(cmd, cwd=str(SRC_DIR), stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, bufsize=1)
     for line in proc.stdout:
@@ -89,8 +94,10 @@ def run_master_render():
 def update_state_to_completed():
     log("=== TAHAP 3: FINALISASI DOKUMENTASI & METADATA ===")
     project_json_path = PROJECT_DIR / "project.json"
+    title = PROJECT_DIR.name
     if project_json_path.exists():
         cfg = json.loads(project_json_path.read_text(encoding="utf-8"))
+        title = cfg.get("title", title)
         for item in cfg.get("pipeline", []):
             item["status"] = "completed"
         cfg["status"] = "completed"
@@ -106,40 +113,32 @@ def update_state_to_completed():
         size_mb = mf.stat().st_size / 1048576
         master_info = f"`{mf.name}` ({size_mb:.1f} MB)"
 
-    state_content = f"""# STATE — a057 KONTROVERSI IJAZAH GIBRAN
+    state_content = f"""# STATE — {title}
 
 Diperbarui: {time.strftime('%Y-%m-%d %H:%M')} (diverifikasi dari disk)
-Judul kerja: KONTROVERSI IJAZAH GIBRAN: INVESTIGASI FORENSIK DOKUMEN DAN SISTEM PENDIDIKAN
-Format Visual: 35mm Cinematic Chiaroscuro Warm Tungsten & Forensic Documentary Style
-Format Narasi: Deep Forensic Documentary (Pria Supertonic M2, Standar Anti-Slop)
 
 ## Status Pipeline
 
 | Tahap | Status | Detail Berkas / Keterangan |
 |---|---|---|
-| Outline Dokumen | COMPLETED | `input/outline.md` — Runtutan kronologis 5 babak (Sydney/Singapura s/d Standar Hukum Pemimpin) |
-| Babak & Judul Babak | COMPLETED | `input/chapters.json` & `input/chapter_titles.json` (5 Babak terdefinisi) |
-| YouTube Metadata | COMPLETED | `input/youtube_meta.json` (3 opsi judul, hooks, deskripsi lengkap, formula thumbnail) |
-| Naskah Narasi (Script) | COMPLETED | `input/script.md` — 90 kalimat simetris narasi dingin (0 digit angka, 0 em-dash, standar anti-slop) |
-| Storyboard (90 Shot) | COMPLETED | `input/storyboard.json` — 90 shot simetris (18 shot per babak) 100% gaya Cinematic Chiaroscuro Warm Tungsten |
-| Script Per-Shot | COMPLETED | `script/` — 90/90 berkas teks narasi (`shot_001.txt` s/d `shot_090.txt`) |
-| Sintesis Audio Supertonic | COMPLETED | `output/audio_supertonic/` — 90/90 file WAV selesai disintesis (M2, 992.7s) |
-| Subtitle Faster-Whisper | COMPLETED | `output/subtitles/` — 90/90 berkas SRT tersinkronisasi rapi seimbang |
-| Chapter Cards & Outro | COMPLETED | `output/bridges_p404/` (5 kartu babak glitch + burn) + `output/outro/outro_conclusion_card.mp4` |
-| Aset Visual (Google Flow) | COMPLETED | `output/flow_images/` — 90/90 gambar sinematik warm tungsten valid |
-| Packaging YouTube | COMPLETED | `export/thumbnail_flow/` — 3 Poster Triptych Kolase (1920x1080) terverifikasi |
-| Render Klip & Master Film | COMPLETED | `export/{master_info}` — Full Continuous + Smooth Crossfade 0.75s + Backsong Ducking + Chapter Fanfares |
+| Outline Dokumen | COMPLETED | `input/outline.md` |
+| Naskah Narasi (Script) | COMPLETED | `input/script.md` + `script/` |
+| Storyboard | COMPLETED | `input/storyboard.json` |
+| Sintesis Audio Supertonic | COMPLETED | `output/audio_supertonic/` |
+| Subtitle Faster-Whisper | COMPLETED | `output/subtitles/` |
+| Aset Visual (Google Flow) | COMPLETED | `output/flow_images/` |
+| Render Klip & Master Film | COMPLETED | `export/{master_info}` |
 """
     state_path.write_text(state_content, encoding="utf-8")
     log("✓ STATE.md diperbarui ke status COMPLETED")
 
 def main():
-    log("Starting automated pipeline for project a057...")
+    log(f"Starting automated pipeline for project {PROJECT_DIR.name}...")
     run_visual_assets()
     success = run_master_render()
     if success:
         update_state_to_completed()
-        log("🎉 PIPELINE PROJECT A057 SELESAI SEMPURNA SAMPAI TUNTAS!")
+        log(f"🎉 PIPELINE PROJECT {PROJECT_DIR.name} SELESAI SEMPURNA SAMPAI TUNTAS!")
 
 if __name__ == "__main__":
     main()

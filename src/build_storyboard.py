@@ -1,14 +1,21 @@
+"""build_storyboard.py
+Membangun storyboard 90-shot simetris untuk proyek contoh (a057).
+
+CATATAN: isi storyboard ini adalah konten editorial spesifik proyek contoh.
+Untuk proyek baru, ganti get_narration_chunks()/build() dengan naskahmu sendiri,
+atau hasilkan input/storyboard.json lewat alur LLM lalu lanjutkan ke
+flow_assets.py -> tts_subtitles.py -> render_continuous_babak.py.
 """
-build_storyboard_a057.py
-Generates the 90-shot symmetrical storyboard for project a057
-(KONTROVERSI IJAZAH GIBRAN: INVESTIGASI FORENSIK DOKUMEN DAN SISTEM PENDIDIKAN)
-Using the locked 35mm Cinematic Chiaroscuro Warm Tungsten & Forensic Documentary Style.
-"""
+import argparse
 import json
 import re
+import sys
 from pathlib import Path
 
-PROJECT_DIR = Path("D:/project/a057")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from cine_paths import project_dir  # noqa: E402
+
+PROJECT_DIR = project_dir()
 SCRIPT_FILE = PROJECT_DIR / "input" / "script.md"
 OUT_FILE = PROJECT_DIR / "input" / "storyboard.json"
 SCRIPT_DIR = PROJECT_DIR / "script"
@@ -589,7 +596,14 @@ PROMPTS = [
     )
 ]
 
-def build():
+def build(project_dir_override=None):
+    global PROJECT_DIR, SCRIPT_FILE, OUT_FILE, SCRIPT_DIR
+    if project_dir_override:
+        PROJECT_DIR = Path(project_dir_override).resolve()
+        SCRIPT_FILE = PROJECT_DIR / "input" / "script.md"
+        OUT_FILE = PROJECT_DIR / "input" / "storyboard.json"
+        SCRIPT_DIR = PROJECT_DIR / "script"
+        SCRIPT_DIR.mkdir(parents=True, exist_ok=True)
     chunks = get_narration_chunks()
     assert len(chunks) == 90, f"Expected 90 chunks, got {len(chunks)}"
     assert len(PROMPTS) == 90, f"Expected 90 prompts, got {len(PROMPTS)}"
@@ -628,4 +642,7 @@ def build():
     print(f"✓ Script files generated in {SCRIPT_DIR} (90 files)")
 
 if __name__ == "__main__":
-    build()
+    ap = argparse.ArgumentParser(description="Build the example 90-shot storyboard")
+    ap.add_argument("project", nargs="?", help="Project directory (or set CINEMATIC_PROJECT_DIR)")
+    args = ap.parse_args()
+    build(args.project)

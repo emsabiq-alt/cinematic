@@ -13,11 +13,16 @@ import time
 import urllib.request
 from pathlib import Path
 
-FLOW_SRC = Path("D:/project/a043/src")
-if str(FLOW_SRC) not in sys.path:
-    sys.path.insert(0, str(FLOW_SRC))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from cine_paths import SRC_DIR  # noqa: E402
 
-from flow_automator import GoogleFlowClient  # noqa: E402
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+try:
+    from flow_batch_generator import GoogleFlowRunner as GoogleFlowClient  # noqa: E402
+except ImportError:  # pragma: no cover
+    GoogleFlowClient = None  # type: ignore
 
 BASE = Path(__file__).resolve().parents[1]
 OUT = BASE / "export" / "thumbnail_flow"
@@ -188,6 +193,8 @@ def generate_one_thumbnail(client, prompt: str, out_path: Path, timeout: int = 1
 
 
 def run_full_generation():
+    if GoogleFlowClient is None:
+        raise RuntimeError("flow_batch_generator tidak tersedia.")
     OUT.mkdir(parents=True, exist_ok=True)
     client = GoogleFlowClient()
     client.connect()

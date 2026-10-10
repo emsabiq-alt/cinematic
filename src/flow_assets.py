@@ -10,10 +10,10 @@ import time
 from pathlib import Path
 
 try:
-    from flow_batch_generator_a044 import GoogleFlowRunner  # noqa: E402
+    from flow_batch_generator import GoogleFlowRunner  # noqa: E402
 except ImportError:
-    sys.path.insert(0, "D:/project/a044/src")
-    from flow_batch_generator_a044 import GoogleFlowRunner  # noqa: E402
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from flow_batch_generator import GoogleFlowRunner  # noqa: E402
 
 MIN_IMAGE_BYTES = 50000
 

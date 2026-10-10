@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cinematic — Dashboard</title>
+<style>
+  body { font-family: system-ui, sans-serif; background: #14100c; color: #f0e6d6; margin: 0; padding: 24px; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .sub { color: #a89a83; font-size: 13px; margin-bottom: 20px; }
+  .card { background: #1f1812; border: 1px solid #3a2d1f; border-radius: 10px; padding: 16px; margin-bottom: 16px; }
+  .stage { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid #2c2318; font-size: 14px; }
+  .stage:last-child { border-bottom: none; }
+  .ok { color: #7dd87d; } .run { color: #ffcf6e; } .wait { color: #8a7a63; }
+  button { background: #b4762a; color: #fff; border: none; border-radius: 6px; padding: 10px 18px; font-size: 14px; cursor: pointer; }
+  button:disabled { background: #4a3f30; cursor: not-allowed; }
+  select { background: #1f1812; color: #f0e6d6; border: 1px solid #3a2d1f; border-radius: 6px; padding: 8px; }
+  #log { white-space: pre-wrap; font-family: monospace; font-size: 12px; color: #c9b995; max-height: 220px; overflow: auto; }
+</style>
+</head>
+<body>
+<h1>🎬 Cinematic Pipeline Dashboard</h1>
+<div class="sub">Dokumenter sinematik — TTS Supertonic · Faster-Whisper · Google Flow · FFmpeg</div>
+
+<div class="card">
+  <label>Proyek:
+    <select id="proj"><option value="">—</option></select>
+  </label>
+</div>
+
+<div class="card">
+  <h3 style="margin-top:0">Pipeline</h3>
+  <div id="pipeline"><span class="wait">Memuat…</span></div>
+  <p><button id="gen" disabled>Generate</button>
+  <span id="genmsg" class="sub"></span></p>
+</div>
+
+<div class="card">
+  <h3 style="margin-top:0">Status Render</h3>
+  <div id="rstate" class="sub">Memuat…</div>
+  <h4>Log</h4>
+  <div id="log">—</div>
+</div>
+
+<script>
+let PID = "";
+async function jget(u) { const r = await fetch(u); return r.json(); }
+async function refresh() {
+  const st = await jget("/api/state" + (PID ? "?p=" + encodeURIComponent(PID) : ""));
+  const f = st.factory || {};
+  const pl = document.getElementById("pipeline");
+  pl.innerHTML = (f.pipeline || []).map(s => {
+    const cls = s.status === "completed" ? "ok" : (s.status === "in_progress" ? "run" : "wait");
+    const pct = s.percent != null ? ` <span class="wait">${s.percent}%</span>` : "";
+    return `<div class="stage"><span>${s.label || s.key}</span><span class="${cls}">${s.status}${pct}</span></div>`;
+  }).join("") || '<span class="wait">Tidak ada data pipeline.</span>';
+  const g = document.getElementById("gen");
+  g.disabled = !f.can_generate;
+  g.textContent = f.button_label || "Generate";
+  document.getElementById("rstate").textContent =
+    `Fase: ${st.phase_text || st.phase || "-"} · Audio: ${st.vo_count || 0} · Subtitle: ${st.subs_count || 0}`;
+  document.getElementById("log").textContent = (st.log || []).slice(-30).join("\n") || "—";
+}
+async function loadProjects() {
+  const d = await jget("/api/projects");
+  const sel = document.getElementById("proj");
+  sel.innerHTML = (d.projects || []).map(p =>
+    `<option value="${p.id}">${p.title || p.id}</option>`).join("");
+  if (d.active) sel.value = d.active;
+  PID = sel.value;
+  sel.onchange = () => { PID = sel.value; refresh(); };
+}
+document.getElementById("gen").onclick = async () => {
+  const m = document.getElementById("genmsg");
+  m.textContent = "Menjalankan…";
+  const r = await fetch("/api/factory/generate" + (PID ? "?p=" + encodeURIComponent(PID) : ""),
+                        {method: "POST"});
+  const d = await r.json();
+  m.textContent = d.ok ? ("✓ " + d.message) : ("✗ " + (d.error || "gagal"));
+  setTimeout(refresh, 2000);
+};
+loadProjects().then(refresh);
+setInterval(refresh, 8000);
+</script>
+</body>
+</html>

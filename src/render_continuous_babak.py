@@ -30,6 +30,7 @@ import sys
 import time
 import wave
 from pathlib import Path
+import whisper_compat  # noqa: F401 (av>=14 shim)
 import soundfile as sf
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -157,26 +158,11 @@ def synthesize_chapter_audio(project_dir, babak_num, voice_code="M2"):
         style = tts.get_voice_style(voice_code)
         wav_data, dur = tts.synthesize(chapter_text, style, lang="id")
         sf.write(str(out_wav), wav_data[0], 44100)
-    except ModuleNotFoundError:
-        # Fallback to Python 3.10 interpreter where supertonic is installed
-        py310 = r"C:\Users\Lenovo\AppData\Local\Programs\Python\Python310\python.exe"
-        tmp_script = audio_dir / f"tmp_syn_{babak_num}.py"
-        tmp_json = audio_dir / f"tmp_syn_{babak_num}.json"
-        tmp_json.write_text(json.dumps({"text": chapter_text, "out": str(out_wav), "voice": voice_code}), encoding="utf-8")
-        code = (
-            "import json, soundfile as sf, supertonic\n"
-            f"cfg = json.loads(open(r'{tmp_json}', encoding='utf-8').read())\n"
-            "tts = supertonic.TTS()\n"
-            "style = tts.get_voice_style(cfg['voice'])\n"
-            "wav, _ = tts.synthesize(cfg['text'], style, lang='id')\n"
-            "sf.write(cfg['out'], wav[0], 44100)\n"
-        )
-        tmp_script.write_text(code, encoding="utf-8")
-        try:
-            subprocess.run([py310, str(tmp_script)], check=True)
-        finally:
-            tmp_script.unlink(missing_ok=True)
-            tmp_json.unlink(missing_ok=True)
+    except ModuleNotFoundError as e:
+        raise RuntimeError(
+            "supertonic tidak terinstal di interpreter ini. "
+            "Install: pip install -r requirements.txt"
+        ) from e
 
     print(f"✓ Synthesized {out_wav.name} ({wav_dur(out_wav):.1f}s)", flush=True)
     return out_wav, shots
@@ -544,11 +530,14 @@ def assemble_all_chapters(project_dir):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("project", help="Path to project e.g. D:/project/a045")
+    parser.add_argument("project", nargs="?", help="Project directory (or CINEMATIC_PROJECT_DIR)")
     parser.add_argument("--babak", type=int, help="Render single babak (1-5)")
     args = parser.parse_args()
+    _proj = args.project or os.environ.get("CINEMATIC_PROJECT_DIR")
+    if not _proj:
+        parser.error("project directory required (arg or CINEMATIC_PROJECT_DIR)")
 
     if args.babak:
-        render_babak_video(args.project, args.babak)
+        render_babak_video(_proj, args.babak)
     else:
-        assemble_all_chapters(args.project)
+        assemble_all_chapters(_proj)

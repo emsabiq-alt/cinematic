@@ -1,0 +1,13 @@
+# Cinematic pipeline — Python dependencies
+# Install:  python -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
+# System:   ffmpeg must be installed (apt install ffmpeg / brew install ffmpeg)
+
+supertonic>=0.1.0
+soundfile>=0.12
+numpy>=1.26
+faster-whisper>=1.0.0
+av>=19            # >=14 needs whisper_compat (auto-applied by whisper_aligner)
+Pillow>=10.0
+opencv-python>=4.8
+websocket-client>=1.7
+requests>=2.31
