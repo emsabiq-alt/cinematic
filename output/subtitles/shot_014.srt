@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,360
+gibran mendaftarkan diri di management
+
+2
+00:00:02,360 --> 00:00:04,770
+development institute of singapore
+
+3
+00:00:05,000 --> 00:00:07,540
+salah satu institusi pendidikan tinggi swasta
+
+4
+00:00:07,540 --> 00:00:10,390
+tertua dan terbesar di negeri singa

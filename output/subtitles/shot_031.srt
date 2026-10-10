@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,800
+mahasiswa yang berhasil menyelesaikan seluruh
+
+2
+00:00:02,800 --> 00:00:04,860
+beban kredit mata kuliah tidak
+
+3
+00:00:04,860 --> 00:00:07,680
+menerima ijazah lokal dari mdis
+
+4
+00:00:07,680 --> 00:00:11,270
+melainkan ijazah resmi dari university of bradford

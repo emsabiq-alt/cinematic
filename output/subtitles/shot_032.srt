@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,360
+dokumen kelulusan tersebut mencantumkan gelar bachelor
+
+2
+00:00:03,360 --> 00:00:05,220
+of science with second class
+
+3
+00:00:05,220 --> 00:00:07,650
+honours second division in marketing

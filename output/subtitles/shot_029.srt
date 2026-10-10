@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:04,360
+dalam mekanisme ini seluruh silabus materi perkuliahan
+
+2
+00:00:04,360 --> 00:00:05,690
+bank soal ujian
+
+3
+00:00:05,780 --> 00:00:08,560
+dan kriteria penilaian diselaraskan penuh dengan
+
+4
+00:00:08,560 --> 00:00:11,130
+standar perguruan tinggi di inggris

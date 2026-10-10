@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,940
+program ini menerbitkan sertifikat pencapaian
+
+2
+00:00:02,940 --> 00:00:05,370
+akademis dan diploma persiapan
+
+3
+00:00:05,540 --> 00:00:07,440
+yang berfungsi sebagai tiket transfer
+
+4
+00:00:07,440 --> 00:00:10,630
+kredit menuju jenjang perkuliahan berikutnya

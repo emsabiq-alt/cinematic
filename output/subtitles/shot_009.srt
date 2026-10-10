@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,250
+setelah menyelesaikan masa studi di singapura
+
+2
+00:00:03,500 --> 00:00:05,560
+arah pendidikannya beralih ribuan kilometer
+
+3
+00:00:05,560 --> 00:00:08,150
+ke selatan menuju benua australia

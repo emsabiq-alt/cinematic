@@ -1,0 +1,46 @@
+{
+  "id": "a057",
+  "title": "KONTROVERSI IJAZAH GIBRAN: INVESTIGASI FORENSIK DOKUMEN DAN SISTEM PENDIDIKAN",
+  "job_id": "vf_20261009_205000_ijazah_gibran",
+  "duration": "15-20 min",
+  "pacing": "3-5s",
+  "voice": "M2 (Supertonic Pria Ngebass 91.9 Hz)",
+  "mode": "step",
+  "output": "Local 4-Worker Only",
+  "status": "completed",
+  "project_dir": "D:/project/a057",
+  "created_at": "2026-10-09 20:50:00",
+  "pipeline": [
+    {
+      "key": "outline",
+      "label": "Documentary Outline",
+      "status": "completed"
+    },
+    {
+      "key": "script",
+      "label": "Voiceover Script",
+      "status": "completed"
+    },
+    {
+      "key": "storyboard",
+      "label": "Storyboard",
+      "status": "completed"
+    },
+    {
+      "key": "assets",
+      "label": "Visual Assets",
+      "status": "completed"
+    },
+    {
+      "key": "tts",
+      "label": "TTS + Subtitle",
+      "status": "completed"
+    },
+    {
+      "key": "render",
+      "label": "Local Render Engine",
+      "status": "completed"
+    }
+  ],
+  "active_stage": "completed"
+}

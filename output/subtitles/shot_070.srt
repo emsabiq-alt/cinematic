@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,609
+fenomena ini memperlihatkan cara kerja
+
+2
+00:00:02,609 --> 00:00:05,118
+bias konfirmasi di ruang digital
+
+3
+00:00:05,118 --> 00:00:08,631
+di mana masyarakat cenderung menolak bukti autentik
+
+4
+00:00:08,631 --> 00:00:11,792
+yang bertentangan dengan preferensi politik mereka

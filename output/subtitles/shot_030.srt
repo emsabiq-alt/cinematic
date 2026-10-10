@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,300
+dosen pengajar di singapura wajib mengikuti pedoman
+
+2
+00:00:03,300 --> 00:00:06,320
+akademis ketat yang diaudit secara berkala oleh
+
+3
+00:00:06,320 --> 00:00:09,510
+tim penjamin mutu dari university of bradford

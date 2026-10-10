@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,030
+di kampus mdis
+
+2
+00:00:02,080 --> 00:00:04,560
+gibran menempuh program studi pemasaran yang
+
+3
+00:00:04,560 --> 00:00:07,800
+diselenggarakan melalui kerjasama resmi dengan university
+
+4
+00:00:07,800 --> 00:00:10,690
+of bradford asal britania raya

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,840
+lembaga ini dikenal luas sebagai penyedia
+
+2
+00:00:02,840 --> 00:00:06,840
+program pendidikan internasional yang menyelenggarakan perkuliahan
+
+3
+00:00:06,840 --> 00:00:09,740
+melalui kemitraan dengan universitas ternama
+
+4
+00:00:09,740 --> 00:00:12,190
+asal inggris dan amerika serikat

@@ -1,0 +1,72 @@
+{
+  "method": "Antigravity ag/gemini-3.1-flash-image via 9router (Centered Bebas Neue & Forensic Chiaroscuro)",
+  "titles": [
+    "BONGKAR IJAZAH GIBRAN: FAKTA FORENSIK DOKUMEN ASLI",
+    "IJAZAH GIBRAN DIGUGAT: APA ISI DOKUMEN BRADFORD?",
+    "MISTERI IJAZAH GIBRAN: DARI SYDNEY KE BRADFORD"
+  ],
+  "hooks": [
+    "IJAZAH ASLI DIBONGKAR",
+    "FAKTA DOKUMEN BRADFORD",
+    "SKEMA GELAR DIUJI"
+  ],
+  "thumbnails": [
+    {
+      "variant": "A/B 1",
+      "hook": "IJAZAH ASLI DIBONGKAR",
+      "title": "BONGKAR IJAZAH GIBRAN: FAKTA FORENSIK DOKUMEN ASLI",
+      "path": "D:/project/a057/export/thumbnail_flow/thumbnail_FLOW_AB_1.png",
+      "prompt": "Edge-to-edge panoramic 16:9 cinematic shot, completely filling the entire widescreen canvas from corner to corner with zero margins and zero border.\n\nVisual style: dark historical documentary aesthetic, monochromatic warm sepia tone, rich charcoal-black ink shadows (#0A0705), glowing amber lava rim highlights (#FF8C00), and warm ivory highlights (#EBD8B1), fine 19th-century intaglio linework texture applied directly to the environment.\nFraming: full-frame 16:9 camera view. The sky and landscape extend all the way to the top and side borders, the ground extends to the bottom border.\n\nAt the bottom center of the composition, place one monumental cinematic documentary headline reading exactly:\n\"FAKTA DOKUMEN ASLI\"\nTypography specifications: render the headline specifically in the visual letterform style of GRENZE GOTISCH BLACK (the Google Fonts blackletter display family), NOT merely a generic font labelled Gothic. Massive uppercase Gothic Revival blackletter display lettering inspired by pointed cathedral arches, medieval carved-stone capitals, and Victorian Gothic title engravings. Thick wide letterforms with strong readable proportions, unmistakably angular crowns, clustered vertical stems, sharp chiseled medieval terminals, subtle decorative spurs, and restrained cathedral-window tracery and engraved filigree patterns carved INSIDE the main strokes of each letter. The ornament must visibly belong to the letterforms themselves, not become a border around the text. Cinematic and colossal, like the title of a historical disaster epic.\nRender the headline in warm weathered ivory (#F4E7C8) with subtle antique-gold engraved highlights (#C69A52), deep charcoal-black dimensional outline, restrained inner shadow, and a faint amber rim glow. Use at most two centered lines, large mobile-readable characters, generous tracking, balanced kerning, and perfectly accurate spelling. Position the complete text block higher within the lower third: its lowest decorative serif, shadow, and flourish must remain at least 9% of the canvas height above the bottom edge, with at least 7% clear space from the left and right edges. No part of any letter may enter this bottom safe zone.\nAbsolute typography constraints: NOT Bebas Neue, not condensed sans-serif, not modern geometric sans-serif, not plain block font, not minimalist typography, NOT Western saloon lettering, NOT circus poster lettering, NOT Roman monumental capitals, NOT slab-serif, not thin blackletter, not illegible calligraphy. The silhouette must unmistakably read as Gothic Revival display lettering: angular pointed crowns, chiseled medieval terminals, clustered vertical strokes, and visible engraved tracery inside the thick letter bodies. No excessive swashes crossing other letters, no separate ornamental frame, no curved baseline, no warped text, no extra words.\n\nAbsolute negative constraints: no picture frame, no decorative border, no outer paper margins, no white border, no matting, no passe-partout, no vignette border, not an illustration inside a page, not a book plate, pure full-bleed image filling 100% of the frame, no text other than the headline, no watermark.",
+      "model": "ag/gemini-3.1-flash-image"
+    },
+    {
+      "variant": "A/B 2",
+      "hook": "FAKTA DOKUMEN BRADFORD",
+      "title": "IJAZAH GIBRAN DIGUGAT: APA ISI DOKUMEN BRADFORD?",
+      "path": "D:/project/a057/export/thumbnail_flow/thumbnail_FLOW_AB_2.png",
+      "prompt": "Edge-to-edge panoramic 16:9 cinematic shot, completely filling the entire widescreen canvas from corner to corner with zero margins and zero border.\n\nVisual style: dark historical documentary aesthetic, monochromatic warm sepia tone, rich charcoal-black ink shadows (#0A0705), glowing amber lava rim highlights (#FF8C00), and warm ivory highlights (#EBD8B1), fine 19th-century intaglio linework texture applied directly to the environment.\nFraming: full-frame 16:9 camera view. The sky and landscape extend all the way to the top and side borders, the ground extends to the bottom border.\n\nAt the bottom center of the composition, place one monumental cinematic documentary headline reading exactly:\n\"DARI SYDNEY KE BRADFORD\"\nTypography specifications: render the headline specifically in the visual letterform style of GRENZE GOTISCH BLACK (the Google Fonts blackletter display family), NOT merely a generic font labelled Gothic. Massive uppercase Gothic Revival blackletter display lettering inspired by pointed cathedral arches, medieval carved-stone capitals, and Victorian Gothic title engravings. Thick wide letterforms with strong readable proportions, unmistakably angular crowns, clustered vertical stems, sharp chiseled medieval terminals, subtle decorative spurs, and restrained cathedral-window tracery and engraved filigree patterns carved INSIDE the main strokes of each letter. The ornament must visibly belong to the letterforms themselves, not become a border around the text. Cinematic and colossal, like the title of a historical disaster epic.\nRender the headline in warm weathered ivory (#F4E7C8) with subtle antique-gold engraved highlights (#C69A52), deep charcoal-black dimensional outline, restrained inner shadow, and a faint amber rim glow. Use at most two centered lines, large mobile-readable characters, generous tracking, balanced kerning, and perfectly accurate spelling. Position the complete text block higher within the lower third: its lowest decorative serif, shadow, and flourish must remain at least 9% of the canvas height above the bottom edge, with at least 7% clear space from the left and right edges. No part of any letter may enter this bottom safe zone.\nAbsolute typography constraints: NOT Bebas Neue, not condensed sans-serif, not modern geometric sans-serif, not plain block font, not minimalist typography, NOT Western saloon lettering, NOT circus poster lettering, NOT Roman monumental capitals, NOT slab-serif, not thin blackletter, not illegible calligraphy. The silhouette must unmistakably read as Gothic Revival display lettering: angular pointed crowns, chiseled medieval terminals, clustered vertical strokes, and visible engraved tracery inside the thick letter bodies. No excessive swashes crossing other letters, no separate ornamental frame, no curved baseline, no warped text, no extra words.\n\nAbsolute negative constraints: no picture frame, no decorative border, no outer paper margins, no white border, no matting, no passe-partout, no vignette border, not an illustration inside a page, not a book plate, pure full-bleed image filling 100% of the frame, no text other than the headline, no watermark.",
+      "model": "ag/gemini-3.1-flash-image"
+    },
+    {
+      "variant": "A/B 3",
+      "hook": "SKEMA GELAR DIUJI",
+      "title": "MISTERI IJAZAH GIBRAN: DARI SYDNEY KE BRADFORD",
+      "path": "D:/project/a057/export/thumbnail_flow/thumbnail_FLOW_AB_3.png",
+      "prompt": "Edge-to-edge panoramic 16:9 cinematic shot, completely filling the entire widescreen canvas from corner to corner with zero margins and zero border.\n\nVisual style: dark historical documentary aesthetic, monochromatic warm sepia tone, rich charcoal-black ink shadows (#0A0705), glowing amber lava rim highlights (#FF8C00), and warm ivory highlights (#EBD8B1), fine 19th-century intaglio linework texture applied directly to the environment.\nFraming: full-frame 16:9 camera view. The sky and landscape extend all the way to the top and side borders, the ground extends to the bottom border.\n\nAt the bottom center of the composition, place one monumental cinematic documentary headline reading exactly:\n\"SKEMA PATHWAY DIBONGKAR\"\nTypography specifications: render the headline specifically in the visual letterform style of GRENZE GOTISCH BLACK (the Google Fonts blackletter display family), NOT merely a generic font labelled Gothic. Massive uppercase Gothic Revival blackletter display lettering inspired by pointed cathedral arches, medieval carved-stone capitals, and Victorian Gothic title engravings. Thick wide letterforms with strong readable proportions, unmistakably angular crowns, clustered vertical stems, sharp chiseled medieval terminals, subtle decorative spurs, and restrained cathedral-window tracery and engraved filigree patterns carved INSIDE the main strokes of each letter. The ornament must visibly belong to the letterforms themselves, not become a border around the text. Cinematic and colossal, like the title of a historical disaster epic.\nRender the headline in warm weathered ivory (#F4E7C8) with subtle antique-gold engraved highlights (#C69A52), deep charcoal-black dimensional outline, restrained inner shadow, and a faint amber rim glow. Use at most two centered lines, large mobile-readable characters, generous tracking, balanced kerning, and perfectly accurate spelling. Position the complete text block higher within the lower third: its lowest decorative serif, shadow, and flourish must remain at least 9% of the canvas height above the bottom edge, with at least 7% clear space from the left and right edges. No part of any letter may enter this bottom safe zone.\nAbsolute typography constraints: NOT Bebas Neue, not condensed sans-serif, not modern geometric sans-serif, not plain block font, not minimalist typography, NOT Western saloon lettering, NOT circus poster lettering, NOT Roman monumental capitals, NOT slab-serif, not thin blackletter, not illegible calligraphy. The silhouette must unmistakably read as Gothic Revival display lettering: angular pointed crowns, chiseled medieval terminals, clustered vertical strokes, and visible engraved tracery inside the thick letter bodies. No excessive swashes crossing other letters, no separate ornamental frame, no curved baseline, no warped text, no extra words.\n\nAbsolute negative constraints: no picture frame, no decorative border, no outer paper margins, no white border, no matting, no passe-partout, no vignette border, not an illustration inside a page, not a book plate, pure full-bleed image filling 100% of the frame, no text other than the headline, no watermark.",
+      "model": "ag/gemini-3.1-flash-image"
+    }
+  ],
+  "description": "CHAPTERS\n00:00 PROLOG & BABAK I — DARI SYDNEY HINGGA SINGAPURA: KRONOLOGI AWAL JEJAK AKADEMIK\n03:35 BABAK II — ANATOMI PATHWAY DAN SKEMA DIPLOMA: BAGAIMANA SISTEM PENDIDIKAN ASING BEKERJA\n07:03 BABAK III — AUDIT DOKUMEN DAN PENYETARAAN RESMI: DI BALIK SURAT KEPUTUSAN KEMENTERIAN\n10:43 BABAK IV — ANATOMI NARASI DI RUANG PUBLIK: VIRALITAS, PERANG DOKUMEN, DAN GUGATAN HUKUM\n14:03 BABAK V — REFLEKSI KREDIBILITAS DAN AKUNTABILITAS PUBLIK: STANDAR HUKUM PEMIMPIN NEGARA\n17:45 PENUTUP & KESIMPULAN\n\nCREDIT MUSIK\n- Crypto by Kevin MacLeod (incompetech.com), CC BY 4.0\n  Licensed under Creative Commons: By Attribution 4.0 License\n  http://creativecommons.org/licenses/by/4.0/\n- Lightless Dawn by Kevin MacLeod (incompetech.com), CC BY 4.0\n  Licensed under Creative Commons: By Attribution 4.0 License\n  http://creativecommons.org/licenses/by/4.0/\n\nCREDIT PRODUKSI\nProduction: Banyak Tau Studio\nVoice Over: Supertonic v3 (M2 (Supertonic Pria Ngebass 91.9 Hz))\nVisual Architecture: 19th-century archival sepia intaglio copperplate etching (Project 404 Style)\nMaster Film: 1920x1080 30fps Full-Bleed Borderless",
+  "chapters": [
+    {
+      "time": "00:00",
+      "title": "PROLOG & BABAK I — DARI SYDNEY HINGGA SINGAPURA: KRONOLOGI AWAL JEJAK AKADEMIK"
+    },
+    {
+      "time": "03:35",
+      "title": "BABAK II — ANATOMI PATHWAY DAN SKEMA DIPLOMA: BAGAIMANA SISTEM PENDIDIKAN ASING BEKERJA"
+    },
+    {
+      "time": "07:03",
+      "title": "BABAK III — AUDIT DOKUMEN DAN PENYETARAAN RESMI: DI BALIK SURAT KEPUTUSAN KEMENTERIAN"
+    },
+    {
+      "time": "10:43",
+      "title": "BABAK IV — ANATOMI NARASI DI RUANG PUBLIK: VIRALITAS, PERANG DOKUMEN, DAN GUGATAN HUKUM"
+    },
+    {
+      "time": "14:03",
+      "title": "BABAK V — REFLEKSI KREDIBILITAS DAN AKUNTABILITAS PUBLIK: STANDAR HUKUM PEMIMPIN NEGARA"
+    },
+    {
+      "time": "17:45",
+      "title": "PENUTUP & KESIMPULAN"
+    }
+  ],
+  "music_credit": [
+    "Crypto by Kevin MacLeod (incompetech.com), CC BY 4.0",
+    "Lightless Dawn by Kevin MacLeod (incompetech.com), CC BY 4.0"
+  ],
+  "metadata_path": "D:/project/a057/export/thumbnail_flow/thumbnail_flow_pack.json",
+  "updated_at": "2026-10-10 00:45:03"
+}

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,590
+di kota sydney
+
+2
+00:00:01,700 --> 00:00:04,700
+ia mendaftarkan diri pada program persiapan akademik
+
+3
+00:00:04,700 --> 00:00:07,990
+di university of technology sydney insearch

@@ -1,0 +1,51 @@
+# ==========================================
+# GITIGNORE — KONTROVERSI IJAZAH GIBRAN (a057)
+# ==========================================
+
+# Exclude all heavy video and audio rendering outputs
+*.mp4
+*.m4v
+*.mov
+*.avi
+*.mkv
+*.wav
+
+# Exclude generated scene photos & raster thumbnail images (as requested: "file mp4 dan foto nya gausah")
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# Retain fonts
+!assets/fonts/*.ttf
+
+# Retain directory structure
+!**/.gitkeep
+
+# Exclude runtime temporary folders and render caches
+export/*.mp4
+export/temp_assembly/
+export/thumbnail_flow/*.png
+export/thumbnail_new_model/*.png
+output/flow_images/*.png
+output/audio_supertonic/*.wav
+output/audio_babak/*.wav
+output/bridges_p404/*.mp4
+output/outro/*.mp4
+*.log
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

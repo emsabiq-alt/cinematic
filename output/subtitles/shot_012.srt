@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,770
+di kampus insearch
+
+2
+00:00:01,960 --> 00:00:04,160
+fokus utama pembelajaran diarahkan pada
+
+3
+00:00:04,160 --> 00:00:08,220
+penguatan kompetensi komunikasi bisnis literasi akademis
+
+4
+00:00:08,220 --> 00:00:10,550
+dan dasar-dasar studi ekonomi
