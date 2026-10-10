@@ -1,0 +1,726 @@
+{
+  "style": "Cinematic 35mm Volcanic Documentary — Ember & Basalt",
+  "description": "Full-color 35mm cinematic volcanic documentary style for Supervolcano Eropa. Ember-orange lava glow against basalt-black rock, drifting volcanic ash, dramatic chiaroscuro falloff into deep shadow, volumetric god-rays through smoke and steam, subtle 35mm film grain. Aerial caldera vistas, close-up fumaroles, Naples beneath the caldera, underwater Kolumbo vents, misty Laacher See, scientists at observatories. 0% frame, 0% collage, 0% text, 0% watermark.",
+  "shots": [
+    {
+      "id": "shot_001",
+      "chapter": 1,
+      "narration": "Bayangkan sebuah gunung berapi raksasa yang tidak meninggalkan kerucut megah, melainkan runtuh ke dalam dan membentuk cekungan raksasa yang mampu menampung seluruh kota metropolitan modern beserta jutaan penduduknya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide establishing shot of an immense volcanic caldera basin at dusk, layered basalt ridges fading into drifting ash haze, a tiny village with glowing windows dwarfed on the caldera floor. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "chapter": 1,
+      "narration": "Cekungan raksasa itu disebut kaldera, dan ketika diameternya melampaui puluhan kilometer, para ilmuwan menggolongkan sumber letusannya sebagai supervolcano, sebuah julukan bagi raksasa tidur yang paling ditakuti dalam dunia geologi modern.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial top-down view of nested caldera rings and dark crater lakes, black basalt textures split by glowing ember-orange fissures. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_003",
+      "chapter": 1,
+      "narration": "Para vulkanolog mengukur kekuatan letusan dengan indeks letusan vulkanik, sebuah skala dari nol hingga delapan, di mana setiap kenaikan angka berarti kekuatan letusan yang berlipat ganda secara eksponensial.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a volcanologist's weathered hand placing a volcanic rock sample beside a vintage brass seismograph, ink needles tracing tremors on paper. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_004",
+      "chapter": 1,
+      "narration": "Letusan skala tujuh mampu menyemburkan ratusan kilometer kubik material vulkanik dan mengubah iklim global, sementara skala delapan hanya terjadi beberapa kali sepanjang sejarah umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a colossal night eruption column punching through storm clouds, volcanic lightning flickering inside the ash plume above a glowing crater. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_005",
+      "chapter": 1,
+      "narration": "Kebanyakan orang membayangkan supervolcano berada di tempat yang jauh seperti Yellowstone di Amerika atau Danau Toba di Indonesia yang meletus puluhan ribu tahun silam, kekuatan yang sanggup mengubah iklim seluruh planet.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot gliding over a vast Yellowstone-like supervolcano plain, steaming geysers and mineral hot springs scattered across an endless caldera. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_006",
+      "chapter": 1,
+      "narration": "Namun fakta yang jarang disadari publik adalah bahwa benua Eropa ternyata menyimpan tiga sistem vulkanik raksasa yang hingga hari ini masih menunjukkan tanda-tanda kehidupan yang jelas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sweeping aerial over the Bay of Naples at golden hour, the sprawling Campi Flegrei lowlands stretching west beneath drifting clouds. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_007",
+      "chapter": 1,
+      "narration": "Ketiganya tidak berada di pulau terpencil, melainkan tepat di bawah kota besar, jalur pelayaran tersibuk, dan kawasan padat penduduk di jantung Eropa modern, dan para ilmuwan terus mempelajarinya hingga kini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a bustling southern European coastal city at the foot of dark volcanic hills, church domes and laundry lines in warm evening light. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_008",
+      "chapter": 1,
+      "narration": "Yang pertama bersembunyi di bawah Teluk Napoli Italia, tempat setengah juta manusia menjalani hidup setiap hari tepat di atas dapur magma yang sangat raksasa, sebuah pengingat akan dahsyatnya kekuatan alam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the Bay of Naples at blue hour, city lights igniting across the Campi Flegrei caldera floor toward the sea. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_009",
+      "chapter": 1,
+      "narration": "Yang kedua mengintai dari kedalaman Laut Aegea Yunani, sebuah gunung bawah laut yang air kawahnya cukup asam untuk melarutkan logam kapal, sebuah lingkungan ekstrem yang langka di dunia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro underwater shot of a volcanic vent on the seafloor, acidic yellow-green water shimmering with heat, sulfur-encrusted mineral chimneys. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_010",
+      "chapter": 1,
+      "narration": "Yang ketiga tertidur dengan tenang di Jerman barat sebagai danau biru yang indah, padahal ia pernah menutupi separuh benua Eropa dengan abu vulkanik, menjadikannya pelajaran penting bagi umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a mirror-still crater lake at dawn, mist curling over dark water, pine forests climbing the ancient crater rim. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_011",
+      "chapter": 1,
+      "narration": "Film ini akan membawa Anda menelusuri ketiga raksasa tidur itu, dari kegelisahan vulkanik Napoli hingga misteri bawah laut Santorini dan danau sunyi Jerman, sebuah warisan geologi yang masih terus diteliti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a lone researcher silhouetted on a volcanic ridge at sunset, notebook in hand, a distant ash plume glowing on the horizon. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "chapter": 1,
+      "narration": "Kita akan bertemu para ilmuwan yang memantau setiap desah napas mereka dengan seismometer, satelit, dan sensor gas selama dua puluh empat jam penuh tanpa jeda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a scientist's gloved hands calibrating a seismometer on cracked volcanic rock, a red status light blinking beside a coiled cable. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_013",
+      "chapter": 1,
+      "narration": "Kita juga akan memahami mengapa para ahli tetap bersikap tenang, meski tanah di Italia terus terangkat dan ribuan gempa mengguncang Yunani dalam beberapa pekan, dan temuan ini terus dikaji hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a sunlit Pozzuoli street with visibly tilted historic buildings propped by wooden beams, residents walking past cracked facades. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_014",
+      "chapter": 1,
+      "narration": "Karena memahami supervolcano bukan soal menebar ketakutan di masyarakat, melainkan soal membaca bahasa bumi dengan jujur dan bersiap dengan cerdas sejak dini secara sistematis dan terukur.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a volcanologist kneeling to press an ear against the warm ground beside a steaming fumarole, listening intently. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_015",
+      "chapter": 1,
+      "narration": "Setiap angka dan fakta dalam film ini berasal dari lembaga resmi seperti INGV Italia, observatorium Athena, dan pusat riset geosains terkemuka di Jerman, sebuah fakta yang mengubah cara kita memandang planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a monitoring station wall covered with glowing seismograph drums and blinking instruments, a scientist's silhouette watching the traces. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_016",
+      "chapter": 1,
+      "narration": "Tidak ada ramalan kiamat di sini, hanya sains yang apa adanya tentang kekuatan geologi terbesar yang pernah dibentuk oleh planet kita tercinta, menjadikannya salah satu yang paling ekstrem di Eropa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a serene volcanic valley in soft morning light, wildflowers blooming over black lava fields, utterly peaceful. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_017",
+      "chapter": 1,
+      "narration": "Sebab ketika raksasa-raksasa ini terbangun di masa lalu, mereka pernah menulis ulang jalannya sejarah peradaban manusia hanya dalam hitungan hari yang singkat menurut catatan para peneliti yang mempelajarinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of ancient stone ruins half-buried in layered volcanic ash deposits, dramatic side light revealing the strata. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_018",
+      "chapter": 1,
+      "narration": "Mari kita mulai perjalanan panjang ini dari Italia selatan, tempat sebuah kaldera raksasa bernapas dengan gelisah tepat di bawah kaki setengah juta jiwa yang tidak menyadarinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot approaching Naples from the sea at sunrise, the Campi Flegrei lowlands glowing amber beneath scattered clouds. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_019",
+      "chapter": 2,
+      "narration": "Di sebelah barat kota Napoli yang ramai terbentang Campi Flegrei, yang berarti ladang yang terbakar, sebuah kaldera bersarang tempat kawah raksasa bertumpuk dari puluhan letusan purba.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the vast Campi Flegrei caldera lowlands west of Naples, a patchwork of towns, fields and steaming crater lakes. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_020",
+      "chapter": 2,
+      "narration": "Sistem ini tidak memiliki satu puncak pun, melainkan hamparan kawah, danau kawah, dan bukit vulkanik yang tersebar luas di sebuah kawasan metropolitan yang padat penduduk.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot inside the Solfatara crater, white fumaroles jetting steam across a barren sulfur-stained plain, tiny figures at a safe distance. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_021",
+      "chapter": 2,
+      "narration": "Catatan geologi menunjukkan lebih dari tujuh puluh letusan telah terjadi di sini dalam lima belas ribu tahun terakhir, sebuah frekuensi yang luar biasa tinggi, dan para ilmuwan terus mempelajarinya hingga kini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a cliff face revealing layered ash and pumice deposits, a geologist's hammer resting against the strata for scale. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "chapter": 2,
+      "narration": "Letusan terbesarnya terjadi sekitar tiga puluh sembilan ribu tahun lalu, dikenal sebagai Campanian Ignimbrite, dengan kekuatan yang mencapai skala tujuh yang dahsyat, sebuah pengingat akan dahsyatnya kekuatan alam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of colossal ancient pyroclastic surge deposits frozen as rolling ignimbrite hills, wind-sculpted tuff formations at golden hour. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_023",
+      "chapter": 2,
+      "narration": "Namun para ilmuwan menegaskan satu hal yang penting, kegelisahan yang meningkat ini bukan berarti letusan besar pasti akan terjadi dalam waktu yang dekat atau dapat diprediksi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of two scientists studying live monitoring feeds in a dark observatory control room, faces lit by the glow of screens. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_024",
+      "chapter": 2,
+      "narration": "Di balik layar, Institut Geofisika dan Vulkanologi Nasional Italia memantau setiap denyut kaldera raksasa ini selama dua puluh empat jam penuh tanpa henti, menjadikannya pelajaran penting bagi umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of INGV seismograph drums recording live tremors, ink needles dancing across paper, a wall clock marking the late hour. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_025",
+      "chapter": 2,
+      "narration": "Letusan terakhir Campi Flegrei terjadi jauh lebih baru, pada tahun seribu lima ratus tiga puluh delapan, dan melahirkan sebuah bukit baru bernama Monte Nuovo, sebuah warisan geologi yang masih terus diteliti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of the Monte Nuovo cinder cone rising from flat farmland, vineyards climbing its dark slopes under a brooding sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_026",
+      "chapter": 2,
+      "narration": "Sejak saat itu raksasa ini tertidur, namun tidurnya tidak pernah benar-benar nyenyak, karena tanah di atasnya terus bergerak naik dan turun dengan perlahan yang memengaruhi fondasi bangunan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a fumarole venting thick steam at dawn, backlit by the rising sun, sulfur crystals glittering around its rim. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_027",
+      "chapter": 2,
+      "narration": "Fenomena itu disebut bradyseism, yaitu pergerakan tanah yang sangat perlahan akibat desakan fluida dan magma jauh di bawah permukaan kaldera yang gelisah, dan temuan ini terus dikaji hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot of cracked volcanic earth with heat shimmer rising from a fissure, a brass survey marker half-buried at its edge. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_028",
+      "chapter": 2,
+      "narration": "Sejak tahun dua ribu lima, permukaan tanah di kota Pozzuoli telah terangkat antara seratus empat puluh lima hingga seratus enam puluh tujuh sentimeter secara bertahap.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of Pozzuoli harbor where ancient Roman columns emerge from the sea as the ground has risen, fishing boats bobbing nearby. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_029",
+      "chapter": 2,
+      "narration": "Kenaikan tanah setinggi badan orang dewasa itu telah memiringkan banyak bangunan, meretakkan jalan-jalan, dan memaksa ribuan warga mengungsi dari rumah mereka yang rusak, sebuah fakta yang mengubah cara kita memandang planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a tilted historic doorway in Pozzuoli, deep cracks splitting the plaster, sandbags stacked against the frame. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_030",
+      "chapter": 2,
+      "narration": "Kegelisahan itu disertai gempa bumi yang semakin kuat, termasuk gempa bermagnitudo empat koma empat yang mengguncang wilayah ini pada Mei dua ribu dua puluh empat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of residents carrying bags down a narrow Pozzuoli street at dusk, civil protection volunteers guiding them past glowing headlights. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_031",
+      "chapter": 2,
+      "narration": "Setahun kemudian, tepatnya pada Juni dua ribu dua puluh lima, gempa bermagnitudo empat koma enam kembali mengguncang dan merusak sejumlah bangunan tua di kawasan itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a centuries-old stone building wrapped in scaffolding and safety nets after an earthquake, dust hanging in the air. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "chapter": 2,
+      "narration": "Puncaknya terjadi pada tiga puluh satu Juli dua ribu dua puluh enam, sebuah gempa bermagnitudo empat koma tujuh, yang terkuat yang pernah tercatat oleh alat pengukur.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Extreme close-up of a seismograph needle spiking violently across paper, a scientist's hand steadying the drum behind it. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_033",
+      "chapter": 2,
+      "narration": "Sejak tahun dua ribu dua belas, otoritas Italia menetapkan status siaga kuning untuk Campi Flegrei, yaitu sebuah tanda kewaspadaan resmi pada tingkat kedua dari empat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a yellow warning beacon rotating atop a volcanic monitoring station, antennas silhouetted against a stormy sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_034",
+      "chapter": 2,
+      "narration": "Di kawah Solfatara, fumarol menyemburkan gas belerang tanpa henti, dan analisis kimia menunjukkan sinyal gas berasal dari magma yang berada lebih dari enam kilometer di bawah permukaan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a roaring Solfatara fumarole, yellow sulfur deposits encrusting the vent, superheated steam blasting skyward. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_035",
+      "chapter": 2,
+      "narration": "Yang membuat situasi ini luar biasa serius adalah jumlah manusia yang hidup di atasnya, sekitar lima ratus ribu jiwa tinggal tepat di dalam batas kaldera.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of dense Neapolitan neighborhoods sprawling across the caldera floor, rooftops and laundry lines stretching toward the sea. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_036",
+      "chapter": 2,
+      "narration": "Pemerintah menyiapkan rencana evakuasi empat ratus delapan puluh satu ribu orang dalam tujuh puluh dua jam, salah satu operasi sipil terbesar yang pernah dirancang di Eropa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a coastal highway filled with evacuation buses at dawn, headlights streaming toward the hills, Vesuvius on the horizon. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_037",
+      "chapter": 3,
+      "narration": "Dari Italia kita menyeberang menuju Laut Aegea, ke arah gugusan pulau Yunani yang kecantikannya menyimpan salah satu letusan terbesar dalam sejarah manusia yang pernah tercatat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of Santorini's crescent caldera, whitewashed villages clinging to towering cliffs above a deep blue lagoon. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_038",
+      "chapter": 3,
+      "narration": "Sekitar tahun seribu enam ratus tiga belas sebelum masehi, gunung Santorini meledak dengan kekuatan skala tujuh dan mengubah peta kawasan ini untuk selamanya, menjadikannya pelajaran penting bagi umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a cataclysmic Bronze Age eruption over the Aegean, a towering ash column with pumice raining onto ancient rooftops. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_039",
+      "chapter": 3,
+      "narration": "Sekitar enam puluh kilometer kubik material vulkanik dimuntahkan ke angkasa luas, sebanding dengan letusan Tambora tahun seribu delapan ratus lima belas di Indonesia, sebuah warisan geologi yang masih terus diteliti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of light pumice stones resting in an archaeologist's palm, the white cliffs of Santorini blurred behind. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_040",
+      "chapter": 3,
+      "narration": "Puncak gunung itu runtuh total dan membentuk kaldera selebar sebelas kali tujuh setengah kilometer, yang kini menjadi laguna biru memesona yang dikelilingi tebing putih yang terjal.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot gliding low over the Santorini lagoon, the vast caldera walls rising around, a cruise ship dwarfed below. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_041",
+      "chapter": 3,
+      "narration": "Banyak arkeolog meyakini bahwa bencana dahsyat inilah yang memicu kemunduran peradaban Minoa, salah satu kebudayaan tertua dan termaju di Eropa kuno, dan temuan ini terus dikaji hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of the buried Minoan town of Akrotiri, excavated streets and frescoed walls beneath a protective roof, ash layers exposed. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "chapter": 3,
+      "narration": "Namun bahaya terbesar bagi Santorini modern justru bersembunyi di bawah permukaan laut, tujuh kilometer di timur laut pulau utama, dan bernama Kolumbo yang menjadi perhatian serius para ahli.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the open Aegean where Kolumbo hides below, a research vessel trailing sonar equipment across deep blue water. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_043",
+      "chapter": 3,
+      "narration": "Kawah Kolumbo berada lima ratus meter di bawah permukaan laut, tempat airnya menjadi sangat asam dengan pH lima, mematikan bagi sebagian besar kehidupan laut, sebuah fakta yang mengubah cara kita memandang planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro underwater shot of Kolumbo's crater vent, acidic yellow-green water shimmering, white bacterial mats coating black rock. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_044",
+      "chapter": 3,
+      "narration": "Dari ventilasi hidrotermalnya menyembur gas panas bersuhu dua ratus dua puluh derajat celsius, yang sembilan puluh sembilan persennya adalah karbon dioksida murni, menjadikannya salah satu yang paling ekstrem di Eropa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a hydrothermal vent on the seafloor, streams of gas bubbles rising through dark water past sulfur chimneys. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_045",
+      "chapter": 3,
+      "narration": "Kolumbo pernah meletus pada tahun seribu enam ratus lima puluh, menewaskan sekitar tujuh puluh orang akibat awan gas beracun yang menyapu wilayah pesisir menurut catatan para peneliti yang mempelajarinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a seventeenth-century Aegean coastal village at dusk, a low toxic gas haze creeping over stone houses as fishermen flee. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_046",
+      "chapter": 3,
+      "narration": "Pada tahun dua ribu dua puluh dua, para ilmuwan menemukan dapur magma sedalam dua hingga empat kilometer di bawah dasar laut, bervolume sekitar satu koma empat kilometer kubik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of scientists aboard a research vessel studying sonar imagery of a hidden magma chamber, the Aegean horizon behind them. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_047",
+      "chapter": 3,
+      "narration": "Dapur magma itu terus terisi sekitar empat juta meter kubik magma segar setiap tahun, sebuah bukti kuat bahwa sistem vulkanik ini masih sangat hidup dan bertumbuh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Extreme macro of glowing molten rock textures, orange magma veins pulsing through dark basalt, heat distortion rippling. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_048",
+      "chapter": 3,
+      "narration": "Kegelisahan itu memuncak pada Januari dan Februari dua ribu dua puluh lima, ketika lebih dari dua puluh delapan ribu gempa mengguncang kawasan dalam hitungan pekan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a Santorini clifftop town at night during the earthquake swarm, streetlights swaying as residents gather in the square. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_049",
+      "chapter": 3,
+      "narration": "Intrusi magma sepanjang tiga belas kilometer merambat di bawah dasar laut, membawa nol koma tiga satu kilometer kubik magma, lalu berhenti tiga hingga lima kilometer di bawah permukaan tanpa meletus.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the sea surface above a thirteen-kilometer dike intrusion, subtle discoloration swirling in the deep water. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_050",
+      "chapter": 3,
+      "narration": "Sebuah studi tahun dua ribu dua puluh lima mengungkap fakta yang mengejutkan, Santorini dan Kolumbo terhubung secara hidraulik dalam satu sistem magma raksasa yang sama.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a scientist tracing a glowing magma pathway between two volcanic islands on a dark three-dimensional terrain model. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_051",
+      "chapter": 3,
+      "narration": "Keterhubungan itu berarti letusan bawah laut berpotensi memicu tsunami di Laut Aegea, sebuah ancaman serius yang kini masuk dalam peta bahaya resmi negara Yunani dan dipantau ketat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a massive tsunami wave rising over the Aegean horizon toward a coastal town, dark and ominous, seabirds scattering. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "chapter": 3,
+      "narration": "Observatorium Athena kini memantau kedua gunung ini dengan jaringan seismik bawah laut dan penginderaan satelit modern, siang dan malam tanpa jeda, menjadikannya pelajaran penting bagi umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of an underwater seismometer being lowered from a research vessel into the Aegean, cable spooling out over the rail. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_053",
+      "chapter": 3,
+      "narration": "Santorini mengajarkan bahwa keindahan dan bahaya sering lahir dari sumber yang sama, dan manusia hanya bisa memilih untuk selalu waspada menghadapinya, sebuah warisan geologi yang masih terus diteliti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a breathtaking Santorini sunset, the caldera glowing gold, sailboats drifting over the hidden volcanic depths. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_054",
+      "chapter": 3,
+      "narration": "Dari birunya Laut Aegea, perjalanan kita berlanjut jauh ke utara, menuju sebuah danau yang tenang di Jerman dan menyimpan rahasia kelam selama ribuan tahun yang terlupakan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot soaring above Alpine peaks at dawn, leaving the Mediterranean behind, heading north toward the green hills of Germany. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_055",
+      "chapter": 4,
+      "narration": "Di wilayah Eifel Jerman barat terhampar sebuah danau kawah berdiameter sekitar dua kilometer, bernama Laacher See, yang artinya adalah danau Laach, dan temuan ini terus dikaji hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of Laacher See crater lake at dawn, mirror-calm blue water and morning mist, the ancient abbey standing on the shore. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_056",
+      "chapter": 4,
+      "narration": "Airnya terlihat biru dan tenang dikelilingi hutan pinus, namun ketenangan itu menipu, karena danau ini adalah kawah gunung berapi yang masih aktif dan terus diawasi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of tall pine forest climbing the Laacher See crater rim, sunbeams cutting through mist, the lake glimpsed below. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_057",
+      "chapter": 4,
+      "narration": "Sekitar dua belas ribu sembilan ratus tahun yang lalu, gunung ini meletus dengan kekuatan skala enam dan mengubah wajah Eropa dalam sekejap mata, sebuah fakta yang mengubah cara kita memandang planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a prehistoric VEI 6 eruption over Ice Age Europe, a colossal ash column with lightning, forests flattening before the surge. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_058",
+      "chapter": 4,
+      "narration": "Sekitar dua puluh kilometer kubik material vulkanik dimuntahkan ke udara, dua ratus lima puluh kali lipat letusan Gunung St Helens tahun seribu sembilan ratus delapan puluh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a quarry wall exposing thick tephra layers from the Laacher See eruption, a geologist's hand brushing the distinct ash band. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_059",
+      "chapter": 4,
+      "narration": "Abu vulkaniknya terbang jauh hingga ke Swedia di utara dan Italia utara di selatan, dan jejaknya tercatat abadi dalam lapisan es serta endapan danau menurut catatan para peneliti yang mempelajarinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of a vast ash plume drifting over the European landscape, darkening skies above distant coastlines. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_060",
+      "chapter": 4,
+      "narration": "Letusan itu termasuk yang terbesar di Eropa dalam seratus ribu tahun terakhir, dan lapisan abunya kini menjadi penanda waktu yang penting bagi para arkeolog, sebuah titik balik besar dalam sejarah peradaban manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of archaeologists excavating a site where a dark volcanic ash layer marks a single moment twelve thousand years old. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_061",
+      "chapter": 4,
+      "narration": "Yang mengejutkan banyak orang, gunung ini ternyata belum mati, karena di pantai timurnya masih keluar semburan gas karbon dioksida yang disebut mofet hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a mofette on the lake's eastern shore, carbon dioxide bubbles streaming up through clear shallow water among fallen leaves. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_062",
+      "chapter": 4,
+      "narration": "Para ilmuwan juga merekam gempa frekuensi rendah yang berasal dari kedalaman bumi, sebuah tanda adanya migrasi fluida magmatik yang bergerak di bawah danau secara perlahan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a lone seismometer station deep in the Eifel forest, solar panel and antenna surrounded by moss-covered volcanic rocks. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_063",
+      "chapter": 4,
+      "narration": "Namun hingga kini belum terdeteksi adanya deformasi permukaan tanah, sehingga para ahli menilai belum ada pertanda letusan dalam waktu yang dekat, dan para ilmuwan terus mempelajarinya hingga kini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a GNSS monitoring antenna on a volcanic outcrop, its status light blinking, the calm lake stretching behind. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_064",
+      "chapter": 4,
+      "narration": "Meski begitu, para ilmuwan dari GFZ dan KIT mendesak dilakukannya penilaian ulang bahaya, karena gunung ini terlalu lama diabaikan dalam peta risiko, sebuah pengingat akan dahsyatnya kekuatan alam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of two geoscience researchers discussing beside a monitoring station, one holding a tablet glowing with waveform data. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_065",
+      "chapter": 4,
+      "narration": "Laacher See dijuluki sebagai gunung yang dilupakan, karena jutaan orang tinggal di sekitarnya tanpa menyadari sejarah kelam yang tersimpan di bawah kaki mereka selama ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a picturesque German town in the Eifel valley, half-timbered houses and church spires, the crater lake hidden beyond the hills. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_066",
+      "chapter": 4,
+      "narration": "Kawasan padat penduduk Rhein dan Ruhr berada dalam jangkauan sebaran abu jika ia meletus lagi, sebuah skenario mengerikan yang kini mulai disimulasikan, menjadikannya pelajaran penting bagi umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the Rhine valley's dense cities and industry, the dark Eifel volcanic hills brooding on the horizon. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_067",
+      "chapter": 4,
+      "narration": "Pusat riset Jerman kini memasang jaringan alat pemantau di sekitar danau untuk mengukur gas, gempa mikro, dan pergerakan tanah secara berkala dan terus menerus, sebuah warisan geologi yang masih terus diteliti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a gas sensor probe at a mofette vent, its display glowing softly as bubbles rise around the instrument. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_068",
+      "chapter": 4,
+      "narration": "Dibandingkan Campi Flegrei dan Kolumbo, Laacher See memang tampak paling tenang, namun ketenangan sebuah gunung vulkanik tidak pernah bisa diartikan sebagai kematiannya yang sesungguhnya sama sekali.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of Laacher See under a brooding sky, half the lake bathed in sunlight and half in shadow, a lone rowboat drifting. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_069",
+      "chapter": 4,
+      "narration": "Ia menjadi pengingat bahwa Eropa menyimpan bahaya geologi yang tidak terlihat, tepat di halaman belakang peradaban modern yang sibuk dan lengah, dan temuan ini terus dikaji hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a quiet Eifel village street at golden hour, a shopkeeper closing shutters, warm light on volcanic stone walls. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_070",
+      "chapter": 4,
+      "narration": "Para vulkanolog dengan jujur mengaku masih banyak hal yang belum mereka pahami tentang sistem ini, dan itulah mengapa penelitian terus didanai serta diperluas oleh pemerintah Jerman.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a volcanologist's field notebook beside sealed rock sample bags on a car hood, lake and forest soft in the background. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_071",
+      "chapter": 4,
+      "narration": "Tiga raksasa telah kita kenal satu per satu dengan saksama, dan kini saatnya merangkai pemahaman tentang apa sebenarnya arti hidup berdampingan dengan mereka, sebuah fakta yang mengubah cara kita memandang planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot pulling back from Laacher See to reveal the perfect crater circle, forests and villages spreading outward below. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_072",
+      "chapter": 4,
+      "narration": "Karena pertanyaan sebenarnya bukan sekadar apakah mereka akan terbangun suatu hari nanti, melainkan apakah umat manusia sudah cukup siap ketika saat itu tiba dengan segala konsekuensinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a storm gathering over the Eifel hills, dark clouds boiling above the crater lake, tension hanging in the air. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_073",
+      "chapter": 5,
+      "narration": "Secara ilmiah, supervolcano bukanlah gunung biasa, melainkan sebuah sistem kaldera raksasa yang mampu menghasilkan letusan berkekuatan skala tujuh hingga delapan menurut catatan para peneliti yang mempelajarinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a cracked volcanic crater rim at sunset, faintly glowing fissures emphasizing the sheer scale of a supervolcano system. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "narration": "Benua Eropa ternyata memiliki tiga sistem raksasa semacam itu, yaitu Campi Flegrei di Italia, Santorini Kolumbo di Yunani, dan Laacher See di Jerman yang semuanya masih aktif.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the Mediterranean coastline at night, the city lights of Naples, Athens and the Rhine valley glowing like embers in the dark. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_075",
+      "chapter": 5,
+      "narration": "Ketiganya kini diawasi ketat dengan teknologi pemantauan modern, mulai dari jaringan seismik, pengukuran satelit GNSS, sensor gas, hingga radar citra satelit yang bekerja tanpa henti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a satellite dish and GNSS antennas at a volcanic observatory at twilight, red warning lights blinking softly. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_076",
+      "chapter": 5,
+      "narration": "Data yang mengalir setiap detik itu menjadi fondasi sistem peringatan dini, memberi waktu yang berharga bagi otoritas untuk bertindak dengan cepat dan tepat sebelum krisis memburuk.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of live monitoring data streaming across dark observatory screens, waveforms dancing as a hand adjusts a dial. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_077",
+      "chapter": 5,
+      "narration": "Zona merah telah ditetapkan secara resmi, jalur evakuasi dilatih berulang kali, dan simulasi bencana digelar rutin agar warga tahu ke mana harus pergi saat bahaya datang.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a coastal town evacuation drill, residents walking calmly toward assembly points, emergency vehicles parked in formation. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_078",
+      "chapter": 5,
+      "narration": "Edukasi publik menjadi kunci yang utama, karena masyarakat yang memahami risiko akan lebih sedikit panik dan bertindak lebih cepat saat sirene berbunyi, sebuah pengingat akan dahsyatnya kekuatan alam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a Naples classroom where children watch their teacher beside a volcano model, sunlight streaming through tall windows. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_079",
+      "chapter": 5,
+      "narration": "Di Napoli, anak-anak sekolah kini belajar tentang kaldera raksasa di bawah kota mereka, sebagaimana mereka belajar tentang sejarah dan matematika setiap hari di sekolah dengan serius.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of children's crayon drawings of volcanoes pinned on a classroom wall, colorful eruptions beside smiling suns. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_080",
+      "chapter": 5,
+      "narration": "Para ilmuwan pun bersikap jujur tentang batas pengetahuan mereka, karena memprediksi letusan besar masih menjadi tantangan yang terbesar dalam vulkanologi modern, menjadikannya pelajaran penting bagi umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of three volcanologists in deep discussion inside a lava tube cave, headlamps cutting through the darkness. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_081",
+      "chapter": 5,
+      "narration": "Tujuan utama sains bukanlah menakut-nakuti manusia, melainkan memberi kita cukup waktu dan pengetahuan berharga agar kita dapat melindungi diri dan keluarga tercinta dengan penuh bermartabat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a peaceful volcanic valley in spring, wildflowers covering old lava flows, a shepherd guiding sheep along a trail. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_082",
+      "chapter": 5,
+      "narration": "Pada akhirnya, kita memang ditakdirkan untuk hidup berdampingan dengan raksasa-raksasa geologi, dan umat manusia telah melakukannya dengan tabah sejak peradaban pertama berdiri di muka bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of terraced vineyards thriving on fertile volcanic slopes, farmers working rows that follow ancient lava flows. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_083",
+      "chapter": 5,
+      "narration": "Bumi tidak pernah berhutang ketenangan kepada siapa pun di antara kita, dialah planet yang hidup, bernapas, dan sesekali menggeliat dalam tidurnya yang sangat panjang dan misterius.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot from a high volcanic summit at dawn, a sea of clouds boiling below like a living planet breathing. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_084",
+      "chapter": 5,
+      "narration": "Letusan-letusan raksasa di masa lalu telah membentuk tanah yang subur, danau yang indah, dan bahkan jalur peradaban yang kita huni hingga saat ini dengan penuh syukur.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of rich dark volcanic soil cradling young green crops, a farmer's weathered hands pressing the earth. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_085",
+      "chapter": 5,
+      "narration": "Maka sikap yang paling tepat bukanlah takut atau abai, melainkan hormat yang disertai kewaspadaan dan kesiapan yang dibangun dengan ilmu pengetahuan, sebuah fakta yang mengubah cara kita memandang planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a lone figure standing respectfully at a crater rim at sunset, wind lifting their jacket, head bowed. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 12
+    },
+    {
+      "id": "shot_086",
+      "chapter": 5,
+      "narration": "Di Napoli, kehidupan terus berjalan tepat di atas kaldera, pasar tetap ramai dan anak-anak bermain riang, sementara alat pemantau bekerja dalam senyap menjaga mereka semua.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a bustling Naples street market, vendors calling out, produce piled high, Vesuvius hazy in the distance. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_087",
+      "chapter": 5,
+      "narration": "Di Santorini, para wisatawan menikmati matahari terbenam di tepi kaldera, tanpa menyadari monster bawah laut yang kini dijaga ketat oleh para ilmuwan siang dan malam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of tourists watching the sunset from Santorini's caldera edge, cameras raised, the lagoon glowing beneath them. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_088",
+      "chapter": 5,
+      "narration": "Di Jerman, danau Laacher See tetap biru dan tenang, menyimpan rahasianya sambil menunggu giliran untuk dipahami lebih dalam oleh sains modern di masa depan yang cerah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of the Maria Laach abbey on the lake shore at dusk, swans gliding over still water beneath a violet sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_089",
+      "chapter": 5,
+      "narration": "Raksasa-raksasa tidur Eropa itu bukanlah sebuah kutukan, melainkan pengingat bahwa kita hanyalah tamu sementara di planet yang luar biasa dinamis ini yang harus kita jaga bersama.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view pulling back from Earth showing swirling clouds over the Mediterranean basin, the planet serene and alive. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_090",
+      "chapter": 5,
+      "narration": "Terima kasih telah menonton sampai akhir, bagikan film ini agar semakin banyak orang yang waspada, dan sampai jumpa di petualangan Banyak Tau berikutnya yang lebih seru.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a golden sunrise breaking over the Mediterranean sea, light flooding across the water as a new day begins. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 12
+    }
+  ]
+}

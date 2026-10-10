@@ -1,0 +1,1 @@
+Para vulkanolog mengukur kekuatan letusan dengan indeks letusan vulkanik, sebuah skala dari nol hingga delapan, di mana setiap kenaikan angka berarti kekuatan letusan yang berlipat ganda secara eksponensial.

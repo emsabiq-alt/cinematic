@@ -1,0 +1,44 @@
+{
+  "id": "sv001",
+  "title": "SUPERVOLCANO EROPA: Raksasa Tidur di Bawah Napoli, Santorini, dan Jerman",
+  "duration": "15-20 min",
+  "pacing": "8-12s",
+  "voice": "M2 (Supertonic Pria Ngebass 91.9 Hz)",
+  "mode": "step",
+  "status": "draft",
+  "project_dir": "projects/sv001",
+  "created_at": "2026-10-11",
+  "pipeline": [
+    {
+      "key": "outline",
+      "label": "Documentary Outline",
+      "status": "completed"
+    },
+    {
+      "key": "script",
+      "label": "Voiceover Script",
+      "status": "completed"
+    },
+    {
+      "key": "storyboard",
+      "label": "Storyboard",
+      "status": "completed"
+    },
+    {
+      "key": "assets",
+      "label": "Visual Assets",
+      "status": "pending"
+    },
+    {
+      "key": "tts",
+      "label": "TTS + Subtitle",
+      "status": "pending"
+    },
+    {
+      "key": "render",
+      "label": "Local Render Engine",
+      "status": "pending"
+    }
+  ],
+  "active_stage": "storyboard"
+}
