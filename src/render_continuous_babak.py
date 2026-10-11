@@ -388,25 +388,58 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
         f"BorderStyle=1,Outline=1.2,Shadow=1.2,MarginV=48,Alignment=2'"
     )
 
-    fc = (
-        f"[0:v]format=rgb24[base];"
-        f"[1:v]scale=1920:1080,format=gray,format=rgb24,colorchannelmixer=rr=0.35:gg=0.35:bb=0.35[grunge];"
-        f"[base][grunge]blend=all_mode=screen,format=rgb24[blended];"
-        f"[blended]vignette=PI/4.2:eval=init,format=yuv420p[vignetted];"
-        f"[vignetted][3:v]overlay=(W-w)/2:540[with_wm];"
-        f"[with_wm]{sub_filter}[outv]"
-    )
+    # Aset opsional: grunge texture & watermark dibuat dinamis.
+    # Bila file tidak ada, efeknya dilewati (dengan log) — render tidak
+    # pernah gagal hanya karena file aset hilang.
+    project_p = Path(project)
+    has_grunge = (project_p / grunge_rel).exists() and (project_p / grunge_rel).stat().st_size > 0
+    has_wm = (project_p / wm_rel).exists() and (project_p / wm_rel).stat().st_size > 0
+    if not has_grunge:
+        print(f"[render] {grunge_rel} tidak ada; efek grunge texture dilewati.", flush=True)
+    if not has_wm:
+        print(f"[render] {wm_rel} tidak ada; watermark dilewati.", flush=True)
+
+    comp_inputs = list(input_args)
+    next_idx = 1  # input 0 = video track
+    grunge_idx = None
+    if has_grunge:
+        comp_inputs += ["-stream_loop", "-1", "-i", grunge_rel]
+        grunge_idx = next_idx
+        next_idx += 1
+    audio_idx = next_idx
+    comp_inputs += ["-i", wav_rel]
+    next_idx += 1
+    wm_idx = None
+    if has_wm:
+        comp_inputs += ["-i", wm_rel]
+        wm_idx = next_idx
+        next_idx += 1
+
+    if has_grunge:
+        fc = (
+            f"[0:v]format=rgb24[base];"
+            f"[{grunge_idx}:v]scale=1920:1080,format=gray,format=rgb24,colorchannelmixer=rr=0.35:gg=0.35:bb=0.35[grunge];"
+            f"[base][grunge]blend=all_mode=screen,format=rgb24[blended];"
+            f"[blended]vignette=PI/4.2:eval=init,format=yuv420p[vignetted];"
+        )
+    else:
+        fc = (
+            f"[0:v]format=rgb24[base];"
+            f"[base]vignette=PI/4.2:eval=init,format=yuv420p[vignetted];"
+        )
+    if has_wm:
+        fc += f"[vignetted][{wm_idx}:v]overlay=(W-w)/2:540[with_wm];"
+        fc += f"[with_wm]{sub_filter}[outv]"
+    else:
+        fc += f"[vignetted]{sub_filter}[outv]"
 
     print(f"Compositing Babak {babak_num} with continuous audio, shifted watermark, and subtitles...", flush=True)
     comp_cmd = [
         "ffmpeg", "-y"
-    ] + input_args + [
-        "-stream_loop", "-1", "-i", grunge_rel,
-        "-i", wav_rel,
-        "-i", wm_rel,
+    ] + comp_inputs + [
         "-filter_complex", fc,
         "-map", "[outv]",
-        "-map", "2:a",
+        "-map", f"{audio_idx}:a",
         "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
         "-c:a", "aac", "-ar", "48000", "-ac", "2", "-b:a", "192k",
         "-t", f"{total_dur:.3f}",
