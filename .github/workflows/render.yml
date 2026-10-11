@@ -26,6 +26,8 @@ jobs:
   render:
     runs-on: ubuntu-latest
     timeout-minutes: 360
+    permissions:
+      contents: write   # perlu untuk gh release create/upload master film
     outputs:
       master: ${{ steps.find.outputs.master }}
     steps:
@@ -88,13 +90,20 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          set -e
           TAG="${{ inputs.project }}-master"
           TAG="${TAG//\//-}"
-          gh release create "$TAG" "${{ steps.find.outputs.master }}" \
-            --title "Master film ${{ inputs.project }}" \
-            --notes "Render otomatis ${{ inputs.project }} — ${{ github.sha }}" \
-            2>/dev/null || \
-          gh release upload "$TAG" "${{ steps.find.outputs.master }}" --clobber
+          MASTER="${{ steps.find.outputs.master }}"
+          test -f "$MASTER" || { echo "master tidak ditemukan: $MASTER"; exit 1; }
+          ls -lh "$MASTER"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "release $TAG sudah ada, upload ulang asset"
+          else
+            gh release create "$TAG" \
+              --title "Master film ${{ inputs.project }}" \
+              --notes "Render otomatis ${{ inputs.project }} — ${{ github.sha }}"
+          fi
+          gh release upload "$TAG" "$MASTER" --clobber
 
   upload-youtube:
     needs: render
