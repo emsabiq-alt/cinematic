@@ -1,0 +1,726 @@
+{
+  "style": "Full-Bleed 16:9 Cinematic 35mm Volcanic Documentary, Ember and Basalt; ember-orange lava glow, basalt-black, chiaroscuro, volumetric god-rays, subtle 35mm grain; 0% frame, 0% collage, 0% text/watermark",
+  "description": "Storyboard 90 shot dokumenter sinematik 'LA GARITA: Letusan Terdahsyat Sepanjang Sejarah Bumi' — hitung mundur letusan terbesar: St. Helens, Krakatau, Tambora, Toba, Yellowstone, hingga La Garita.",
+  "shots": [
+    {
+      "id": "shot_001",
+      "chapter": 1,
+      "narration": "Ada letusan gunung berapi yang tidak sekadar menghancurkan sebuah kota, melainkan menulis ulang sejarah iklim seluruh planet Bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Tiny human silhouette standing before a colossal dark volcano on the horizon, storm clouds boiling above, embers drifting in the wind. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "chapter": 1,
+      "narration": "Hari ini kita akan menghitung mundur letusan-letusan terbesar yang pernah dikenal dalam sejarah geologi planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Giant countdown numerals carved into a basalt cliff face, glowing cracks of magma between the stone digits. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_003",
+      "chapter": 1,
+      "narration": "Untuk memeringkatnya, para ilmuwan mengukur volume material yang disemburkan, dengan satuan yang sederhana namun mengerikan: kilometer kubik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientist hands in gloves holding volcanic rock and ash samples under dramatic lab light, floating dust particles. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "chapter": 1,
+      "narration": "Indeks letusan vulkanik membentang dari nol hingga delapan, sebuah skala logaritmik di mana setiap kenaikan angka berarti kekuatan yang berlipat ganda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Nested glowing magma chambers of exponentially increasing size receding into darkness, each dwarfing the last. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_005",
+      "chapter": 1,
+      "narration": "Ambang skala delapan adalah lebih dari seribu kilometer kubik, setara dengan melarutkan sebuah gunung raksasa ke langit dalam hitungan hari.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A mountain dissolving upward into a sky-filling ash column, rock vaporizing into glowing particles. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "chapter": 1,
+      "narration": "Peringkat kelima dalam hitungan mundur kita adalah Gunung St. Helens di Amerika, yang meletus dahsyat pada tahun seribu sembilan ratus delapan puluh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of Mount St. Helens crater with steaming dome, 1980s archival film look, pine forests below. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_007",
+      "chapter": 1,
+      "narration": "Letusan St. Helens berskala lima dengan volume sekitar satu kilometer kubik, dan ia hanyalah satu per lima ribu dari sang juara kita.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A small glowing cube of one cubic kilometer dwarfed beside a towering mountain silhouette. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "chapter": 1,
+      "narration": "Namun bahkan letusan sekecil itu meratakan hutan sejauh bermil-mil dengan semburan lateralnya, dan mengguncang seluruh Amerika Serikat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lateral blast flattening a vast pine forest, trees snapping like matchsticks under a racing ash cloud. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_009",
+      "chapter": 1,
+      "narration": "Naik satu tingkat: peringkat keempat adalah Krakatau di Selat Sunda, yang meledak pada tahun seribu delapan ratus delapan puluh tiga.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Krakatau island silhouette in the Sunda Strait at dusk, ominous plume rising, fishing boats in foreground. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "chapter": 1,
+      "narration": "Krakatau berskala enam dengan volume sekitar dua puluh lima kilometer kubik, dua puluh lima kali lipat St. Helens.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The island tearing itself apart in a cataclysmic explosion, pyroclastic surges racing across the sea. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_011",
+      "chapter": 1,
+      "narration": "Tsunaminya menerjang pesisir, dan suara ledakannya terdengar hingga ribuan kilometer jauhnya, tercatat sebagai suara terkeras dalam sejarah manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Towering tsunami wave approaching a 19th century coastal village, people fleeing uphill. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "chapter": 1,
+      "narration": "Peringkat ketiga adalah Tambora pada tahun seribu delapan ratus lima belas, letusan terbesar yang pernah disaksikan manusia modern.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mount Tambora peak on Sumbawa island, deceptively calm, dark clouds gathering at its summit. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_013",
+      "chapter": 1,
+      "narration": "Tambora berskala tujuh dengan volume sekitar seratus enam puluh kilometer kubik, dan memicu Tahun Tanpa Musim Panas pada seribu delapan ratus enam belas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A darkened sun behind a global veil of ash, snow falling over a summer landscape in 1816. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "chapter": 1,
+      "narration": "Gagal panen melanda dunia, namun bahkan Tambora bukanlah yang terbesar, karena dua raksasa prasejarah menanti di depan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Withered crops and frost-covered summer fields stretching to the horizon under a grey sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_015",
+      "chapter": 1,
+      "narration": "Peringkat kedua dihuni oleh dua nama legendaris: Toba dan Yellowstone, keduanya berskala delapan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two colossal ash columns rising side by side over a prehistoric landscape, dwarfing mountain ranges. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "chapter": 1,
+      "narration": "Toba meletus sekitar tujuh puluh empat ribu tahun lalu dengan volume dua ribu delapan ratus kilometer kubik, dan hampir memusnahkan umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Hellish volcanic crater where a serene lake will one day be, rivers of lava under a black sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_017",
+      "chapter": 1,
+      "narration": "Teori bottleneck genetik yang diajukan Stanley Ambrose pada tahun seribu sembilan ratus sembilan puluh delapan menyebut populasi manusia menyusut drastis akibat letusan itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A small band of early humans huddled in an ash-covered wasteland, embers falling like snow. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "chapter": 1,
+      "narration": "Namun bahkan Toba yang legendaris itu bukanlah peringkat pertama, karena sang raja sesungguhnya hampir dua kali lipat lebih besar darinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Toba's ash cloud dwarfed by an even more colossal eruption column rising behind it, scale comparison. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_019",
+      "chapter": 2,
+      "narration": "Kita mulai dari bawah tangga raksasa ini, dari sebuah gunung indah di negara bagian Washington yang tampak begitu tenang.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Symmetrical snow-capped cone of Mount St. Helens before 1980, pristine morning light, mirror lake reflection. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "chapter": 2,
+      "narration": "Pada pagi delapan belas Mei seribu sembilan ratus delapan puluh, gempa mengguncang lereng utara St. Helens hingga runtuh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Earthquake fissures cracking across the mountainside, dust rising, birds scattering in panic. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_021",
+      "chapter": 2,
+      "narration": "Seluruh sisi gunung longsor dalam sekejap, memicu semburan lateral superpanas yang melesat menyamping dengan kecepatan mengerikan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The entire north face of the mountain collapsing in a massive landslide, dust cloud exploding outward. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "chapter": 2,
+      "narration": "Hutan pinus berusia ratusan tahun tumbang seperti lidi, diratakan sejauh mata memandang oleh gelombang panas dan abu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Centuries-old pine forest flattened radially, trunks snapped and stripped bare by the lateral blast. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_023",
+      "chapter": 2,
+      "narration": "Kolom abu menjulang menembus stratosfer, dan langit siang berubah menjadi malam di kota-kota sekitarnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Colossal ash column punching through the stratosphere, daylight turning to darkness over towns below. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "chapter": 2,
+      "narration": "Inilah wajah letusan skala lima, dan dunia modern untuk pertama kalinya menyaksikan kekuatan penuh sebuah gunung berapi dari dekat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientists and observers silhouetted against the eruption, cameras and instruments in the foreground ash. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_025",
+      "chapter": 2,
+      "narration": "Namun ingatlah angka ini baik-baik: satu kilometer kubik, karena setiap raksasa berikutnya akan membuat angka ini terasa seperti mainan anak-anak.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A single small glowing cube labeled by scale alone beside an ever-growing staircase of larger cubes. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "chapter": 2,
+      "narration": "Kita menyeberangi Pasifik menuju Selat Sunda, tempat sebuah pulau vulkanik menyimpan dendamnya selama berabad-abad.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the Sunda Strait, Krakatau island steaming gently among scattered islets. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_027",
+      "chapter": 2,
+      "narration": "Pada akhir Agustus seribu delapan ratus delapan puluh tiga, Krakatau meledak dengan kekuatan yang merobek pulau itu sendiri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Krakatau exploding in a blinding flash, the island ripped apart, mushroom of ash and fire. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "chapter": 2,
+      "narration": "Letusan skala enam ini menyemburkan sekitar dua puluh lima kilometer kubik material, dua puluh lima kali lipat St. Helens.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pyroclastic surges racing across the ocean surface away from the disintegrating island. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_029",
+      "chapter": 2,
+      "narration": "Gelombang tsunami raksasa menerjang pesisir Jawa dan Sumatra, menelan desa-desa pesisir dalam hitungan menit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Towering tsunami surging over 19th century coastal villages of Java and Sumatra. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "chapter": 2,
+      "narration": "Ledakannya terdengar hingga ribuan kilometer jauhnya, dari Australia hingga Samudra Hindia, sebagai suara terkeras yang pernah tercatat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Concentric shockwave rings expanding across the ocean from the blast epicenter, ships tossed below. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_031",
+      "chapter": 2,
+      "narration": "Gelombang tekanannya mengelilingi bumi berkali-kali, tercatat oleh barometer di seluruh penjuru dunia selama berhari-hari.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Antique barometer needles trembling violently in observatories across the world, storm light through windows. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "chapter": 2,
+      "narration": "Matahari terbenam berubah menjadi merah darah selama bertahun-tahun, dilukis oleh abu Krakatau yang melayang di stratosfer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Blood-red sunsets over a 19th century harbor, sailors staring at the crimson sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_033",
+      "chapter": 2,
+      "narration": "Lebih dari seabad kemudian, Filipina menyaksikan monster modern berikutnya: Pinatubo.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mount Pinatubo in the Philippines, massive ash column rising over tropical highlands, 1991. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "chapter": 2,
+      "narration": "Pada tahun seribu sembilan ratus sembilan puluh satu, Pinatubo meletus dengan skala enam, dan abunya mendinginkan suhu global planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash veil wrapping the blue planet seen from space, sunlight dimmed by the stratospheric haze. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_035",
+      "chapter": 2,
+      "narration": "Dari satu kilometer kubik menjadi dua puluh lima: setiap anak tangga skala ini adalah lompatan sepuluh kali lipat yang brutal.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A brutal logarithmic staircase of glowing magma cubes, each step ten times the last, ascending into darkness. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "chapter": 2,
+      "narration": "Namun semua itu hanyalah pemanasan, karena monster-monster modern hanyalah anak tangga bawah dari tangga yang sesungguhnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern volcanoes shrunk to foothills at the base of an impossibly tall staircase of fire. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_037",
+      "chapter": 3,
+      "narration": "Pada tahun seribu delapan ratus lima belas, sebuah gunung di Sumbawa menulis sejarah kelam umat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mount Tambora looming over Sumbawa island villages, restless plume coiling from its summit. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "chapter": 3,
+      "narration": "Namanya Tambora, dan selama berbulan-bulan ia menggeram, memuntahkan abu, sebelum akhirnya meledak pada bulan April.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The mountain rumbling for months, ash venting, villagers watching anxiously from the fields. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_039",
+      "chapter": 3,
+      "narration": "Puncak gunung itu runtuh ke dalam, meninggalkan kaldera raksasa tempat dulu berdiri ribuan meter batuan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The summit collapsing inward in slow cataclysm, a vast caldera yawning open where the peak stood. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "chapter": 3,
+      "narration": "Letusannya berskala tujuh dengan volume sekitar seratus enam puluh kilometer kubik, terbesar yang pernah tercatat dalam sejarah manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pyroclastic flows pouring down every flank of the mountain, glowing avalanches under a black sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_041",
+      "chapter": 3,
+      "narration": "Awan panas meluncur hingga ke laut dan tsunami menerjang pesisir, merenggut korban dalam jumlah yang mengerikan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing pyroclastic flows plunging into the sea, steam explosions and tsunami racing toward the coast. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "chapter": 3,
+      "narration": "Kolom abunya menjulang puluhan kilometer ke langit, dan tirai belerang mulai menyelimuti seluruh planet.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash column tens of kilometers tall piercing the sky, a sulfurous veil spreading across the globe. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_043",
+      "chapter": 3,
+      "narration": "Tahun berikutnya, seribu delapan ratus enam belas, dikenang dunia sebagai Tahun Tanpa Musim Panas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Snow falling in July over a New England farmstead, bewildered farmers staring at the white fields. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "chapter": 3,
+      "narration": "Salju turun di bulan Juli di belahan bumi utara, dan tanaman gagal panen dari Eropa hingga Amerika.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Frostbitten summer crops across Europe, withered wheat fields under a pale sun. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_045",
+      "chapter": 3,
+      "narration": "Kelaparan melanda, wabah menyebar, dan penderitaan menjalar ke berbagai benua tanpa ampun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Gaunt refugees on muddy roads, empty markets, famine gripping 19th century towns. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "chapter": 3,
+      "narration": "Bahkan dunia sastra pun lahir dari kegelapan itu: novel Frankenstein ditulis pada musim panas yang tak pernah datang.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A candle-lit writing desk in a stormy lakeside villa, quill and manuscript, lightning outside the window. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_047",
+      "chapter": 3,
+      "narration": "Tambora mengubah iklim planet ini selama setahun penuh, dan manusia mencatatnya sebagai bencana vulkanik terbesar dalam sejarah tertulis.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The darkened Earth wrapped in Tambora's ash veil, storms and failed harvests circling the globe. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "chapter": 3,
+      "narration": "Namun inilah ironi yang mengerikan: Tambora hanyalah peringkat ketiga, dan ia terpaut jauh dari dua raksasa di atasnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Tambora's eruption column dwarfed by two far larger columns looming behind it in the distance. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_049",
+      "chapter": 3,
+      "narration": "Seratus enam puluh kilometer kubik berbanding lima ribu: sang juara lebih dari tiga puluh kali lipat lebih besar dari Tambora.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two glowing cubes side by side, one modest, one monstrously larger, embers swirling between them. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "chapter": 3,
+      "narration": "Dua raksasa berikutnya meletus sebelum manusia mengenal tulisan, sebelum peradaban, sebelum sejarah itu sendiri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A primeval Earth with no humans, no cities, only vast wilderness under an ash-darkened sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_051",
+      "chapter": 3,
+      "narration": "Saksi satu-satunya adalah lapisan abu di dasar laut, inti es di kutub, dan kode genetik di dalam tubuh kita.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientists drilling an ice core in Antarctica, ancient ash layers visible in the translucent ice. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "chapter": 3,
+      "narration": "Untuk memeringkat mereka, sains membaca arsip bumi yang ditulis dengan bahasa batuan dan es.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A geologist tracing a distinct ash layer through a canyon wall of ancient rock strata. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_053",
+      "chapter": 3,
+      "narration": "Kita kini melangkah mundur puluhan ribu tahun, ke sebuah danau raksasa di Sumatra.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the vast serene crater lake of Toba in North Sumatra, morning mist on the water. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "chapter": 3,
+      "narration": "Tujuh puluh empat ribu tahun yang lalu, danau itu adalah kawah neraka yang menelan langit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The same basin 74,000 years ago: a hellish crater of lava rivers and towering fire under a black sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_055",
+      "chapter": 4,
+      "narration": "Namanya Toba, supervolcano yang kini tidur di bawah danau indah di Sumatra Utara.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lake Toba's calm blue waters ringed by green highlands, a supervolcano sleeping in disguise. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "chapter": 4,
+      "narration": "Letusannya berskala delapan dengan volume sekitar dua ribu delapan ratus kilometer kubik, sekitar tujuh belas kali lipat Tambora.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Toba's eruption column engulfing the sky, a continent-scale plume of ash and fire. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_057",
+      "chapter": 4,
+      "narration": "Lapisan abu Toba ditemukan hingga ke India, ribuan kilometer jauhnya dari sumber letusannya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A thin grey ash layer blanketing a distant Indian landscape, fine ash sifting over ancient terrain. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "chapter": 4,
+      "narration": "Musim dingin vulkanik pun tiba: langit gelap bertahun-tahun, suhu global anjlok, tumbuhan mati di berbagai benua.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A volcanic winter: dim red sun over dead forests, ash falling endlessly on a frozen world. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_059",
+      "chapter": 4,
+      "narration": "Inilah saat tergelap umat manusia, ketika populasi kita menyusut drastis hingga nyaris punah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scattered small bands of early humans struggling through the endless ash-darkened wasteland. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "chapter": 4,
+      "narration": "Teori bottleneck genetik yang diajukan Stanley Ambrose pada tahun seribu sembilan ratus sembilan puluh delapan menyebut kita semua adalah keturunan dari segelintir penyintas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A few glowing human figures standing resilient among shadows, the seed of all future humanity. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_061",
+      "chapter": 4,
+      "narration": "Setiap manusia yang hidup hari ini membawa warisan letusan Toba di dalam DNA-nya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A luminous double helix of DNA rising from volcanic ash, connecting past survivors to the present. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_062",
+      "chapter": 4,
+      "narration": "Namun bahkan Toba bukanlah yang terbesar, karena dua ribu delapan ratus kilometer kubik masih kalah dari lima ribu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Toba's ash cloud dwarfed by a far greater eruption column rising beyond it, humbling the giant. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_063",
+      "chapter": 4,
+      "narration": "Sang juara hampir dua kali lipat Toba, dan nama yang lebih terkenal pun tak mampu menandinginya: Yellowstone.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Yellowstone caldera with geysers steaming and bison grazing, deceptively peaceful wilderness. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_064",
+      "chapter": 4,
+      "narration": "Yellowstone terakhir meletus membentuk kaldera sekitar enam ratus empat puluh ribu tahun lalu, dengan volume sekitar dua ribu lima ratus kilometer kubik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Yellowstone erupting 640,000 years ago, a stupendous column of ash over the American West. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_065",
+      "chapter": 4,
+      "narration": "Ia dipantau ketat, dibintangi film-film bencana, dan ditakuti jutaan orang, namun rekornya pun runtuh di hadapan sang raja.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A modern volcano observatory monitoring room at night, screens glowing, scientists watching seismic traces. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_066",
+      "chapter": 4,
+      "narration": "Letusan La Garita lebih dari dua kali lipat letusan kaldera terakhir Yellowstone.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. La Garita's colossal plume towering over Yellowstone's, an undeniable changing of the guard. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_067",
+      "chapter": 4,
+      "narration": "Toba dan Yellowstone adalah raksasa zaman es, namun kita harus mundur jauh lebih dalam: dua puluh delapan juta tahun ke masa lalu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time rewinding violently: ice age landscapes dissolving into the deep Oligocene past. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_068",
+      "chapter": 4,
+      "narration": "Saat itu Colorado bukanlah pegunungan bersalju seperti sekarang, melainkan medan vulkanik San Juan yang bergolak hebat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ancient Colorado 28 million years ago: a tortured volcanic landscape, not a single snowcap in sight. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_069",
+      "chapter": 4,
+      "narration": "Di era Oligosen, kawasan itu dilanda badai ignimbrit, letusan-letusan raksasa yang datang silih berganti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The ignimbrite flare-up: multiple giant volcanoes erupting in sequence across the American West. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_070",
+      "chapter": 4,
+      "narration": "Di bawah Pegunungan San Juan, sebuah dapur magma membengkak hingga ukuran yang mustahil.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cutaway view deep underground: an impossibly vast magma chamber swelling beneath the mountains. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_071",
+      "chapter": 4,
+      "narration": "Tekanan menumpuk selama ribuan tahun, dan kerak bumi pun tak lagi sanggup menahannya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The Earth's crust cracking and groaning under unbearable pressure, magma glowing through the fractures. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_072",
+      "chapter": 4,
+      "narration": "Apa yang terjadi selanjutnya adalah ledakan tunggal terbesar yang pernah diketahui dalam sejarah geologi Bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. An unnatural silence over the landscape, animals fleeing, the ground trembling before the cataclysm. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_073",
+      "chapter": 5,
+      "narration": "Dua puluh delapan juta tahun yang lalu, bumi bersiap meledakkan mahakaryanya yang paling dahsyat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The San Juan Mountains 28 million years ago, a supervolcano swelling, the sky holding its breath. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "narration": "Letusan Fish Canyon Tuff pun dimulai, dan dalam hitungan hari ia menyemburkan sekitar lima ribu kilometer kubik material vulkanik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The Fish Canyon Tuff eruption begins: a sky-shattering column of ash and fire erupting upward. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_075",
+      "chapter": 5,
+      "narration": "Lima ribu kilometer kubik: cukup untuk mengisi seluruh Danau Michigan hingga penuh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lake Michigan filled to the brim with glowing volcanic ash, a staggering visualization of volume. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_076",
+      "chapter": 5,
+      "narration": "Gunung itu tidak meledak ke atas, melainkan runtuh ke dalam, meninggalkan kaldera raksasa selebar seratus kali tiga puluh lima kilometer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The mountain collapsing inward, a 100 by 35 kilometer caldera yawning open in the Earth's crust. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_077",
+      "chapter": 5,
+      "narration": "Awan panas melesat ratusan kilometer ke segala arah, membakar dan mengubur apa pun yang dilaluinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pyroclastic flows racing hundreds of kilometers in all directions, incinerating everything in their path. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_078",
+      "chapter": 5,
+      "narration": "Abu menyelimuti sebuah benua, langit menggelap, dan musim dingin vulkanik mencengkeram planet ini selama bertahun-tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash blanketing an entire continent, a darkened sky, the planet gripped by volcanic winter. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_079",
+      "chapter": 5,
+      "narration": "Para ilmuwan menyebutnya peristiwa paling energik di Bumi sejak tumbukan asteroid Chicxulub yang memusnahkan dinosaurus.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A cosmic comparison: the Chicxulub asteroid impact and La Garita's eruption, two titans of Earth's history. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_080",
+      "chapter": 5,
+      "narration": "Inilah tangga terakhir hitungan mundur kita: lima ribu kali St. Helens, dua ratus kali Krakatau, lebih dari tiga puluh kali Tambora, dan hampir dua kali lipat Toba.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The final countdown ladder: five glowing rungs from St. Helens to La Garita, each dwarfing the last. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_081",
+      "chapter": 5,
+      "narration": "Beberapa peneliti bahkan mengusulkan skala sembilan koma dua untuknya, namun skala resmi indeks letusan vulkanik mentok di angka delapan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientists debating around a chalkboard of eruption scales, the VEI scale ending firmly at eight. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_082",
+      "chapter": 5,
+      "narration": "La Garita adalah puncak dari badai ignimbrit Oligosen, era ketika Amerika bagian barat menjadi tungku raksasa planet ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Panorama of the Oligocene American West as a furnace of erupting volcanoes under a glowing sky. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_083",
+      "chapter": 5,
+      "narration": "Lalu mengapa hampir tak ada yang mengenal namanya? Karena ia meletus dua puluh delapan juta tahun sebelum manusia pertama membuka matanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A vast empty prehistoric landscape with no humans, no witnesses, only the silent record of stone. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_084",
+      "chapter": 5,
+      "narration": "Yellowstone mendapat film-film Hollywood, sementara La Garita yang memegang rekor dunia justru dilupakan sejarah populer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A Hollywood-style film camera pointed at Yellowstone while the greater La Garita caldera sits forgotten in shadow. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_085",
+      "chapter": 5,
+      "narration": "Mungkinkah ia terulang? Sistem supervolcano masih ada di bumi, dan para ilmuwan terus memantau mereka siang dan malam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern volcano monitoring: seismometers and observatories keeping watch through day and night. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_086",
+      "chapter": 5,
+      "narration": "Bumi mencatat skornya dengan batu, bukan dengan berita utama, dan catatannya tidak pernah berbohong.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ancient rock layers like the pages of a stone archive, a geologist's hammer resting on Fish Canyon Tuff. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CU",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_087",
+      "chapter": 5,
+      "narration": "Hitungan mundur ini mengajarkan satu hal: setiap anak tangga yang tampak raksasa ternyata kerdil di hadapan tangga berikutnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A tiny human figure standing humbled before the towering staircase of Earth's greatest eruptions. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_088",
+      "chapter": 5,
+      "narration": "Dari satu kilometer kubik menjadi lima ribu: inilah skala kekerasan sejati sebuah planet yang hidup.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Planet Earth seen from space, alive and breathing, wreathed in faint volcanic haze. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_089",
+      "chapter": 5,
+      "narration": "Sang raja letusan tidur di Pegunungan San Juan, Colorado, dan geologi tidak pernah melupakan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The San Juan Mountains of Colorado today, peaceful and snow-dusted, hiding the king of eruptions. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_090",
+      "chapter": 5,
+      "narration": "Terima kasih telah menonton sampai akhir, bagikan film ini agar semakin banyak orang mengenal sang raja yang terlupakan, dan sampai jumpa di petualangan Banyak Tau berikutnya yang lebih seru.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Embers rising from a glowing volcano into a starry night sky, a majestic cinematic farewell. Palette: ember-orange, basalt-black, volcanic ash grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WS",
+      "duration_hint": 10
+    }
+  ]
+}
