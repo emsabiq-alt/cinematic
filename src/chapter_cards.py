@@ -31,9 +31,33 @@ def _font(project, px):
     return ImageFont.truetype(str(path), px)
 
 
+def _synth_hit(rate=48000, seconds=0.12):
+    """Sintesis bunyi ketikan typewriter (klik perkusif + resonansi redam).
+
+    Dipakai sebagai fallback bila file SFX tidak ada/rusak, supaya render
+    tidak pernah gagal hanya karena satu file efek suara hilang.
+    """
+    n = int(seconds * rate)
+    rng = np.random.default_rng(7)
+    t = np.arange(n) / rate
+    click = rng.standard_normal(n) * np.exp(-t * 220.0)
+    body = (np.sin(2 * np.pi * 1750 * t) * 0.5
+            + np.sin(2 * np.pi * 320 * t) * 0.35) * np.exp(-t * 55.0)
+    samples = 0.6 * click + 0.4 * body
+    peak = np.max(np.abs(samples))
+    if peak > 0:
+        samples = samples * (0.9 / peak)
+    return (samples * 32767.0).astype(np.int16)
+
+
 def _hit(project):
-    with wave.open(str(Path(project) / "assets" / "sfx" / "typewriter_hit.wav"), "rb") as w:
-        return np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16)
+    p = Path(project) / "assets" / "sfx" / "typewriter_hit.wav"
+    try:
+        with wave.open(str(p), "rb") as w:
+            return np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16)
+    except Exception as e:
+        print(f"[chapter_cards] SFX {p} tidak bisa dibaca ({e}); memakai sintesis fallback.", flush=True)
+        return _synth_hit()
 
 
 def _write_wav(path, samples, rate=48000):
