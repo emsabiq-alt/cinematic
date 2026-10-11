@@ -1,0 +1,29 @@
+name: Set YouTube thumbnail
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_id:
+        description: "ID video YouTube"
+        required: true
+      thumbnail:
+        description: "Path thumbnail di repo"
+        required: true
+        default: "projects/sv001/input/thumbnail.jpg"
+
+jobs:
+  set-thumbnail:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pasang thumbnail
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          python3 src/youtube_set_thumbnail.py \
+            --video-id "${{ inputs.video_id }}" \
+            --thumbnail "${{ inputs.thumbnail }}"
