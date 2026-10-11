@@ -1,0 +1,114 @@
+name: Render documentary
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Direktori proyek (mis. projects/sv001)"
+        required: true
+        default: "projects/sv001"
+      assets_tag:
+        description: "Tag release berisi arsip aset (gambar+audio+subtitle)"
+        required: true
+        default: "sv001-assets"
+      upload_youtube:
+        description: "Upload master ke YouTube setelah render"
+        type: boolean
+        default: false
+      privacy:
+        description: "Privacy YouTube (scheduled=private+jadwal, public, unlisted, private)"
+        default: "scheduled"
+
+env:
+  PYTHON_VERSION: "3.12"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    outputs:
+      master: ${{ steps.find.outputs.master }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          ffmpeg -version | head -1
+
+      - name: Install Python deps (render)
+        run: |
+          pip install -q soundfile numpy "Pillow>=10.0" opencv-python-headless \
+            faster-whisper "av>=19" requests
+
+      - name: Download assets archive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download "${{ inputs.assets_tag }}" \
+            --pattern "${{ inputs.assets_tag }}.tar.gz" \
+            --dir /tmp
+          tar xzf "/tmp/${{ inputs.assets_tag }}.tar.gz" \
+            -C "${{ inputs.project }}"
+          ls "${{ inputs.project }}/output/flow_images" | wc -l
+
+      - name: Render master film
+        run: |
+          python3 src/render_continuous_babak.py "${{ inputs.project }}"
+
+      - name: Find master file
+        id: find
+        run: |
+          MASTER=$(ls "${{ inputs.project }}"/export/*_MASTER.mp4 | head -1)
+          echo "master=$MASTER" >> "$GITHUB_OUTPUT"
+          ls -lh "$MASTER"
+
+      - name: Upload master artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: master-film
+          path: ${{ steps.find.outputs.master }}
+          retention-days: 30
+
+      - name: Publish master as release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="${{ inputs.project }}-master"
+          TAG="${TAG//\//-}"
+          gh release create "$TAG" "${{ steps.find.outputs.master }}" \
+            --title "Master film ${{ inputs.project }}" \
+            --notes "Render otomatis ${{ inputs.project }} — ${{ github.sha }}" \
+            2>/dev/null || \
+          gh release upload "$TAG" "${{ steps.find.outputs.master }}" --clobber
+
+  upload-youtube:
+    needs: render
+    if: ${{ inputs.upload_youtube }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: master-film
+          path: /tmp/master
+
+      - name: Upload to YouTube
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          VIDEO=$(ls /tmp/master/*.mp4 | head -1)
+          python3 src/youtube_upload.py \
+            --video "$VIDEO" \
+            --title "$(python3 -c "import json;print(json.load(open('${{ inputs.project }}/input/youtube_meta.json'))['titles'][0])")" \
+            --description-file "${{ inputs.project }}/input/youtube_meta.json" \
+            --privacy "${{ inputs.privacy }}"
