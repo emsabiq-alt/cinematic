@@ -158,11 +158,38 @@ def synthesize_chapter_audio(project_dir, babak_num, voice_code="M2"):
         style = tts.get_voice_style(voice_code)
         wav_data, dur = tts.synthesize(chapter_text, style, lang="id")
         sf.write(str(out_wav), wav_data[0], 44100)
-    except ModuleNotFoundError as e:
-        raise RuntimeError(
-            "supertonic tidak terinstal di interpreter ini. "
-            "Install: pip install -r requirements.txt"
-        ) from e
+    except ModuleNotFoundError:
+        # Fallback tanpa TTS ulang: gabungkan WAV per-shot yang sudah ada
+        # (output/audio_supertonic/shot_NNN.wav) dengan jeda hening pendek.
+        # Render tidak pernah gagal hanya karena supertonic tidak terinstal.
+        print(f"[babak {babak_num}] supertonic tidak tersedia; menggabungkan {len(shots)} WAV per-shot...", flush=True)
+        import numpy as np
+        per_shot_dir = project / "output" / "audio_supertonic"
+        gap = np.zeros(int(0.4 * 44100), dtype=np.float32)
+        chunks = []
+        for s in shots:
+            num = int(s["id"].split("_")[1])
+            p = per_shot_dir / f"shot_{num:03d}.wav"
+            if not p.exists():
+                raise RuntimeError(
+                    f"Tidak bisa membangun audio babak {babak_num}: supertonic hilang "
+                    f"dan {p} juga tidak ada."
+                )
+            data, sr = sf.read(str(p), dtype="float32")
+            if data.ndim > 1:
+                data = data.mean(axis=1)
+            if sr != 44100:
+                # resample sederhana bila perlu (kasus langka)
+                idx = (np.arange(int(len(data) * 44100 / sr)) * (sr / 44100)).astype(int)
+                idx = np.clip(idx, 0, len(data) - 1)
+                data = data[idx]
+            chunks.append(data)
+            chunks.append(gap)
+        combined = np.concatenate(chunks) if chunks else gap
+        peak = np.max(np.abs(combined)) if len(combined) else 0
+        if peak > 0.95:
+            combined = combined * (0.95 / peak)
+        sf.write(str(out_wav), combined, 44100)
 
     print(f"✓ Synthesized {out_wav.name} ({wav_dur(out_wav):.1f}s)", flush=True)
     return out_wav, shots

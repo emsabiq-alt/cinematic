@@ -56,6 +56,15 @@ jobs:
           tar xzf "/tmp/${{ inputs.assets_tag }}.tar.gz" \
             -C "${{ inputs.project }}"
           ls "${{ inputs.project }}/output/flow_images" | wc -l
+          # Paket audio per-babak (opsional; bila tidak ada, renderer memakai
+          # WAV per-shot yang sudah ada di paket utama via fallback internal).
+          gh release download "${{ inputs.assets_tag }}" \
+            --pattern "sv001-audio-babak.tar.gz" \
+            --dir /tmp || echo "paket audio babak tidak ada, lanjut"
+          if [ -f /tmp/sv001-audio-babak.tar.gz ]; then
+            tar xzf /tmp/sv001-audio-babak.tar.gz -C "${{ inputs.project }}"
+            ls "${{ inputs.project }}/output/audio_babak"
+          fi
 
       - name: Render master film
         run: |
