@@ -15,6 +15,13 @@ on:
         description: "Upload master ke YouTube setelah render"
         type: boolean
         default: false
+      skip_render:
+        description: "Lewati render; ambil master dari release (format <project>-master)"
+        type: boolean
+        default: false
+      schedule_time:
+        description: "Jam publish terjadwal WIB (HH:MM) bila privacy=scheduled"
+        default: "17:00"
       privacy:
         description: "Privacy YouTube (scheduled=private+jadwal, public, unlisted, private)"
         default: "scheduled"
@@ -49,6 +56,7 @@ jobs:
             faster-whisper "av>=19" requests
 
       - name: Download assets archive
+        if: ${{ !inputs.skip_render }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -69,8 +77,22 @@ jobs:
           fi
 
       - name: Render master film
+        if: ${{ !inputs.skip_render }}
         run: |
           python3 src/render_continuous_babak.py "${{ inputs.project }}"
+
+      - name: Download master from release (skip_render)
+        if: ${{ inputs.skip_render }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          TAG="${{ inputs.project }}-master"
+          TAG="${TAG//\//-}"
+          mkdir -p "${{ inputs.project }}/export"
+          gh release download "$TAG" --pattern "*_MASTER.mp4" \
+            --dir "${{ inputs.project }}/export" --clobber
+          ls -lh "${{ inputs.project }}/export"
 
       - name: Find master file
         id: find
@@ -129,4 +151,5 @@ jobs:
             --video "$VIDEO" \
             --title "$(python3 -c "import json;print(json.load(open('${{ inputs.project }}/input/youtube_meta.json'))['titles'][0])")" \
             --description-file "${{ inputs.project }}/input/youtube_meta.json" \
-            --privacy "${{ inputs.privacy }}"
+            --privacy "${{ inputs.privacy }}" \
+            --schedule-time "${{ inputs.schedule_time }}"
