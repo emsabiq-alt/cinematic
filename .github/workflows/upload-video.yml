@@ -1,0 +1,50 @@
+name: Upload Video ke YouTube
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_url:
+        description: URL file MP4 (release asset / direct link)
+        required: true
+      title:
+        description: Judul video
+        required: true
+      description:
+        description: Deskripsi video
+        required: false
+        default: ""
+      privacy:
+        description: public / unlisted / private / scheduled
+        required: false
+        default: scheduled
+      schedule_time:
+        description: Jam publish WIB (jika scheduled, format HH:MM)
+        required: false
+        default: "17:00"
+
+permissions:
+  contents: read
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download video
+        run: |
+          curl -sL -o /tmp/video.mp4 "${{ github.event.inputs.video_url }}"
+          ls -lh /tmp/video.mp4
+
+      - name: Upload ke YouTube
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          python3 src/youtube_upload.py \
+            --video /tmp/video.mp4 \
+            --title "${{ github.event.inputs.title }}" \
+            --description "${{ github.event.inputs.description }}" \
+            --privacy "${{ github.event.inputs.privacy }}" \
+            --schedule-time "${{ github.event.inputs.schedule_time }}"
