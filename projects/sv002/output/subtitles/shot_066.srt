@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,000
+letusan la garita lebih dari dua
+
+2
+00:00:02,000 --> 00:00:04,810
+kali lipat letusan kaldera terakhir yellowstone

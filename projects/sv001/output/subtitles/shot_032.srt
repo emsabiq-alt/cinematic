@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,360
+puncaknya terjadi pada tiga puluh satu
+
+2
+00:00:02,360 --> 00:00:04,690
+juli dua ribu dua puluh enam
+
+3
+00:00:04,980 --> 00:00:07,570
+sebuah gempa bermagnitudo empat koma tujuh
+
+4
+00:00:07,660 --> 00:00:08,760
+yang terkuat yang pernah
+
+5
+00:00:08,760 --> 00:00:10,970
+tercatat oleh alat pengukur

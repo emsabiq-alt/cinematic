@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,140
+indeks letusan vulkanik membentang
+
+2
+00:00:02,140 --> 00:00:03,710
+dari nol hingga delapan
+
+3
+00:00:03,740 --> 00:00:06,360
+sebuah skala logaritmik di mana setiap kenaikan
+
+4
+00:00:06,360 --> 00:00:09,030
+angka berarti kekuatan yang berlipat ganda

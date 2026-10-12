@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:01,920
+ketiganya kini diawasi ketat
+
+2
+00:00:01,920 --> 00:00:04,150
+dengan teknologi pemantauan modern
+
+3
+00:00:04,360 --> 00:00:06,360
+mulai dari jaringan seismik
+
+4
+00:00:06,360 --> 00:00:09,090
+pengukuran satelit gnss sensor gas
+
+5
+00:00:09,280 --> 00:00:10,600
+hingga radar citra satelit
+
+6
+00:00:10,600 --> 00:00:12,550
+yang bekerja tanpa henti

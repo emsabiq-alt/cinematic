@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,520
+para vulkanolog mengukur kekuatan letusan
+
+2
+00:00:02,520 --> 00:00:04,910
+dengan indeks letusan vulkanik
+
+3
+00:00:05,000 --> 00:00:07,150
+sebuah skala dari nol hingga delapan
+
+4
+00:00:07,380 --> 00:00:09,780
+di mana setiap kenaikan angka berarti kekuatan
+
+5
+00:00:09,780 --> 00:00:13,590
+letusan yang berlipat ganda secara eksponensial

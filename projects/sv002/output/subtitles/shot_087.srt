@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,150
+hitungan mundur ini mengajarkan satu hal
+
+2
+00:00:03,260 --> 00:00:05,060
+setiap anak tangga yang tampak raksasa
+
+3
+00:00:05,060 --> 00:00:08,310
+ternyata kerdil di hadapan tangga berikutnya

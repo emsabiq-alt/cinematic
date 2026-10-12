@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,750
+naik satu tingkat
+
+2
+00:00:01,840 --> 00:00:04,690
+peringkat keempat adalah krakatau di selat sunda
+
+3
+00:00:04,800 --> 00:00:06,180
+yang meledak pada tahun seribu
+
+4
+00:00:06,180 --> 00:00:08,630
+delapan ratus delapan puluh tiga

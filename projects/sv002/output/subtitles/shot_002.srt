@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,460
+hari ini kita akan menghitung mundur
+
+2
+00:00:02,460 --> 00:00:05,080
+letusan-letusan terbesar yang pernah dikenal
+
+3
+00:00:05,080 --> 00:00:07,350
+dalam sejarah geologi planet ini

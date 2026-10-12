@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,740
+kita akan bertemu para ilmuwan yang memantau
+
+2
+00:00:02,740 --> 00:00:06,200
+setiap desah napas mereka dengan seismometer satelit
+
+3
+00:00:06,200 --> 00:00:08,207
+dan sensor gas selama dua puluh
+
+4
+00:00:08,207 --> 00:00:10,330
+empat jam penuh tanpa jeda

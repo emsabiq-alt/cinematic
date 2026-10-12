@@ -1,0 +1,636 @@
+{
+  "title": "",
+  "total_shots": 90,
+  "records": [
+    {
+      "shot_id": "shot_001",
+      "chapter": 1,
+      "narration": "Ada letusan gunung berapi yang tidak sekadar menghancurkan sebuah kota, melainkan menulis ulang sejarah iklim seluruh planet Bumi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_001.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_002",
+      "chapter": 1,
+      "narration": "Hari ini kita akan menghitung mundur letusan-letusan terbesar yang pernah dikenal dalam sejarah geologi planet ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_002.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_003",
+      "chapter": 1,
+      "narration": "Untuk memeringkatnya, para ilmuwan mengukur volume material yang disemburkan, dengan satuan yang sederhana namun mengerikan: kilometer kubik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_003.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_004",
+      "chapter": 1,
+      "narration": "Indeks letusan vulkanik membentang dari nol hingga delapan, sebuah skala logaritmik di mana setiap kenaikan angka berarti kekuatan yang berlipat ganda.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_004.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_005",
+      "chapter": 1,
+      "narration": "Ambang skala delapan adalah lebih dari seribu kilometer kubik, setara dengan melarutkan sebuah gunung raksasa ke langit dalam hitungan hari.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_005.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_006",
+      "chapter": 1,
+      "narration": "Peringkat kelima dalam hitungan mundur kita adalah Gunung St. Helens di Amerika, yang meletus dahsyat pada tahun seribu sembilan ratus delapan puluh.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_006.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_007",
+      "chapter": 1,
+      "narration": "Letusan St. Helens berskala lima dengan volume sekitar satu kilometer kubik, dan ia hanyalah satu per lima ribu dari sang juara kita.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_007.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_008",
+      "chapter": 1,
+      "narration": "Namun bahkan letusan sekecil itu meratakan hutan sejauh bermil-mil dengan semburan lateralnya, dan mengguncang seluruh Amerika Serikat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_008.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_009",
+      "chapter": 1,
+      "narration": "Naik satu tingkat: peringkat keempat adalah Krakatau di Selat Sunda, yang meledak pada tahun seribu delapan ratus delapan puluh tiga.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_009.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_010",
+      "chapter": 1,
+      "narration": "Krakatau berskala enam dengan volume sekitar dua puluh lima kilometer kubik, dua puluh lima kali lipat St. Helens.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_010.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_011",
+      "chapter": 1,
+      "narration": "Tsunaminya menerjang pesisir, dan suara ledakannya terdengar hingga ribuan kilometer jauhnya, tercatat sebagai suara terkeras dalam sejarah manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_011.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_012",
+      "chapter": 1,
+      "narration": "Peringkat ketiga adalah Tambora pada tahun seribu delapan ratus lima belas, letusan terbesar yang pernah disaksikan manusia modern.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_012.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_013",
+      "chapter": 1,
+      "narration": "Tambora berskala tujuh dengan volume sekitar seratus enam puluh kilometer kubik, dan memicu Tahun Tanpa Musim Panas pada seribu delapan ratus enam belas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_013.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_014",
+      "chapter": 1,
+      "narration": "Gagal panen melanda dunia, namun bahkan Tambora bukanlah yang terbesar, karena dua raksasa prasejarah menanti di depan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_014.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_015",
+      "chapter": 1,
+      "narration": "Peringkat kedua dihuni oleh dua nama legendaris: Toba dan Yellowstone, keduanya berskala delapan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_015.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_016",
+      "chapter": 1,
+      "narration": "Toba meletus sekitar tujuh puluh empat ribu tahun lalu dengan volume dua ribu delapan ratus kilometer kubik, dan hampir memusnahkan umat manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_016.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_017",
+      "chapter": 1,
+      "narration": "Teori bottleneck genetik yang diajukan Stanley Ambrose pada tahun seribu sembilan ratus sembilan puluh delapan menyebut populasi manusia menyusut drastis akibat letusan itu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_017.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_018",
+      "chapter": 1,
+      "narration": "Namun bahkan Toba yang legendaris itu bukanlah peringkat pertama, karena sang raja sesungguhnya hampir dua kali lipat lebih besar darinya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_018.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_019",
+      "chapter": 2,
+      "narration": "Kita mulai dari bawah tangga raksasa ini, dari sebuah gunung indah di negara bagian Washington yang tampak begitu tenang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_019.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_020",
+      "chapter": 2,
+      "narration": "Pada pagi delapan belas Mei seribu sembilan ratus delapan puluh, gempa mengguncang lereng utara St. Helens hingga runtuh.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_020.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_021",
+      "chapter": 2,
+      "narration": "Seluruh sisi gunung longsor dalam sekejap, memicu semburan lateral superpanas yang melesat menyamping dengan kecepatan mengerikan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_021.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_022",
+      "chapter": 2,
+      "narration": "Hutan pinus berusia ratusan tahun tumbang seperti lidi, diratakan sejauh mata memandang oleh gelombang panas dan abu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_022.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_023",
+      "chapter": 2,
+      "narration": "Kolom abu menjulang menembus stratosfer, dan langit siang berubah menjadi malam di kota-kota sekitarnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_023.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_024",
+      "chapter": 2,
+      "narration": "Inilah wajah letusan skala lima, dan dunia modern untuk pertama kalinya menyaksikan kekuatan penuh sebuah gunung berapi dari dekat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_024.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_025",
+      "chapter": 2,
+      "narration": "Namun ingatlah angka ini baik-baik: satu kilometer kubik, karena setiap raksasa berikutnya akan membuat angka ini terasa seperti mainan anak-anak.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_025.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_026",
+      "chapter": 2,
+      "narration": "Kita menyeberangi Pasifik menuju Selat Sunda, tempat sebuah pulau vulkanik menyimpan dendamnya selama berabad-abad.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_026.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_027",
+      "chapter": 2,
+      "narration": "Pada akhir Agustus seribu delapan ratus delapan puluh tiga, Krakatau meledak dengan kekuatan yang merobek pulau itu sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_027.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_028",
+      "chapter": 2,
+      "narration": "Letusan skala enam ini menyemburkan sekitar dua puluh lima kilometer kubik material, dua puluh lima kali lipat St. Helens.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_028.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_029",
+      "chapter": 2,
+      "narration": "Gelombang tsunami raksasa menerjang pesisir Jawa dan Sumatra, menelan desa-desa pesisir dalam hitungan menit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_029.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_030",
+      "chapter": 2,
+      "narration": "Ledakannya terdengar hingga ribuan kilometer jauhnya, dari Australia hingga Samudra Hindia, sebagai suara terkeras yang pernah tercatat manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_030.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_031",
+      "chapter": 2,
+      "narration": "Gelombang tekanannya mengelilingi bumi berkali-kali, tercatat oleh barometer di seluruh penjuru dunia selama berhari-hari.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_031.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_032",
+      "chapter": 2,
+      "narration": "Matahari terbenam berubah menjadi merah darah selama bertahun-tahun, dilukis oleh abu Krakatau yang melayang di stratosfer.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_032.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_033",
+      "chapter": 2,
+      "narration": "Lebih dari seabad kemudian, Filipina menyaksikan monster modern berikutnya: Pinatubo.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_033.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_034",
+      "chapter": 2,
+      "narration": "Pada tahun seribu sembilan ratus sembilan puluh satu, Pinatubo meletus dengan skala enam, dan abunya mendinginkan suhu global planet ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_034.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_035",
+      "chapter": 2,
+      "narration": "Dari satu kilometer kubik menjadi dua puluh lima: setiap anak tangga skala ini adalah lompatan sepuluh kali lipat yang brutal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_035.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_036",
+      "chapter": 2,
+      "narration": "Namun semua itu hanyalah pemanasan, karena monster-monster modern hanyalah anak tangga bawah dari tangga yang sesungguhnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_036.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_037",
+      "chapter": 3,
+      "narration": "Pada tahun seribu delapan ratus lima belas, sebuah gunung di Sumbawa menulis sejarah kelam umat manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_037.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_038",
+      "chapter": 3,
+      "narration": "Namanya Tambora, dan selama berbulan-bulan ia menggeram, memuntahkan abu, sebelum akhirnya meledak pada bulan April.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_038.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_039",
+      "chapter": 3,
+      "narration": "Puncak gunung itu runtuh ke dalam, meninggalkan kaldera raksasa tempat dulu berdiri ribuan meter batuan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_039.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_040",
+      "chapter": 3,
+      "narration": "Letusannya berskala tujuh dengan volume sekitar seratus enam puluh kilometer kubik, terbesar yang pernah tercatat dalam sejarah manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_040.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_041",
+      "chapter": 3,
+      "narration": "Awan panas meluncur hingga ke laut dan tsunami menerjang pesisir, merenggut korban dalam jumlah yang mengerikan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_041.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_042",
+      "chapter": 3,
+      "narration": "Kolom abunya menjulang puluhan kilometer ke langit, dan tirai belerang mulai menyelimuti seluruh planet.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_042.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_043",
+      "chapter": 3,
+      "narration": "Tahun berikutnya, seribu delapan ratus enam belas, dikenang dunia sebagai Tahun Tanpa Musim Panas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_043.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_044",
+      "chapter": 3,
+      "narration": "Salju turun di bulan Juli di belahan bumi utara, dan tanaman gagal panen dari Eropa hingga Amerika.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_044.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_045",
+      "chapter": 3,
+      "narration": "Kelaparan melanda, wabah menyebar, dan penderitaan menjalar ke berbagai benua tanpa ampun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_045.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_046",
+      "chapter": 3,
+      "narration": "Bahkan dunia sastra pun lahir dari kegelapan itu: novel Frankenstein ditulis pada musim panas yang tak pernah datang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_046.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_047",
+      "chapter": 3,
+      "narration": "Tambora mengubah iklim planet ini selama setahun penuh, dan manusia mencatatnya sebagai bencana vulkanik terbesar dalam sejarah tertulis.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_047.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_048",
+      "chapter": 3,
+      "narration": "Namun inilah ironi yang mengerikan: Tambora hanyalah peringkat ketiga, dan ia terpaut jauh dari dua raksasa di atasnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_048.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_049",
+      "chapter": 3,
+      "narration": "Seratus enam puluh kilometer kubik berbanding lima ribu: sang juara lebih dari tiga puluh kali lipat lebih besar dari Tambora.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_049.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_050",
+      "chapter": 3,
+      "narration": "Dua raksasa berikutnya meletus sebelum manusia mengenal tulisan, sebelum peradaban, sebelum sejarah itu sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_050.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_051",
+      "chapter": 3,
+      "narration": "Saksi satu-satunya adalah lapisan abu di dasar laut, inti es di kutub, dan kode genetik di dalam tubuh kita.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_051.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_052",
+      "chapter": 3,
+      "narration": "Untuk memeringkat mereka, sains membaca arsip bumi yang ditulis dengan bahasa batuan dan es.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_052.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_053",
+      "chapter": 3,
+      "narration": "Kita kini melangkah mundur puluhan ribu tahun, ke sebuah danau raksasa di Sumatra.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_053.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_054",
+      "chapter": 3,
+      "narration": "Tujuh puluh empat ribu tahun yang lalu, danau itu adalah kawah neraka yang menelan langit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_054.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_055",
+      "chapter": 4,
+      "narration": "Namanya Toba, supervolcano yang kini tidur di bawah danau indah di Sumatra Utara.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_055.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_056",
+      "chapter": 4,
+      "narration": "Letusannya berskala delapan dengan volume sekitar dua ribu delapan ratus kilometer kubik, sekitar tujuh belas kali lipat Tambora.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_056.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_057",
+      "chapter": 4,
+      "narration": "Lapisan abu Toba ditemukan hingga ke India, ribuan kilometer jauhnya dari sumber letusannya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_057.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_058",
+      "chapter": 4,
+      "narration": "Musim dingin vulkanik pun tiba: langit gelap bertahun-tahun, suhu global anjlok, tumbuhan mati di berbagai benua.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_058.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_059",
+      "chapter": 4,
+      "narration": "Inilah saat tergelap umat manusia, ketika populasi kita menyusut drastis hingga nyaris punah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_059.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_060",
+      "chapter": 4,
+      "narration": "Teori bottleneck genetik yang diajukan Stanley Ambrose pada tahun seribu sembilan ratus sembilan puluh delapan menyebut kita semua adalah keturunan dari segelintir penyintas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_060.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_061",
+      "chapter": 4,
+      "narration": "Setiap manusia yang hidup hari ini membawa warisan letusan Toba di dalam DNA-nya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_061.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_062",
+      "chapter": 4,
+      "narration": "Namun bahkan Toba bukanlah yang terbesar, karena dua ribu delapan ratus kilometer kubik masih kalah dari lima ribu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_062.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_063",
+      "chapter": 4,
+      "narration": "Sang juara hampir dua kali lipat Toba, dan nama yang lebih terkenal pun tak mampu menandinginya: Yellowstone.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_063.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_064",
+      "chapter": 4,
+      "narration": "Yellowstone terakhir meletus membentuk kaldera sekitar enam ratus empat puluh ribu tahun lalu, dengan volume sekitar dua ribu lima ratus kilometer kubik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_064.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_065",
+      "chapter": 4,
+      "narration": "Ia dipantau ketat, dibintangi film-film bencana, dan ditakuti jutaan orang, namun rekornya pun runtuh di hadapan sang raja.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_065.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_066",
+      "chapter": 4,
+      "narration": "Letusan La Garita lebih dari dua kali lipat letusan kaldera terakhir Yellowstone.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_066.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_067",
+      "chapter": 4,
+      "narration": "Toba dan Yellowstone adalah raksasa zaman es, namun kita harus mundur jauh lebih dalam: dua puluh delapan juta tahun ke masa lalu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_067.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_068",
+      "chapter": 4,
+      "narration": "Saat itu Colorado bukanlah pegunungan bersalju seperti sekarang, melainkan medan vulkanik San Juan yang bergolak hebat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_068.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_069",
+      "chapter": 4,
+      "narration": "Di era Oligosen, kawasan itu dilanda badai ignimbrit, letusan-letusan raksasa yang datang silih berganti.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_069.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_070",
+      "chapter": 4,
+      "narration": "Di bawah Pegunungan San Juan, sebuah dapur magma membengkak hingga ukuran yang mustahil.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_070.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_071",
+      "chapter": 4,
+      "narration": "Tekanan menumpuk selama ribuan tahun, dan kerak bumi pun tak lagi sanggup menahannya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_071.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_072",
+      "chapter": 4,
+      "narration": "Apa yang terjadi selanjutnya adalah ledakan tunggal terbesar yang pernah diketahui dalam sejarah geologi Bumi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_072.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_073",
+      "chapter": 5,
+      "narration": "Dua puluh delapan juta tahun yang lalu, bumi bersiap meledakkan mahakaryanya yang paling dahsyat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_073.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_074",
+      "chapter": 5,
+      "narration": "Letusan Fish Canyon Tuff pun dimulai, dan dalam hitungan hari ia menyemburkan sekitar lima ribu kilometer kubik material vulkanik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_074.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_075",
+      "chapter": 5,
+      "narration": "Lima ribu kilometer kubik: cukup untuk mengisi seluruh Danau Michigan hingga penuh.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_075.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_076",
+      "chapter": 5,
+      "narration": "Gunung itu tidak meledak ke atas, melainkan runtuh ke dalam, meninggalkan kaldera raksasa selebar seratus kali tiga puluh lima kilometer.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_076.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_077",
+      "chapter": 5,
+      "narration": "Awan panas melesat ratusan kilometer ke segala arah, membakar dan mengubur apa pun yang dilaluinya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_077.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_078",
+      "chapter": 5,
+      "narration": "Abu menyelimuti sebuah benua, langit menggelap, dan musim dingin vulkanik mencengkeram planet ini selama bertahun-tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_078.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_079",
+      "chapter": 5,
+      "narration": "Para ilmuwan menyebutnya peristiwa paling energik di Bumi sejak tumbukan asteroid Chicxulub yang memusnahkan dinosaurus.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_079.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_080",
+      "chapter": 5,
+      "narration": "Inilah tangga terakhir hitungan mundur kita: lima ribu kali St. Helens, dua ratus kali Krakatau, lebih dari tiga puluh kali Tambora, dan hampir dua kali lipat Toba.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_080.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_081",
+      "chapter": 5,
+      "narration": "Beberapa peneliti bahkan mengusulkan skala sembilan koma dua untuknya, namun skala resmi indeks letusan vulkanik mentok di angka delapan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_081.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_082",
+      "chapter": 5,
+      "narration": "La Garita adalah puncak dari badai ignimbrit Oligosen, era ketika Amerika bagian barat menjadi tungku raksasa planet ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_082.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_083",
+      "chapter": 5,
+      "narration": "Lalu mengapa hampir tak ada yang mengenal namanya? Karena ia meletus dua puluh delapan juta tahun sebelum manusia pertama membuka matanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_083.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_084",
+      "chapter": 5,
+      "narration": "Yellowstone mendapat film-film Hollywood, sementara La Garita yang memegang rekor dunia justru dilupakan sejarah populer.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_084.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_085",
+      "chapter": 5,
+      "narration": "Mungkinkah ia terulang? Sistem supervolcano masih ada di bumi, dan para ilmuwan terus memantau mereka siang dan malam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_085.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_086",
+      "chapter": 5,
+      "narration": "Bumi mencatat skornya dengan batu, bukan dengan berita utama, dan catatannya tidak pernah berbohong.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_086.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_087",
+      "chapter": 5,
+      "narration": "Hitungan mundur ini mengajarkan satu hal: setiap anak tangga yang tampak raksasa ternyata kerdil di hadapan tangga berikutnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_087.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_088",
+      "chapter": 5,
+      "narration": "Dari satu kilometer kubik menjadi lima ribu: inilah skala kekerasan sejati sebuah planet yang hidup.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_088.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_089",
+      "chapter": 5,
+      "narration": "Sang raja letusan tidur di Pegunungan San Juan, Colorado, dan geologi tidak pernah melupakan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_089.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_090",
+      "chapter": 5,
+      "narration": "Terima kasih telah menonton sampai akhir, bagikan film ini agar semakin banyak orang mengenal sang raja yang terlupakan, dan sampai jumpa di petualangan Banyak Tau berikutnya yang lebih seru.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv002/output/flow_images/shot_090.png",
+      "status": "ready"
+    }
+  ]
+}

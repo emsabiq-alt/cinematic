@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:02,960
+intrusi magma sepanjang tiga belas kilometer
+
+2
+00:00:02,960 --> 00:00:04,710
+merambat di bawah dasar laut
+
+3
+00:00:04,780 --> 00:00:05,844
+membawa nol koma tiga
+
+4
+00:00:05,844 --> 00:00:07,820
+satu kilometer kubik magma
+
+5
+00:00:07,820 --> 00:00:09,920
+lalu berhenti tiga hingga lima kilometer
+
+6
+00:00:09,920 --> 00:00:12,530
+di bawah permukaan tanpa meletus

@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,850
+zona merah telah ditetapkan secara resmi
+
+2
+00:00:03,120 --> 00:00:05,430
+jalur evakuasi dilatih berulang kali
+
+3
+00:00:05,640 --> 00:00:07,420
+dan simulasi bencana digelar rutin
+
+4
+00:00:07,420 --> 00:00:08,980
+agar warga tahu ke mana
+
+5
+00:00:08,980 --> 00:00:11,230
+harus pergi saat bahaya datang

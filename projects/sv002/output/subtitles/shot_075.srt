@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,200
+lima ribu kilometer kubik
+
+2
+00:00:02,200 --> 00:00:03,460
+cukup untuk mengisi seluruh
+
+3
+00:00:03,460 --> 00:00:05,470
+danau michigan hingga penuh

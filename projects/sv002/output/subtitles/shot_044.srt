@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,600
+salju turun di bulan juli
+
+2
+00:00:01,600 --> 00:00:02,740
+di belahan bumi utara
+
+3
+00:00:02,740 --> 00:00:04,380
+dan tanaman gagal panen
+
+4
+00:00:04,380 --> 00:00:06,290
+dari eropa hingga amerika

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,565
+pada pagi delapan belas mei
+
+2
+00:00:01,565 --> 00:00:03,090
+seribu sembilan ratus delapan puluh
+
+3
+00:00:04,080 --> 00:00:05,400
+gempa mengguncang lereng utara
+
+4
+00:00:05,400 --> 00:00:07,470
+saint helens hingga runtuh

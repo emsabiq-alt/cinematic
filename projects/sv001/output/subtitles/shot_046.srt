@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,030
+pada tahun dua ribu dua puluh dua
+
+2
+00:00:02,520 --> 00:00:05,120
+para ilmuwan menemukan dapur magma sedalam dua
+
+3
+00:00:05,120 --> 00:00:08,170
+hingga empat kilometer di bawah dasar laut
+
+4
+00:00:08,260 --> 00:00:11,390
+bervolume sekitar satu koma empat kilometer kubik

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,020
+untuk memeringkatnya para ilmuwan mengukur
+
+2
+00:00:03,020 --> 00:00:05,050
+volume material yang disemburkan
+
+3
+00:00:05,220 --> 00:00:06,580
+dengan satuan yang sederhana
+
+4
+00:00:06,580 --> 00:00:09,250
+namun mengerikan kilometer kubik

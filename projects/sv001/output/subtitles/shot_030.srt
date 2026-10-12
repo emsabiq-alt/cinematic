@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,060
+kegelisahan itu disertai gempa
+
+2
+00:00:02,060 --> 00:00:03,920
+bumi yang semakin kuat
+
+3
+00:00:03,920 --> 00:00:06,400
+termasuk gempa bermagnitudo empat koma empat
+
+4
+00:00:06,400 --> 00:00:08,747
+yang mengguncang wilayah ini pada mei
+
+5
+00:00:08,747 --> 00:00:10,630
+dua ribu dua puluh empat

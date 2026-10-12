@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,360
+di napoli anak-anak sekolah
+
+2
+00:00:02,360 --> 00:00:03,840
+kini belajar tentang kaldera
+
+3
+00:00:03,840 --> 00:00:06,073
+raksasa di bawah kota mereka
+
+4
+00:00:06,073 --> 00:00:09,460
+sebagaimana mereka belajar tentang sejarah dan matematika
+
+5
+00:00:09,460 --> 00:00:11,910
+setiap hari di sekolah dengan serius

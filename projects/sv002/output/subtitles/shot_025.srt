@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,820
+namun ingatlah angka ini baik-baik
+
+2
+00:00:02,820 --> 00:00:04,360
+satu kilometer kubik
+
+3
+00:00:04,360 --> 00:00:06,920
+karena setiap raksasa berikutnya akan membuat
+
+4
+00:00:06,920 --> 00:00:10,150
+angka ini terasa seperti mainan anak-anak

@@ -35,6 +35,44 @@ FLOW_DIR.mkdir(parents=True, exist_ok=True)
 (BASE / "output").mkdir(parents=True, exist_ok=True)
 
 
+def _download_resumable(url, out_path, timeout=40, tries=5):
+    """Unduh URL gambar dengan toleransi koneksi terputus di tengah jalan.
+
+    Jalur egress (proxy TLS-inspecting) rutin memutus respons biner besar di
+    tengah transfer (IncompleteRead). Daripada membuang hasil parsial lalu
+    meregenerasi gambar baru di Flow (boros kuota), lanjutkan dengan HTTP
+    Range dari byte terakhir yang sudah tersimpan.
+    """
+    base_headers = {"User-Agent": "Mozilla/5.0", "Referer": "https://flow.google.com/"}
+    last_exc = None
+    for attempt in range(tries):
+        have = out_path.stat().st_size if out_path.exists() else 0
+        headers = dict(base_headers)
+        if have > 0:
+            headers["Range"] = f"bytes={have}-"
+        req = urllib.request.Request(url, headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                if have > 0 and r.status == 200:
+                    # Server mengabaikan Range: mulai lagi dari byte 0.
+                    have = 0
+                mode = "ab" if have > 0 else "wb"
+                with open(out_path, mode) as f:
+                    while True:
+                        chunk = r.read(65536)
+                        if not chunk:
+                            break
+                        f.write(chunk)
+                        have += len(chunk)
+            return have
+        except Exception as e:  # noqa: BLE001 - resume on any transport error
+            last_exc = e
+            print(f"  → Unduhan terputus ({have} bytes: {e}); menyambung...",
+                  flush=True)
+            time.sleep(4 * (attempt + 1))
+    raise IOError(f"Unduhan gagal setelah {tries} upaya: {last_exc}")
+
+
 class GoogleFlowRunner:
     def __init__(self, port=CDP_PORT):
         self.port = port
@@ -159,12 +197,8 @@ class GoogleFlowRunner:
         if not new_url:
             raise TimeoutError(f"Flow tidak menyelesaikan gambar dalam {timeout}s.")
 
-        req = urllib.request.Request(
-            new_url.replace("&amp;", "&"),
-            headers={"User-Agent": "Mozilla/5.0", "Referer": "https://flow.google.com/"}
-        )
-        with urllib.request.urlopen(req, timeout=40) as r, open(out_png, "wb") as f:
-            f.write(r.read())
+        # Unduhan resumable: koneksi proxy sering terputus di tengah transfer.
+        _download_resumable(new_url.replace("&amp;", "&"), out_png)
 
         # Content-aware edge energy full-bleed cropping
         try:

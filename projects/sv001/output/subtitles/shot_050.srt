@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,756
+sebuah studi tahun dua ribu dua
+
+2
+00:00:01,756 --> 00:00:04,660
+puluh lima mengungkap fakta yang mengejutkan
+
+3
+00:00:04,660 --> 00:00:08,160
+santorini dan kolumbo terhubung secara hidraulik dalam
+
+4
+00:00:08,160 --> 00:00:10,970
+satu sistem magma raksasa yang sama

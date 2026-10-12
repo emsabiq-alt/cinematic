@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,120
+gelombang tsunami raksasa menerjang
+
+2
+00:00:02,120 --> 00:00:04,030
+pesisir jawa dan sumatra
+
+3
+00:00:04,200 --> 00:00:07,050
+menelan desa-desa pesisir dalam hitungan menit
