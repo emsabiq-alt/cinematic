@@ -298,6 +298,29 @@ def align_chapter(project_dir, babak_num, whisper_model=None):
     return wav_p, srt_p, shot_timings
 
 
+def _validate_images_or_raise(project, shot_timings):
+    """Validasi semua gambar shot bisa dibuka penuh via PIL sebelum render.
+
+    Pelajaran 12 Okt 2026: 21 gambar truncated lolos cek ukuran (>50KB) lalu
+    membuat ffmpeg HANG 4 jam di babak 4 (bukan error, tapi hang). Validasi
+    ini menggagalkan render di awal dengan pesan jelas, bukan hang diam-diam.
+    """
+    from PIL import Image
+    bad = []
+    for item in shot_timings:
+        img = project / "output" / "flow_images" / item["image"]
+        try:
+            with Image.open(img) as im:
+                im.load()
+        except Exception as e:
+            bad.append(f"{item['image']}: {e}")
+    if bad:
+        raise RuntimeError(
+            f"{len(bad)} gambar rusak/truncated, render dibatalkan agar tidak hang:\n"
+            + "\n".join(bad[:10])
+        )
+
+
 def render_babak_video(project_dir, babak_num, whisper_model=None):
     project = Path(project_dir).resolve()
     temp_dir = project / "export" / "temp_assembly"
@@ -306,6 +329,9 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
 
     wav_p, srt_p, shot_timings = align_chapter(project, babak_num, whisper_model)
     total_dur = wav_dur(wav_p)
+
+    # Anti-hang: validasi gambar dulu sebelum ffmpeg disentuh.
+    _validate_images_or_raise(project, shot_timings)
 
     print(f"\n=== RENDERING BABAK {babak_num} VISUAL TRACK ({total_dur:.1f}s) ===", flush=True)
     # Render individual image clips with subtle zoompan and xfade extension
@@ -338,7 +364,7 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
             "-t", f"{dur:.3f}",
             str(out_c)
         ]
-        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True, timeout=300)
         clip_paths.append(out_c)
         clip_durations.append(dur)
 
@@ -367,7 +393,7 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
             "-t", f"{total_dur:.3f}",
             str(xfaded_track)
         ]
-        subprocess.run(cmd_xfade, check=True)
+        subprocess.run(cmd_xfade, check=True, timeout=1200)
         video_input = str(xfaded_track.relative_to(project)).replace("\\", "/")
         input_args = ["-i", video_input]
     else:
@@ -445,7 +471,7 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
         "-t", f"{total_dur:.3f}",
         out_babak_rel
     ]
-    subprocess.run(comp_cmd, cwd=str(project), check=True)
+    subprocess.run(comp_cmd, cwd=str(project), check=True, timeout=600)
     print(f"✓ Babak {babak_num} visual track ready: {out_babak.name} ({out_babak.stat().st_size/1048576:.1f} MB)", flush=True)
 
     # Attach Chapter Bridge Title Card (Clean optical cut: bridge finishes film burn, lalu narasi mulai jernih 100%)
@@ -461,7 +487,7 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
             "-c:a", "aac", "-ar", "48000", "-ac", "2", "-b:a", "192k",
             str(final_babak)
         ]
-        subprocess.run(cmd_bridge, check=True)
+        subprocess.run(cmd_bridge, check=True, timeout=600)
         print(f"✓ Clean optical cut bridge -> {final_babak.name}", flush=True)
     else:
         shutil.copy(str(out_babak), str(final_babak))
@@ -501,7 +527,7 @@ def assemble_all_chapters(project_dir):
         bf = render_babak_video(project, b_num, whisper_model)
         chapter_offsets.append(running_dur)
         cmd_dur = ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", str(bf)]
-        r = subprocess.run(cmd_dur, capture_output=True, text=True)
+        r = subprocess.run(cmd_dur, capture_output=True, text=True, timeout=60)
         d = float(r.stdout.strip()) if r.stdout.strip() else 0.0
         running_dur += d
         babak_files.append(bf)
@@ -520,7 +546,7 @@ def assemble_all_chapters(project_dir):
     subprocess.run([
         "ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_list),
         "-c", "copy", str(merged_no_music)
-    ], check=True)
+    ], check=True, timeout=600)
 
     # Master background music with sidechain ducking & chapter fanfare
     bg_music = project / "assets" / "music" / "bg_main_dark_cinematic.mp3"
@@ -566,7 +592,7 @@ def assemble_all_chapters(project_dir):
         "-shortest",
         str(final_master)
     ]
-    subprocess.run(cmd, check=True)
+    subprocess.run(cmd, check=True, timeout=1800)
 
     dur = wav_dur(final_master) if final_master.suffix == ".wav" else 0
     size_mb = final_master.stat().st_size / 1048576
