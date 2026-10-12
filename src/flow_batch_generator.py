@@ -42,7 +42,34 @@ def _download_resumable(url, out_path, timeout=40, tries=5):
     tengah transfer (IncompleteRead). Daripada membuang hasil parsial lalu
     meregenerasi gambar baru di Flow (boros kuota), lanjutkan dengan HTTP
     Range dari byte terakhir yang sudah tersimpan.
+
+    Setelah unduhan selesai, verifikasi integritas: bandingkan dengan
+    Content-Length (bila server memberikannya) dan cek magic bytes
+    (PNG/JPEG). File yang gagal verifikasi dihapus dan diunduh ulang dari
+    awal — file parsial TIDAK BOLEH lolos sebagai "selesai".
     """
+    def _verify(path):
+        """Return True jika file adalah gambar utuh (PNG/JPEG)."""
+        try:
+            data = path.read_bytes()[:8]
+        except OSError:
+            return False
+        if len(data) < 8:
+            return False
+        is_png = data[:8] == b"\x89PNG\r\n\x1a\n"
+        is_jpeg = data[:2] == b"\xff\xd8"
+        if not (is_png or is_jpeg):
+            return False
+        # Untuk JPEG, pastikan end-of-image marker ada di akhir file.
+        if is_jpeg:
+            try:
+                tail = path.read_bytes()[-2:]
+            except OSError:
+                return False
+            if tail != b"\xff\xd9":
+                return False
+        return True
+
     base_headers = {"User-Agent": "Mozilla/5.0", "Referer": "https://flow.google.com/"}
     last_exc = None
     for attempt in range(tries):
@@ -51,11 +78,17 @@ def _download_resumable(url, out_path, timeout=40, tries=5):
         if have > 0:
             headers["Range"] = f"bytes={have}-"
         req = urllib.request.Request(url, headers=headers)
+        expected_total = None
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 if have > 0 and r.status == 200:
                     # Server mengabaikan Range: mulai lagi dari byte 0.
                     have = 0
+                # Content-Length untuk respons 206 adalah sisa bytes;
+                # total ekspektasi = have + content-length.
+                clen = r.headers.get("Content-Length")
+                if clen and clen.isdigit():
+                    expected_total = have + int(clen)
                 mode = "ab" if have > 0 else "wb"
                 with open(out_path, mode) as f:
                     while True:
@@ -64,11 +97,27 @@ def _download_resumable(url, out_path, timeout=40, tries=5):
                             break
                         f.write(chunk)
                         have += len(chunk)
-            return have
+            # Verifikasi integritas setelah transfer selesai.
+            final_size = out_path.stat().st_size if out_path.exists() else 0
+            if expected_total and final_size != expected_total:
+                raise IOError(
+                    f"Ukuran tidak cocok: dapat {final_size}, harap {expected_total} "
+                    f"(transfer terpotong)"
+                )
+            if not _verify(out_path):
+                raise IOError("File bukan gambar utuh (magic bytes / EOF marker salah)")
+            return final_size
         except Exception as e:  # noqa: BLE001 - resume on any transport error
             last_exc = e
-            print(f"  → Unduhan terputus ({have} bytes: {e}); menyambung...",
+            print(f"  → Unduhan bermasalah ({have} bytes: {e}); menyambung...",
                   flush=True)
+            # Hapus file parsial yang gagal verifikasi agar retry mulai bersih
+            # bila server tidak mendukung Range dengan benar.
+            try:
+                if out_path.exists() and not _verify(out_path):
+                    out_path.unlink()
+            except OSError:
+                pass
             time.sleep(4 * (attempt + 1))
     raise IOError(f"Unduhan gagal setelah {tries} upaya: {last_exc}")
 
