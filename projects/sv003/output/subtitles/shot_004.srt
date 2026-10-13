@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,030
+di permukaan patahan ini
+
+2
+00:00:02,040 --> 00:00:04,250
+kedua lempeng tidak selalu meluncur mulus
+
+3
+00:00:04,300 --> 00:00:07,510
+sebagian patahan justru terkunci dan menolak bergerak

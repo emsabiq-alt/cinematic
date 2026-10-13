@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,082
+dan saat bencana terjadi
+
+2
+00:00:02,082 --> 00:00:05,055
+ikuti selalu informasi resmi dari bmkg
+
+3
+00:00:05,055 --> 00:00:07,682
+bukan kabar yang belum terverifikasi

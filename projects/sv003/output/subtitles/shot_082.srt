@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,424
+bangunan tahan gempa
+
+2
+00:00:01,424 --> 00:00:03,189
+jalur evakuasi yang jelas
+
+3
+00:00:03,189 --> 00:00:05,395
+dan titik kumpul yang diketahui
+
+4
+00:00:05,395 --> 00:00:07,752
+semua orang adalah benteng berikutnya

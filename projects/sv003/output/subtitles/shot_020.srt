@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,350
+kekuatannya sembilan koma lima
+
+2
+00:00:02,400 --> 00:00:03,680
+gempa terbesar yang pernah
+
+3
+00:00:03,680 --> 00:00:06,050
+tercatat dalam sejarah manusia

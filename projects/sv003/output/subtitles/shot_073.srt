@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,876
+pertanyaan yang paling sering diajukan adalah
+
+2
+00:00:02,876 --> 00:00:05,801
+kapan gempa besar itu akan terjadi?

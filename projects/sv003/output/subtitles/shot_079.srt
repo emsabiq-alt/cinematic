@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,841
+segera evakuasi ke tempat yang tinggi
+
+2
+00:00:02,841 --> 00:00:05,732
+sejauh mungkin dari pesisir secepat mungkin

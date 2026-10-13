@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,242
+segmen enggano delapan koma empat
+
+2
+00:00:02,242 --> 00:00:03,955
+jawa barat hingga jawa
+
+3
+00:00:03,955 --> 00:00:05,669
+tengah delapan koma tujuh
+
+4
+00:00:05,669 --> 00:00:07,961
+jawa timur delapan koma tujuh

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,100
+gelombang pertama tiba di pesisir
+
+2
+00:00:02,100 --> 00:00:03,440
+barat aceh sekitar empat puluh
+
+3
+00:00:03,440 --> 00:00:06,090
+lima menit setelah gempa berhenti

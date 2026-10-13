@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,160
+gempa berkekuatan sembilan koma satu
+
+2
+00:00:02,160 --> 00:00:03,580
+hingga sembilan koma tiga
+
+3
+00:00:03,580 --> 00:00:06,870
+dengan kedalaman sekitar tiga puluh kilometer

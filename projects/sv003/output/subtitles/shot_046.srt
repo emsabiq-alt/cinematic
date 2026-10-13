@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,860
+tidak ada peringatan dini
+
+2
+00:00:01,860 --> 00:00:03,010
+tidak ada sirene
+
+3
+00:00:03,020 --> 00:00:04,520
+hanya laut yang surut tiba-tiba
+
+4
+00:00:04,520 --> 00:00:06,290
+lalu datang dinding air

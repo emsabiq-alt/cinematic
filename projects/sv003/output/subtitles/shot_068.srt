@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,322
+segmen sumba delapan koma lima
+
+2
+00:00:02,322 --> 00:00:04,544
+sulawesi utara delapan koma tujuh
+
+3
+00:00:04,544 --> 00:00:06,916
+dan papua delapan koma tujuh

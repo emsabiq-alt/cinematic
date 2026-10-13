@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:03,030
+dan ketika patahan yang terkunci akhirnya lepas
+
+2
+00:00:03,280 --> 00:00:06,390
+pelepasan energinya terjadi dalam hitungan menit

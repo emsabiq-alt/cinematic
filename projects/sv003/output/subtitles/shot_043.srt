@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,000
+di pesisir gelombang setinggi
+
+2
+00:00:02,000 --> 00:00:03,090
+lima belas hingga tiga
+
+3
+00:00:03,090 --> 00:00:05,530
+puluh meter menghantam tanpa ampun

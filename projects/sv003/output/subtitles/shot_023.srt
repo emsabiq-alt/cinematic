@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,690
+lalu ada alaska
+
+2
+00:00:01,820 --> 00:00:03,270
+dua puluh delapan maret seribu
+
+3
+00:00:03,270 --> 00:00:05,070
+sembilan ratus enam puluh empat
+
+4
+00:00:05,180 --> 00:00:07,390
+yang jatuh pada hari jumat agung

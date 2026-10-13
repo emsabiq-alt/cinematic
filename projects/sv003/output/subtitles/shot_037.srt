@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,280
+pukul tujuh lewat lima puluh delapan
+
+2
+00:00:02,280 --> 00:00:04,390
+menit pagi waktu indonesia barat
+
+3
+00:00:04,460 --> 00:00:06,730
+dasar laut di barat daya aceh pecah

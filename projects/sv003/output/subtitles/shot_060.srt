@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,413
+terakhir kali ia pecah adalah tahun
+
+2
+00:00:02,413 --> 00:00:04,727
+seribu tujuh ratus sembilan puluh tujuh
+
+3
+00:00:04,727 --> 00:00:06,269
+dua ratus dua puluh
+
+4
+00:00:06,269 --> 00:00:07,961
+tujuh tahun yang lalu
