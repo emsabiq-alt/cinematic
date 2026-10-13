@@ -308,12 +308,12 @@ def _validate_images_or_raise(project, shot_timings):
     from PIL import Image
     bad = []
     for item in shot_timings:
-        img = project / "output" / "flow_images" / item["image"]
+        img = project / "output" / "flow_images" / item["img"]
         try:
             with Image.open(img) as im:
                 im.load()
         except Exception as e:
-            bad.append(f"{item['image']}: {e}")
+            bad.append(f"{item['img']}: {e}")
     if bad:
         raise RuntimeError(
             f"{len(bad)} gambar rusak/truncated, render dibatalkan agar tidak hang:\n"
