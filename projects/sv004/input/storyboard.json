@@ -1,0 +1,726 @@
+{
+  "style": "Full-Bleed 16:9 Cinematic 35mm Roman Ash Documentary, Ash and Ember; volcanic ash gray and ember orange, scorched umber and marble white, dramatic chiaroscuro",
+  "description": "Storyboard 90 shot dokumenter sinematik 'POMPEII: Kota yang Dibekukan Waktu' — dari kejayaan Pompeii dan Herculaneum, letusan Vesuvius 79 M (fase Plinian dan arus piroklastik), penggalian dan cetakan gips Fiorelli, hingga Vesuvius modern dengan tiga juta jiwa di zona merah.",
+  "shots": [
+    {
+      "id": "shot_001",
+      "chapter": 1,
+      "narration": "Di sebuah siang di tahun tujuh puluh sembilan Masehi, dua kota Romawi yang makmur berdiri di tepi Teluk Napoli, di kaki sebuah gunung yang tampak tenang dan hijau.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the Bay of Naples in 79 AD, two thriving Roman port cities along a curved coastline beneath a green, forested Mount Vesuvius, white sails on calm blue water, Roman villas with terracotta roofs Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "chapter": 1,
+      "narration": "Namanya Pompeii: kota pelabuhan yang hidup, dengan forum yang ramai, vila-vila mewah, dan jalan-jalan batu yang dipadati pedagang serta kereta kuda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide view of Pompeii's bustling forum and stone streets, Roman merchants with carts and amphorae, marble columns and temples, citizens in togas under bright Mediterranean sun Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_003",
+      "chapter": 1,
+      "narration": "Tak jauh dari sana, Herculaneum yang lebih kecil namun elok, tempat para bangsawan Roma membangun vila tepi laut menghadap birunya teluk.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Elegant seaside villas of Herculaneum on a terraced cliff above the sea, mosaic courtyards, wealthy Romans strolling, fishing boats below, serene coastal beauty Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_004",
+      "chapter": 1,
+      "narration": "Di antara keduanya menjulang Gunung Vesuvius, tampak seperti gunung biasa yang berhutan, dan tak seorang pun tahu bahwa ia adalah gunung berapi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mount Vesuvius looming green and peaceful above Roman rooftops, vineyards on its slopes, no smoke, a mountain that looks like any other, deceptive calm Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_005",
+      "chapter": 1,
+      "narration": "Vesuvius telah tertidur selama ratusan tahun; bagi penduduk Campania, ia hanyalah latar pemandangan, bukan ancaman.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close aerial glide over Vesuvius's forested summit, wildflowers and pine trees on the crater rim, birds circling, an ancient volcano asleep and forgotten Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_006",
+      "chapter": 1,
+      "narration": "Gunung ini berdiri sekitar sembilan kilometer di timur kota Napoli, di jantung wilayah Campania, Italia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style aerial of Campania coastline, Mount Vesuvius east of Naples, patchwork of Roman farms, roads and aqueducts spreading across the plain Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_007",
+      "chapter": 1,
+      "narration": "Tujuh belas tahun sebelum hari itu, tepatnya tahun enam puluh dua Masehi, gempa besar mengguncang kawasan ini dan merusak banyak bangunan di Pompeii.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Roman buildings shaking and collapsing in the great earthquake of 62 AD, cracked walls, toppled columns, dust rising over Pompeii, citizens fleeing in panic Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "chapter": 1,
+      "narration": "Kota itu dibangun kembali dengan megah, seolah bencana hanyalah gangguan sementara dalam kejayaan Roma.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Reconstruction of Pompeii after the earthquake, scaffolds around temples, stonemasons carving marble, fresh plaster on walls, a city reborn in pride Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_009",
+      "chapter": 1,
+      "narration": "Pada hari-hari menjelang letusan, getaran-getaran kecil terasa berulang kali, namun warga menganggapnya hal biasa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A Roman family pausing as a small tremor rattles their villa, wine trembling in a cup, unconcerned faces, everyday life undisturbed by the warning Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_010",
+      "chapter": 1,
+      "narration": "Plinius Muda kelak menulis bahwa gempa kecil sering terjadi di Campania, sehingga tak seorang pun merasa perlu khawatir.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a hand writing on papyrus with a reed pen, Latin script forming, an oil lamp glowing beside the scroll, the birth of history's oldest disaster account Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_011",
+      "chapter": 1,
+      "narration": "Di Misenum, di seberang teluk, seorang pemuda tujuh belas tahun bernama Plinius Muda menjalani harinya seperti biasa, tanpa tahu ia akan menjadi saksi sejarah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A thoughtful seventeen-year-old Roman youth on a terrace at Misenum across the bay, gazing toward distant Vesuvius, unaware of his destiny as history's witness Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_012",
+      "chapter": 1,
+      "narration": "Pamannya, Plinius Tua, adalah salah satu ilmuwan terbesar Roma, penulis sejarah alam, sekaligus laksamana armada Romawi yang berpangkalan di Misenum.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pliny the Elder in admiral's cloak studying scrolls in his study at Misenum, shelves of papyrus, maps of the natural world, Roman warships anchored in the harbor below Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_013",
+      "chapter": 1,
+      "narration": "Pagi itu pasar Pompeii ramai seperti biasa; roti dipanggang di oven-oven batu, dan para nelayan Herculaneum menurunkan perahu mereka ke laut.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Busy Pompeii market at morning, bakers sliding loaves into stone ovens, fishermen pushing boats into the surf at Herculaneum, vibrant daily life in full motion Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "chapter": 1,
+      "narration": "Anak-anak bermain di jalanan, para budak mengangkut amfora berisi anggur dan minyak zaitun, dan kehidupan berjalan tanpa firasat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Roman children playing in a sunlit Pompeii street, slaves carrying amphorae of wine and olive oil, laundry lines overhead, ordinary joy before the storm Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_015",
+      "chapter": 1,
+      "narration": "Tak ada yang menyadari bahwa jauh di bawah kaki mereka, tekanan raksasa telah menumpuk selama berabad-abad, menunggu saat untuk pecah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section beneath Vesuvius, a glowing magma chamber swelling with pressure, cracks spidering upward through dark rock, invisible menace under peaceful streets Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "chapter": 1,
+      "narration": "Di langit yang cerah itu, tak ada tanda apa pun bahwa siang tersebut akan dikenang selama dua ribu tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Brilliant clear sky over the Bay of Naples, seagulls over the harbor, white clouds drifting, deceptive perfection before catastrophe Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_017",
+      "chapter": 1,
+      "narration": "Pompeii dan Herculaneum, dengan total penduduk lebih dari dua puluh ribu jiwa, sedang menjalani hari terakhir mereka sebagai kota yang hidup.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Slow crane shot over rooftops of Pompeii at midday, smoke from cooking fires, crowds in the streets, a thriving city unaware it is living its final hours Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "chapter": 1,
+      "narration": "Dan gunung yang mereka anggap sekadar pemandangan itu, sebentar lagi akan menunjukkan wajah aslinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ominous low-angle of Vesuvius, a faint wisp of vapor curling from the summit, light dimming, the mountain's silhouette turning menacing Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_019",
+      "chapter": 2,
+      "narration": "Sekitar pukul satu siang, dentuman dahsyat memecah ketenangan: Gunung Vesuvius meletus dengan kekuatan yang belum pernah disaksikan manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The first colossal explosion of Vesuvius, a fireball bursting from the summit, shockwave rippling across the bay, Romans frozen in terror Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_020",
+      "chapter": 2,
+      "narration": "Kolom abu dan gas menjulang ke langit hingga mencapai ketinggian sekitar tiga puluh tiga kilometer, menembus batas atmosfer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Towering eruption column rising thirty-three kilometers into the stratosphere, dark ash punching through cloud layers, seen from across the bay Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_021",
+      "chapter": 2,
+      "narration": "Plinius Muda kelak menggambarkannya seperti pohon pinus raksasa: batang tegak menjulang tinggi, lalu melebar di puncaknya seperti tajuk pohon.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The iconic pine-tree-shaped eruption column, a straight trunk of ash spreading into a vast umbrella canopy, silhouetted against a darkening sky Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "chapter": 2,
+      "narration": "Inilah fase Plinian, fase pertama letusan, yang berlangsung sekitar dua belas jam tanpa henti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse of the unrelenting Plinian column over hours, ash churning endlessly upward while daylight dies below, a twelve-hour fury Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_023",
+      "chapter": 2,
+      "narration": "Setiap detiknya, gunung memuntahkan sekitar satu setengah juta ton material vulkanik ke udara.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro view of volcanic fury at the vent, a dense jet of glowing ash and pumice blasting skyward, unimaginable mass erupting every second Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "chapter": 2,
+      "narration": "Energi termal yang dilepaskan setara dengan sekitar seratus ribu kali bom yang menghancurkan Hiroshima dan Nagasaki.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The glowing throat of the volcano radiating apocalyptic thermal energy, rivers of fire inside the crater, heat shimmer distorting the air Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_025",
+      "chapter": 2,
+      "narration": "Para ilmuwan modern menggolongkan letusan ini sebagai VEI lima, letusan sangat besar dalam skala ledakan vulkanik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The eruption column seen from high above, a continent-scale plume spreading over the Mediterranean, ash darkening the sea below Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_026",
+      "chapter": 2,
+      "narration": "Hujan batu apung dan abu mulai turun ke Pompeii, mula-mula ringan, lalu semakin deras hingga menimbun kota setebal dua setengah hingga empat meter.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pumice stones and gray ash raining down on Pompeii's streets, accumulating in drifts, citizens shielding their heads, roofs groaning under the weight Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_027",
+      "chapter": 2,
+      "narration": "Atap-atap rumah runtuh satu per satu di bawah beban abu yang semakin berat, menewaskan mereka yang berlindung di dalam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Roman rooftops collapsing under meters of ash inside darkened homes, tiles crashing down, terrified families huddled beneath doorframes Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "chapter": 2,
+      "narration": "Siang yang cerah perlahan berubah menjadi kegelapan; Plinius Muda menulis bahwa siang hari menjadi segelap malam tanpa bulan di ruangan tertutup.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Midday transformed into pitch darkness over the bay, the sun a faint ember behind ash, torches lit at noon, a world turned to night Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_029",
+      "chapter": 2,
+      "narration": "Warga Pompeii berhamburan keluar rumah, menutup mulut dengan kain, dan berlari menembus hujan batu yang membara.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Crowds fleeing through ash-choked streets, cloths pressed to mouths, pumice pelting down, silhouettes running through swirling gray darkness Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_030",
+      "chapter": 2,
+      "narration": "Sebagian mencoba menyelamatkan harta benda mereka, mengikat perhiasan dan koin, namun abu terus turun tanpa ampun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of trembling hands tying a pouch of coins and jewelry, ash settling on precious belongings, desperation in the falling darkness Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_031",
+      "chapter": 2,
+      "narration": "Di Misenum, Plinius Muda menyaksikan semua itu dari seberang teluk, dan dua puluh lima tahun kemudian ia menuliskan kesaksiannya dalam dua surat kepada sejarawan Tacitus.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pliny the Younger on his Misenum terrace watching the distant column of fire, years later his hand writing two letters to the historian Tacitus by lamplight Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "chapter": 2,
+      "narration": "Surat-surat itulah yang menjadi laporan saksi mata bencana tertua dalam sejarah manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Extreme close-up of ancient Latin letters on papyrus describing the eruption, ink on aged scroll, the oldest eyewitness disaster report in human history Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_033",
+      "chapter": 2,
+      "narration": "Sementara itu Plinius Tua, sang laksamana, memerintahkan armadanya berlayar menuju zona bencana untuk misi penyelamatan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Roman warships with billowing sails turning toward the eruption, Pliny the Elder standing at the prow, steering into the ash storm on a rescue mission Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "chapter": 2,
+      "narration": "Ia berlayar langsung ke arah bahaya, menuju Stabiae di sisi selatan teluk, saat semua orang justru melarikan diri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A lone flagship cutting through ash-darkened waves toward Stabiae, burning pumice falling around it, courage sailing against the tide of the fleeing Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_035",
+      "chapter": 2,
+      "narration": "Selama dua belas jam fase pertama ini, Pompeii perlahan terkubur, dan kota yang megah itu mulai menghilang dari peta dunia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pompeii half-buried under deepening ash, only rooftops and temple pediments visible, a proud city vanishing beneath gray silence Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "chapter": 2,
+      "narration": "Namun yang terburuk belum datang; gunung itu baru saja mengumpulkan napasnya untuk pukulan kedua yang jauh lebih mematikan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The eruption column beginning to waver and collapse inward, an ominous pause, the volcano gathering itself for a second, deadlier blow Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_037",
+      "chapter": 3,
+      "narration": "Ketika kolom erupsi yang menjulang itu akhirnya runtuh, lahirlah sang pembunuh sesungguhnya: arus piroklastik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The towering eruption column collapsing inward, a boiling avalanche of ash and gas detaching and thundering down the mountainside Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_038",
+      "chapter": 3,
+      "narration": "Awan gas dan abu bersuhu sekitar empat ratus derajat Celsius itu meluncur menuruni lereng dengan kecepatan seratus enam puluh hingga tiga ratus kilometer per jam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A pyroclastic surge racing down Vesuvius at terrifying speed, a glowing wall of superheated gas and ash devouring everything in its path Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_039",
+      "chapter": 3,
+      "narration": "Tak ada yang bisa lari lebih cepat darinya; dalam sekejap ia menyapu segala yang dilewatinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The surge front overtaking fleeing figures on the road to Herculaneum, a roiling cloud swallowing the landscape in a single breath Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "chapter": 3,
+      "narration": "Herculaneum, yang selama fase pertama relatif selamat, kini dihantam langsung dan terkubur di bawah material setebal sekitar dua puluh meter.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Herculaneum engulfed and buried under twenty meters of pyroclastic material, elegant villas disappearing beneath a boiling gray flood Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_041",
+      "chapter": 3,
+      "narration": "Di tepi pantai Herculaneum, ratusan warga berlindung di gudang-gudang perahu, berharap laut akan menyelamatkan mereka.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Desperate families crowding into stone boat sheds on the Herculaneum waterfront, clutching children, the sea their last hope of escape Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "chapter": 3,
+      "narration": "Para arkeolog kelak menemukan sekitar dua ratus lima puluh hingga tiga ratus kerangka manusia di gudang-gudang perahu itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archaeologists' lamps illuminating rows of ancient skeletons inside the dark boat sheds, silent witnesses discovered two millennia later Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_043",
+      "chapter": 3,
+      "narration": "Mereka tewas seketika oleh panas yang ekstrem, tubuh mereka terawetkan dalam posisi terakhir sebelum ajal menjemput.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a preserved skeleton curled in its final embrace, ash-hardened around bone, a moment of death frozen for two thousand years Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_044",
+      "chapter": 3,
+      "narration": "Awan pembunuh itu kemudian berbalik menghantam sisa-sisa Pompeii, memusnahkan siapa pun yang masih bertahan di kota yang telah terkubur itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The pyroclastic surge sweeping over buried Pompeii, a black hurricane of ash flattening the last standing walls, no one left to witness it Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_045",
+      "chapter": 3,
+      "narration": "Di Stabiae, Plinius Tua yang datang untuk menyelamatkan orang lain justru menemui ajalnya sendiri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pliny the Elder collapsing on the ash-covered beach at Stabiae, his rescue party around him, the great naturalist falling in the line of mercy Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "chapter": 3,
+      "narration": "Sang ilmuwan besar Roma itu tewas di tengah misi penyelamatan, dan keponakannya kelak mengabadikan kematiannya dalam surat kepada Tacitus.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A fallen Roman admiral's cloak and scrolls in the ash at Stabiae, waves lapping at the shore, history's most honored victim of the eruption Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_047",
+      "chapter": 3,
+      "narration": "Hingga pagi menjelang, letusan perlahan mereda, dan keheningan yang mengerikan menyelimuti teluk.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dawn breaking over a devastated bay, the eruption subsiding into a smoking ruin, an unnatural silence over the drowned landscape Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "chapter": 3,
+      "narration": "Ketika abu akhirnya berhenti turun, dua kota telah lenyap; yang tersisa hanyalah hamparan kelabu sejauh mata memandang.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial of an endless gray desert where two cities once stood, no rooftops, no streets, only ash stretching to the horizon Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_049",
+      "chapter": 3,
+      "narration": "Jumlah korban diperkirakan antara seribu lima ratus hingga tiga ribu lima ratus jiwa, dan sebagian peneliti menduga angkanya bisa mencapai enam belas ribu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ghostly empty streets under deep ash, abandoned belongings half-buried, the scale of human loss hanging over the silent ruins Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_050",
+      "chapter": 3,
+      "narration": "Dari populasi lebih dari dua puluh ribu jiwa di kedua kota itu, ribuan tak pernah kembali.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. An abandoned Roman street, sandals and an overturned cart left behind, footprints ending at a wall of ash, thousands never returned Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_051",
+      "chapter": 3,
+      "narration": "Rumah-rumah yang terkunci, meja makan yang masih tertata, dan jalanan yang lengang menjadi saksi bisu sebuah pagi yang berhenti selamanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Inside a buried Pompeian home, a dining table still set with plates and cups, dust-covered and untouched, a morning interrupted forever Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_052",
+      "chapter": 3,
+      "narration": "Pompeii dan Herculaneum pun hilang dari ingatan dunia, terkubur dalam diam selama hampir tujuh belas abad.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Centuries passing over the buried cities, grass and farmland growing above the hidden ruins, the world forgetting what sleeps below Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_053",
+      "chapter": 3,
+      "narration": "Tak ada yang tahu bahwa di bawah lapisan abu itu, waktu telah berhenti dan menunggu untuk ditemukan kembali.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section of layered ash with a perfectly preserved Roman street beneath, frescoes and columns intact in the dark, time sealed like a tomb Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_054",
+      "chapter": 3,
+      "narration": "Kota yang dibekukan itu menyimpan segalanya, hingga suatu hari manusia kembali menggali dan mendengarkan kisahnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A shaft of light piercing into the buried city as the first excavators break through, dust dancing in the beam, the past about to speak Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_055",
+      "chapter": 4,
+      "narration": "Berabad-abad berlalu; di atas kuburan abu itu orang-orang membangun desa dan ladang, tanpa tahu kota kuno tidur di bawah kaki mereka.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medieval peasants farming and building villages atop the hidden ruins, plows turning soil above buried temples, life unknowingly walking on history Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_056",
+      "chapter": 4,
+      "narration": "Pada abad ke delapan belas, penggalian sistematis dimulai, dan dunia perlahan menyadari apa yang terkubur di sana.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Eighteenth-century excavators with shovels and wheelbarrows uncovering the first buried walls, aristocrats watching as Pompeii returns to the light Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_057",
+      "chapter": 4,
+      "narration": "Lalu pada tahun seribu delapan ratus enam puluhan, arkeolog Giuseppe Fiorelli menemukan cara mengabadikan para korban: mengisi rongga tubuh di dalam abu dengan gips.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Giuseppe Fiorelli pouring liquid plaster into a human-shaped cavity in the ash, 1860s archaeologists gathered around, a revolutionary technique is born Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "chapter": 4,
+      "narration": "Cetakan-cetakan gips itu mengabadikan detik-detik terakhir para korban dengan detail yang mengharukan, seolah mereka baru saja tertidur.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Row of haunting plaster casts of eruption victims in a museum hall, each figure frozen in its final moment, two thousand years of grief in white plaster Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_059",
+      "chapter": 4,
+      "narration": "Roti yang masih di dalam oven, buah-buahan, dan coretan grafiti di dinding terawetkan dengan sempurna, seolah waktu berhenti kemarin sore.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Perfectly preserved carbonized bread in a stone oven, ancient fruit, and graffiti scratched on a Pompeian wall, daily life captured mid-breath Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_060",
+      "chapter": 4,
+      "narration": "Namun satu misteri memicu perdebatan para ahli: kapan tepatnya letusan itu terjadi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scholars debating around a table strewn with manuscripts and artifacts, pointing at conflicting evidence, the mystery of the eruption's true date Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_061",
+      "chapter": 4,
+      "narration": "Tradisi menyebut tanggal dua puluh empat Agustus, berdasarkan surat Plinius Muda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of Pliny's letter manuscript showing the traditional late-August date, candlelight on ancient text, the long-accepted chronology Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_062",
+      "chapter": 4,
+      "narration": "Namun bukti-bukti baru, seperti pakaian tebal yang dikenakan para korban dan buah-buahan musim gugur yang ditemukan, mengarah pada bulan Oktober atau November.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Thick autumn clothing on a plaster cast and autumn fruits among the ruins, forensic clues pointing to a colder month than August Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_063",
+      "chapter": 4,
+      "narration": "Perdebatan itu menunjukkan bahwa bahkan bencana yang paling terdokumentasi pun masih menyimpan teka-teki.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two archaeologists examining the same artifact with different conclusions, dramatic light between them, history's best-documented disaster still holding secrets Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_064",
+      "chapter": 4,
+      "narration": "Lalu pada tahun dua ribu dua puluh lima, penggalian di kawasan Insula Meridionalis mengungkap fakta mengejutkan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern excavation at Insula Meridionalis in 2025, archaeologists brushing away soil to reveal new walls, headlamps in a fresh trench Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_065",
+      "chapter": 4,
+      "narration": "Pompeii ternyata dihuni kembali setelah letusan, oleh para penyintas dan para pendatang, hingga abad kelima Masehi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Survivors rebuilding humble homes among the ruins, smoke rising from new hearths, life defiantly returning to the buried city Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_066",
+      "chapter": 4,
+      "narration": "Kota mati itu ternyata tidak sepenuhnya mati; kehidupan menemukan jalannya kembali di antara reruntuhan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wildflowers and vines growing through ancient columns where families once again live, resilience blooming from catastrophe Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_067",
+      "chapter": 4,
+      "narration": "Dan pada September dua ribu dua puluh enam, Vesuvius kembali menjadi pusat perhatian dunia sains.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientists in a modern laboratory in September 2026, screens glowing with data, rock samples from Vesuvius under analysis Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_068",
+      "chapter": 4,
+      "narration": "Tim peneliti dari Berkeley Geochronology Center, UC Berkeley, dan Universitas Padua menerbitkan studi di jurnal Science Advances.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Researchers from Berkeley and the University of Padua examining volcanic crystals, the Science Advances journal on a desk, a landmark study unveiled Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_069",
+      "chapter": 4,
+      "narration": "Mereka menggunakan letusan tahun tujuh puluh sembilan sebagai patokan untuk mengkalibrasi ulang penanggalan argon-argon.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Extreme macro of a volcanic crystal glowing under laboratory light, atoms of argon being measured, the 79 AD eruption as a geological clock Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_070",
+      "chapter": 4,
+      "narration": "Hasilnya mencengangkan: presisi penanggalan meningkat hingga nol koma tujuh persen, atau sekitar plus minus tiga belas tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A timeline of Earth's history sharpening into focus on a screen, geological ages snapping into precise alignment, science achieving new clarity Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_071",
+      "chapter": 4,
+      "narration": "Bencana yang terjadi dua ribu tahun lalu itu kini menjadi semacam jam raksasa untuk mengukur waktu geologi Bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A giant clock face superimposed over the layers of Earth's geological time, Vesuvius at its center, a two-thousand-year-old disaster measuring deep time Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_072",
+      "chapter": 4,
+      "narration": "Dari abu kehancuran, lahirlah ilmu yang menerangi masa lalu planet ini dengan ketepatan yang belum pernah ada.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sunrise over the excavated ruins of Pompeii, golden light on ancient stones, knowledge rising from the ashes of destruction Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_073",
+      "chapter": 5,
+      "narration": "Hari ini, Gunung Vesuvius masih berdiri di tempat yang sama, tenang dan hijau seperti dua ribu tahun lalu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern-day Vesuvius calm and green above the Bay of Naples, tourists on its crater rim, the same deceptive peace as two thousand years ago Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "narration": "Ia adalah satu-satunya gunung berapi aktif di daratan Eropa, dan letusan terakhirnya terjadi pada tahun seribu sembilan ratus empat puluh empat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archival-style view of the 1944 eruption, lava fountains over wartime Naples, the most recent awakening of Europe's only mainland active volcano Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_075",
+      "chapter": 5,
+      "narration": "Namun di lereng dan kakinya kini tinggal sekitar tiga juta jiwa, menjadikannya kawasan vulkanik berpenduduk yang paling berisiko di dunia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dense modern Naples sprawling to the foot of Vesuvius, three million lives in the red zone, apartment blocks beneath the sleeping giant Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_076",
+      "chapter": 5,
+      "narration": "Sejak tahun seribu delapan ratus empat puluh satu, Osservatorio Vesuviano, observatorium vulkanologi tertua di dunia, memantau setiap denyut gunung ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The historic Osservatorio Vesuviano building from 1841 on the volcano's slope, antique brass instruments beside modern seismographs, the world's oldest volcano observatory Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_077",
+      "chapter": 5,
+      "narration": "Para ilmuwan memantau gempa-gempa kecil, perubahan gas, dan deformasi tanah, mencari tanda-tanda kebangkitan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientists studying real-time seismic monitors and gas sensors, screens full of waveforms, watching for the volcano's first stirrings Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_078",
+      "chapter": 5,
+      "narration": "Rencana evakuasi telah disusun untuk memindahkan ratusan ribu warga dari zona merah bila tanda bahaya muncul.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Evacuation route signs and emergency drills in the red zone towns, buses lined up, a mass-evacuation plan ready for hundreds of thousands Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_079",
+      "chapter": 5,
+      "narration": "Pelajaran dari tahun tujuh puluh sembilan masih relevan: getaran kecil yang diabaikan bisa menjadi pertanda bencana besar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A modern seismograph needle trembling with small quakes, echoing the ignored tremors of 79 AD, a warning written in jagged lines Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_080",
+      "chapter": 5,
+      "narration": "Penduduk Pompeii menganggap gempa sebagai hal biasa di Campania, dan keyakinan itulah yang merenggut nyawa mereka.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ghostly overlay of ancient Pompeians ignoring tremors, their confident faces fading into ash, complacency as the true killer Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_081",
+      "chapter": 5,
+      "narration": "Kesiapsiagaan adalah satu-satunya benteng antara manusia dan amukan gunung berapi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A resilient modern city at the volcano's foot with emergency infrastructure, sirens and shelters, preparedness as humanity's only shield Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_082",
+      "chapter": 5,
+      "narration": "Tidak seperti dua ribu tahun lalu, hari ini kita memiliki ilmu pengetahuan, pemantauan, dan peringatan dini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A wall of monitors in a volcano observatory control room, satellite data and thermal cameras, two millennia of scientific progress on display Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_083",
+      "chapter": 5,
+      "narration": "Namun ilmu hanya berguna bila didengar; peringatan hanya menyelamatkan bila dipatuhi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A lone emergency siren on a pole against the volcano's silhouette, a community drill in progress, science demanding to be heard Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_084",
+      "chapter": 5,
+      "narration": "Vesuvius mengajarkan bahwa gunung yang tertidur bukanlah gunung yang mati.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The sleeping volcano at dusk, a faint glow deep within its crater barely visible, dormancy revealed as mere patience Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_085",
+      "chapter": 5,
+      "narration": "Di bawah ketenangannya, dapur magma yang sama masih menyimpan energi, menunggu waktunya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section of the living magma chamber beneath modern Vesuvius, molten rock glowing and churning, the same furnace that fed 79 AD Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_086",
+      "chapter": 5,
+      "narration": "Kota Pompeii yang dibekukan waktu kini berbicara kepada kita melintasi dua ribu tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A plaster cast's face in soft museum light, seeming to gaze at the viewer across two millennia, the frozen city speaking Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_087",
+      "chapter": 5,
+      "narration": "Ia berbisik tentang kerapuhan peradaban, tentang kota yang megah namun tak siap.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ruined grandeur of Pompeii's forum at golden hour, fallen columns and empty streets, a whisper about the fragility of civilization Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_088",
+      "chapter": 5,
+      "narration": "Dan ia bertanya kepada setiap generasi: bila gunung itu bangun esok pagi, apakah kita sudah siap.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A child looking up at Vesuvius from a modern Naples street, the volcano looming over playgrounds and homes, the question hanging in the air Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_089",
+      "chapter": 5,
+      "narration": "Waktu telah membekukan Pompeii dalam abu, agar kita tidak membeku dalam kelalaian.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash slowly settling over the ruins in a poetic final image, time itself crystallizing, a monument against human complacency Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_090",
+      "chapter": 5,
+      "narration": "Inilah kisah kota yang dibekukan waktu, dan gunung yang masih bernapas hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Final epic aerial pulling back from Pompeii's ruins to Vesuvius to the entire Bay of Naples at sunset, ember light on the crater rim, the mountain still breathing Palette: volcanic ash gray, ember orange, scorched umber, marble white, deep black, dramatic chiaroscuro, volumetric light through ash and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 12
+    }
+  ]
+}
