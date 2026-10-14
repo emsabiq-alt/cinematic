@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,880
+hasilnya mencengangkan presisi penanggalan meningkat hingga
+
+2
+00:00:03,880 --> 00:00:05,090
+nol koma tujuh persen
+
+3
+00:00:05,280 --> 00:00:08,370
+atau sekitar plus minus tiga belas tahun

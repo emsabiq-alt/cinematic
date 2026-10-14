@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,200
+namanya pompeii kota pelabuhan yang hidup
+
+2
+00:00:03,200 --> 00:00:05,890
+dengan forum yang ramai vila-vila mewah
+
+3
+00:00:06,000 --> 00:00:07,860
+dan jalan-jalan batu yang dipadati
+
+4
+00:00:07,860 --> 00:00:09,730
+pedagang serta kereta kuda

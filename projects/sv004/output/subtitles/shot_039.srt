@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,160
+tak ada yang bisa
+
+2
+00:00:01,160 --> 00:00:02,790
+lari lebih cepat darinya
+
+3
+00:00:02,860 --> 00:00:05,890
+dalam sekejap ia menyapu segala yang dilewatinya

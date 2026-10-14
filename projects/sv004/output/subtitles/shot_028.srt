@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,250
+siang yang cerah perlahan berubah menjadi kegelapan
+
+2
+00:00:03,480 --> 00:00:05,840
+plinius muda menulis bahwa siang hari menjadi
+
+3
+00:00:05,840 --> 00:00:09,150
+segelap malam tanpa bulan di ruangan tertutup

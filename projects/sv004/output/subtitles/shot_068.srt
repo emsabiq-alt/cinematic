@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,890
+tim peneliti dari berkeley
+
+2
+00:00:01,890 --> 00:00:04,300
+geochronology center uc berkeley
+
+3
+00:00:04,300 --> 00:00:06,540
+dan universitas padua menerbitkan studi
+
+4
+00:00:06,540 --> 00:00:08,330
+di jurnal science advances

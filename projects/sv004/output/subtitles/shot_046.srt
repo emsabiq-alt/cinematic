@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,900
+sang ilmuwan besar roma itu
+
+2
+00:00:01,900 --> 00:00:04,190
+tewas di tengah misi penyelamatan
+
+3
+00:00:04,340 --> 00:00:06,840
+dan keponakannya kelak mengabadikan kematiannya
+
+4
+00:00:06,840 --> 00:00:08,990
+dalam surat kepada tacitus

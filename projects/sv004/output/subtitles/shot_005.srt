@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,520
+vesuvius telah tertidur selama ratusan tahun
+
+2
+00:00:02,520 --> 00:00:04,070
+bagi penduduk campania
+
+3
+00:00:04,070 --> 00:00:07,390
+ia hanyalah latar pemandangan bukan ancaman

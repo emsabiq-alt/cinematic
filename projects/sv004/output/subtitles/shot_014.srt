@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,180
+anak-anak bermain di jalanan
+
+2
+00:00:02,180 --> 00:00:03,760
+para budak mengangkut amfora berisi
+
+3
+00:00:03,760 --> 00:00:05,440
+anggur dan minyak zaitun
+
+4
+00:00:05,440 --> 00:00:08,390
+dan kehidupan berjalan tanpa firasat

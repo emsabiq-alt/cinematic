@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:01,720
+pamannya plinius tua
+
+2
+00:00:01,720 --> 00:00:04,200
+adalah salah satu ilmuwan terbesar roma
+
+3
+00:00:04,200 --> 00:00:06,150
+penulis sejarah alam
+
+4
+00:00:06,160 --> 00:00:07,920
+sekaligus laksamana armada romawi
+
+5
+00:00:07,920 --> 00:00:09,590
+yang berpangkalan di misenum

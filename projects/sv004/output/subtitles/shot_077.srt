@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,300
+para ilmuwan memantau gempa-gempa kecil perubahan gas
+
+2
+00:00:03,300 --> 00:00:04,920
+dan deformasi tanah
+
+3
+00:00:04,920 --> 00:00:06,930
+mencari tanda-tanda kebangkitan

@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:01,360
+di sebuah siang di tahun
+
+2
+00:00:01,360 --> 00:00:03,350
+tujuh puluh sembilan masehi
+
+3
+00:00:03,460 --> 00:00:04,960
+dua kota romawi yang makmur
+
+4
+00:00:04,960 --> 00:00:07,050
+berdiri di tepi teluk napoli
+
+5
+00:00:07,200 --> 00:00:08,360
+di kaki sebuah gunung yang
+
+6
+00:00:08,360 --> 00:00:10,170
+tampak tenang dan hijau

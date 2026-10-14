@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,150
+di antara keduanya menjulang gunung vesuvius
+
+2
+00:00:03,200 --> 00:00:05,470
+tampak seperti gunung biasa yang berhutan
+
+3
+00:00:05,680 --> 00:00:06,720
+dan tak seorang pun tahu
+
+4
+00:00:06,720 --> 00:00:08,950
+bahwa ia adalah gunung berapi

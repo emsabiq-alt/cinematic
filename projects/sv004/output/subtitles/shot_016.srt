@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,840
+di langit yang cerah itu
+
+2
+00:00:01,840 --> 00:00:03,820
+tak ada tanda apa pun bahwa siang
+
+3
+00:00:03,820 --> 00:00:06,650
+tersebut akan dikenang selama dua ribu tahun

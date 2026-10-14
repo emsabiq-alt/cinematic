@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,620
+hari ini gunung vesuvius masih berdiri
+
+2
+00:00:02,620 --> 00:00:03,910
+di tempat yang sama
+
+3
+00:00:04,020 --> 00:00:05,080
+tenang dan hijau seperti
+
+4
+00:00:05,080 --> 00:00:06,690
+dua ribu tahun lalu

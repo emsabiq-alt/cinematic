@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:03,320
+tradisi menyebut tanggal dua puluh empat agustus
+
+2
+00:00:03,320 --> 00:00:05,490
+berdasarkan surat plinius muda
