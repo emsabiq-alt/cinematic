@@ -10,11 +10,11 @@ BABAK I — BERITA YANG BIKIN ORANG BERTANYA
 
 005. Tapi pertama-tama, kenapa klaim ini muncul sekarang? Karena ada dua kabar besar yang terjadi hampir bersamaan.
 
-006. Kabar pertama: sejak Agustus dua ribu dua puluh enam, Kalimantan terbakar lagi — asap tebal menyelimuti kota-kota.
+006. Data terbaru 13 Oktober 2026: dalam 30 hari saja tercatat 114.352 titik panas di Kalimantan — dan Kalimantan Tengah terbanyak, 71.660 titik atau 62,7 persen.
 
-007. Kalimantan Barat tercatat sebagai wilayah dengan luas terbakar terbesar tahun ini, menurut data satelit.
+007. Puncaknya 19 September: 8.977 titik api dalam sehari. Kementerian Kehutanan mencatat 107.465 hektare terdampak Januari hingga Juni 2026 — naik 110 persen dibanding periode yang sama 2023.
 
-008. Di Kalimantan Selatan, sekitar lima ratus tujuh puluh dua kilometer persegi sudah hangus — data resmi BNPB.
+008. Media menyebut musim kebakaran 2026 terparah dalam 11 tahun terakhir. Di Kalimantan Selatan, sekitar 572 kilometer persegi sudah hangus menurut BNPB.
 
 009. Asapnya menyeberang ke negara tetangga — citra satelit NASA merekam gumpalan asap melintasi batas negara.
 
@@ -30,11 +30,11 @@ BABAK I — BERITA YANG BIKIN ORANG BERTANYA
 
 015. Karena ternyata, bukti yang bikin orang curiga itu — memang ada, dan tidak sedikit.
 
-016. Tapi ingat aturan main film ini: setiap bukti akan kita uji, bukan kita telan mentah-mentah.
+016. Dan inilah lingkaran yang menutup: pusat api 2026 — Kalimantan Tengah — adalah lokasi bekas megaproyek pemerintah tiga dekade lalu.
 
-017. Babak berikutnya: bukti-bukti yang membuat klaim “disengaja demi sawit” terdengar masuk akal.
+017. Proyek yang justru menjadi awal mula malapetaka. Kisahnya akan kita buka di babak berikutnya.
 
-018. Dan di akhir babak itu, akan ada satu pertanyaan yang mungkin membuat Anda ingin berkomentar.
+018. Tapi ingat aturan main film ini: setiap bukti akan kita uji, bukan kita telan mentah-mentah.
 
 BABAK II — KENAPA KALIMANTAN TERBAKAR
 
@@ -52,27 +52,27 @@ BABAK II — KENAPA KALIMANTAN TERBAKAR
 
 025. Titik panas adalah titik api yang terlihat dari satelit — artinya api sungguhan sedang menyala di sana, bukan sekadar asap.
 
-026. Bukti ketiga: gambut memang sengaja dikeringkan sebelum ditanami — lewat kanal-kanal drainase yang digali rapi.
+026. Bayangkan tanah seperti spons raksasa: itulah gambut — sisa tumbuhan ribuan tahun yang terendam air. Indonesia punya 36 persen gambut tropis dunia.
 
-027. Gambut itu seperti spons raksasa: selagi basah, hampir tidak mungkin terbakar. Indonesia punya tiga puluh enam persen gambut tropis dunia.
+027. Selagi basah, gambut hampir tak bisa terbakar. Tapi kanal-kanal drainase menyedot airnya keluar agar lahan bisa ditanami — terutama sawit.
 
-028. Tapi begitu airnya disedot keluar lewat kanal, spons itu berubah menjadi bahan bakar raksasa yang siap menyala.
+028. Tahun 1995, Presiden Soeharto menandatangani Keppres Nomor 82: proyek mengubah satu juta hektare gambut Kalimantan Tengah menjadi sawah.
 
-029. Api gambut bisa membara di bawah tanah berbulan-bulan tanpa terlihat — lalu muncul lagi saat angin kencang. Petugas menyebutnya api zombie.
+029. Pemerintah menggali kanal-kanal raksasa membelah kubah gambut — air tersedot keluar, gambut mengering dalam skala yang belum pernah terjadi.
 
-030. Bukti keempat: kebakaran berulang di lahan yang sama, tahun demi tahun — seolah ada pola yang disengaja.
+030. Proyek itu gagal total dan dihentikan tahun 1998 — tapi kanal-kanalnya tetap ada, dan gambut yang dikeringkan itu mudah terbakar sampai hari ini.
 
-031. Tahun dua ribu lima belas, Kalimantan Selatan terbakar seratus sembilan puluh enam ribu hektare.
+031. Gubernur Kalimantan Tengah Teras Narang pernah berkata kepada kantor berita AFP tahun 2007: kebakaran paling serius terjadi di kawasan bekas proyek itu.
 
-032. Tahun dua ribu sembilan belas, delapan ratus lima puluh tujuh ribu hektare terbakar hanya dalam sembilan bulan — kualitas udara Palangka Raya mencapai seribu sembilan ratus tiga puluh sembilan.
+032. WALHI menyebut kanal-kanal bekas proyek inilah penyebab kekeringan gambut dan sumber bencana kebakaran di Kalimantan Tengah.
 
-033. Tahun dua ribu dua puluh tiga, Kalimantan Selatan kembali terluas terbakar: seratus sembilan puluh ribu hektare.
+033. Dan polanya berulang: program cetak sawah dan food estate belakangan ditempatkan lagi di gambut bekas proyek itu — WALHI menuntut dihentikan.
 
-034. Dan bukti kelima, yang paling mengusik: proyek sawit baru pemerintah membuat orang menghubungkan semuanya menjadi satu cerita.
+034. Audit resmi enam lembaga pemerintah yang dikutip Investor Daily menyatakan perusahaan perkebunan sawit dan kertas adalah penyebab bencana asap.
 
-035. Greenpeace menemukan sekitar tujuh ribu enam ratus hektare hutan hilang di koridor Wanam-Muting hingga Februari dua ribu dua puluh enam.
+035. Audit yang sama menilai penegakan hukum setengah hati — sehingga perusahaan tidak jera dan api kembali setiap tahun.
 
-036. Setelah melihat semua bukti ini, jujur saja — apakah Anda juga mulai curiga? Tulis “curiga” di kolom komentar kalau iya.
+036. Bahkan ada bupati yang masuk penjara: Rita Widyasari, Bupati Kutai Kartanegara, divonis 10 tahun pada 2018 — terbukti menerima 110,7 miliar rupiah gratifikasi dan 6 miliar suap terkait izin lokasi kebun sawit. Tahun 2026, Bupati Kuansing jadi tersangka KPK dalam kasus serupa. Setelah semua ini — masih ragu untuk curiga? Tulis di kolom komentar.
 
 BABAK III — RENCANA SAWIT BARU
 
@@ -122,68 +122,68 @@ BABAK IV — KEKHAWATIRAN ORANG BIASA
 
 058. Kerugian ekonomi empat koma empat miliar dolar — dan sejak itu dunia tahu: asap Indonesia bisa melintasi batas negara.
 
-059. Perhatikan polanya: setiap kebakaran besar selalu mengikuti gelombang pembukaan lahan untuk perkebunan dan HTI.
+059. Tahun dua ribu lima belas, Kalimantan Selatan terbakar seratus sembilan puluh enam ribu hektare — salah satu yang terparah.
 
-060. Sejak dua ribu sebelas, pemerintah memberlakukan moratorium pembukaan lahan gambut baru.
+060. Tahun dua ribu sembilan belas, delapan ratus lima puluh tujuh ribu hektare terbakar hanya dalam sembilan bulan — kualitas udara Palangka Raya mencapai seribu sembilan ratus tiga puluh sembilan.
 
-061. Tahun dua ribu enam belas dibentuk Badan Restorasi Gambut untuk memulihkan gambut yang sudah rusak.
+061. Tahun dua ribu dua puluh tiga, Kalimantan Selatan kembali terluas terbakar: seratus sembilan puluh ribu hektare.
 
-062. Ada juga Masyarakat Peduli Api: warga desa dilatih memadamkan api di wilayahnya sendiri.
+062. Perhatikan polanya: setiap kebakaran besar selalu mengikuti gelombang pembukaan lahan untuk perkebunan.
 
-063. Hasilnya ada, tapi parsial: selama pembukaan lahan baru terus berjalan, api selalu punya tempat untuk kembali.
+063. Api gambut bisa membara di bawah tanah berbulan-bulan tanpa terlihat, lalu muncul lagi saat angin kencang — petugas menyebutnya api zombie.
 
-064. Asap gambut pun istimewa berbahayanya: partikel halusnya tiga kali lipat dibanding kebakaran hutan biasa, menurut IQAir.
+064. Asapnya pun istimewa berbahayanya: partikel halusnya tiga kali lipat dibanding kebakaran hutan biasa, menurut IQAir.
 
-065. Kini pertanyaannya bergeser: apakah pola Kalimantan ini sedang pindah ke Papua?
+065. Sejak dua ribu sebelas, pemerintah memberlakukan moratorium pembukaan lahan gambut baru.
 
-066. Di Merauke, rencana pelepasan hampir empat ratus delapan puluh tujuh ribu hektare kawasan hutan sudah dicatat WALHI.
+066. Tahun dua ribu enam belas dibentuk Badan Restorasi Gambut untuk memulihkan gambut yang sudah rusak.
 
-067. Lebih dari dua ratus enam puluh lima ribu hektare di antaranya adalah hutan alam yang belum pernah dijamah.
+067. Ada juga Masyarakat Peduli Api: warga desa dilatih memadamkan api di wilayahnya sendiri — hasilnya ada, tapi parsial.
 
-068. Kalau janji “hanya lahan terdegradasi” benar, angka-angka ini seharusnya tidak ada. Tapi angka-angka ini ada.
+068. Kini pertanyaannya bergeser: apakah pola Kalimantan ini sedang pindah ke Papua?
 
-069. Sejarah mengajarkan satu hal: api tidak pernah datang tanpa sebab — ia selalu mengikuti jejak pembukaan lahan.
+069. WALHI mencatat rencana pelepasan hampir empat ratus delapan puluh tujuh ribu hektare kawasan hutan di Merauke — lebih dari dua ratus enam puluh lima ribu hektare di antaranya hutan alam.
 
-070. Tapi sejarah juga mengajarkan hal lain: menuduh tanpa bukti bisa sama merusaknya dengan api itu sendiri.
+070. Greenpeace menemukan sekitar tujuh ribu enam ratus hektare hutan hilang di koridor Wanam-Muting hingga Februari dua ribu dua puluh enam.
 
-071. Karena itu, setelah semua bukti digelar — klaim awal film ini harus kita kembalikan kepada yang paling berhak menilainya.
+071. Kalau janji “hanya lahan terdegradasi” benar, angka-angka ini seharusnya tidak ada. Tapi angka-angka ini ada.
 
-072. Yaitu Anda, para penonton.
+072. Karena itu, setelah semua bukti digelar — klaim awal film ini harus kita kembalikan kepada yang paling berhak menilainya: yaitu Anda, para penonton.
 
 BABAK V — PELAJARAN DARI KALIMANTAN
 
 073. Mari kita rangkum dengan jujur apa yang sudah kita temukan bersama.
 
-074. Yang menguatkan kecurigaan: membakar itu termurah, titik api ada di dalam konsesi, gambut sengaja dikeringkan, pola berulang puluhan tahun.
+074. Yang menguatkan kecurigaan: membakar itu termurah, titik api di dalam konsesi, gambut dikeringkan kanal megaproyek pemerintah, audit resmi menyalahkan korporasi.
 
 075. Yang menyeimbangkan: El Nino memang ekstrem, tak semua api ulah korporasi, pemerintah janji lahan terdegradasi dan menyita kebun ilegal.
 
-076. Dan yang belum terjawab: belum ada bukti resmi yang mengaitkan kebakaran 2026 langsung ke proyek sawit pemerintah.
+076. Dan ada pertentangan yang layak Anda nilai sendiri: rencana ekspansi sawit 20 juta hektare dan sawit Papua untuk BBM — di saat pejabatnya menyatakan tak perlu buka hutan lagi, cukup lahan terdegradasi.
 
-077. Inilah batas antara kecurigaan dan kesimpulan — dan justru di sinilah letak pentingnya pertanyaan ini.
+077. Negara sendiri menyita 4 juta hektare kebun ilegal di kawasan hutan — artinya jutaan hektare beroperasi di kawasan hutan di bawah rezim izin bertahun-tahun. Janji mana yang akan menang di lapangan?
 
-078. Karena apapun jawabannya, ada pelajaran yang tidak bisa ditawar dari Kalimantan.
+078. Dan yang belum terjawab: belum ada bukti resmi yang mengaitkan kebakaran 2026 langsung ke proyek sawit pemerintah.
 
-079. Jangan pernah membuka gambut yang masih basah dan hutan alam — itu syarat mutlak para ahli.
+079. Inilah batas antara kecurigaan dan kesimpulan — dan justru di sinilah letak pentingnya pertanyaan ini.
 
-080. Jaga tata air: kanal-kanal lama harus disekat agar gambut basah kembali. Gambut yang basah tidak akan terbakar.
+080. Jangan pernah membuka gambut yang masih basah dan hutan alam — itu syarat mutlak para ahli.
 
-081. Tegakkan hukum dengan tegas terhadap pembakar lahan — besar maupun kecil, konsisten bukan musiman.
+081. Jaga tata air: kanal-kanal lama harus disekat agar gambut basah kembali. Gambut yang basah tidak akan terbakar.
 
-082. Dan buka semua data ke publik: peta konsesi, titik panas, dan izin harus bisa dipantau siapa pun, kapan pun.
+082. Tegakkan hukum dengan tegas terhadap pembakar lahan — besar maupun kecil, konsisten bukan musiman.
 
-083. Kalau syarat-syarat ini dipenuhi, sawit dan hutan lestari sebenarnya bisa berjalan berdampingan.
+083. Dan buka semua data ke publik: peta konsesi, titik panas, dan izin harus bisa dipantau siapa pun, kapan pun.
 
-084. Tapi kalau gambut dibuka lagi dan kanal digali lagi — kita semua sudah tahu akhir ceritanya.
+084. Kalau syarat-syarat ini dipenuhi, sawit dan hutan lestari sebenarnya bisa berjalan berdampingan.
 
-085. Kini, seperti janji di awal film: pertanyaan terakhirnya kami kembalikan kepada Anda.
+085. Tapi kalau gambut dibuka lagi dan kanal digali lagi — kita semua sudah tahu akhir ceritanya.
 
-086. Jadi, apakah kebakaran Kalimantan ini murni bencana — atau ada yang sengaja menyalakan api demi proyek sawit?
+086. Kini, seperti janji di awal film: pertanyaan terakhirnya kami kembalikan kepada Anda.
 
-087. Menurut kamu bagaimana? Tulis pendapatmu di kolom komentar — dan sebutkan bukti mana yang paling meyakinkan buatmu.
+087. Jadi, apakah kebakaran Kalimantan ini murni bencana — atau ada yang sengaja menyalakan api demi proyek sawit?
 
-088. Karena selama pertanyaan ini belum terjawab tuntas, asap akan terus kembali setiap tahun — dan kita semua yang menghirupnya.
+088. Menurut kamu bagaimana? Tulis pendapatmu di kolom komentar — dan sebutkan bukti mana yang paling meyakinkan buatmu.
 
-089. Sampai jumpa di dokumenter berikutnya. Jangan lupa subscribe agar tidak ketinggalan investigasi kami selanjutnya.
+089. Karena selama pertanyaan ini belum terjawab tuntas, asap akan terus kembali setiap tahun — dan kita semua yang menghirupnya.
 
 090. Dan ingat: kebenaran tidak takut diuji — yang takut diuji hanyalah kebohongan.
