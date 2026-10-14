@@ -1,0 +1,18 @@
+001|AERIAL|Vast Late Cretaceous landscape at dawn, mist rolling over endless green fern prairies and conifer forests, distant herds of dinosaurs as tiny silhouettes, warm golden light breaking through clouds
+002|WIDE|A Tyrannosaurus rex striding slowly across an open plain, twelve meters of muscle and teeth, dust rising around its massive feet, low morning sun casting a long shadow
+003|MEDIUM|A herd of Triceratops grazing peacefully on a grassy plain, three-horned faces and bony frills catching golden light, calves staying close to their mothers
+004|AERIAL|Long-necked sauropods towering above a forest canopy, necks rising like cranes into the mist, birds scattering around their heads, epic scale contrast
+005|WIDE|Pterosaurs with broad wings soaring over a dramatic coastline, cliffs and prehistoric sea below, sun glinting off leathery wings
+006|UNDERWATER|A giant mosasaur gliding through dark deep water, jaws slightly open, smaller marine reptiles fleeing, shafts of light piercing the depths
+007|MACRO|Tiny furry early mammals the size of mice moving through shadows at the base of giant fern fronds, whiskers twitching, dinosaur feet thundering far above
+008|CLOSE-UP|A small nocturnal mammal peeking from its burrow at night, bright eyes reflecting moonlight, fur detailed, giant dinosaur silhouette passing in the blurred background
+009|LOW ANGLE|Ground-level view looking up at towering dinosaur legs walking past, small mammal scurrying between the giant feet, dramatic scale contrast, dust and light
+010|TIME-LAPSE|Millions of years compressed: same valley cycling through seasons, herds migrating, forests swaying, sun arcing across the sky, timeless equilibrium
+011|SPACE|Deep space view of Earth as a blue-green marble, serene and glowing, stars scattered across blackness, a faint streak of light approaching from the dark
+012|SPACE|A dark carbonaceous asteroid ten kilometers wide tumbling through space, cratered rocky surface, sunlit edge glowing against the void, Earth small in the distance
+013|SPACE|Wide shot of the outer solar system beyond Jupiter's orbit, the asteroid's long lonely trajectory traced as a faint glowing path through the dark
+014|TRACKING|The asteroid streaking toward Earth at impossible speed, motion blur, heat shimmer on its leading edge, Earth's blue curve growing larger ahead
+015|WIDE|Peaceful Cretaceous valley at midday, dinosaurs grazing unaware, a tiny bright point growing in the blue sky above them, nobody looking up
+016|MEDIUM|A T. rex hunting at the forest edge while its young play nearby, warm family moment, soft golden light, the sky above beginning to brighten strangely
+017|AERIAL|High above the herds at dusk, long shadows stretching across the plain, a silent countdown feel, the first thin light streak appearing on the horizon
+018|WIDE|Yucatan peninsula coastline at sunrise, lush jungle meeting turquoise sea, a blinding light tearing the sky apart on the horizon, the world about to change forever

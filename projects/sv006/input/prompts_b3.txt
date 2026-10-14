@@ -1,0 +1,18 @@
+037|WIDE|A scorched Earth in the first hours after impact, the sky a churning ceiling of fire and smoke, the hottest hours in modern Earth history
+038|SPACE|Re-entering ejecta heating the upper atmosphere, the whole sky glowing dull red from space, Earth wrapped in a shroud of fire
+039|AERIAL|Thermal radiation pulse baking the surface, forests spontaneously combusting in waves, heat shimmer distorting the air over a dying landscape
+040|WIDE|Simultaneous continent-wide forest fires, walls of flame consuming the Cretaceous canopy, embers swirling into a black sky
+041|AERIAL|Thick black smoke merging with impact dust, sunlight dimming, a dark ceiling closing over the burning world
+042|WIDE|A mega-tsunami racing across the ocean toward the coast, a wall of water hundreds of meters high, dark and unstoppable
+043|AERIAL|The tsunami slamming into the coastline, water surging kilometers inland, forests and terrain swallowed in churning foam
+044|UNDERWATER|Underwater landslide triggered by aftershocks, sediment avalanching down the continental slope, dark clouds of debris in the deep
+045|AERIAL|The badlands of North Dakota under a strange orange sky, a river valley where the Tanis site will one day be found, eerie calm before the record is written
+046|MACRO|Fossil fish peppered with tiny glass ejecta spherules, exquisite detail of scales and embedded glass beads, a moment frozen in stone
+047|WIDE|A giant seiche wave churning an ancient river, water sloshing violently between banks, uprooted trees and debris tumbling in the surge
+048|CLOSE-UP|Layered rock strata in cross-section, the chaotic Tanis deposit layer glowing faintly, nature's hour-by-hour diary of extinction day
+049|WIDE|Fallen giant dinosaurs on a scorched plain, smoke drifting over their still forms, the end of the mighty, quiet and terrible
+050|AERIAL|A hadrosaur herd lying motionless across an ash-covered plain, yesterday's grazers now silent, gray snow of ash settling over them
+051|LOW ANGLE|A fallen T. rex, the king brought low, embers drifting past its massive skull, the ultimate predator defeated by an enemy it could never bite
+052|WIDE|Blood-red sky darkening to gray then black, the last light of day choked out, an eternal twilight settling over the dead world
+053|AERIAL|Fire and flood together: burning forests on one horizon, tsunami-darkened coasts on the other, Earth erasing itself
+054|WIDE|A darkened world after the fires, smoldering ruins under a starless black sky, the true darkness yet to come
