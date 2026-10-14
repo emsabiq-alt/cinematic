@@ -1,724 +1,724 @@
 {
   "style": "Full-Bleed 16:9 Cinematic 35mm Kalimantan Fire Documentary, Smoke and Peat; thick smoke gray and peat fire orange, scorched umber and palm green, dramatic chiaroscuro",
-  "description": "Storyboard 90 shot dokumenter sinematik 'Pemerintah Mau Tanam Sawit Lagi — Kalimantan Jadi Bukti Apa yang Terjadi Setelahnya' — dari berita rencana ekspansi sawit dan kebakaran Kalimantan 2026, penjelasan awam kenapa gambut terbakar, rencana sawit Papua untuk BBM, kekhawatiran pola lama berulang, hingga pelajaran restorasi gambut.",
+  "description": "Storyboard 90 shot dokumenter sinematik 'Katanya Kebakaran Kalimantan DISENGAJA Demi Proyek Sawit — Benarkah?' — membuka dengan klaim yang beredar, menguji dengan bukti dua arah (penguat kecurigaan dan penyeimbang), menelusuri sejarah pola kebakaran, dan melempar pertanyaan kembali ke penonton.",
   "shots": [
     {
       "id": "shot_001",
       "chapter": 1,
-      "narration": "Pagi ini ada dua kabar dari berita yang kalau ditaruh bersebelahan, bikin orang berhenti sejenak dan berpikir.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Indonesian living room in the morning, television glowing with breaking news graphics, a family watching intently, warm lamplight against a dim room. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 9
-    },
-    {
-      "id": "shot_002",
-      "chapter": 1,
-      "narration": "Kabar pertama: pemerintah mengumumkan rencana menanam sawit jauh lebih banyak lagi — untuk swasembada pangan dan energi nasional.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Presidential press conference, Indonesian flag behind the podium, journalists with cameras, official announcement atmosphere. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Belakangan ini beredar sebuah klaim yang bikin banyak orang terdiam: kebakaran Kalimantan itu katanya disengaja.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Social media comments and news headlines swirling around a central image of burning Kalimantan forest, digital noise atmosphere. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
-      "id": "shot_003",
+      "id": "shot_002",
       "chapter": 1,
-      "narration": "Disebut-sebut ekspansinya bisa mencapai dua puluh juta hektare — angka yang membuat para pengamat lingkungan geleng-geleng kepala.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Vast aerial view of endless oil palm plantation rows stretching to the horizon, tiny workers' houses dwarfed by the green sea. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Beberapa kalangan mengatakan, hutan dan lahan itu dibakar supaya lahannya bisa dipakai untuk proyek penanaman sawit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of a fire line advancing toward neat rows of young oil palm plantation, smoke and green side by side. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "AERIAL",
       "duration_hint": 11
     },
     {
+      "id": "shot_003",
+      "chapter": 1,
+      "narration": "Klaim yang berani — dan film ini tidak akan langsung percaya, juga tidak akan langsung menolak.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A detective-style magnifying glass over a map of Kalimantan with fire markers, investigative documentary mood. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 9
+    },
+    {
       "id": "shot_004",
       "chapter": 1,
-      "narration": "Kabar kedua: Kalimantan sedang terbakar lagi — sejak Agustus dua ribu dua puluh enam, asap tebal menyelimuti kota-kota di Kalimantan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of thick gray smoke blanketing a Kalimantan city, rooftops barely visible, orange sun dimmed behind the haze. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Kita akan menguji klaim itu dengan bukti, dari dua arah: yang menguatkan kecurigaan, dan yang menyeimbangkannya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Balanced scales imagery: flames on one side, documents and satellite photos on the other, dramatic lighting. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_005",
       "chapter": 1,
-      "narration": "Setiap tahun polanya selalu begitu: musim kemarau tiba, hutan dan lahan gambut terbakar, asapnya bahkan sampai ke negara tetangga.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style view of Borneo island with red hotspot dots scattered across it, smoke plumes drifting northwest across the sea. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 10
+      "narration": "Tapi pertama-tama, kenapa klaim ini muncul sekarang? Karena ada dua kabar besar yang terjadi hampir bersamaan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Indonesian living room, television showing breaking news, family watching with tense expressions. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
     },
     {
       "id": "shot_006",
       "chapter": 1,
-      "narration": "Kalau dua kabar ini ditaruh berdampingan, muncul satu pertanyaan yang wajar dari orang awam seperti kita.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of an elderly Indonesian man reading a newspaper, thoughtful worried expression, smoke haze visible through the window behind him. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
-      "duration_hint": 8
+      "narration": "Kabar pertama: sejak Agustus dua ribu dua puluh enam, Kalimantan terbakar lagi — asap tebal menyelimuti kota-kota.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of thick gray smoke blanketing a Kalimantan city, rooftops barely visible, dim orange sun. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
     },
     {
       "id": "shot_007",
       "chapter": 1,
-      "narration": "Kalau lahan yang dibuka untuk perkebunan adalah salah satu penyebab utama kebakaran, lalu pemerintah mau menanam sawit lebih banyak — apakah kebakaran akan makin sering?",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Split composition: left side smoldering peatland with thin smoke rising, right side fresh green oil palm seedlings in neat rows, dramatic dividing line. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 12
+      "narration": "Kalimantan Barat tercatat sebagai wilayah dengan luas terbakar terbesar tahun ini, menurut data satelit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night satellite view of West Kalimantan glowing with clusters of orange fire dots across dark forest. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
     },
     {
       "id": "shot_008",
       "chapter": 1,
-      "narration": "Atau justru kali ini bisa dicegah? Film ini akan menelusuri jawabannya lewat satu pelajaran paling mahal dari Kalimantan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Silhouette of a lone firefighter walking through smoldering peatland at dusk, hose over shoulder, embers glowing on the ground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "TRACKING",
+      "narration": "Di Kalimantan Selatan, sekitar lima ratus tujuh puluh dua kilometer persegi sudah hangus — data resmi BNPB.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Charred black landscape in South Kalimantan, skeletal burned trees over ash-covered ground, faint smoke wisps. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_009",
       "chapter": 1,
-      "narration": "Kita mulai dari sekarang: awal Oktober dua ribu dua puluh enam, api masih meluas di beberapa provinsi.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Firefighters battling a wall of flame at the edge of a peat forest, water spray catching orange light, smoke towering above. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 9
+      "narration": "Asapnya menyeberang ke negara tetangga — citra satelit NASA merekam gumpalan asap melintasi batas negara.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. NASA MODIS style satellite image showing a massive gray smoke plume drifting from Borneo across the sea. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
     },
     {
       "id": "shot_010",
       "chapter": 1,
-      "narration": "Kalimantan Barat tercatat sebagai wilayah dengan luas terbakar terbesar tahun ini, menurut data satelit.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night satellite view of West Kalimantan glowing with clusters of orange fire dots across dark green forest. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
-      "duration_hint": 9
-    },
-    {
-      "id": "shot_011",
-      "chapter": 1,
-      "narration": "Di Kalimantan Selatan, sekitar lima ratus tujuh puluh dua kilometer persegi sudah hangus — data resmi BNPB.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Charred black landscape in South Kalimantan, skeletal burned trees standing over ash-covered ground, faint smoke wisps. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Kabar kedua: pemerintah mengumumkan rencana menanam sawit jauh lebih besar lagi — untuk swasembada pangan dan energi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Presidential press conference, Indonesian flag behind the podium, journalists with cameras. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
+      "id": "shot_011",
+      "chapter": 1,
+      "narration": "Ekspansinya disebut bisa mencapai dua puluh juta hektare — dan Papua pun direncanakan ditanami sawit untuk bahan bakar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Vast aerial view of endless oil palm plantation rows stretching to the horizon under hazy sky. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 11
+    },
+    {
       "id": "shot_012",
       "chapter": 1,
-      "narration": "Asapnya menyeberang ke negara tetangga — citra satelit NASA merekam gumpalan asap bergerak melintasi batas negara.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. NASA MODIS style satellite image showing a massive gray smoke plume drifting from Borneo across the sea toward neighboring countries. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Dua kabar ini berdampingan — dan di kepala banyak orang, keduanya langsung terhubung menjadi satu kecurigaan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two newspaper front pages side by side: one about fires, one about palm expansion, a red string connecting them. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_013",
       "chapter": 1,
-      "narration": "Kualitas udara di beberapa kota anjlok drastis; warga kembali memakai masker seperti tahun-tahun sebelumnya.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Street scene in a Kalimantan city under orange-brown haze, residents wearing face masks, motorcycle headlights on in daytime gloom. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 9
+      "narration": "Logikanya sederhana: kalau sawit butuh lahan luas, dan lahan dibuka dengan cara dibakar — jangan-jangan apinya memang disengaja?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Thoughtful Indonesian man staring out a window at smoky sky, connecting the dots expression. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 10
     },
     {
       "id": "shot_014",
       "chapter": 1,
-      "narration": "Padahal ini bukan pertama kalinya — kebakaran Kalimantan adalah cerita lama yang berulang hampir setiap tahun.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse feel: calendar pages turning with years marked by fire icons, smoke rising behind the numbers. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
-      "duration_hint": 8
+      "narration": "Pertanyaan itu wajar. Dan untuk menjawabnya dengan jujur, kita mulai dari bukti yang justru menguatkan kecurigaan itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Evidence board with photos, maps and red threads, a hand pinning a new satellite image of hotspots. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
     },
     {
       "id": "shot_015",
       "chapter": 1,
-      "narration": "Sejak tahun seribu sembilan ratus delapan puluhan, Kalimantan dan Sumatra terbakar dalam siklus yang hampir bisa ditebak.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archival-style aerial of 1980s Borneo forest with smoke columns rising from multiple distant points, vintage film tone. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Karena ternyata, bukti yang bikin orang curiga itu — memang ada, dan tidak sedikit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Camera pushes through thick smoke toward a glowing fire line, embers flying, ominous and dramatic. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
       "duration_hint": 9
     },
     {
       "id": "shot_016",
       "chapter": 1,
-      "narration": "Yang membuat orang heran: kenapa bencana yang polanya sudah jelas ini tidak kunjung berhenti?",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Indonesian mother holding her child on a porch, both wearing masks, staring at an orange smoky sky, helpless expressions. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Tapi ingat aturan main film ini: setiap bukti akan kita uji, bukan kita telan mentah-mentah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Gavel beside a stack of evidence folders labeled with fire photos, courtroom-like documentary gravity. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 9
     },
     {
       "id": "shot_017",
       "chapter": 1,
-      "narration": "Jawabannya ternyata bukan semata-mata kemarau — dan di situlah cerita sesungguhnya dimulai.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot of a single dry peat clod crumbling in a hand, glowing ember cracks inside the dark soil. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MACRO",
-      "duration_hint": 8
+      "narration": "Babak berikutnya: bukti-bukti yang membuat klaim “disengaja demi sawit” terdengar masuk akal.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Silhouette of a person holding a torch at the edge of dry peatland at dusk, flame about to catch. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
+      "duration_hint": 10
     },
     {
       "id": "shot_018",
       "chapter": 1,
-      "narration": "Kita mundur dulu untuk memahami: apa yang sebenarnya membuat Kalimantan begitu mudah terbakar?",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Camera pushes through thick smoke toward a glowing peat fire line advancing across dark wetland at night. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CRANE",
-      "duration_hint": 9
+      "narration": "Dan di akhir babak itu, akan ada satu pertanyaan yang mungkin membuat Anda ingin berkomentar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A hand hovering over a phone screen showing a comment section, thumb about to type, smoky background. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 8
     },
     {
       "id": "shot_019",
       "chapter": 2,
-      "narration": "Bayangkan tanah yang seperti spons raksasa: itulah gambut — tanah dari sisa tumbuhan yang ribuan tahun terendam air.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section view of dark peat soil layers, waterlogged, roots and ancient plant remains visible, water glistening between layers. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
+      "narration": "Bukti pertama yang menguatkan kecurigaan: membakar adalah cara termurah membuka lahan — jauh lebih murah dari alat berat mana pun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A man with a torch setting fire to dry peatland edge, flames catching quickly, plantation markers nearby. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_020",
       "chapter": 2,
-      "narration": "Selagi basah, gambut hampir tidak mungkin terbakar — ia justru menyimpan air seperti reservoir alami.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pristine peat swamp forest, dark mirror-like water between tall trees, mist hanging low, lush and wet. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 9
+      "narration": "Fakta ini bukan rahasia: pembukaan lahan dengan membakar adalah praktik nyata yang sudah berlangsung puluhan tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Burned clearing with fresh oil palm seedlings planted among blackened stumps, smoke still rising behind. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
     },
     {
       "id": "shot_021",
       "chapter": 2,
-      "narration": "Indonesia punya sekitar tiga puluh enam persen lahan gambut tropis di seluruh dunia — salah satu yang terbesar.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Globe view zooming into the Indonesian archipelago, peatland areas of Sumatra Kalimantan and Papua glowing in amber. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Bukti kedua: titik api justru muncul di dalam konsesi dan kawasan proyek — bukan di hutan belantara yang jauh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night satellite map of Papua dotted with glowing orange hotspot markers clustered inside concession borders. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "AERIAL",
       "duration_hint": 10
     },
     {
       "id": "shot_022",
       "chapter": 2,
-      "narration": "Tapi gambut punya satu kelemahan fatal: begitu dikeringkan, ia berubah menjadi bahan bakar yang luar biasa mudah terbakar.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Same peat cross-section now cracked and bone dry, deep fissures running through it, no water left, dust rising. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
-      "duration_hint": 9
+      "narration": "WALHI mencatat delapan ribu tiga ratus dua puluh empat titik panas di Papua dari Januari hingga Oktober dua ribu dua puluh enam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Zoomed hotspot map of Papua, hundreds of fire dots, data visualization with WALHI-style attribution feel. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
     },
     {
       "id": "shot_023",
       "chapter": 2,
-      "narration": "Dan api gambut itu istimewa sekaligus mengerikan: ia bisa membara di bawah permukaan tanah, tanpa api yang terlihat.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night shot of a peat field surface calm and dark, while thin orange glow seeps from cracks in the ground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Delapan ratus tujuh di antaranya berada di area Proyek Strategis Nasional Merauke — proyek pangan dan energi pemerintah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Project gate in Merauke with national strategic project signboard, smoke visible on the horizon behind it. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_024",
       "chapter": 2,
-      "narration": "Api bawah tanah itu bisa bertahan berbulan-bulan, lalu muncul lagi saat angin kencang — petugas menyebutnya api zombie.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Firefighter probing the ground with a stick as smoke suddenly erupts from a hidden underground hotspot, startled reaction. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Dan lima ratus enam puluh titik panas berada di dalam konsesi sawit itu sendiri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ground-level view of fire burning inside a palm concession, flames among young palm trees, thick smoke. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "MEDIUM",
-      "duration_hint": 9
+      "duration_hint": 10
     },
     {
       "id": "shot_025",
       "chapter": 2,
-      "narration": "Asap dari api gambut juga jauh lebih berbahaya: ia menghasilkan partikel halus tiga kali lipat dibanding kebakaran hutan biasa.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Microscopic-style visualization of dense fine smoke particles swirling, glowing orange embers mixed in gray haze. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MACRO",
+      "narration": "Titik panas adalah titik api yang terlihat dari satelit — artinya api sungguhan sedang menyala di sana, bukan sekadar asap.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite orbiting Earth, its sensor detecting glowing fire points on Borneo and Papua below. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 9
     },
     {
       "id": "shot_026",
       "chapter": 2,
-      "narration": "Lalu siapa yang mengeringkan gambut? Jawabannya: kanal-kanal drainase yang digali untuk membuka perkebunan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of straight drainage canals cutting through peatland like scars, brown water flowing out, surrounding land drying. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Bukti ketiga: gambut memang sengaja dikeringkan sebelum ditanami — lewat kanal-kanal drainase yang digali rapi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of straight drainage canals cutting through peatland like scars, brown water flowing out. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "AERIAL",
       "duration_hint": 10
     },
     {
       "id": "shot_027",
       "chapter": 2,
-      "narration": "Kanal itu fungsinya menyedot air keluar dari gambut agar lahannya kering dan bisa ditanami — terutama sawit.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close view of water rushing through a drainage canal, excavator on the bank, peat soil exposed and drying beside it. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 9
+      "narration": "Gambut itu seperti spons raksasa: selagi basah, hampir tidak mungkin terbakar. Indonesia punya tiga puluh enam persen gambut tropis dunia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section of dark waterlogged peat layers, water glistening, roots and ancient plant remains visible. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 10
     },
     {
       "id": "shot_028",
       "chapter": 2,
-      "narration": "Begitu airnya pergi, tanah yang tadinya seperti spons basah berubah menjadi arang kering raksasa.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dry cracked peatland stretching to the horizon, dead tree stumps, dust devils swirling under harsh sun. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Tapi begitu airnya disedot keluar lewat kanal, spons itu berubah menjadi bahan bakar raksasa yang siap menyala.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Same peat cross-section now cracked and bone dry, deep fissures, dust rising, no water left. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 9
     },
     {
       "id": "shot_029",
       "chapter": 2,
-      "narration": "Setelah lahan kering, cara termurah membuka lahan adalah satu: dibakar — lebih murah dari alat berat mana pun.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A man with a torch setting fire to dry peatland edge, flames catching quickly, plantation boundary markers nearby. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Api gambut bisa membara di bawah tanah berbulan-bulan tanpa terlihat — lalu muncul lagi saat angin kencang. Petugas menyebutnya api zombie.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night peat field, calm dark surface with thin orange glow seeping from cracks in the ground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_030",
       "chapter": 2,
-      "narration": "Ada yang membakar terang-terangan, ada yang “kebetulan” terbakar — tapi polanya sama: lahan siap ditanami setelah api padam.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Burned clearing with fresh oil palm seedlings planted in rows among blackened stumps, smoke still rising in background. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Bukti keempat: kebakaran berulang di lahan yang sama, tahun demi tahun — seolah ada pola yang disengaja.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse of the same land parcel burning in successive years, plantation rows advancing each time. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "AERIAL",
-      "duration_hint": 10
+      "duration_hint": 11
     },
     {
       "id": "shot_031",
       "chapter": 2,
-      "narration": "Para peneliti menyebut sekitar sembilan puluh sembilan persen kebakaran hutan dan lahan di Indonesia berakar dari aktivitas manusia.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Montage feel: hands holding matches, bulldozer, canal digger, plantation rows — human activities surrounding a central flame. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Tahun dua ribu lima belas, Kalimantan Selatan terbakar seratus sembilan puluh enam ribu hektare.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 2015 South Kalimantan fires, apocalyptic orange sky, firefighters silhouetted against massive flames. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_032",
       "chapter": 2,
-      "narration": "Kemarau panjang memang memperparah — fenomena El Nino membuat musim kemarau lebih panjang dan lebih kering.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Parched riverbed with cracked mud, dead fish, wilted crops under a blazing white sun. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 9
+      "narration": "Tahun dua ribu sembilan belas, delapan ratus lima puluh tujuh ribu hektare terbakar hanya dalam sembilan bulan — kualitas udara Palangka Raya mencapai seribu sembilan ratus tiga puluh sembilan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Air quality monitor displaying 1939 in red digits, masked child in foreground, city lost in brown haze. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 10
     },
     {
       "id": "shot_033",
       "chapter": 2,
-      "narration": "Tapi ingat: El Nino itu kondisi pemungkin, bukan penyebab utama — ia hanya membuat api yang memang dinyalakan jadi makin besar.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A small match flame beside a giant wall of fire, visual metaphor of a tiny spark versus a huge blaze. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
+      "narration": "Tahun dua ribu dua puluh tiga, Kalimantan Selatan kembali terluas terbakar: seratus sembilan puluh ribu hektare.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 2023 fire crews in South Kalimantan, water bombers flying over burning peatland, dramatic action. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_034",
       "chapter": 2,
-      "narration": "Sejarah mencatat betapa mahalnya pelajaran ini: tahun delapan dua hingga delapan tiga, Kalimantan Timur terbakar tiga koma dua juta hektare.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archival aerial of the 1982 East Kalimantan fires, enormous smoke columns over endless burning forest, vintage grain. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
-      "duration_hint": 10
+      "narration": "Dan bukti kelima, yang paling mengusik: proyek sawit baru pemerintah membuat orang menghubungkan semuanya menjadi satu cerita.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Map animation: fire icons and palm icons merging over Papua, public suspicion visualized as connecting lines. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
     },
     {
       "id": "shot_035",
       "chapter": 2,
-      "narration": "Kerugiannya ditaksir sembilan miliar dolar Amerika — pada masanya itu bencana asap terbesar yang pernah tercatat.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Newspaper headlines and burned forest panorama, dollar figures dissolving into smoke, somber documentary tone. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 9
+      "narration": "Greenpeace menemukan sekitar tujuh ribu enam ratus hektare hutan hilang di koridor Wanam-Muting hingga Februari dua ribu dua puluh enam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite comparison: green forest corridor versus brown cleared patches, red outlines marking loss. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
     },
     {
       "id": "shot_036",
       "chapter": 2,
-      "narration": "Tahun sembilan tujuh dan sembilan delapan, asapnya berdampak pada sekitar dua puluh juta orang menurut WHO, dengan kerugian empat koma empat miliar dolar.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Hazy city skyline of Southeast Asia in 1997, people in masks, airplanes grounded on a smoky tarmac. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Setelah melihat semua bukti ini, jujur saja — apakah Anda juga mulai curiga? Tulis “curiga” di kolom komentar kalau iya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. YouTube comment section on a phone screen filling with the word suspicious in Indonesian, engagement bait framing. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 10
     },
     {
       "id": "shot_037",
       "chapter": 3,
-      "narration": "Sekarang kita kembali ke kabar pertama tadi: rencana sawit besar-besaran dari pemerintah.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Government building in Jakarta, Indonesian flags, press microphones lined up, morning light. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Tapi film investigasi yang jujur harus berani menguji dari arah sebaliknya: bukti-bukti yang menyeimbangkan kecurigaan tadi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The balanced scales returning: documents and official statements placed against the flames, calmer light. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 9
+      "duration_hint": 10
     },
     {
       "id": "shot_038",
       "chapter": 3,
-      "narration": "Presiden Prabowo mendorong perluasan sawit demi dua target besar: swasembada pangan dan swasembada energi.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The president speaking at a national podium, large screens showing palm oil and energy graphics behind him. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 10
+      "narration": "Penyeimbang pertama: kemarau ekstrem memang nyata — fenomena El Nino membuat musim kemarau jauh lebih panjang dan kering.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Parched riverbed with cracked mud, dead fish, wilted crops under a blazing white sun. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
     },
     {
       "id": "shot_039",
       "chapter": 3,
-      "narration": "Caranya: minyak sawit diolah menjadi bahan bakar — supaya Indonesia tidak perlu lagi impor BBM dalam jumlah besar.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern biofuel refinery with palm oil tankers, pipes and towers, golden fuel pouring in a stylized stream. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Di tahun-tahun El Nino kuat, api yang kecil sekalipun bisa membesar tak terkendali — tanpa perlu ada yang sengaja menyalakannya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A tiny spark in dry grass erupting into a towering wildfire fanned by strong winds, nature's force. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_040",
       "chapter": 3,
-      "narration": "Desember dua ribu dua puluh lima, Presiden bahkan menyatakan Papua pun harus ditanami sawit agar bisa menghasilkan BBM sendiri.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial of Papua's vast green rainforest meeting the sea, untouched and misty, morning light breaking through. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Penyeimbang kedua: tidak semua api disengaja korporasi — ada petani kecil yang membakar untuk berladang seperti turun-temurun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Smallholder farmer with a controlled small burn on family farmland, traditional practice, modest scale. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_041",
       "chapter": 3,
-      "narration": "Targetnya ambisius: dalam lima tahun, semua daerah bisa swasembada energi — dan diklaim bisa menghemat ratusan triliun rupiah dari impor BBM.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Fuel price charts going down, Indonesian rupiah symbols, gas station with proud national branding. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Ada pula kelalaian: puntung rokok, api unggun yang ditinggalkan, dan api larian yang melompat tak terduga.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A smoldering campfire left unattended at a forest edge, thin smoke curling up, carelessness visualized. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 9
     },
     {
       "id": "shot_042",
       "chapter": 3,
-      "narration": "Pemerintah juga menyampaikan kabar yang menenangkan: tidak perlu lagi membuka hutan untuk lahan baru.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official holding a press statement, forest protection banners, calm reassuring atmosphere in a conference hall. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 9
+      "narration": "Para peneliti menyebut sekitar sembilan puluh sembilan persen karhutla berakar dari aktivitas manusia — tapi “manusia” itu banyak wajahnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Montage: corporate bulldozer, small farmer, careless camper, lightning — many faces around one flame. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
     },
     {
       "id": "shot_043",
       "chapter": 3,
-      "narration": "Oktober dua ribu dua puluh enam, utusan khusus presiden menegaskan pengembangan biofuel diarahkan ke lahan terdegradasi.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. International sustainability forum stage, Indonesian delegate speaking, big screen reading degraded land development. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Penyeimbang ketiga: pemerintah menyatakan pengembangan biofuel diarahkan ke lahan terdegradasi — bukan hutan alam, bukan gambut basah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official at an international forum, presentation slide about degraded land development, formal setting. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_044",
       "chapter": 3,
-      "narration": "Artinya: lahan yang sudah rusak atau tidak produktif — bukan hutan alam, bukan gambut yang masih basah.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Degraded barren land with sparse grass, contrasted with lush forest edge behind it, clear boundary line. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Itu disampaikan utusan khusus presiden pada Oktober dua ribu dua puluh enam di forum keberlanjutan di Jakarta.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Conference hall with Indonesian delegation, sustainability banners, journalists taking notes. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 9
     },
     {
       "id": "shot_045",
       "chapter": 3,
-      "narration": "Pemerintah juga menunjukkan keseriusan lewat penindakan: empat juta hektare kebun sawit ilegal sudah disita lewat Satgas PKH.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Officials sealing off an illegal palm plantation, red prohibition tape, confiscation signage, enforcement officers. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Penyeimbang keempat: pemerintah menyita empat juta hektare kebun sawit ilegal lewat Satgas PKH — dan berencana menyita empat hingga lima juta hektare lagi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Officials sealing off an illegal palm plantation, red prohibition tape, enforcement officers at work. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_046",
       "chapter": 3,
-      "narration": "Dan rencananya, empat hingga lima juta hektare lagi akan disita — kebun yang melanggar aturan di kawasan hutan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial of plantation blocks marked with red boundary lines, survey teams with maps on the ground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Itu adalah tindakan nyata terhadap perkebunan yang melanggar aturan — bukan pembelaan terhadap pembakar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Confiscated plantation sign with official seal, padlocked gate, authority standing guard. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 9
     },
     {
       "id": "shot_047",
       "chapter": 3,
-      "narration": "Di atas kertas, rencananya terdengar rapi: sawit untuk energi, tapi di lahan yang sudah rusak, bukan hutan baru.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Clean document with a government stamp, green checkmarks, blueprint of sustainable plantation planning. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Penyeimbang kelima, yang paling penting: hingga hari ini belum ada bukti resmi yang mengaitkan kebakaran 2026 secara langsung ke proyek sawit pemerintah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official investigation documents stamped, magnifier finding no direct link, honest documentary tone. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "CLOSEUP",
-      "duration_hint": 9
+      "duration_hint": 10
     },
     {
       "id": "shot_048",
       "chapter": 3,
-      "narration": "Pertanyaannya: apakah janji di atas kertas itu akan bertahan sampai ke lapangan?",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The stamped document dissolving into a muddy field reality, contrast between paper promise and ground truth. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Kecurigaan itu kuat — tapi kecurigaan bukanlah bukti. Dan menuduh tanpa bukti sama berbahayanya dengan menutup mata.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A finger pointing accusation dissolving into question marks, ethical journalism visual metaphor. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "CLOSEUP",
       "duration_hint": 10
     },
     {
       "id": "shot_049",
       "chapter": 3,
-      "narration": "Karena di lapangan, ada proyek raksasa yang sedang berjalan — dan polanya mengingatkan orang pada cerita lama.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive land clearing operation in Papua, bulldozers pushing over forest edge, dust and smoke in the air. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Jadi di titik ini, bukti terbagi dua: ada yang menguatkan curiga, ada yang menyeimbangkan. Keduanya nyata.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two piles of evidence on a table: satellite photos on one side, official documents on the other, even split. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_050",
       "chapter": 3,
-      "narration": "Proyeknya bernama Proyek Strategis Nasional pangan dan energi — salah satunya di Merauke, Papua Selatan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Signboard reading national strategic project at a forest frontier gate in Merauke, trucks passing through. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Untuk melihat lebih jernih, kita perlu mundur — karena pola ini ternyata sudah berumur puluhan tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archival film reel spinning, old footage of Borneo forests, time travel documentary transition. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
       "duration_hint": 9
     },
     {
       "id": "shot_051",
       "chapter": 3,
-      "narration": "Di sanalah sawit untuk bahan bakar direncanakan tumbuh — di ujung timur Indonesia yang hutannya masih luas.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sweeping aerial of southern Papua lowlands, rivers winding through dense green forest, morning mist. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Sejarah akan menunjukkan: apakah api selalu datang setelah lahan dibuka — atau itu hanya kebetulan yang berulang?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Historian opening dusty archives, old maps of Kalimantan with fire records marked by decade. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_052",
       "chapter": 3,
-      "narration": "Pemerintah bilang ini untuk ketahanan pangan dan energi nasional — program prioritas negara.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rice fields and palm nurseries side by side under a national food security banner, workers planting seedlings. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Dan sebelum lanjut — bukti mana yang lebih meyakinkan buat Anda sejauh ini? Yang menguatkan, atau yang menyeimbangkan?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Split screen: left glowing fire evidence, right official documents, viewer's choice visualized. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 9
+      "duration_hint": 10
     },
     {
       "id": "shot_053",
       "chapter": 3,
-      "narration": "Tapi para pengamat lingkungan mencatat sesuatu yang bikin dahi berkerut di proyek ini.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Environmental activist studying satellite images on a laptop in a field office, concerned expression, maps on the wall. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Tulis jawaban Anda di komentar — karena di akhir film, pertanyaan terbesarnya akan kami kembalikan kepada Anda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Comment section animation with viewers typing, community discussion forming around the fire debate. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 9
     },
     {
       "id": "shot_054",
       "chapter": 3,
-      "narration": "Dan temuan mereka inilah yang membuat banyak orang bertanya-tanya.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Laptop screen glowing in a dark room showing red deforestation alerts on a forest map, tense atmosphere. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
+      "narration": "Sekarang, kita buka arsip sejarahnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive archive doors opening, light flooding onto historical fire records of Kalimantan. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
       "duration_hint": 8
     },
     {
       "id": "shot_055",
       "chapter": 4,
-      "narration": "Greenpeace menganalisis citra satelit dan menemukan sekitar tujuh ribu enam ratus hektare hutan hilang di koridor Wanam-Muting hingga Februari dua ribu dua puluh enam.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite comparison: green forest corridor in one frame, brown cleared patches in the next, red outlines marking loss. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Tahun seribu sembilan ratus delapan puluh dua hingga delapan puluh tiga: Kalimantan Timur terbakar tiga koma dua juta hektare.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archival aerial of the 1982 East Kalimantan fires, enormous smoke columns, vintage film grain. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "AERIAL",
-      "duration_hint": 11
+      "duration_hint": 10
     },
     {
       "id": "shot_056",
       "chapter": 4,
-      "narration": "WALHI mencatat rencana pelepasan kawasan hutan hampir empat ratus delapan puluh tujuh ribu hektare untuk kawasan pangan dan energi di Merauke.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official map with huge concession blocks drawn over Papua's forest, red boundary lines, scale showing vast area. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Kerugiannya ditaksir sembilan miliar dolar Amerika — bencana asap terbesar yang pernah tercatat pada masanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Old newspaper headlines about the 1982 fires, burned forest panorama, somber historical tone. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 10
+      "duration_hint": 9
     },
     {
       "id": "shot_057",
       "chapter": 4,
-      "narration": "Dari jumlah itu, lebih dari dua ratus enam puluh lima ribu hektare adalah hutan alam — hutan yang belum pernah dijamah.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Towering primary rainforest canopy in Papua, hornbills flying, ancient trees, untouched wilderness light. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CRANE",
+      "narration": "Tahun seribu sembilan ratus sembilan puluh tujuh dan sembilan puluh delapan: asapnya berdampak pada sekitar dua puluh juta orang, menurut WHO.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Hazy Southeast Asian city skyline in 1997, masked crowds, airplanes grounded on a smoky tarmac. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_058",
       "chapter": 4,
-      "narration": "Kalau janji pemerintah adalah “hanya lahan terdegradasi”, angka-angka ini membuat orang awam seperti kita ikut menghitung.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Indonesian villager counting on fingers while looking at a concession map, puzzled expression, simple wooden house behind. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Kerugian ekonomi empat koma empat miliar dolar — dan sejak itu dunia tahu: asap Indonesia bisa melintasi batas negara.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Smoke plume crossing national borders on a weather map, neighboring countries shaded in haze. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
       "duration_hint": 10
     },
     {
       "id": "shot_059",
       "chapter": 4,
-      "narration": "Dan ada ironi yang paling menusuk: di kawasan proyek baru itu sendiri, api sudah muncul.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Fresh fire line burning at the edge of a newly cleared project area, plantation stakes in the foreground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Perhatikan polanya: setiap kebakaran besar selalu mengikuti gelombang pembukaan lahan untuk perkebunan dan HTI.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Timeline graphic: plantation expansion bars rising alongside fire severity bars, correlation visualized. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 10
+      "duration_hint": 11
     },
     {
       "id": "shot_060",
       "chapter": 4,
-      "narration": "WALHI mencatat delapan ribu tiga ratus dua puluh empat titik panas di Papua dari Januari hingga Oktober dua ribu dua puluh enam.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night satellite map of Papua dotted with hundreds of glowing orange hotspot markers. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
-      "duration_hint": 10
+      "narration": "Sejak dua ribu sebelas, pemerintah memberlakukan moratorium pembukaan lahan gambut baru.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official signing a peatland moratorium document, protection stamp, government ceremony. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
     },
     {
       "id": "shot_061",
       "chapter": 4,
-      "narration": "Delapan ratus tujuh di antaranya berada di area proyek Merauke — dan lima ratus enam puluh di konsesi sawit.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Zoomed hotspot map highlighting the Merauke project zone, clusters of fire dots inside plantation concession borders. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Tahun dua ribu enam belas dibentuk Badan Restorasi Gambut untuk memulihkan gambut yang sudah rusak.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Restoration workers building canal blocks in peatland, sandbags and wooden dams, teamwork. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_062",
       "chapter": 4,
-      "narration": "Titik panas adalah titik api yang terlihat dari satelit — artinya api sungguhan sedang menyala di sana.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ground-level view of a real fire burning in a palm concession, flames among young palm trees, thick smoke. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 9
+      "narration": "Ada juga Masyarakat Peduli Api: warga desa dilatih memadamkan api di wilayahnya sendiri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Village fire brigade training with water pumps and hoses, community spirit in action. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
     },
     {
       "id": "shot_063",
       "chapter": 4,
-      "narration": "Polanya terasa familiar, bukan? Persis seperti awal mula cerita Kalimantan puluhan tahun lalu.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mirror composition: old Kalimantan fire photo fading into a new Papua fire scene, same smoke, same pattern. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Hasilnya ada, tapi parsial: selama pembukaan lahan baru terus berjalan, api selalu punya tempat untuk kembali.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Half-restored peatland beside a newly cleared plantation block, smoke on the horizon, stark contrast. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
       "duration_hint": 10
     },
     {
       "id": "shot_064",
       "chapter": 4,
-      "narration": "Dulu pun begitu: hutan dibuka, kanal digali, gambut mengering, lalu api datang — dan asapnya tak pernah benar-benar pergi.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Four-panel visual sequence: forest, canal digging, dried peat, fire — the repeating cycle of destruction. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Asap gambut pun istimewa berbahayanya: partikel halusnya tiga kali lipat dibanding kebakaran hutan biasa, menurut IQAir.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dense peat smoke rolling over a village, children coughing, masks, health crisis atmosphere. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 11
+      "duration_hint": 10
     },
     {
       "id": "shot_065",
       "chapter": 4,
-      "narration": "Tahun dua ribu lima belas, Kalimantan Selatan terbakar seratus sembilan puluh enam ribu hektare — salah satu yang terparah.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 2015 South Kalimantan fires, apocalyptic orange sky, firefighters silhouetted against massive flames. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Kini pertanyaannya bergeser: apakah pola Kalimantan ini sedang pindah ke Papua?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Map animation: fire icon traveling from Kalimantan across the archipelago toward Papua. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_066",
       "chapter": 4,
-      "narration": "Tahun dua ribu sembilan belas, total Indonesia delapan ratus lima puluh tujuh ribu hektare terbakar hanya dalam sembilan bulan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Burned Indonesia map with provinces shaded by severity, smoke covering the archipelago, statistical overlay feel. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Di Merauke, rencana pelepasan hampir empat ratus delapan puluh tujuh ribu hektare kawasan hutan sudah dicatat WALHI.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official concession map over Papua's forest, huge blocks outlined in red, staggering scale. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_067",
       "chapter": 4,
-      "narration": "Di tahun itu, kualitas udara Palangka Raya mencapai angka seribu sembilan ratus tiga puluh sembilan — kategori berbahaya menurut BNPB.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Air quality monitor displaying 1939 in red digits, child wearing mask in foreground, city lost in brown haze behind. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
+      "narration": "Lebih dari dua ratus enam puluh lima ribu hektare di antaranya adalah hutan alam yang belum pernah dijamah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Towering primary rainforest canopy in Papua, hornbills flying, ancient untouched trees. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
       "duration_hint": 10
     },
     {
       "id": "shot_068",
       "chapter": 4,
-      "narration": "Tahun dua ribu dua puluh tiga, Kalimantan Selatan kembali jadi yang terluas terbakar di Indonesia: seratus sembilan puluh ribu hektare.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 2023 fire crews in South Kalimantan, water bombers flying over burning peatland, dramatic action. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Kalau janji “hanya lahan terdegradasi” benar, angka-angka ini seharusnya tidak ada. Tapi angka-angka ini ada.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Government promise document contrasted with real concession numbers, tension between paper and ground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 10
     },
     {
       "id": "shot_069",
       "chapter": 4,
-      "narration": "Setiap angka itu adalah tahun-tahun ketika orang Kalimantan hidup dalam asap — anak-anak tak bisa sekolah, penerbangan batal.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Empty school classroom with masks on desks, window showing orange smoky sky outside, abandoned playground. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
+      "narration": "Sejarah mengajarkan satu hal: api tidak pernah datang tanpa sebab — ia selalu mengikuti jejak pembukaan lahan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Footprints leading through ash toward a burning horizon, cause-and-effect visual metaphor. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
       "duration_hint": 10
     },
     {
       "id": "shot_070",
       "chapter": 4,
-      "narration": "Dan setiap kali itu pula, penyebabnya sama: lahan dibuka untuk perkebunan, lalu dibakar karena itulah cara termurahnya.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Burned field with new plantation rows emerging from ash, cycle repeating, bleak documentary framing. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Tapi sejarah juga mengajarkan hal lain: menuduh tanpa bukti bisa sama merusaknya dengan api itu sendiri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A burned village and a false accusation headline side by side, both destructive, ethical weight. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_071",
       "chapter": 4,
-      "narration": "Maka wajar kalau orang bertanya: apakah pola Kalimantan sekarang sedang pindah ke Papua?",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Map animation: fire icon traveling from Kalimantan across the archipelago toward Papua, question mark forming. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Karena itu, setelah semua bukti digelar — klaim awal film ini harus kita kembalikan kepada yang paling berhak menilainya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The evidence board one last time, camera pulling back, all photos and maps visible, decisive moment. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
       "duration_hint": 10
     },
     {
       "id": "shot_072",
       "chapter": 4,
-      "narration": "Atau janji “lahan terdegradasi saja” benar-benar akan dijaga sampai ke lapangan?",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A government promise document held against a backdrop of real forest, wind moving the pages, uncertain light. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
-      "duration_hint": 10
-    },
-    {
-      "id": "shot_073",
-      "chapter": 5,
-      "narration": "Untuk menjawabnya, kita harus jujur melihat apa yang berhasil — dan apa yang gagal — dari pelajaran Kalimantan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Elderly Dayak man sitting by a river, looking at old photos of forest fires, reflective documentary portrait. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 10
-    },
-    {
-      "id": "shot_074",
-      "chapter": 5,
-      "narration": "Sejak dua ribu sebelas, pemerintah memberlakukan moratorium: pembukaan lahan gambut baru dihentikan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Official signing a moratorium document, peatland protection stamp, hopeful government ceremony. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Yaitu Anda, para penonton.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Diverse Indonesian viewers watching a screen, faces lit by its glow, the jury of public opinion. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "MEDIUM",
       "duration_hint": 9
     },
     {
+      "id": "shot_073",
+      "chapter": 5,
+      "narration": "Mari kita rangkum dengan jujur apa yang sudah kita temukan bersama.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Host-style narrator desk with the two evidence piles, calm summarizing atmosphere. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "narration": "Yang menguatkan kecurigaan: membakar itu termurah, titik api ada di dalam konsesi, gambut sengaja dikeringkan, pola berulang puluhan tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rapid montage of the incriminating evidence: torch, hotspots, canals, repeating fire years. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
       "id": "shot_075",
       "chapter": 5,
-      "narration": "Tahun dua ribu enam belas dibentuk Badan Restorasi Gambut — tugasnya memulihkan gambut yang sudah rusak.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Restoration workers building canal blocks in peatland, sandbags and wooden dams, teamwork in muddy water. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Yang menyeimbangkan: El Nino memang ekstrem, tak semua api ulah korporasi, pemerintah janji lahan terdegradasi dan menyita kebun ilegal.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rapid montage of the balancing evidence: drought, small farmers, official promises, confiscations. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 10
+      "duration_hint": 11
     },
     {
       "id": "shot_076",
       "chapter": 5,
-      "narration": "Ada juga Masyarakat Peduli Api: warga desa dilatih dan dilibatkan memadamkan api di wilayahnya sendiri.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Village fire brigade training, locals with water pumps and hoses practicing, community spirit. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Dan yang belum terjawab: belum ada bukti resmi yang mengaitkan kebakaran 2026 langsung ke proyek sawit pemerintah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. An empty evidence folder labeled 2026 with a question mark, honest investigative restraint. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 10
     },
     {
       "id": "shot_077",
       "chapter": 5,
-      "narration": "Hasilnya ada — di beberapa daerah, kebakaran berhasil ditekan dan gambut mulai basah kembali.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rewetted peatland with water returning, green shoots emerging from dark wet soil, hopeful morning light. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Inilah batas antara kecurigaan dan kesimpulan — dan justru di sinilah letak pentingnya pertanyaan ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A thin line dividing suspicion from conclusion, walking the line visual, dramatic and thoughtful. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TRACKING",
       "duration_hint": 10
     },
     {
       "id": "shot_078",
       "chapter": 5,
-      "narration": "Tapi hasilnya parsial: selama pembukaan lahan baru masih berjalan, api selalu punya tempat untuk kembali.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Half-restored peatland beside a newly cleared plantation block, stark contrast, smoke on the horizon. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Karena apapun jawabannya, ada pelajaran yang tidak bisa ditawar dari Kalimantan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Elderly Dayak man by a river holding old fire photos, wisdom in his weathered face. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_079",
       "chapter": 5,
-      "narration": "Para ahli gambut sepakat pada satu syarat mutlak: jangan pernah membuka gambut yang masih basah dan hutan alam.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientist holding wet peat soil in hands, water dripping, protected forest behind, educational tone. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Jangan pernah membuka gambut yang masih basah dan hutan alam — itu syarat mutlak para ahli.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientist holding wet peat, water dripping, protected forest behind, clear educational framing. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "CLOSEUP",
       "duration_hint": 10
     },
     {
       "id": "shot_080",
       "chapter": 5,
-      "narration": "Syarat kedua: jaga tata air — kanal-kanal lama harus disekat agar air kembali naik dan gambut basah lagi.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Canal blocking dam holding back water, peatland water level rising, before-after feel in one frame. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Jaga tata air: kanal-kanal lama harus disekat agar gambut basah kembali. Gambut yang basah tidak akan terbakar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Canal blocking dam, water level rising in peatland, restoration in progress, hopeful. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_081",
       "chapter": 5,
-      "narration": "Gambut yang basah kembali tidak akan terbakar — sesederhana itu, dan semurah itu dibanding biaya memadamkan api.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Water flowing back into peat channels, reflections of healthy green forest, serene and hopeful. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "TRACKING",
+      "narration": "Tegakkan hukum dengan tegas terhadap pembakar lahan — besar maupun kecil, konsisten bukan musiman.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Law enforcement patrol in a burned area, investigators collecting evidence. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
       "duration_hint": 10
     },
     {
       "id": "shot_082",
       "chapter": 5,
-      "narration": "Syarat ketiga: penegakan hukum yang tegas — pembakar lahan, besar maupun kecil, harus benar-benar ditindak.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Law enforcement patrol in a burned area, investigators collecting evidence, official vehicles. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
-      "duration_hint": 10
-    },
-    {
-      "id": "shot_083",
-      "chapter": 5,
-      "narration": "Penyitaan jutaan hektare kebun ilegal adalah langkah ke arah sana — tapi harus konsisten, bukan musiman.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sealed plantation gate with official notice, padlock and red tape, authority standing guard. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MEDIUM",
-      "duration_hint": 9
-    },
-    {
-      "id": "shot_084",
-      "chapter": 5,
-      "narration": "Syarat keempat: transparansi — peta konsesi, titik panas, dan izin harus bisa dipantau publik setiap saat.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Public dashboard on a screen showing concession maps and live hotspot data, open data concept. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Dan buka semua data ke publik: peta konsesi, titik panas, dan izin harus bisa dipantau siapa pun, kapan pun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Public dashboard showing live hotspot and concession maps, transparency concept. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "CLOSEUP",
       "duration_hint": 9
     },
     {
+      "id": "shot_083",
+      "chapter": 5,
+      "narration": "Kalau syarat-syarat ini dipenuhi, sawit dan hutan lestari sebenarnya bisa berjalan berdampingan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Oil palm plantation beside healthy protected forest, clear boundary, both thriving. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_084",
+      "chapter": 5,
+      "narration": "Tapi kalau gambut dibuka lagi dan kanal digali lagi — kita semua sudah tahu akhir ceritanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Excavator digging a new canal into wet peatland, water draining, dark clouds gathering. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
       "id": "shot_085",
       "chapter": 5,
-      "narration": "Kalau empat syarat ini dipenuhi, perluasan sawit dan hutan yang lestari sebenarnya bisa berjalan berdampingan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Oil palm plantation beside healthy protected forest, clear boundary, both thriving under blue sky. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "AERIAL",
+      "narration": "Kini, seperti janji di awal film: pertanyaan terakhirnya kami kembalikan kepada Anda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Camera turning toward the audience, breaking the fourth wall, direct address lighting. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
       "duration_hint": 10
     },
     {
       "id": "shot_086",
       "chapter": 5,
-      "narration": "Tapi kalau gambut dibuka lagi dan kanal digali lagi, maka kita semua sudah tahu akhir ceritanya.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Excavator digging a new canal into wet peatland, water draining away, ominous dark clouds gathering. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Jadi, apakah kebakaran Kalimantan ini murni bencana — atau ada yang sengaja menyalakan api demi proyek sawit?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Final split image: natural wildfire on one side, a hand with a torch on the other, the ultimate question. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "WIDE",
-      "duration_hint": 10
+      "duration_hint": 12
     },
     {
       "id": "shot_087",
       "chapter": 5,
-      "narration": "Karena api tidak peduli niat baik — ia hanya butuh tiga hal: bahan bakar kering, oksigen, dan percikan.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Extreme macro of a spark landing on dry peat, ignition beginning, super slow-motion feel. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "MACRO",
-      "duration_hint": 9
+      "narration": "Menurut kamu bagaimana? Tulis pendapatmu di kolom komentar — dan sebutkan bukti mana yang paling meyakinkan buatmu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Vibrant YouTube comment section filling with Indonesian opinions, debate igniting, community energy. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
+      "duration_hint": 11
     },
     {
       "id": "shot_088",
       "chapter": 5,
-      "narration": "Kalimantan sudah membayar mahal untuk pelajaran ini: triliunan rupiah, jutaan orang sesak napas, hutan yang hilang.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Montage of Kalimantan's cost: masked crowds, burned forest, hospital ward, economic charts falling. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "WIDE",
+      "narration": "Karena selama pertanyaan ini belum terjawab tuntas, asap akan terus kembali setiap tahun — dan kita semua yang menghirupnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A child in a mask looking at the camera as smoke rolls behind, haunting final image before dawn. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSEUP",
       "duration_hint": 11
     },
     {
       "id": "shot_089",
       "chapter": 5,
-      "narration": "Kini pertanyaannya bukan lagi “kenapa terbakar”, melainkan “apakah kita mau mengulanginya di tempat lain”.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Indonesian child looking directly at camera, half face in clear air, half in smoke — powerful closing portrait. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
-      "shot_type": "CLOSEUP",
-      "duration_hint": 11
+      "narration": "Sampai jumpa di dokumenter berikutnya. Jangan lupa subscribe agar tidak ketinggalan investigasi kami selanjutnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sunrise breaking through smoke over Kalimantan, channel logo space left empty, hopeful dawn. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CRANE",
+      "duration_hint": 10
     },
     {
       "id": "shot_090",
       "chapter": 5,
-      "narration": "Jawabannya ada di tangan kita semua — dimulai dari menuntut janji “lahan terdegradasi saja” benar-benar ditepati.",
-      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sunrise over a rewetted peatland, mist rising, birds flying, text-free hopeful dawn landscape. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+      "narration": "Dan ingat: kebenaran tidak takut diuji — yang takut diuji hanyalah kebohongan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sunrise over rewetted peatland, mist rising, birds flying, clean hopeful closing landscape. Palette: thick smoke gray, peat fire orange, scorched umber, palm green, deep black, dramatic chiaroscuro, volumetric light through smoke and dust, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
       "shot_type": "CRANE",
       "duration_hint": 12
     }

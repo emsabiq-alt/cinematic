@@ -1,0 +1,636 @@
+{
+  "title": "",
+  "total_shots": 90,
+  "records": [
+    {
+      "shot_id": "shot_001",
+      "chapter": 1,
+      "narration": "Pagi ini ada dua kabar dari berita yang kalau ditaruh bersebelahan, bikin orang berhenti sejenak dan berpikir.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_001.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_002",
+      "chapter": 1,
+      "narration": "Kabar pertama: pemerintah mengumumkan rencana menanam sawit jauh lebih banyak lagi — untuk swasembada pangan dan energi nasional.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_002.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_003",
+      "chapter": 1,
+      "narration": "Disebut-sebut ekspansinya bisa mencapai dua puluh juta hektare — angka yang membuat para pengamat lingkungan geleng-geleng kepala.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_003.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_004",
+      "chapter": 1,
+      "narration": "Kabar kedua: Kalimantan sedang terbakar lagi — sejak Agustus dua ribu dua puluh enam, asap tebal menyelimuti kota-kota di Kalimantan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_004.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_005",
+      "chapter": 1,
+      "narration": "Setiap tahun polanya selalu begitu: musim kemarau tiba, hutan dan lahan gambut terbakar, asapnya bahkan sampai ke negara tetangga.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_005.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_006",
+      "chapter": 1,
+      "narration": "Kalau dua kabar ini ditaruh berdampingan, muncul satu pertanyaan yang wajar dari orang awam seperti kita.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_006.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_007",
+      "chapter": 1,
+      "narration": "Kalau lahan yang dibuka untuk perkebunan adalah salah satu penyebab utama kebakaran, lalu pemerintah mau menanam sawit lebih banyak — apakah kebakaran akan makin sering?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_007.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_008",
+      "chapter": 1,
+      "narration": "Atau justru kali ini bisa dicegah? Film ini akan menelusuri jawabannya lewat satu pelajaran paling mahal dari Kalimantan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_008.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_009",
+      "chapter": 1,
+      "narration": "Kita mulai dari sekarang: awal Oktober dua ribu dua puluh enam, api masih meluas di beberapa provinsi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_009.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_010",
+      "chapter": 1,
+      "narration": "Kalimantan Barat tercatat sebagai wilayah dengan luas terbakar terbesar tahun ini, menurut data satelit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_010.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_011",
+      "chapter": 1,
+      "narration": "Di Kalimantan Selatan, sekitar lima ratus tujuh puluh dua kilometer persegi sudah hangus — data resmi BNPB.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_011.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_012",
+      "chapter": 1,
+      "narration": "Asapnya menyeberang ke negara tetangga — citra satelit NASA merekam gumpalan asap bergerak melintasi batas negara.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_012.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_013",
+      "chapter": 1,
+      "narration": "Kualitas udara di beberapa kota anjlok drastis; warga kembali memakai masker seperti tahun-tahun sebelumnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_013.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_014",
+      "chapter": 1,
+      "narration": "Padahal ini bukan pertama kalinya — kebakaran Kalimantan adalah cerita lama yang berulang hampir setiap tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_014.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_015",
+      "chapter": 1,
+      "narration": "Sejak tahun seribu sembilan ratus delapan puluhan, Kalimantan dan Sumatra terbakar dalam siklus yang hampir bisa ditebak.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_015.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_016",
+      "chapter": 1,
+      "narration": "Yang membuat orang heran: kenapa bencana yang polanya sudah jelas ini tidak kunjung berhenti?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_016.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_017",
+      "chapter": 1,
+      "narration": "Jawabannya ternyata bukan semata-mata kemarau — dan di situlah cerita sesungguhnya dimulai.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_017.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_018",
+      "chapter": 1,
+      "narration": "Kita mundur dulu untuk memahami: apa yang sebenarnya membuat Kalimantan begitu mudah terbakar?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_018.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_019",
+      "chapter": 2,
+      "narration": "Bayangkan tanah yang seperti spons raksasa: itulah gambut — tanah dari sisa tumbuhan yang ribuan tahun terendam air.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_019.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_020",
+      "chapter": 2,
+      "narration": "Selagi basah, gambut hampir tidak mungkin terbakar — ia justru menyimpan air seperti reservoir alami.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_020.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_021",
+      "chapter": 2,
+      "narration": "Indonesia punya sekitar tiga puluh enam persen lahan gambut tropis di seluruh dunia — salah satu yang terbesar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_021.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_022",
+      "chapter": 2,
+      "narration": "Tapi gambut punya satu kelemahan fatal: begitu dikeringkan, ia berubah menjadi bahan bakar yang luar biasa mudah terbakar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_022.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_023",
+      "chapter": 2,
+      "narration": "Dan api gambut itu istimewa sekaligus mengerikan: ia bisa membara di bawah permukaan tanah, tanpa api yang terlihat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_023.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_024",
+      "chapter": 2,
+      "narration": "Api bawah tanah itu bisa bertahan berbulan-bulan, lalu muncul lagi saat angin kencang — petugas menyebutnya api zombie.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_024.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_025",
+      "chapter": 2,
+      "narration": "Asap dari api gambut juga jauh lebih berbahaya: ia menghasilkan partikel halus tiga kali lipat dibanding kebakaran hutan biasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_025.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_026",
+      "chapter": 2,
+      "narration": "Lalu siapa yang mengeringkan gambut? Jawabannya: kanal-kanal drainase yang digali untuk membuka perkebunan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_026.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_027",
+      "chapter": 2,
+      "narration": "Kanal itu fungsinya menyedot air keluar dari gambut agar lahannya kering dan bisa ditanami — terutama sawit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_027.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_028",
+      "chapter": 2,
+      "narration": "Begitu airnya pergi, tanah yang tadinya seperti spons basah berubah menjadi arang kering raksasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_028.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_029",
+      "chapter": 2,
+      "narration": "Setelah lahan kering, cara termurah membuka lahan adalah satu: dibakar — lebih murah dari alat berat mana pun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_029.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_030",
+      "chapter": 2,
+      "narration": "Ada yang membakar terang-terangan, ada yang “kebetulan” terbakar — tapi polanya sama: lahan siap ditanami setelah api padam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_030.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_031",
+      "chapter": 2,
+      "narration": "Para peneliti menyebut sekitar sembilan puluh sembilan persen kebakaran hutan dan lahan di Indonesia berakar dari aktivitas manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_031.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_032",
+      "chapter": 2,
+      "narration": "Kemarau panjang memang memperparah — fenomena El Nino membuat musim kemarau lebih panjang dan lebih kering.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_032.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_033",
+      "chapter": 2,
+      "narration": "Tapi ingat: El Nino itu kondisi pemungkin, bukan penyebab utama — ia hanya membuat api yang memang dinyalakan jadi makin besar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_033.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_034",
+      "chapter": 2,
+      "narration": "Sejarah mencatat betapa mahalnya pelajaran ini: tahun delapan dua hingga delapan tiga, Kalimantan Timur terbakar tiga koma dua juta hektare.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_034.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_035",
+      "chapter": 2,
+      "narration": "Kerugiannya ditaksir sembilan miliar dolar Amerika — pada masanya itu bencana asap terbesar yang pernah tercatat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_035.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_036",
+      "chapter": 2,
+      "narration": "Tahun sembilan tujuh dan sembilan delapan, asapnya berdampak pada sekitar dua puluh juta orang menurut WHO, dengan kerugian empat koma empat miliar dolar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_036.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_037",
+      "chapter": 3,
+      "narration": "Sekarang kita kembali ke kabar pertama tadi: rencana sawit besar-besaran dari pemerintah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_037.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_038",
+      "chapter": 3,
+      "narration": "Presiden Prabowo mendorong perluasan sawit demi dua target besar: swasembada pangan dan swasembada energi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_038.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_039",
+      "chapter": 3,
+      "narration": "Caranya: minyak sawit diolah menjadi bahan bakar — supaya Indonesia tidak perlu lagi impor BBM dalam jumlah besar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_039.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_040",
+      "chapter": 3,
+      "narration": "Desember dua ribu dua puluh lima, Presiden bahkan menyatakan Papua pun harus ditanami sawit agar bisa menghasilkan BBM sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_040.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_041",
+      "chapter": 3,
+      "narration": "Targetnya ambisius: dalam lima tahun, semua daerah bisa swasembada energi — dan diklaim bisa menghemat ratusan triliun rupiah dari impor BBM.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_041.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_042",
+      "chapter": 3,
+      "narration": "Pemerintah juga menyampaikan kabar yang menenangkan: tidak perlu lagi membuka hutan untuk lahan baru.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_042.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_043",
+      "chapter": 3,
+      "narration": "Oktober dua ribu dua puluh enam, utusan khusus presiden menegaskan pengembangan biofuel diarahkan ke lahan terdegradasi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_043.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_044",
+      "chapter": 3,
+      "narration": "Artinya: lahan yang sudah rusak atau tidak produktif — bukan hutan alam, bukan gambut yang masih basah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_044.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_045",
+      "chapter": 3,
+      "narration": "Pemerintah juga menunjukkan keseriusan lewat penindakan: empat juta hektare kebun sawit ilegal sudah disita lewat Satgas PKH.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_045.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_046",
+      "chapter": 3,
+      "narration": "Dan rencananya, empat hingga lima juta hektare lagi akan disita — kebun yang melanggar aturan di kawasan hutan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_046.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_047",
+      "chapter": 3,
+      "narration": "Di atas kertas, rencananya terdengar rapi: sawit untuk energi, tapi di lahan yang sudah rusak, bukan hutan baru.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_047.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_048",
+      "chapter": 3,
+      "narration": "Pertanyaannya: apakah janji di atas kertas itu akan bertahan sampai ke lapangan?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_048.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_049",
+      "chapter": 3,
+      "narration": "Karena di lapangan, ada proyek raksasa yang sedang berjalan — dan polanya mengingatkan orang pada cerita lama.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_049.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_050",
+      "chapter": 3,
+      "narration": "Proyeknya bernama Proyek Strategis Nasional pangan dan energi — salah satunya di Merauke, Papua Selatan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_050.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_051",
+      "chapter": 3,
+      "narration": "Di sanalah sawit untuk bahan bakar direncanakan tumbuh — di ujung timur Indonesia yang hutannya masih luas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_051.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_052",
+      "chapter": 3,
+      "narration": "Pemerintah bilang ini untuk ketahanan pangan dan energi nasional — program prioritas negara.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_052.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_053",
+      "chapter": 3,
+      "narration": "Tapi para pengamat lingkungan mencatat sesuatu yang bikin dahi berkerut di proyek ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_053.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_054",
+      "chapter": 3,
+      "narration": "Dan temuan mereka inilah yang membuat banyak orang bertanya-tanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_054.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_055",
+      "chapter": 4,
+      "narration": "Greenpeace menganalisis citra satelit dan menemukan sekitar tujuh ribu enam ratus hektare hutan hilang di koridor Wanam-Muting hingga Februari dua ribu dua puluh enam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_055.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_056",
+      "chapter": 4,
+      "narration": "WALHI mencatat rencana pelepasan kawasan hutan hampir empat ratus delapan puluh tujuh ribu hektare untuk kawasan pangan dan energi di Merauke.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_056.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_057",
+      "chapter": 4,
+      "narration": "Dari jumlah itu, lebih dari dua ratus enam puluh lima ribu hektare adalah hutan alam — hutan yang belum pernah dijamah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_057.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_058",
+      "chapter": 4,
+      "narration": "Kalau janji pemerintah adalah “hanya lahan terdegradasi”, angka-angka ini membuat orang awam seperti kita ikut menghitung.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_058.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_059",
+      "chapter": 4,
+      "narration": "Dan ada ironi yang paling menusuk: di kawasan proyek baru itu sendiri, api sudah muncul.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_059.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_060",
+      "chapter": 4,
+      "narration": "WALHI mencatat delapan ribu tiga ratus dua puluh empat titik panas di Papua dari Januari hingga Oktober dua ribu dua puluh enam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_060.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_061",
+      "chapter": 4,
+      "narration": "Delapan ratus tujuh di antaranya berada di area proyek Merauke — dan lima ratus enam puluh di konsesi sawit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_061.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_062",
+      "chapter": 4,
+      "narration": "Titik panas adalah titik api yang terlihat dari satelit — artinya api sungguhan sedang menyala di sana.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_062.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_063",
+      "chapter": 4,
+      "narration": "Polanya terasa familiar, bukan? Persis seperti awal mula cerita Kalimantan puluhan tahun lalu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_063.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_064",
+      "chapter": 4,
+      "narration": "Dulu pun begitu: hutan dibuka, kanal digali, gambut mengering, lalu api datang — dan asapnya tak pernah benar-benar pergi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_064.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_065",
+      "chapter": 4,
+      "narration": "Tahun dua ribu lima belas, Kalimantan Selatan terbakar seratus sembilan puluh enam ribu hektare — salah satu yang terparah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_065.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_066",
+      "chapter": 4,
+      "narration": "Tahun dua ribu sembilan belas, total Indonesia delapan ratus lima puluh tujuh ribu hektare terbakar hanya dalam sembilan bulan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_066.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_067",
+      "chapter": 4,
+      "narration": "Di tahun itu, kualitas udara Palangka Raya mencapai angka seribu sembilan ratus tiga puluh sembilan — kategori berbahaya menurut BNPB.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_067.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_068",
+      "chapter": 4,
+      "narration": "Tahun dua ribu dua puluh tiga, Kalimantan Selatan kembali jadi yang terluas terbakar di Indonesia: seratus sembilan puluh ribu hektare.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_068.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_069",
+      "chapter": 4,
+      "narration": "Setiap angka itu adalah tahun-tahun ketika orang Kalimantan hidup dalam asap — anak-anak tak bisa sekolah, penerbangan batal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_069.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_070",
+      "chapter": 4,
+      "narration": "Dan setiap kali itu pula, penyebabnya sama: lahan dibuka untuk perkebunan, lalu dibakar karena itulah cara termurahnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_070.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_071",
+      "chapter": 4,
+      "narration": "Maka wajar kalau orang bertanya: apakah pola Kalimantan sekarang sedang pindah ke Papua?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_071.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_072",
+      "chapter": 4,
+      "narration": "Atau janji “lahan terdegradasi saja” benar-benar akan dijaga sampai ke lapangan?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_072.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_073",
+      "chapter": 5,
+      "narration": "Untuk menjawabnya, kita harus jujur melihat apa yang berhasil — dan apa yang gagal — dari pelajaran Kalimantan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_073.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_074",
+      "chapter": 5,
+      "narration": "Sejak dua ribu sebelas, pemerintah memberlakukan moratorium: pembukaan lahan gambut baru dihentikan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_074.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_075",
+      "chapter": 5,
+      "narration": "Tahun dua ribu enam belas dibentuk Badan Restorasi Gambut — tugasnya memulihkan gambut yang sudah rusak.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_075.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_076",
+      "chapter": 5,
+      "narration": "Ada juga Masyarakat Peduli Api: warga desa dilatih dan dilibatkan memadamkan api di wilayahnya sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_076.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_077",
+      "chapter": 5,
+      "narration": "Hasilnya ada — di beberapa daerah, kebakaran berhasil ditekan dan gambut mulai basah kembali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_077.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_078",
+      "chapter": 5,
+      "narration": "Tapi hasilnya parsial: selama pembukaan lahan baru masih berjalan, api selalu punya tempat untuk kembali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_078.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_079",
+      "chapter": 5,
+      "narration": "Para ahli gambut sepakat pada satu syarat mutlak: jangan pernah membuka gambut yang masih basah dan hutan alam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_079.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_080",
+      "chapter": 5,
+      "narration": "Syarat kedua: jaga tata air — kanal-kanal lama harus disekat agar air kembali naik dan gambut basah lagi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_080.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_081",
+      "chapter": 5,
+      "narration": "Gambut yang basah kembali tidak akan terbakar — sesederhana itu, dan semurah itu dibanding biaya memadamkan api.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_081.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_082",
+      "chapter": 5,
+      "narration": "Syarat ketiga: penegakan hukum yang tegas — pembakar lahan, besar maupun kecil, harus benar-benar ditindak.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_082.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_083",
+      "chapter": 5,
+      "narration": "Penyitaan jutaan hektare kebun ilegal adalah langkah ke arah sana — tapi harus konsisten, bukan musiman.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_083.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_084",
+      "chapter": 5,
+      "narration": "Syarat keempat: transparansi — peta konsesi, titik panas, dan izin harus bisa dipantau publik setiap saat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_084.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_085",
+      "chapter": 5,
+      "narration": "Kalau empat syarat ini dipenuhi, perluasan sawit dan hutan yang lestari sebenarnya bisa berjalan berdampingan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_085.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_086",
+      "chapter": 5,
+      "narration": "Tapi kalau gambut dibuka lagi dan kanal digali lagi, maka kita semua sudah tahu akhir ceritanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_086.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_087",
+      "chapter": 5,
+      "narration": "Karena api tidak peduli niat baik — ia hanya butuh tiga hal: bahan bakar kering, oksigen, dan percikan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_087.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_088",
+      "chapter": 5,
+      "narration": "Kalimantan sudah membayar mahal untuk pelajaran ini: triliunan rupiah, jutaan orang sesak napas, hutan yang hilang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_088.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_089",
+      "chapter": 5,
+      "narration": "Kini pertanyaannya bukan lagi “kenapa terbakar”, melainkan “apakah kita mau mengulanginya di tempat lain”.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_089.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_090",
+      "chapter": 5,
+      "narration": "Jawabannya ada di tangan kita semua — dimulai dari menuntut janji “lahan terdegradasi saja” benar-benar ditepati.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv005/output/flow_images/shot_090.png",
+      "status": "pending"
+    }
+  ]
+}
