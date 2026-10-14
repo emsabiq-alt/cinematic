@@ -1,6 +1,6 @@
 BABAK I — BERITA YANG BIKIN ORANG BERTANYA
 
-001. Belakangan ini beredar sebuah klaim yang bikin banyak orang terdiam: kebakaran Kalimantan itu katanya disengaja.
+001. Gawat — benarkah pemerintah terlibat atas kebakaran hutan Kalimantan? Klaim ini sedang beredar luas, dan di film ini kita akan mengujinya dengan bukti, bukan emosi.
 
 002. Beberapa kalangan mengatakan, hutan dan lahan itu dibakar supaya lahannya bisa dipakai untuk proyek penanaman sawit.
 
