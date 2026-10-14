@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,410
+tapi ingat aturan main film ini
+
+2
+00:00:02,460 --> 00:00:04,230
+setiap bukti akan kita uji
+
+3
+00:00:04,320 --> 00:00:06,190
+bukan kita telan mentah-mentah

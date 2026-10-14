@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,160
+titik panas adalah titik api
+
+2
+00:00:02,160 --> 00:00:03,850
+yang terlihat dari satelit
+
+3
+00:00:03,920 --> 00:00:06,410
+artinya api sungguhan sedang menyala di sana
+
+4
+00:00:06,440 --> 00:00:07,970
+bukan sekadar asap

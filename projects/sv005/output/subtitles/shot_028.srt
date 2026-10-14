@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,640
+tahun 1995 presiden soeharto
+
+2
+00:00:03,640 --> 00:00:06,430
+menandatangani keppres nomor 82
+
+3
+00:00:06,760 --> 00:00:08,380
+proyek mengubah satu juta hektare
+
+4
+00:00:08,380 --> 00:00:11,210
+gambut kalimantan tengah menjadi sawah

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,710
+jadi di titik ini
+
+2
+00:00:01,780 --> 00:00:02,990
+bukti terbagi dua
+
+3
+00:00:03,020 --> 00:00:04,590
+ada yang menguatkan curiga
+
+4
+00:00:04,820 --> 00:00:07,370
+ada yang menyeimbangkan keduanya nyata

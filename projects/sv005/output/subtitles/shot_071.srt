@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,980
+kalau janji “hanya lahan terdegradasi” benar
+
+2
+00:00:02,980 --> 00:00:05,690
+angka-angka ini seharusnya tidak ada
+
+3
+00:00:05,820 --> 00:00:07,570
+tapi angka-angka ini ada

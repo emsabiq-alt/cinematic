@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,620
+tapi pertama-tama kenapa klaim ini
+
+2
+00:00:02,620 --> 00:00:04,380
+muncul sekarang? karena ada
+
+3
+00:00:04,380 --> 00:00:07,390
+dua kabar besar yang terjadi hampir bersamaan

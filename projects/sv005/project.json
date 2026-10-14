@@ -3,10 +3,11 @@
   "title": "Gawat, Pemerintah Terlibat atas Kebakaran Hutan Kalimantan!?",
   "voice": "F2",
   "total_shots": 90,
-  "status": "script_ready",
+  "status": "assets_ready",
   "created_at": "2026-10-14",
   "project_dir": "projects/sv005",
   "duration": "15-20 min",
   "pacing": "8-12s",
-  "mode": "step"
+  "mode": "step",
+  "assets_release": "sv005-assets"
 }

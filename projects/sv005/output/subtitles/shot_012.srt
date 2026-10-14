@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,340
+dua kabar ini berdampingan
+
+2
+00:00:02,340 --> 00:00:03,760
+dan di kepala banyak orang
+
+3
+00:00:03,760 --> 00:00:06,850
+keduanya langsung terhubung menjadi satu kecurigaan

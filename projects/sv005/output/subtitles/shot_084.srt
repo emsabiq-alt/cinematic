@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,640
+kalau syarat-syarat ini dipenuhi
+
+2
+00:00:02,640 --> 00:00:03,720
+sawit dan hutan lestari
+
+3
+00:00:03,720 --> 00:00:06,390
+sebenarnya bisa berjalan berdampingan
