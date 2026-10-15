@@ -1,0 +1,18 @@
+001|AERIAL|Anak Krakatau volcano at night under siaga alert, glowing red crater, thin ash plume rising, lightning flickering inside the plume, dark Sunda Strait waters below
+002|CLOSE-UP|A glowing seismograph needle scratching violent tremor lines on paper, red warning lamp blinking, volcanic monitoring station, tense atmosphere
+003|WIDE|Anak Krakatau erupting at dawn, repeated bursts, ash column climbing high, embers raining down, dark ash cloud spreading over the strait
+004|AERIAL|Danger zone around the island, patrol boat keeping distance, warning buoys bobbing on ash-hazed water, exclusion perimeter
+005|MEDIUM|Volcanologists in a monitoring room staring at screens and seismographs, faces lit by orange alert glow, the smoking volcano visible through the window
+006|LOW ANGLE|Small Anak Krakatau cone silhouetted against a giant ghostly shadow of old Krakatau looming in the clouds behind it, symbolic father and son
+007|TIME-LAPSE|One hundred forty-three years rewinding: calendar pages and archival photographs flying backward, Anak Krakatau shrinking, old Krakatau island growing whole again
+008|WIDE|The old Krakatau island in 1883, pristine volcanic cone between Java and Sumatra, lush green slopes, calm strait, deceptive peace
+009|HIGH ANGLE|Sound waves visualized as massive concentric rings expanding from Krakatau across a map toward Perth, Australia, thousands of kilometers away
+010|HIGH ANGLE|Sound waves racing westward across the Indian Ocean toward Rodrigues Island near Mauritius, a tiny island in a vast sea
+011|MACRO|Antique barometers around the world, needles jumping simultaneously, a pressure wave circling the globe, Victorian scientific instruments
+012|LOW ANGLE|Colossal ash column towering into the sky, punching through the stratosphere, glowing rim against the black edge of space
+013|AERIAL|More than seventy percent of the island gone, a giant flooded caldera where the cone stood, steam rising from the drowned crater
+014|WIDE|Mushroom cloud of the eruption dwarfing a tiny atomic blast silhouette, apocalyptic sky, the scale of two hundred megatons visualized
+015|AERIAL|Forty-meter tsunami wave towering over coastal villages of Java and Sumatra, dark wall of water about to strike, palm trees bending
+016|PANORAMIC|Blood-red skies wrapping the entire planet, crimson sunsets over London, New York and Batavia at once, one global dusk
+017|MEDIUM|A telegraph operator frantically tapping Morse code, undersea cable map behind him, the first globally wired natural disaster
+018|WIDE|Old Krakatau erupting in full fury at golden hour, ash column splitting a blood-red sky, the loudest sound ever heard on Earth

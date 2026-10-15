@@ -1,0 +1,726 @@
+{
+ "style": "Cinematic 35mm film still, 16:9 full-bleed volcanic documentary, fire and ash",
+ "description": "Storyboard 90 shot untuk dokumenter KRAKATAU 1883: Suara Terkeras yang Pernah Ada di Bumi. Lima babak simetris: hook Anak Krakatau siaga 2026, pulau yang tidur dua abad dan terbangun Mei 1883, klimaks 26-27 Agustus dengan suara terkeras yang pernah terukur, tsunami empat puluh meter dan tiga puluh enam ribu empat ratus tujuh belas korban, hingga dampak global, lahirnya vulkanologi modern, dan Anak Krakatau yang kembali bangkit. Gaya visual: lava orange, ember red, abu kelabu, hitam hangus, cakrawala merah darah, dramatic chiaroscuro, volumetric light, film grain 35mm.",
+ "shots": [
+  {
+   "id": "shot_001",
+   "chapter": 1,
+   "narration": "Malam ini, di Selat Sunda, sebuah gunung berapi kecil berstatus siaga, dan namanya Anak Krakatau.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Anak Krakatau volcano at night under siaga alert, glowing red crater, thin ash plume rising, lightning flickering inside the plume, dark Sunda Strait waters below Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_002",
+   "chapter": 1,
+   "narration": "Sejak sembilan Oktober dua ribu dua puluh enam pukul sembilan malam, statusnya naik ke level tiga: Siaga.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A glowing seismograph needle scratching violent tremor lines on paper, red warning lamp blinking, volcanic monitoring station, tense atmosphere Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_003",
+   "chapter": 1,
+   "narration": "Dalam empat hari, dari enam hingga sembilan Oktober, ia meletus empat belas kali dan memuntahkan abu setinggi satu koma delapan kilometer.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Anak Krakatau erupting at dawn, repeated bursts, ash column climbing high, embers raining down, dark ash cloud spreading over the strait Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_004",
+   "chapter": 1,
+   "narration": "Radius lima kilometer di sekelilingnya dinyatakan zona bahaya, dan kapal dilarang melintas terlalu dekat.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Danger zone around the island, patrol boat keeping distance, warning buoys bobbing on ash-hazed water, exclusion perimeter Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_005",
+   "chapter": 1,
+   "narration": "Para vulkanolog dari Pusat Vulkanologi memantau setiap desahannya, karena anak ini mewarisi darah sang ayah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Volcanologists in a monitoring room staring at screens and seismographs, faces lit by orange alert glow, the smoking volcano visible through the window Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_006",
+   "chapter": 1,
+   "narration": "Namun semua ini, kata mereka, hanyalah pemanasan kecil dari sang anak.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Small Anak Krakatau cone silhouetted against a giant ghostly shadow of old Krakatau looming in the clouds behind it, symbolic father and son Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_007",
+   "chapter": 1,
+   "narration": "Karena seratus empat puluh tiga tahun yang lalu, ayahnya pernah mengguncang seluruh planet Bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. One hundred forty-three years rewinding: calendar pages and archival photographs flying backward, Anak Krakatau shrinking, old Krakatau island growing whole again Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_008",
+   "chapter": 1,
+   "narration": "Namanya Krakatau, dan pada tahun seribu delapan ratus delapan puluh tiga, ia menciptakan suara terkeras yang pernah ada dalam sejarah manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The old Krakatau island in 1883, pristine volcanic cone between Java and Sumatra, lush green slopes, calm strait, deceptive peace Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_009",
+   "chapter": 1,
+   "narration": "Suara itu terdengar hingga Perth di Australia, lebih dari tiga ribu seratus kilometer jauhnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sound waves visualized as massive concentric rings expanding from Krakatau across a map toward Perth, Australia, thousands of kilometers away Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_010",
+   "chapter": 1,
+   "narration": "Suara itu juga terdengar di Pulau Rodrigues dekat Mauritius, hampir empat ribu delapan ratus kilometer dari sumbernya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sound waves racing westward across the Indian Ocean toward Rodrigues Island near Mauritius, a tiny island in a vast sea Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_011",
+   "chapter": 1,
+   "narration": "Gelombang tekanannya tercatat barometer di seluruh dunia, dan mengelilingi Bumi lebih dari tiga kali.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Antique barometers around the world, needles jumping simultaneously, a pressure wave circling the globe, Victorian scientific instruments Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_012",
+   "chapter": 1,
+   "narration": "Kolom abunya melesat hingga sekitar delapan puluh kilometer ke langit, menembus batas angkasa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Colossal ash column towering into the sky, punching through the stratosphere, glowing rim against the black edge of space Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_013",
+   "chapter": 1,
+   "narration": "Lebih dari tujuh puluh persen pulaunya lenyap, runtuh menjadi kaldera raksasa di dasar laut.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. More than seventy percent of the island gone, a giant flooded caldera where the cone stood, steam rising from the drowned crater Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_014",
+   "chapter": 1,
+   "narration": "Energinya setara sekitar dua ratus megaton TNT, puluhan ribu kali lipat bom atom.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mushroom cloud of the eruption dwarfing a tiny atomic blast silhouette, apocalyptic sky, the scale of two hundred megatons visualized Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_015",
+   "chapter": 1,
+   "narration": "Tsunaminya setinggi empat puluh meter menyapu pesisir Jawa dan Sumatra, menelan tiga puluh enam ribu empat ratus tujuh belas jiwa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Forty-meter tsunami wave towering over coastal villages of Java and Sumatra, dark wall of water about to strike, palm trees bending Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_016",
+   "chapter": 1,
+   "narration": "Langit di seluruh dunia berubah merah darah berbulan-bulan, dan suhu planet menurun.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Blood-red skies wrapping the entire planet, crimson sunsets over London, New York and Batavia at once, one global dusk Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_017",
+   "chapter": 1,
+   "narration": "Inilah kisah letusan yang mengguncang dunia, yang terekam telegraf pertama dalam sejarah, dan yang anaknya kini kembali bangkit.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A telegraph operator frantically tapping Morse code, undersea cable map behind him, the first globally wired natural disaster Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_018",
+   "chapter": 1,
+   "narration": "Ini adalah Krakatau, seribu delapan ratus delapan puluh tiga: suara terkeras yang pernah ada di Bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Old Krakatau erupting in full fury at golden hour, ash column splitting a blood-red sky, the loudest sound ever heard on Earth Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_019",
+   "chapter": 2,
+   "narration": "Jauh sebelum dunia mengenal namanya, Krakatau hanyalah pulau vulkanik kecil di Selat Sunda, di antara Jawa dan Sumatra.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Krakatau island from above in the early 1800s, small volcanic island in the Sunda Strait between Java and Sumatra, trading ships passing Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_020",
+   "chapter": 2,
+   "narration": "Selama hampir dua ratus tahun ia tertidur pulas, tanpa satu pun letusan tercatat sejak akhir abad ketujuh belas.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two hundred years of stillness: the same island cycling through seasons, no smoke, fishermen casting nets, the volcano sleeping Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_021",
+   "chapter": 2,
+   "narration": "Nelayan dan pelaut melintasinya tanpa curiga, bahkan menjadikannya patokan navigasi di jalur dagang tersibuk Hindia Belanda.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 19th-century sailing ships and steamers navigating the busy Sunda Strait trade route, the Krakatau cone as a landmark on the horizon Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_022",
+   "chapter": 2,
+   "narration": "Namun jauh di bawah kakinya, dapur magma raksasa perlahan mengumpulkan tekanan, tahun demi tahun, dekade demi dekade.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Magma chamber glowing deep beneath the island, pressure building in molten rock, cutaway view, ominous orange glow in the dark Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "UNDERWATER",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_023",
+   "chapter": 2,
+   "narration": "Pada tanggal dua puluh Mei seribu delapan ratus delapan puluh tiga, tidur panjang itu akhirnya pecah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. May 20 1883: first explosion shattering the island's calm, ash column bursting skyward, birds scattering in panic Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_024",
+   "chapter": 2,
+   "narration": "Ledakan pertama mengguncang pulau, dan kolom abu mengepul tinggi, terlihat dari kapal-kapal yang berlayar di kejauhan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash column rising high over the strait, distant ships watching the gray plume climb, the sea glittering below Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_025",
+   "chapter": 2,
+   "narration": "Gemuruhnya terdengar hingga Batavia, sekitar seratus enam puluh kilometer jauhnya, membuat warga keluar rumah dengan panik.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Batavia 1883: colonial townspeople rushing out of Dutch houses into the street, looking toward the rumbling horizon far away Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_026",
+   "chapter": 2,
+   "narration": "Para ilmuwan kolonial mencatatnya dengan takjub: setelah dua abad hening, raksasa itu mulai bergerak.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Colonial scientists in a Batavia study examining notes and barometer readings, astonished, oil lamps glowing Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_027",
+   "chapter": 2,
+   "narration": "Sepanjang Juni dan Juli, letusan-letusan kecil datang silih berganti, memuntahkan abu dan batu pijar ke angkasa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. June and July: repeated small eruptions, pulsing ash columns day after day, the island coughing fire rhythmically Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_028",
+   "chapter": 2,
+   "narration": "Kapal-kapal uap yang melintasi Selat Sunda melaporkan langit yang gelap dan hujan abu yang mengotori geladak mereka.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Steamship deck covered in gray volcanic ash, sailors sweeping, darkened sky, crew staring at the smoking island Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_029",
+   "chapter": 2,
+   "narration": "Seorang kapten kapal mencatat di buku hariannya bahwa laut di sekitar pulau mendidih dan berasap, seolah air direbus dari bawah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ship captain's handwritten logbook entry describing the boiling, steaming sea around the island, ink on weathered pages Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_030",
+   "chapter": 2,
+   "narration": "Abu vulkanik mulai menyelimuti desa-desa pesisir, menutupi atap rumah dan meracuni sumur-sumur penduduk.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Coastal village rooftops dusted with gray ash, villagers covering their wells, palm trees gray with fallout Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_031",
+   "chapter": 2,
+   "narration": "Kabar letusan menyebar cepat, karena era itu adalah era telegraf: berita melintasi kabel bawah laut dalam hitungan jam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Telegraph key tapping, sparks of the electric telegraph, undersea cable landing station, news racing across oceans Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_032",
+   "chapter": 2,
+   "narration": "Surat kabar di Batavia, Singapura, hingga London memuat laporan tentang gunung yang terbangun di Selat Sunda.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Newspapers in Batavia, Singapore and London printing headlines about the awakening volcano, printing presses rolling Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_033",
+   "chapter": 2,
+   "narration": "Para geolog bergegas menuju lokasi, mendaki lereng yang masih panas untuk membaca tanda-tanda sang raksasa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Geologists climbing the still-hot slope with hammers and notebooks, steam vents hissing, reading the mountain's signs Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_034",
+   "chapter": 2,
+   "narration": "Mereka belum tahu bahwa apa yang mereka saksikan hanyalah pembuka, pemanasan sebelum badai sesungguhnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A scientist holding a still-warm volcanic rock, face lit by ember glow, unaware of the coming cataclysm Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_035",
+   "chapter": 2,
+   "narration": "Sebab jauh di perut bumi, tekanan magma terus membesar, menunggu satu pemicu terakhir untuk meledak total.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Magma chamber now swollen and cracking, pressure at breaking point, glowing fractures spreading through the rock Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "UNDERWATER",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_036",
+   "chapter": 2,
+   "narration": "Dan pemicu itu datang pada akhir Agustus, ketika Krakatau memutuskan menunjukkan wajah aslinya kepada dunia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Late August: Krakatau brooding under a darkening sky, ominous calm, the island about to reveal its true face Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_037",
+   "chapter": 3,
+   "narration": "Tanggal dua puluh enam Agustus seribu delapan ratus delapan puluh tiga, Krakatau memasuki fase paling ganasnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. August 26 1883 morning: eruption intensifying, ash fountains, the island shaking, strait waters churning Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_038",
+   "chapter": 3,
+   "narration": "Sejak pagi, letusan demi letusan mengguncang pulau, dan langit di atas Selat Sunda berubah menjadi malam di siang hari.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Midday darkness: sailors on a ship deck lighting lanterns at noon, ash blotting out the sun completely Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_039",
+   "chapter": 3,
+   "narration": "Abu setebal tirai menutupi matahari, dan kapal-kapal di sekitarnya berlayar dalam kegelapan total.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ships sailing through total darkness at midday, lanterns glowing, a thick ash curtain all around them Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_040",
+   "chapter": 3,
+   "narration": "Sepanjang hari itu, sebelas ledakan raksasa tercatat, masing-masing lebih dahsyat dari sebelumnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Eleven giant explosions across the day, each blast bigger than the last, strobing flashes inside the ash column Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_041",
+   "chapter": 3,
+   "narration": "Para awak kapal melaporkan petir vulkanik menyambar-nyambar di dalam kolom abu yang menjulang puluhan kilometer.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Volcanic lightning forking through the towering ash column, electric blue-white bolts inside black ash Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_042",
+   "chapter": 3,
+   "narration": "Menjelang malam, gemuruhnya terdengar semakin jauh, tanda energinya terus membesar tanpa henti.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night of August 26: the island glowing red through the ash, the roar growing, distant sailors covering their ears Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "NIGHT",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_043",
+   "chapter": 3,
+   "narration": "Tanggal dua puluh tujuh Agustus, pukul sepuluh lewat dua menit pagi, datanglah ledakan pamungkasnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. August 27, 10:02 AM: the final apocalyptic explosion, the island vanishing in a blinding flash Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_044",
+   "chapter": 3,
+   "narration": "Inilah ledakan terbesar dalam sejarah manusia yang terekam instrumen: suara terkeras yang pernah ada di Bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The loudest sound ever recorded visualized: a colossal shockwave sphere expanding from Krakatau across the globe Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_045",
+   "chapter": 3,
+   "narration": "Dentumannya terdengar di Perth, Australia, lebih dari tiga ribu seratus kilometer ke arah tenggara.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Perth, Australia: people looking up startled as the distant boom arrives from thousands of kilometers away Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_046",
+   "chapter": 3,
+   "narration": "Dentuman yang sama juga terdengar di Pulau Rodrigues dekat Mauritius, hampir empat ribu delapan ratus kilometer ke arah barat.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rodrigues Island near Mauritius: islanders hearing the far-off cannon-like rumble from across the ocean Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_047",
+   "chapter": 3,
+   "narration": "Di antara kedua titik itu, separuh penduduk planet ini dapat mendengar raungan Krakatau pada hari itu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Half the planet hearing the roar: coastlines from Africa to Australia, people everywhere gazing at the sky Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_048",
+   "chapter": 3,
+   "narration": "Gelombang tekanan udaranya tercatat barometer di seluruh dunia, mengelilingi Bumi lebih dari tiga kali.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Barograph drums around the world tracing the pressure wave as it circles the Earth more than three times Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_049",
+   "chapter": 3,
+   "narration": "Para ilmuwan menghitung: energinya setara sekitar dua ratus megaton TNT.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two hundred megatons of TNT visualized: endless rows of bombs fading to the horizon beneath the eruption cloud Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_050",
+   "chapter": 3,
+   "narration": "Kolom abunya melesat hingga sekitar delapan puluh kilometer, menembus stratosfer hingga batas angkasa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash column piercing the stratosphere to the edge of space, glowing against the black upper sky Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_051",
+   "chapter": 3,
+   "narration": "Sekitar dua puluh lima kilometer kubik material dimuntahkan: batu, abu, dan gas panas yang menutupi lautan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Twenty-five cubic kilometers of ejected material: rivers of ash and pumice spreading across the sea for miles Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_052",
+   "chapter": 3,
+   "narration": "Lebih dari tujuh puluh persen Pulau Krakatau hancur berkeping-keping dan runtuh ke dalam perut bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The island disintegrating: more than seventy percent of Krakatau shattering and collapsing into the sea Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_053",
+   "chapter": 3,
+   "narration": "Yang tersisa hanyalah kaldera raksasa di dasar laut, kawah raksasa tempat sang raksasa pernah berdiri.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A giant flooded caldera left behind, steaming seawater where the mountain stood, only fragments of rim remaining Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_054",
+   "chapter": 3,
+   "narration": "Skala letusannya mencapai VEI enam, level kolosal yang hanya terjadi beberapa kali dalam sejarah manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. VEI 6 scale visualization: eruption index chart with Krakatau's marker at the colossal level Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_055",
+   "chapter": 4,
+   "narration": "Namun ledakan hanyalah separuh bencana: runtuhnya pulau memicu malapetaka kedua yang jauh lebih mematikan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The island collapsing into the caldera, massive underwater landslide displacing the sea, a tsunami being born Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "UNDERWATER",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_056",
+   "chapter": 4,
+   "narration": "Longsoran raksasa ke dalam kaldera menggetarkan laut, dan tsunami raksasa pun lahir.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Tsunami radiating outward from the caldera in all directions, concentric waves racing toward Java and Sumatra Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_057",
+   "chapter": 4,
+   "narration": "Gelombang setinggi hingga empat puluh meter melesat ke segala arah, menuju Jawa dan Sumatra.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Forty-meter wave towering over the coast, a dark wall of water about to crush everything below Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_058",
+   "chapter": 4,
+   "narration": "Kota pelabuhan Anjer di ujung barat Jawa disapu habis, termasuk mercusuarnya yang hancur berkeping-keping.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Anjer port destroyed: shattered lighthouse, splintered buildings, the sea reclaiming the town Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_059",
+   "chapter": 4,
+   "narration": "Di Teluk Betung, Lampung, air bah menerjang hingga dua kilometer ke daratan, menenggelamkan seluruh permukiman.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Teluk Betung, Lampung: floodwaters pushing kilometers inland, drowning entire settlements Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_060",
+   "chapter": 4,
+   "narration": "Sekitar tiga ratus desa di pesisir lenyap dari peta, seolah tak pernah ada.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Coastline before and after: three hundred villages erased, empty mudflats where homes stood Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_061",
+   "chapter": 4,
+   "narration": "Kapal-kapal terlempar jauh ke daratan, terdampar di tengah hutan dan sawah, bermil-mil jauhnya dari laut.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ships stranded far inland among trees and rice fields, miles from the sea, masts tilted Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_062",
+   "chapter": 4,
+   "narration": "Jumlah korban mencapai tiga puluh enam ribu empat ratus tujuh belas jiwa, mayoritas tenggelam oleh tsunami.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Survivors wading through debris searching for the missing, grief on the shattered shore Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_063",
+   "chapter": 4,
+   "narration": "Di tengah bencana, siang hari berubah menjadi malam: abu tebal menutupi matahari selama berhari-hari.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Midday turned to night: pitch-black ash sky at noon, people lighting lamps in the streets Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_064",
+   "chapter": 4,
+   "narration": "Warga yang selamat bercerita bahwa mereka tak bisa melihat telapak tangan sendiri di tengah hari.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A hand invisible in front of a face at midday, total ash darkness, only glowing lantern light Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_065",
+   "chapter": 4,
+   "narration": "Lentera-lentera dinyalakan di Batavia pada siang bolong, dan aktivitas kota lumpuh total.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Batavia at noon: street lamps lit in daylight, the city paralyzed under the ash pall Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_066",
+   "chapter": 4,
+   "narration": "Hujan abu turun sejauh ratusan kilometer, menutupi sawah, atap, dan jalan dengan lapisan kelabu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ash rain falling over hundreds of kilometers, a gray blanket over rice fields, roofs and roads Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_067",
+   "chapter": 4,
+   "narration": "Sumur-sumur tercemar, tanaman mati, dan kelaparan mengintai para penyintas di bulan-bulan berikutnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Poisoned wells and dead crops, survivors facing hunger in the months after the eruption Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_068",
+   "chapter": 4,
+   "narration": "Para saksi menggambarkannya sebagai kiamat kecil: langit terbakar, laut mendidih, dan bumi berguncang tanpa henti.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Witnesses describing the apocalypse: burning sky, boiling sea, shaking earth, faces in shock Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_069",
+   "chapter": 4,
+   "narration": "Berita duka menyebar lewat telegraf ke seluruh dunia dalam hitungan jam, tercepat dalam sejarah bencana kala itu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Telegraph key hammering out the disaster news, messages flying worldwide within hours Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_070",
+   "chapter": 4,
+   "narration": "Dunia terpaku: untuk pertama kalinya, sebuah bencana alam diliput secara global, hampir secara langsung.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The world transfixed: newspaper front pages across continents, the first globally covered disaster Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_071",
+   "chapter": 4,
+   "narration": "Bantuan dan simpati mengalir dari berbagai negeri, namun tak ada yang bisa mengembalikan pulau yang telah lenyap.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aid arriving by ship, but the island itself gone forever, empty sea where Krakatau stood Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_072",
+   "chapter": 4,
+   "narration": "Krakatau telah menunjukkan bahwa di hadapan alam, peradaban manusia hanyalah tamu yang rapuh.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Tiny human figures against the vast scarred seascape, civilization fragile before nature Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_073",
+   "chapter": 5,
+   "narration": "Setelah debu mereda, dunia menyadari bahwa dampak Krakatau jauh melampaui Selat Sunda.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The dust settling: a changed world, hazy sun over the empty strait, the global aftermath beginning Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_074",
+   "chapter": 5,
+   "narration": "Abu halusnya menyebar ke seluruh atmosfer planet, dan langit dunia berubah warna.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Fine ash spreading through the entire atmosphere, a thin veil wrapping the planet Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_075",
+   "chapter": 5,
+   "narration": "Selama berbulan-bulan, matahari terbit dan terbenam dengan warna merah darah yang menyeramkan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Blood-red sunrises and sunsets for months, crimson skies over cities worldwide Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_076",
+   "chapter": 5,
+   "narration": "Para pelukis di Eropa terpukau oleh langit aneh itu, dan salah satunya diduga mengabadikannya di kanvas.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. European painters mesmerized by the strange red sky, easels set up, brushes capturing the eerie glow Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_077",
+   "chapter": 5,
+   "narration": "Sebagian sejarawan seni berteori bahwa langit merah dalam lukisan The Scream karya Edvard Munch tahun seribu delapan ratus sembilan puluh tiga terinspirasi fenomena pasca-Krakatau, meski teori ini masih diperdebatkan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Edvard Munch's The Scream evoked: blood-red clouds over a fjord, a debated artistic echo of Krakatau, painterly style Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_078",
+   "chapter": 5,
+   "narration": "Suhu rata-rata Bumi turun, dan dunia mengalami tahun-tahun tanpa musim panas yang normal.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Global cooling: years without a normal summer, thermometers dropping, frost in unusual places Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_079",
+   "chapter": 5,
+   "narration": "Panen gagal di berbagai belahan dunia, mengingatkan manusia betapa rapuhnya peradaban di hadapan gunung.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Failed harvests around the world, withered fields, humanity reminded of its fragility Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_080",
+   "chapter": 5,
+   "narration": "Sementara itu, seorang geolog Belanda bernama Rogier Verbeek memimpin penyelidikan ilmiah terbesar kala itu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dutch geologist Rogier Verbeek leading the great scientific investigation, surveying the ruins Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_081",
+   "chapter": 5,
+   "narration": "Hasilnya adalah laporan setebal lima ratus lima puluh halaman yang terbit tahun seribu delapan ratus delapan puluh lima.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A 550-page report published 1885, a thick tome, the founding document of modern volcanology Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_082",
+   "chapter": 5,
+   "narration": "Laporan itu menjadi fondasi vulkanologi modern: ilmu tentang gunung berapi lahir dari abu Krakatau.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Birth of volcanology: scientists studying the ash layers, brass instruments, science born from Krakatau's ruins Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_083",
+   "chapter": 5,
+   "narration": "Puluhan tahun berlalu, dan dari kaldera yang tenggelam itu, sebuah keajaiban muncul.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Decades passing over the drowned caldera, the sea slowly healing, then a new cone stirring below Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_084",
+   "chapter": 5,
+   "narration": "Pada tahun seribu sembilan ratus dua puluh tujuh, kerucut baru menyembul dari permukaan laut.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 1927: a new cone breaching the sea surface, steam and black sand, the birth of Anak Krakatau Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_085",
+   "chapter": 5,
+   "narration": "Ia dinamai Anak Krakatau, sang anak yang lahir dari rahim kaldera ayahnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Anak Krakatau the child rising from its father's flooded caldera, symbolic rebirth, dramatic light Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_086",
+   "chapter": 5,
+   "narration": "Sang anak tumbuh cepat, dan pada Desember dua ribu delapan belas, ia kembali menunjukkan taringnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. December 2018: Anak Krakatau's flank collapsing, tsunami striking the Banten and Lampung coasts again Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_087",
+   "chapter": 5,
+   "narration": "Longsoran lerengnya memicu tsunami Selat Sunda yang menewaskan ratusan jiwa di Banten dan Lampung.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. 2018 Sunda Strait tsunami aftermath: damaged coastlines, the child showing its fangs Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_088",
+   "chapter": 5,
+   "narration": "Kini, Oktober dua ribu dua puluh enam, sang anak berstatus Siaga, meletus belasan kali dalam hitungan hari.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. October 2026: Anak Krakatau on siaga alert, erupting repeatedly, glowing crater at night Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_089",
+   "chapter": 5,
+   "narration": "Para ilmuwan bertanya dengan waspada: mungkinkah keganasan tahun seribu delapan ratus delapan puluh tiga terulang?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientists watching monitors with concern, the question hanging: could 1883 happen again Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_090",
+   "chapter": 5,
+   "narration": "Menurut Anda, haruskah kita khawatir pada Anak Krakatau? Tulis pendapat Anda di kolom komentar, dan sampai jumpa di film berikutnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Anak Krakatau smoking under a blood-red sky, the mountain waiting, an open ending Palette: lava orange, ember red, ash gray, charred black, blood-red horizon, dramatic chiaroscuro, volumetric light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  }
+ ]
+}
