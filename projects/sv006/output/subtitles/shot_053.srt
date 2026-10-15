@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,880
+api terus berkobar
+
+2
+00:00:01,880 --> 00:00:03,360
+tsunami terus menghantam
+
+3
+00:00:03,360 --> 00:00:05,560
+dan bumi seolah memutuskan untuk menghapus
+
+4
+00:00:05,560 --> 00:00:07,690
+semuanya dan mulai dari awal

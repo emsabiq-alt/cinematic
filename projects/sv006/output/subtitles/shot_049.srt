@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,300
+sementara itu dinosaurus-dinosaurus besar
+
+2
+00:00:03,300 --> 00:00:04,910
+tumbang satu per satu
+
+3
+00:00:05,080 --> 00:00:06,260
+yang tidak terbakar
+
+4
+00:00:06,260 --> 00:00:09,030
+kelaparan dalam kegelapan yang kian pekat

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,290
+pagi itu dimulai seperti pagi-pagi sebelumnya
+
+2
+00:00:03,360 --> 00:00:05,660
+matahari terbit di atas hutan kapur akhir
+
+3
+00:00:05,660 --> 00:00:08,710
+dan para raksasa bangun dari tidurnya

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,730
+herbivora raksasa yang bergantung pada dedaunan kelaparan
+
+2
+00:00:03,900 --> 00:00:05,780
+lalu karnivora raksasa yang bergantung
+
+3
+00:00:05,780 --> 00:00:08,030
+pada herbivora menyusul mereka

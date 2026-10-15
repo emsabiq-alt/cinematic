@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,500
+ia mendekati bumi dengan kecepatan sekitar
+
+2
+00:00:02,500 --> 00:00:04,830
+dua puluh kilometer per detik
+
+3
+00:00:04,880 --> 00:00:05,860
+enam puluh kali lebih
+
+4
+00:00:05,860 --> 00:00:07,670
+cepat dari peluru senapan

@@ -1,0 +1,636 @@
+{
+  "title": "",
+  "total_shots": 90,
+  "records": [
+    {
+      "shot_id": "shot_001",
+      "chapter": 1,
+      "narration": "Enam puluh enam juta tahun yang lalu, Bumi adalah planet milik para raksasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_001.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_002",
+      "chapter": 1,
+      "narration": "Di akhir periode Kapur, dinosaurus telah berkuasa selama lebih dari seratus enam puluh juta tahun, dan tak ada yang menandingi mereka.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_002.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_003",
+      "chapter": 1,
+      "narration": "Di dataran Amerika Utara, seekor Tyrannosaurus rex sepanjang sekitar dua belas meter melangkah perlahan, raja yang tak terbantahkan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_003.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_004",
+      "chapter": 1,
+      "narration": "Tak jauh darinya, kawanan Triceratops merumput dengan tenang, tiga tanduk kokoh dan leher berpelindung siap menghadapi siapa pun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_004.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_005",
+      "chapter": 1,
+      "narration": "Di cakrawala, leher-leher panjang sauropoda menjulang di atas kanopi hutan, memetik dedaunan yang tak terjangkau makhluk lain.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_005.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_006",
+      "chapter": 1,
+      "narration": "Langit dikuasai pterosaurus bersayap lebar, dan lautan dijaga mosasaurus raksasa yang mengintai dari kedalaman.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_006.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_007",
+      "chapter": 1,
+      "narration": "Namun di bawah kaki para raksasa itu, makhluk-makhluk kecil seukuran tikus bergerak dalam bayang-bayang, nyaris tak terlihat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_007.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_008",
+      "chapter": 1,
+      "narration": "Mereka adalah mamalia purba: berbulu, berdarah panas, nokturnal, dan pandai menggali liang untuk bersembunyi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_008.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_009",
+      "chapter": 1,
+      "narration": "Di dunia yang dikuasai gigi dan cakar raksasa, bertahan hidup berarti menjadi kecil, menjadi sunyi, dan menjadi tak terlihat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_009.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_010",
+      "chapter": 1,
+      "narration": "Keseimbangan ini telah berjalan jutaan tahun, dan bagi setiap makhluk di Bumi, dunia tampak abadi dan tak tergoyahkan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_010.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_011",
+      "chapter": 1,
+      "narration": "Tak satu pun dari mereka yang tahu bahwa jauh di atas sana, di kegelapan angkasa, sebuah bahaya sedang meluncur mendekat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_011.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_012",
+      "chapter": 1,
+      "narration": "Sebuah asteroid karbonaceous berdiameter sekitar sepuluh kilometer, sebesar sebuah kota, melesat menembus tata surya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_012.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_013",
+      "chapter": 1,
+      "narration": "Para ilmuwan modern meyakini ia berasal dari luar orbit Jupiter, pengembara gelap yang telah mengembara jutaan tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_013.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_014",
+      "chapter": 1,
+      "narration": "Ia mendekati Bumi dengan kecepatan sekitar dua puluh kilometer per detik, enam puluh kali lebih cepat dari peluru senapan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_014.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_015",
+      "chapter": 1,
+      "narration": "Tak ada teleskop, tak ada peringatan, tak ada yang menatap langit dan menyadari apa yang akan terjadi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_015.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_016",
+      "chapter": 1,
+      "narration": "Para raksasa menjalani hari-hari mereka seperti biasa: berburu, merumput, bertelur, dan membesarkan anak-anak mereka.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_016.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_017",
+      "chapter": 1,
+      "narration": "Mereka tidak tahu bahwa hitung mundur menuju akhir zaman mereka telah dimulai, tanpa suara, tanpa tanda.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_017.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_018",
+      "chapter": 1,
+      "narration": "Dan pada suatu pagi di Semenanjung Yucatán, langit akan terbelah — selamanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_018.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_019",
+      "chapter": 2,
+      "narration": "Pagi itu dimulai seperti pagi-pagi sebelumnya: matahari terbit di atas hutan Kapur akhir, dan para raksasa bangun dari tidurnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_019.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_020",
+      "chapter": 2,
+      "narration": "Namun di ketinggian langit, sebuah titik cahaya muncul dan membesar dengan kecepatan yang mustahil, membelah birunya angkasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_020.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_021",
+      "chapter": 2,
+      "narration": "Asteroid berdiameter sekitar sepuluh kilometer itu menghantam Semenanjung Yucatán, Meksiko, dengan kecepatan sekitar dua puluh kilometer per detik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_021.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_022",
+      "chapter": 2,
+      "narration": "Dalam sepersekian detik, energi yang dilepaskan setara dengan miliaran bom nuklir yang meledak serentak di satu titik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_022.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_023",
+      "chapter": 2,
+      "narration": "Kilatan tumbukan begitu terang hingga terlihat dari separuh planet, mengubah siang menjadi cahaya putih yang membutakan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_023.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_024",
+      "chapter": 2,
+      "narration": "Batuan dasar menguap seketika; sebuah kawah raksasa mulai terbentuk, yang kelak dikenal sebagai kawah Chicxulub.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_024.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_025",
+      "chapter": 2,
+      "narration": "Diameter kawah itu mencapai seratus delapan puluh hingga dua ratus kilometer, dengan kedalaman sekitar dua puluh kilometer.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_025.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_026",
+      "chapter": 2,
+      "narration": "Ia menjadi salah satu kawah tumbukan terbesar di Bumi, luka menganga selebar sebuah negara kecil.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_026.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_027",
+      "chapter": 2,
+      "narration": "Gelombang kejut melesat ke segala arah, melingkari planet dalam hitungan jam, mengguncang setiap benua.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_027.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_028",
+      "chapter": 2,
+      "narration": "Gempa raksasa mengguncang kerak Bumi, memicu tanah longsor dan retakan dari Meksiko hingga ke ujung dunia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_028.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_029",
+      "chapter": 2,
+      "narration": "Jutaan ton batuan terlempar ke angkasa sebagai ejecta, melesat keluar atmosfer lalu jatuh kembali seperti hujan api.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_029.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_030",
+      "chapter": 2,
+      "narration": "Bola-bola batuan pijar itu menghujani seluruh planet, menyalakan titik-titik api di setiap benua yang mereka sentuh.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_030.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_031",
+      "chapter": 2,
+      "narration": "Di sekitar titik tumbukan, tak ada yang selamat: hutan, hewan, dan bentang alam lenyap dalam sekejap mata.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_031.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_032",
+      "chapter": 2,
+      "narration": "Awan jamur raksasa menjulang ke stratosfer, membawa debu dan uap batuan ke ketinggian yang tak pernah dicapai badai mana pun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_032.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_033",
+      "chapter": 2,
+      "narration": "Suara ledakannya, andai ada telinga manusia yang mendengar, akan menjadi suara terkeras dalam sejarah planet ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_033.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_034",
+      "chapter": 2,
+      "narration": "Dalam hitungan menit, dunia yang telah stabil selama seratus enam puluh juta tahun berubah menjadi medan perang kosmik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_034.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_035",
+      "chapter": 2,
+      "narration": "Para raksasa yang selamat dari kilatan pertama kini menghadapi sesuatu yang jauh lebih mengerikan dari ledakan itu sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_035.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_036",
+      "chapter": 2,
+      "narration": "Karena tumbukan hanyalah awal: neraka yang sesungguhnya baru akan dimulai pada jam-jam berikutnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_036.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_037",
+      "chapter": 3,
+      "narration": "Jam-jam pertama setelah tumbukan adalah jam-jam terpanas dalam sejarah Bumi modern.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_037.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_038",
+      "chapter": 3,
+      "narration": "Ejecta yang terlempar ke angkasa kini jatuh kembali ke atmosfer, dan gesekannya memanaskan langit seperti oven raksasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_038.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_039",
+      "chapter": 3,
+      "narration": "Pulsa radiasi termal memanggang permukaan planet; suhu udara melonjak hingga titik yang tak tertahankan bagi makhluk besar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_039.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_040",
+      "chapter": 3,
+      "narration": "Hutan-hutan di berbagai benua terbakar serentak, kobaran api raksasa melahap kanopi yang selama jutaan tahun tak pernah tersentuh api.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_040.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_041",
+      "chapter": 3,
+      "narration": "Asap hitam pekat membubung dan bergabung dengan debu tumbukan, menelan cahaya matahari sedikit demi sedikit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_041.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_042",
+      "chapter": 3,
+      "narration": "Di lautan, bencana lain sedang terbentuk: mega-tsunami raksasa meluncur dari titik tumbukan ke segala penjuru.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_042.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_043",
+      "chapter": 3,
+      "narration": "Gelombang setinggi ratusan meter menghantam pesisir Teluk Meksiko dan sekitarnya, menyapu daratan berkilo-kilometer ke pedalaman.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_043.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_044",
+      "chapter": 3,
+      "narration": "Gempa susulan raksasa terus mengguncang, meruntuhkan tebing dan memicu longsoran bawah laut yang memperparah tsunami.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_044.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_045",
+      "chapter": 3,
+      "narration": "Di North Dakota, ribuan kilometer dari titik tumbukan, sebuah situs bernama Tanis merekam hari pertama kepunahan ini dengan sempurna.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_045.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_046",
+      "chapter": 3,
+      "narration": "Di Tanis, fosil-fosil ikan ditemukan tersemprot butiran-butiran kaca ejecta, seolah hujan kaca pijar turun dari langit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_046.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_047",
+      "chapter": 3,
+      "narration": "Gelombang seiche raksasa, guncangan air akibat gempa dahsyat, mengaduk sungai-sungai purba dan mengubur semuanya dalam sedimen.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_047.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_048",
+      "chapter": 3,
+      "narration": "Para ilmuwan menyebut Tanis sebagai potret hari pertama kepunahan: bencana yang terawetkan jam demi jam dalam lapisan batuan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_048.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_049",
+      "chapter": 3,
+      "narration": "Sementara itu, dinosaurus-dinosaurus besar tumbang satu per satu: yang tidak terbakar, kelaparan dalam kegelapan yang kian pekat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_049.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_050",
+      "chapter": 3,
+      "narration": "Kawanan hadrosaurus yang kemarin merumput tenang kini tergeletak di dataran yang hangus dan berasap.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_050.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_051",
+      "chapter": 3,
+      "narration": "Bahkan T. rex, raja segala raja, tak berdaya menghadapi musuh yang tak bisa digigit dan tak bisa dilawan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_051.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_052",
+      "chapter": 3,
+      "narration": "Langit yang dulu biru kini berwarna merah darah, lalu kelabu, lalu hitam: siang telah berubah menjadi senja yang tak pernah berakhir.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_052.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_053",
+      "chapter": 3,
+      "narration": "Api terus berkobar, tsunami terus menghantam, dan Bumi seolah memutuskan untuk menghapus semuanya dan mulai dari awal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_053.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_054",
+      "chapter": 3,
+      "narration": "Namun kegelapan yang sesungguhnya, yang akan menentukan siapa hidup dan siapa mati, baru akan datang setelah api padam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_054.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_055",
+      "chapter": 4,
+      "narration": "Ketika api akhirnya padam, Bumi tidak kembali normal: ia memasuki musim dingin tumbukan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_055.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_056",
+      "chapter": 4,
+      "narration": "Debu halus dan aerosol sulfur dari batuan yang menguap menutupi atmosfer, menghalangi sinar matahari berbulan-bulan hingga bertahun-tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_056.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_057",
+      "chapter": 4,
+      "narration": "Suhu global anjlok drastis; planet yang tadinya hangat berubah menjadi dunia yang dingin, gelap, dan sunyi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_057.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_058",
+      "chapter": 4,
+      "narration": "Tanpa cahaya matahari, fotosintesis berhenti total, dan tumbuhan, fondasi seluruh rantai makanan, mati secara massal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_058.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_059",
+      "chapter": 4,
+      "narration": "Herbivora raksasa yang bergantung pada dedaunan kelaparan, lalu karnivora raksasa yang bergantung pada herbivora menyusul mereka.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_059.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_060",
+      "chapter": 4,
+      "narration": "Hujan asam mengguyur dari langit yang tercemar sulfur, meracuni sungai, danau, dan lautan dangkal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_060.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_061",
+      "chapter": 4,
+      "narration": "Rantai makanan runtuh dari dasarnya seperti menara kartu, dan kepunahan menyapu planet tanpa pandang bulu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_061.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_062",
+      "chapter": 4,
+      "narration": "Sekitar tujuh puluh lima persen spesies tumbuhan dan hewan di Bumi lenyap dalam bencana ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_062.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_063",
+      "chapter": 4,
+      "narration": "Seluruh dinosaurus non-unggas, para penguasa planet selama seratus enam puluh juta tahun, punah tanpa sisa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_063.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_064",
+      "chapter": 4,
+      "narration": "Namun di kegelapan itu, ada yang selamat: mamalia-mamalia kecil yang pandai menggali liang dan aktif di malam hari.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_064.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_065",
+      "chapter": 4,
+      "narration": "Tubuh kecil mereka butuh sedikit makanan, liang-liang mereka melindungi dari panas dan dingin, dan kegelapan adalah rumah mereka.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_065.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_066",
+      "chapter": 4,
+      "narration": "Dunia kini menjadi milik yang kecil, yang bersembunyi, dan yang mampu bertahan dalam kelaparan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_066.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_067",
+      "chapter": 4,
+      "narration": "Bukti bencana global ini terawetkan dalam lapisan tipis tanah liat yang ditemukan di seluruh dunia, tepat di batas Kapur-Paleogen.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_067.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_068",
+      "chapter": 4,
+      "narration": "Lapisan itu kaya akan iridium, unsur yang langka di Bumi namun melimpah di asteroid, ditemukan oleh Luis dan Walter Alvarez tahun seribu sembilan ratus delapan puluh.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_068.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_069",
+      "chapter": 4,
+      "narration": "Di lapisan yang sama ditemukan kuarsa terkejut, tektit kaca, dan jelaga: tanda tangan tumbukan kosmik dan kebakaran global.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_069.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_070",
+      "chapter": 4,
+      "narration": "Namun satu misteri menghantui para ilmuwan selama satu dekade penuh: di mana kawah tumbukan sebesar itu berada?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_070.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_071",
+      "chapter": 4,
+      "narration": "Jawabannya datang dari tempat tak terduga: tahun seribu sembilan ratus tujuh puluhan, geofisikawan Pemex Antonio Camargo dan Glen Penfield yang sedang mencari minyak menemukan anomali gravitasi dan magnetik berbentuk busur lingkaran di Yucatán, yang tahun seribu sembilan ratus sembilan puluh dikaitkan Alan Hildebrand dengan kepunahan dinosaurus.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_071.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_072",
+      "chapter": 4,
+      "narration": "Perdebatan pun muncul: letusan raksasa Deccan Traps di India terjadi di masa yang sama dan mungkin ikut melemahkan ekosistem, namun studi tahun dua ribu dua puluh empat di jurnal Science mengungkap asteroid Chicxulub adalah jenis karbonaceous dari luar orbit Jupiter — menegaskan bahwa batu dari langit inilah algojo utamanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_072.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_073",
+      "chapter": 5,
+      "narration": "Dari abu kepunahan massal itu, kehidupan menemukan jalannya kembali, perlahan namun pasti.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_073.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_074",
+      "chapter": 5,
+      "narration": "Mamalia-mamalia kecil yang selamat mulai keluar dari liang-liang mereka ke dunia yang sunyi dan kosong.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_074.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_075",
+      "chapter": 5,
+      "narration": "Tanpa dinosaurus raksasa yang mendominasi, relung-relung ekologi terbuka lebar, menunggu untuk diisi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_075.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_076",
+      "chapter": 5,
+      "narration": "Dalam jutaan tahun berikutnya, mamalia meradiasi ke segala penjuru: menjadi pemanjat, perenang, pelari, dan akhirnya pemikir.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_076.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_077",
+      "chapter": 5,
+      "narration": "Namun tahukah Anda: dinosaurus ternyata tidak sepenuhnya punah, karena satu garis keturunan mereka masih hidup hingga hari ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_077.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_078",
+      "chapter": 5,
+      "narration": "Burung adalah dinosaurus yang selamat: setiap burung yang berkicau di pagi hari adalah keturunan langsung para raksasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_078.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_079",
+      "chapter": 5,
+      "narration": "Lihat sayap mereka, sisik di kaki mereka, cara mereka mengerami telur: itulah warisan dinosaurus yang tak terputus.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_079.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_080",
+      "chapter": 5,
+      "narration": "Dan ada kebenaran yang lebih mengejutkan: tanpa tumbukan Chicxulub, mamalia mungkin tak pernah berkuasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_080.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_081",
+      "chapter": 5,
+      "narration": "Tanpa bencana itu, mungkin tak akan pernah ada kera, tak ada manusia, dan tak ada peradaban yang menatap langit sambil bertanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_081.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_082",
+      "chapter": 5,
+      "narration": "Kita, manusia, adalah anak dari bencana ini: keberadaan kita berutang pada sebuah batu dari langit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_082.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_083",
+      "chapter": 5,
+      "narration": "Kawah Chicxulub sendiri kini terkubur sekitar satu kilometer di bawah sedimen, sebagian tersembunyi di bawah Teluk Meksiko.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_083.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_084",
+      "chapter": 5,
+      "narration": "Jejaknya masih terlihat dari angkasa: lingkaran cenote, sumur-sumur air jernih yang mengikuti bibir kawah di Semenanjung Yucatán.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_084.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_085",
+      "chapter": 5,
+      "narration": "Namanya berasal dari bahasa Maya, Chicxulub, yang sering diartikan sebagai ekor iblis: nama yang pantas untuk sang pembunuh raksasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_085.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_086",
+      "chapter": 5,
+      "narration": "Enam puluh enam juta tahun kemudian, spesies yang lahir dari bencana itu kini menatap langit dengan waspada.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_086.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_087",
+      "chapter": 5,
+      "narration": "Teleskop-teleskop modern memindai kegelapan angkasa, mengkatalog ribuan asteroid, agar sejarah tak berulang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_087.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_088",
+      "chapter": 5,
+      "narration": "Program pertahanan planet disiapkan umat manusia: kita adalah spesies pertama yang bisa mencegah kepunahannya sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_088.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_089",
+      "chapter": 5,
+      "narration": "Jika asteroid itu meleset sedikit saja enam puluh enam juta tahun lalu, akan seperti apa dunia hari ini, dan siapakah yang akan menatap langit?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_089.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_090",
+      "chapter": 5,
+      "narration": "Menurut Anda, apakah manusia sudah cukup siap menjaga planet ini? Tulis pendapat Anda di kolom komentar, dan sampai jumpa di film berikutnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv006/output/flow_images/shot_090.png",
+      "status": "ready"
+    }
+  ]
+}

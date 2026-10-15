@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,230
+suhu global anjlok drastis
+
+2
+00:00:02,260 --> 00:00:03,740
+planet yang tadinya hangat berubah
+
+3
+00:00:03,740 --> 00:00:06,630
+menjadi dunia yang dingin gelap dan sunyi

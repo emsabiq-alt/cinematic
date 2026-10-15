@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,980
+di akhir periode kapur
+
+2
+00:00:01,980 --> 00:00:04,240
+dinosaurus telah berkuasa selama lebih dari
+
+3
+00:00:04,240 --> 00:00:06,250
+seratus enam puluh juta tahun
+
+4
+00:00:06,420 --> 00:00:08,470
+dan tak ada yang menandingi mereka

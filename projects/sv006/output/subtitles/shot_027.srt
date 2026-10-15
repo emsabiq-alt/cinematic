@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,600
+gelombang kejut melesat ke segala arah
+
+2
+00:00:02,600 --> 00:00:04,470
+melingkari planet dalam hitungan jam
+
+3
+00:00:04,580 --> 00:00:06,150
+mengguncang setiap benua

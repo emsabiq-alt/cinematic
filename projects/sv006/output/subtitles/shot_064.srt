@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,950
+namun di kegelapan itu
+
+2
+00:00:01,980 --> 00:00:03,170
+ada yang selamat
+
+3
+00:00:03,260 --> 00:00:05,640
+mamalia-mamalia kecil yang pandai menggali liang
+
+4
+00:00:05,640 --> 00:00:07,490
+dan aktif di malam hari

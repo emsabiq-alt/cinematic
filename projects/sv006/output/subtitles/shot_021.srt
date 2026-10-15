@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,740
+asteroid berdiameter sekitar sepuluh kilometer
+
+2
+00:00:02,740 --> 00:00:05,680
+itu menghantam semenanjung yucatán meksiko
+
+3
+00:00:05,680 --> 00:00:07,560
+dengan kecepatan sekitar dua
+
+4
+00:00:07,560 --> 00:00:09,250
+puluh kilometer per detik

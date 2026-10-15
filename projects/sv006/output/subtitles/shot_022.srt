@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,980
+dalam sepersekian detik
+
+2
+00:00:01,980 --> 00:00:04,480
+energi yang dilepaskan setara dengan miliaran bom
+
+3
+00:00:04,480 --> 00:00:07,370
+nuklir yang meledak serentak di satu titik

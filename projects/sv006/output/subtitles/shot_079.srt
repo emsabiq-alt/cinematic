@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,610
+lihat sayap mereka
+
+2
+00:00:01,880 --> 00:00:03,250
+sisik di kaki mereka
+
+3
+00:00:03,400 --> 00:00:05,240
+cara mereka mengerami telur
+
+4
+00:00:05,240 --> 00:00:08,150
+itulah warisan dinosaurus yang tak terputus

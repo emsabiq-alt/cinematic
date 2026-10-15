@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,620
+di tanis fosil-fosil ikan ditemukan
+
+2
+00:00:03,620 --> 00:00:05,430
+tersemprot butiran-butiran kaca ejecta
+
+3
+00:00:05,600 --> 00:00:08,130
+seolah hujan kaca pijar turun dari langit

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,220
+ketika api akhirnya padam
+
+2
+00:00:02,220 --> 00:00:03,690
+bumi tidak kembali normal
+
+3
+00:00:03,900 --> 00:00:06,090
+ia memasuki musim dingin tumbukan
