@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,820
+radius lima kilometer di
+
+2
+00:00:01,820 --> 00:00:04,110
+sekelilingnya dinyatakan zona bahaya
+
+3
+00:00:04,180 --> 00:00:06,650
+dan kapal dilarang melintas terlalu dekat

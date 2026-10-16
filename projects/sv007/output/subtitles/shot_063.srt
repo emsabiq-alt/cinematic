@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,730
+di tengah bencana
+
+2
+00:00:01,880 --> 00:00:03,850
+siang hari berubah menjadi malam
+
+3
+00:00:03,880 --> 00:00:06,990
+abu tebal menutupi matahari selama berhari-hari

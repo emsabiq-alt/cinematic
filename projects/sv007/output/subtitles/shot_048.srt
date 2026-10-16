@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,240
+gelombang tekanan udaranya tercatat
+
+2
+00:00:02,240 --> 00:00:03,800
+barometer di seluruh dunia
+
+3
+00:00:03,800 --> 00:00:06,490
+mengelilingi bumi lebih dari tiga kali

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,380
+kabar letusan menyebar cepat
+
+2
+00:00:02,380 --> 00:00:04,560
+karena era itu adalah era telegraf
+
+3
+00:00:04,560 --> 00:00:06,200
+berita melintasi kabel bawah
+
+4
+00:00:06,200 --> 00:00:07,870
+laut dalam hitungan jam

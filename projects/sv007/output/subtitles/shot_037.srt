@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,609
+tanggal dua puluh enam agustus seribu
+
+2
+00:00:02,609 --> 00:00:04,751
+delapan ratus delapan puluh tiga
+
+3
+00:00:04,751 --> 00:00:07,290
+krakatau memasuki fase paling ganasnya

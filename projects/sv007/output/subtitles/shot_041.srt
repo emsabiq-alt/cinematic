@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,020
+para awak kapal melaporkan petir
+
+2
+00:00:02,020 --> 00:00:04,340
+vulkanik menyambar-nyambar di dalam kolom
+
+3
+00:00:04,340 --> 00:00:06,790
+abu yang menjulang puluhan kilometer

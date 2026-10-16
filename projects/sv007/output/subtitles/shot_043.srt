@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,360
+tanggal dua puluh tujuh agustus
+
+2
+00:00:02,360 --> 00:00:04,460
+pukul sepuluh lewat dua menit pagi
+
+3
+00:00:04,460 --> 00:00:06,310
+datanglah ledakan pamungkasnya

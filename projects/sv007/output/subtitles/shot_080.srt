@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,240
+sementara itu seorang geolog
+
+2
+00:00:02,240 --> 00:00:03,760
+belanda bernama rogier verbeek
+
+3
+00:00:03,760 --> 00:00:06,890
+memimpin penyelidikan ilmiah terbesar kala itu

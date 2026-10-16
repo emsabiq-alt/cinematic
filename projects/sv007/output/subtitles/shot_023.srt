@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,160
+pada tanggal dua puluh mei seribu
+
+2
+00:00:02,160 --> 00:00:04,190
+delapan ratus delapan puluh tiga
+
+3
+00:00:04,300 --> 00:00:06,570
+tidur panjang itu akhirnya pecah

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,444
+sejak sembilan oktober dua ribu dua
+
+2
+00:00:02,444 --> 00:00:04,610
+puluh enam pukul sembilan malam
+
+3
+00:00:04,660 --> 00:00:07,170
+statusnya naik ke level tiga siaga

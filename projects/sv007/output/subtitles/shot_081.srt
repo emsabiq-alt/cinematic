@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,472
+hasilnya adalah laporan setebal lima ratus
+
+2
+00:00:02,472 --> 00:00:04,980
+lima puluh halaman yang terbit tahun
+
+3
+00:00:04,980 --> 00:00:07,330
+seribu delapan ratus delapan puluh lima

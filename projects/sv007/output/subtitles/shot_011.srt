@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:03,690
+gelombang tekanannya tercatat barometer di seluruh dunia
+
+2
+00:00:03,840 --> 00:00:06,250
+dan mengelilingi bumi lebih dari tiga kali

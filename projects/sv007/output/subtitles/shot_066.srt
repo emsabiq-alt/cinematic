@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,080
+hujan abu turun sejauh ratusan
+
+2
+00:00:02,080 --> 00:00:04,280
+kilometer menutupi sawah atap
+
+3
+00:00:04,280 --> 00:00:06,290
+dan jalan dengan lapisan kelabu

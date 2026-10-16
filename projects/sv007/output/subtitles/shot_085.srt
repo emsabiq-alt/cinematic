@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,030
+ia dinamai anak krakatau
+
+2
+00:00:02,100 --> 00:00:03,040
+sang anak yang lahir
+
+3
+00:00:03,040 --> 00:00:04,870
+dari rahim kaldera ayahnya

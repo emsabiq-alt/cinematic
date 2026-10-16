@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,930
+ini adalah krakatau
+
+2
+00:00:02,020 --> 00:00:03,930
+seribu delapan ratus delapan puluh tiga
+
+3
+00:00:04,520 --> 00:00:07,010
+suara terkeras yang pernah ada di bumi

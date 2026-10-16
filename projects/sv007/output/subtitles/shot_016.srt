@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,440
+langit di seluruh dunia
+
+2
+00:00:01,440 --> 00:00:03,300
+berubah merah darah berbulan-bulan
+
+3
+00:00:03,300 --> 00:00:05,230
+dan suhu planet menurun

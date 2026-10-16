@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,160
+malam ini di selat sunda
+
+2
+00:00:02,160 --> 00:00:04,240
+sebuah gunung berapi kecil berstatus siaga
+
+3
+00:00:04,240 --> 00:00:06,410
+dan namanya anak krakatau

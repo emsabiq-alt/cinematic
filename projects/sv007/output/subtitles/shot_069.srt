@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,280
+berita duka menyebar lewat telegraf ke
+
+2
+00:00:02,280 --> 00:00:04,000
+seluruh dunia dalam hitungan jam
+
+3
+00:00:04,000 --> 00:00:06,770
+tercepat dalam sejarah bencana kala itu

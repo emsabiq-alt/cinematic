@@ -5,8 +5,9 @@
  "mode": "step",
  "pacing": "8-12s",
  "project_dir": "projects/sv007",
- "status": "script_ready",
+ "status": "assets_ready",
  "title": "KRAKATAU 1883: Suara Terkeras yang Pernah Ada di Bumi — dan Anaknya Sedang Bangkit Lagi!?",
  "total_shots": 90,
- "voice": "F2"
+ "voice": "F2",
+ "assets_release": "sv007-assets"
 }

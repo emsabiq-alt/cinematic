@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,140
+suhu rata-rata bumi turun
+
+2
+00:00:02,140 --> 00:00:04,020
+dan dunia mengalami tahun-tahun tanpa
+
+3
+00:00:04,020 --> 00:00:05,670
+musim panas yang normal
