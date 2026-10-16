@@ -1,0 +1,726 @@
+{
+ "style": "Cinematic 35mm film still, 16:9 full-bleed solar storm documentary, aurora and fire",
+ "description": "Storyboard 90 shot untuk dokumenter BADAI MATAHARI 1859: Ketika Langit Seluruh Bumi Membara — Badai Terbesar Sepanjang Sejarah yang Bisa Melumpuhkan Dunia Hari Ini. Lima babak simetris: hook hoaks internet mati dan badai Mei 2024, dunia 1859 dan pengamatan Carrington, perjalanan CME tujuh belas koma enam jam, malam aurora global dan telegraf terbakar, serta skenario jika Carrington terulang hari ini.",
+ "shots": [
+  {
+   "id": "shot_001",
+   "chapter": 1,
+   "narration": "Klaim viral yang sempat menghebohkan masyarakat Indonesia menyebut bahwa internet akan mati total akibat badai matahari dahsyat.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing smartphone screen reflecting off a person's anxious face in a pitch-black room, floating digital warning icons dissolving into static, cold cyan and moody shadow palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_002",
+   "chapter": 1,
+   "narration": "Pemeriksa fakta dengan cepat membantah narasi tersebut dan menegaskan bahwa Badan Penerbangan dan Antariksa Amerika Serikat tidak pernah meramalkan kiamat internet.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Fact-checker newsroom with glowing multiple monitors showing debunked holographic stamps over viral headlines, amber and slate gray tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_003",
+   "chapter": 1,
+   "narration": "Sistem kecerdasan buatan bernama DAGGER milik NASA sejatinya hanya dirancang untuk memprediksi gangguan geomagnetik sekitar tiga puluh menit sebelum dampaknya tiba di bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Advanced supercomputer data visualization showing swirling solar wind vectors interacting with Earth's magnetosphere, deep cobalt blue and neon green tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_004",
+   "chapter": 1,
+   "narration": "Matahari kini memang sedang memasuki puncak siklus ke dua puluh lima yang berlangsung sepanjang tahun dua ribu dua puluh lima hingga dua ribu dua puluh enam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The boiling surface of the sun with intense coronal mass ejections and sunspots twisting magnetic loops, vibrant orange and incandescent white tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_005",
+   "chapter": 1,
+   "narration": "Kekuatan kosmik itu terbukti nyata ketika badai geomagnetik dahsyat menyapu orbit bumi pada sepuluh hingga dua belas Mei dua ribu dua puluh empat.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Earth seen from deep space as an invisible shockwave of solar plasma deforms the protective magnetic shield, deep velvet black and electric violet tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_006",
+   "chapter": 1,
+   "narration": "Peristiwa yang dinamai badai Gannon ini tercatat sebagai badai matahari terkuat dalam dua puluh tahun terakhir dengan intensitas ekstrem mencapai kategori G lima.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Space weather command center with warning lights illuminating tense scientists looking at spiked telemetry charts, deep crimson and dark steel palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_007",
+   "chapter": 1,
+   "narration": "Lembaga NOAA segera mengeluarkan peringatan resmi mengenai potensi gangguan serius pada jaringan listrik dan operasional satelit global.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. High-voltage electrical power substation under a stormy dusk sky, humming transformers with subtle static corona discharges, moody blue and amber tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_008",
+   "chapter": 1,
+   "narration": "Cahaya aurora menari melintasi langit malam hingga ke wilayah yang tidak biasa seperti Texas, Spanyol, bahkan daratan Afrika Utara.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Breathtaking crimson and emerald aurora borealis stretching across an ancient Spanish village landscape, silhouette of stone buildings, emerald and magenta palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_009",
+   "chapter": 1,
+   "narration": "Di luar angkasa, armada satelit Starlink bergulat keras menahan hambatan atmosfer yang memadat akibat serbuan partikel bermuatan tinggi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A constellation of modern communication satellites drifting in low Earth orbit against the faint glow of ionospheric auroras, silver metallic and dark sapphire tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_010",
+   "chapter": 1,
+   "narration": "Dampak badai tersebut menyentuh daratan hingga menyebabkan pemadaman listrik di sebagian wilayah Swedia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern Swedish city street suddenly plunging into darkness as streetlamps flicker out beneath a twilight sky, navy blue and deep charcoal palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_011",
+   "chapter": 1,
+   "narration": "Bahkan di belahan bumi selatan, infrastruktur transmisi listrik Afrika Selatan mengalami kerusakan akibat lonjakan arus induksi geomagnetik.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Industrial electrical transformers in an arid South African landscape emitting faint wisps of smoke after a power surge, dusty golden hour and oxidized rust tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_012",
+   "chapter": 1,
+   "narration": "Belum genap lima bulan berlalu, suar matahari terbesar dalam tujuh tahun terakhir kembali meletus pada tujuh Oktober dua ribu dua puluh empat.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive solar flare erupting violently from the solar limb, brilliant coronal discharge bursting into space, blinding white and scorching gold tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_013",
+   "chapter": 1,
+   "narration": "Ledakan radiasi tersebut memicu gelombang kejut yang menghasilkan badai geomagnetik kategori G empat pada sepuluh Oktober.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Earth enveloped by violent ripples of ionized solar plasma colliding with the upper atmosphere, dramatic cinematic composite, deep indigo and vivid teal tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_014",
+   "chapter": 1,
+   "narration": "Badan Meteorologi Klimatologi dan Geofisika di Indonesia mendeteksi terjadinya anomali pada komunikasi satelit, jaringan internet, serta sinyal GPS.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern weather monitoring headquarters in Jakarta with giant digital earth maps flickering with signal degradation markers, deep teal and cool fluorescent lighting. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_015",
+   "chapter": 1,
+   "narration": "Karena akurasi pemetaan navigasi satelit terganggu, para pilot drone di tanah air diimbau untuk tidak menerbangkan perangkat mereka demi keselamatan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Commercial drone resting grounded on grassy tarmac, handheld controller showing a signal loss indicator under an overcast sky, muted green and steel gray tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_016",
+   "chapter": 1,
+   "narration": "Jika badai pada tahun dua ribu dua puluh empat saja mampu mengacaukan teknologi modern, apa yang akan terjadi jika badai paling dahsyat dalam sejarah kembali menerpa peradaban kita?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Silhouette of a lone observer on a skyscraper rooftop looking at an ominous aurora shimmering over a bustling modern megalopolis, contrast of neon city lights and dark cosmic hues. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_017",
+   "chapter": 1,
+   "narration": "Ada sebuah masa lalu yang membuktikan bahwa seluruh badai modern ini hanyalah riak kecil di hadapan raksasa tidur tata surya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dramatic time-lapse transition from modern electronic digital circuits fading backward in time into antique brass gears and clockwork mechanisms, sepia and deep midnight blue tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_018",
+   "chapter": 1,
+   "narration": "Semua berawal pada September seribu delapan ratus lima puluh sembilan, ketika bumi berhadapan langsung dengan badai geomagnetik terkuat yang pernah dicatat oleh umat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Victorian-era telegraph office illuminated by eerie electric sparks bursting from copper wires, stunned telegraph operator in period clothing, rich warm sepia and electric blue spark palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_019",
+   "chapter": 2,
+   "narration": "Pada tahun seribu delapan ratus lima puluh sembilan, peradaban manusia melangkah dalam ritme zaman Victoria yang tenang dan dipenuhi rasa percaya diri yang tinggi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Panoramic view of Victorian-era London along the Thames, gentle mist mingling with faint chimney smoke, horse-drawn carriages on cobblestone streets, warm sepia and muted amber tones, soft atmospheric morning light. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_020",
+   "chapter": 2,
+   "narration": "Kekuatan mesin uap menggerakkan lokomotif baja dan kapal-kapal besar, menjadi otot utama penggerak era industri yang tengah mekar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive Victorian steam train arriving at an iron-and-glass railway station, thick plumes of white steam billowing against dark iron girders, rich charcoal and brass tones with dramatic backlighting. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_021",
+   "chapter": 2,
+   "narration": "Di masa pra-modern tersebut, energi listrik masih merupakan keajaiban langka yang baru dikenal terbatas di dalam ruang-ruang laboratorium ilmiah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A dimly lit nineteenth-century laboratory with brass Leyden jars, glass galvanic cells, and faint sparks dancing across copper terminals, moody chiaroscuro lighting, deep shadows and warm amber candlelight. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_022",
+   "chapter": 2,
+   "narration": "Namun jalinan kawat tembaga mulai merambah daratan dan menyeberangi samudra, merajut dunia baru melalui jaringan telegraf.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Low angle of tall wooden telegraph poles stretching across rolling green English countryside under a dramatic sky, dark wires cutting sharply across the clouds, desaturated green and slate blue tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_023",
+   "chapter": 2,
+   "narration": "Jaringan telegraf ini bertindak layaknya internet generasi awal yang mengalirkan pesan melintasi benua dengan kecepatan yang belum pernah terbayangkan sebelumnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Interior of a Victorian telegraph station with an operator tapping a polished brass telegraph key, paper tape unspooling, warm lamplight casting deep shadows on mahogany desks, rich mahogany and gold tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_024",
+   "chapter": 2,
+   "narration": "Satu-satunya gangguan elektromagnetik yang diketahui kala itu hanyalah getaran liar pada jarum kompas maritim yang dianggap sebagai teka-teki cuaca biasa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of an ornate antique brass navigational compass, its magnetic needle trembling erratically on a nautical paper chart, shallow depth of field, aged parchment textures and polished brass palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_025",
+   "chapter": 2,
+   "narration": "Kala itu, tidak ada seorang pun yang menyangka bahwa Matahari yang tampak tenang mampu memuntahkan ancaman dahsyat ke arah planet kita.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a bright golden morning sun hanging serenely over pastoral hills and quiet farmsteads, tranquil haze, luminous golden and soft azure palette, classical oil-painting composition. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_026",
+   "chapter": 2,
+   "narration": "Di sebuah observatorium pribadi di pedesaan Redhill, astronom Inggris bernama Richard Carrington secara cermat mendedikasikan hidupnya untuk memantau perilaku sang surya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Exterior of Richard Carrington's private brick observatory with a small domed roof set in a quiet Victorian estate, framed by towering oak trees, crisp morning daylight, earthy terracotta and lush green palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_027",
+   "chapter": 2,
+   "narration": "Setiap hari yang cerah, ia mengarahkan teleskop kuningan berpresisi tinggi untuk memproyeksikan citra Matahari ke atas selembar kertas putih berbingkai.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a large polished brass Victorian refractor telescope projecting an eleven-inch luminous solar disc onto a flat white drawing plate in a darkened room, warm brass and pure white light. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_028",
+   "chapter": 2,
+   "narration": "Dengan ketelitian luar biasa, tangan terlatihnya menggambar dan mengukur setiap bintik hitam yang berarak melintasi piringan surya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro close-up of Carrington's hand holding a fine graphite pencil, meticulously tracing the intricate dark contours of sunspots projected onto a white grid paper, high contrast between crisp paper and dark pencil lead. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_029",
+   "chapter": 2,
+   "narration": "Ketika fajar tanggal satu September seribu delapan ratus lima puluh sembilan tiba, langit membentang jernih sempurna tanpa terhalang awan sedikit pun.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. High angle view over the English countryside under an immaculate crystal-clear azure sky, pristine morning sunshine illuminating the landscape, bright natural daylight palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_030",
+   "chapter": 2,
+   "narration": "Tepat sekitar pukul sebelas lewat delapan belas menit pagi, Carrington tengah sibuk mencatat formasi bintik hitam raksasa yang tampak luar biasa besar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up profile of Richard Carrington wearing Victorian formal vest and spectacles, focused intently on his solar projection table, pocket watch visible on the table showing quarter past eleven, warm ambient indoor lighting. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_031",
+   "chapter": 2,
+   "narration": "Secara mendadak, dua titik cahaya putih yang sangat menyilaukan meletus tepat di atas gugusan bintik hitam pada proyeksi gambar tersebut.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of the projected circular solar image on the white board, suddenly interrupted by two intensely brilliant bean-shaped patches of pure white light outshining the solar disk, blinding highlight flares, extreme contrast. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_032",
+   "chapter": 2,
+   "narration": "Menyaksikan kecemerlangan yang tak wajar itu, Carrington terperanjat dan mengira ada berkas cahaya matahari langsung yang bocor menembus tirai observatoriumnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of Carrington stepping back abruptly from his telescope in astonishment, lifting his eyeglasses, his face bathed in the brilliant reflection of the sudden solar glare, dramatic high-contrast side lighting. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_033",
+   "chapter": 2,
+   "narration": "Kedua kilatan cahaya putih yang teramat kuat itu berpendar spektakuler sebelum akhirnya menyusut dan lenyap seluruhnya dalam waktu sekitar lima menit.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse sequence effect on the projected white solar surface, showing the two blinding white patches gradually waning and dissipating back into the complex dark sunspot group, stark chiaroscuro, glowing white and charcoal tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_034",
+   "chapter": 2,
+   "narration": "Pada saat yang bersamaan di lokasi terpisah, seorang astronom amatir Inggris bernama Richard Hodgson menyaksikan pemandangan kembar yang sama persis melalui teleskop miliknya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of astronomer Richard Hodgson in a separate English study looking intently into an optical eyepiece of a brass telescope, his face lit with sudden disbelief and awe, dark study background with leather-bound books. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_035",
+   "chapter": 2,
+   "narration": "Tanpa disadari oleh keduanya, mereka baru saja menyaksikan suar matahari cahaya-putih pertama yang pernah dicatat dalam seluruh lembaran sejarah manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot looking down at Carrington's handwritten observational logbook filled with meticulous ink sketches of the sunspot cluster and notes dated September first eighteen fifty-nine, vintage sepia and dark gall ink palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_036",
+   "chapter": 2,
+   "narration": "Namun dunia di bawah sana tetap berputar tanpa curiga, sama sekali tidak menyadari bahwa letupan singkat itu telah melemparkan gelombang bahaya raksasa lurus menuju Bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide cinematic shot of the Earth visible in deep space with a faint invisible shockwave rippling outwards from the Sun toward the planet, deep cosmos black contrasted with vibrant blue atmospheric rim and fierce solar glare. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_037",
+   "chapter": 3,
+   "narration": "Sebuah ledakan dahsyat di permukaan Matahari melepaskan semburan energi teramat masif yang merobek korona surya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Solar flare violently erupting from the blinding surface of the Sun, superheated solar plasma arcing into deep space, volumetric solar coronal ejection, incandescent white, intense cadmium orange, deep space black palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_038",
+   "chapter": 3,
+   "narration": "Ledakan di Matahari tersebut melontarkan awan plasma raksasa melintasi kehampaan antariksa sejauh sekitar seratus lima puluh juta kilometer.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive glowing cloud of magnetized coronal plasma billowing through interplanetary space, leaving solar corona far behind, particles trailing across the void, deep amber, fiery crimson, cosmic obsidian palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_039",
+   "chapter": 3,
+   "narration": "Awan plasma bermuatan magnetis tinggi tersebut melaju cepat menembus ruang antarplanet yang sunyi dan dingin.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Front angle tracking of a gigantic magnetized plasma shock front barreling through solar orbit, distant stars shimmering through swirling ionized gas, electric violet, fiery gold, deep navy blue palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_040",
+   "chapter": 3,
+   "narration": "Awan plasma itu menempuh jarak seratus lima puluh juta kilometer menuju Bumi hanya dalam tujuh belas koma enam jam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-compressed cosmic scale view of a high-speed solar shockwave slicing through the solar system towards the distant inner planets, luminous motion blur, incandescent orange streak, stellar black palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_041",
+   "chapter": 3,
+   "narration": "Durasi tujuh belas koma enam jam tersebut tercatat sebagai waktu tempuh badai matahari tercepat yang pernah terukur dalam sejarah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The massive turbulent front of magnetized solar wind expanding relentlessly across space at extreme velocity, glowing filaments twisting violently, burning copper, electric cyan, velvety black palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_042",
+   "chapter": 3,
+   "narration": "Di seberang jurang tata surya, planet Bumi tampak mengapung tenang tanpa pertahanan yang terlihat kasat mata.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Distant view of planet Earth floating serene and vulnerable in the silent expanse of space, day and night terminator visible, sapphire blue, cloud white, pitch black void palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_043",
+   "chapter": 3,
+   "narration": "Waktu mendekati sekitar pukul empat pagi Greenwich Mean Time pada dua September seribu delapan ratus lima puluh sembilan saat badai mendekati tujuannya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. High orbital perspective above Western Europe and the Atlantic Ocean blanketed in pre-dawn darkness just before sunrise, faint city gaslights, indigo, deep slate, starlight silver palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_044",
+   "chapter": 3,
+   "narration": "Sekitar pukul empat pagi pada dua September seribu delapan ratus lima puluh sembilan, awan plasma matahari itu akhirnya menghantam magnetosfer Bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cataclysmic collision between the solar coronal mass ejection front and Earth's bow shock in high orbit, brilliant shockwave blooming, neon emerald, fiery amber, midnight black palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_045",
+   "chapter": 3,
+   "narration": "Perisai magnetik Bumi yang tak terlihat mendadak terguncang hebat di bawah tekanan brutal gelombang partikel matahari.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Visualization of Earth's invisible magnetic field lines compressing fiercely and warping under a ferocious cosmic blast, glowing dynamic energy contours, spectral cyan, plasma magenta, deep space indigo palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_046",
+   "chapter": 3,
+   "narration": "Tekanan ekstrem tersebut membuat seluruh medan magnet planet bergetar seperti sebuah gong raksasa yang terpukul keras.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Resonant ripples and harmonic shockwaves pulsing through Earth's magnetosphere, vibrational energy rings echoing around the planetary sphere, luminescent electric blue, molten bronze, void black palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_047",
+   "chapter": 3,
+   "narration": "Guncangan pada perisai magnetik planet memicu badai geomagnetik dahsyat yang menjalar ke seluruh lapisan pelindung dunia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The upper exosphere of Earth enveloped in shifting electromagnetic disturbances, charged particles spiraling along planetary poles, vibrant teal, burning crimson, deep cosmic shadow palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_048",
+   "chapter": 3,
+   "narration": "Badai geomagnetik yang terjadi diperkirakan berkekuatan indeks penurunan medan magnet mencapai minus nol koma delapan nol hingga minus satu koma tujuh lima mikrotesla.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A period magnetic observatory magnetometer brass instrument needle oscillating erratically, intricate shadows and delicate glass reflections, dark mahogany wood, polished brass, sepia paper palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_049",
+   "chapter": 3,
+   "narration": "Skala intensitas tersebut menjadikannya sebagai badai geomagnetik terkuat dalam seluruh sejarah tercatat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Global perspective of the entire planet trembling within a massive sheath of agitated charged particles, dramatic atmospheric glow creeping over the curve of the Earth, vivid jade green, solar gold, abyss black palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_050",
+   "chapter": 3,
+   "narration": "Arus listrik raksasa mulai mengalir deras di lapisan atmosfer atas seiring meluapnya muatan partikel bermagnet.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Atmospheric perspective inside the ionosphere showing massive sheets of telluric electric currents dancing across the mesosphere, ethereal emerald ribbons, cobalt blue, atmospheric twilight palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_051",
+   "chapter": 3,
+   "narration": "Aliran listrik berdaya raksasa tersebut kemudian menembus ke bawah dan mengalir liar di sepanjang kerak Bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Low angle view of rugged terrestrial landscape at dawn with ethereal subterranean electric currents subtly illuminating fissures and rocky strata, electric blue sparks, charcoal stone, misty violet dawn palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_052",
+   "chapter": 3,
+   "narration": "Di tengah samudra lepas, arus elektromagnetik tak kasat mata menyelimuti kapal-kapal layar yang sedang berlayar dalam kegelapan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A nineteenth-century tall sailing ship riding rolling dark ocean swells under an unnatural, ominous pre-dawn sky, billowing sails, deep oceanic navy, muted foam white, eerie purple mist palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_053",
+   "chapter": 3,
+   "narration": "Kompas kapal di tengah laut menjadi kacau dan gagal menunjukkan arah akibat medan magnet yang terguncang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot of an ornate maritime brass gimbaled compass on a ship deck, the magnetic needle spinning wildly and erratically out of control, warm lantern glow, aged brass, nautical navy shadow palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_054",
+   "chapter": 3,
+   "narration": "Kegagalan penunjuk arah dan guncangan pada seluruh planet membangun ketegangan mencekam menuju malam saat langit akan terbakar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A nineteenth-century ship navigator standing tense on the wooden quarterdeck gazing up at a sky beginning to glow with an unsettling, otherworldly luminescence, brass lantern light, ominous violet, sea spray teal, dark timber palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_055",
+   "chapter": 4,
+   "narration": "Malam satu September seribu delapan ratus lima puluh sembilan perlahan merayap turun, menyelimuti benua-benua dalam kegelapan yang tak lama kemudian pecah oleh kilauan aneh dari atmosfer terluar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Silhouette of a nineteenth-century coastal town at dusk, with faint eerie chromatic light beginning to warp the deep twilight sky, dark indigo and faint amber horizon tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_056",
+   "chapter": 4,
+   "narration": "Langit malam di seluruh penjuru planet mendadak membara hebat, bermandikan tirai cahaya merah darah, hijau zamrud berpendar, dan lelehan lembayung ungu yang seolah membakar angkasa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Spectacular global aurora borealis covering the entire sky, shimmering violently with deep crimson, neon emerald green, and electric violet auroral curtains, wide vista. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_057",
+   "chapter": 4,
+   "narration": "Pita aurora borealis dan australis meledak jauh melampaui wilayah kutub es, merayap liar melintasi garis lintang khatulistiwa yang belum pernah menyaksikan pemandangan tersebut sepanjang sejarah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Low angle of majestic auroral waves arching high over silhouette of tropical palm trees and nineteenth-century rooflines, glowing crimson and pale green sky. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_058",
+   "chapter": 4,
+   "narration": "Dari perairan Karibia, pesisir Kuba, hingga dataran Meksiko, penduduk setempat terpana memandang kubah langit malam yang berpijar terang benderang seperti kawah api menyala.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. People in mid-nineteenth-century colonial attire on a cobblestone plaza in Havana looking upward in awe at a swirling blood-red and green night sky. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_059",
+   "chapter": 4,
+   "narration": "Cahaya kosmik itu membentang megah di atas pulau Jamaika, membelah langit malam Panama, serta menerangi pucuk-pucuk pepohonan di pedalaman Kolombia tengah hingga gugusan kepulauan Hawaii.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial perspective over tropical mountains and oceans illuminated by an unnatural ethereal magenta and emerald glow reflecting off calm sea waves. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_060",
+   "chapter": 4,
+   "narration": "Di kota Boston, pancaran sinar aurora begitu kuat dan terang benderang hingga orang-orang dapat membaca lembaran surat kabar pada tengah malam tanpa bantuan lentera sama sekali.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a man in nineteenth-century overcoat standing by a brick Boston sidewalk at midnight, reading a broadsheet newspaper illuminated solely by overhead green-crimson auroral light. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_061",
+   "chapter": 4,
+   "narration": "Jauh di Pegunungan Rocky, para penambang emas terbangun dengan panik karena mengira fajar telah menyingsing, lalu bergegas menyalakan api unggun untuk memasak sarapan pagi mereka.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rocky Mountain gold miners in rugged wool coats stoking a campfire with cast iron pans, confused expressions under a sky glowing bright like twilight dawn. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_062",
+   "chapter": 4,
+   "narration": "Di tengah samudra, badai medan magnet membuat jarum kompas pada kapal-kapal kayu berputar liar tanpa henti sehingga navigasi pelayaran malam itu buta arah sepenuhnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up macro of a vintage brass nautical compass on a dark wooden binnacle, needle spinning uncontrollably, illuminated by an eerie red auroral sky reflected on glass. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_063",
+   "chapter": 4,
+   "narration": "Di daratan, arus geomagnetik bumi yang melonjak tajam mulai menyusup ke dalam urat nadi teknologi tercanggih peradaban manusia saat itu, yaitu jaringan kabel telegraf dunia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Telegraph poles and copper wires running across a desolate countryside, faint electrical ionization humming along the lines under a menacing iridescent sky. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_064",
+   "chapter": 4,
+   "narration": "Letupan bunga api elektrik biru keemasan mulai menyembur dari perangkat-perangkat tembaga di berbagai stasiun telegraf, memecah kesunyian malam dengan suara desis berbahaya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot of intense blue and yellow electrical sparks leaping aggressively from brass telegraph keys and binding posts on a dark polished wooden desk. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 8
+  },
+  {
+   "id": "shot_065",
+   "chapter": 4,
+   "narration": "Gulungan kertas pita penerima telegraf mulai terbakar dan berasap dari Boston hingga Paris akibat kelebihan beban arus liar yang membanjiri sirkuit kawat tembaga.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of Morse code paper tape smoldering and catching fire inside a nineteenth-century brass telegraph receiver, charred edges and curling white smoke. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_066",
+   "chapter": 4,
+   "narration": "Para operator telegraf tersentak kaget dan sebagian tersengat kejutan listrik bertegangan tinggi saat jemari mereka menyentuh tuas pengirim pesan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Medium shot of a terrified male telegraph operator recoiling backward off his wooden chair as sparks arc across his desk, dramatic shadows, warm lamplight clashed with cold electric spark. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_067",
+   "chapter": 4,
+   "narration": "Demi meredam amukan api dan menyelamatkan kantor mereka, para petugas bergegas mencabut seluruh kabel dan memutus sel-sel baterai asam dari rangkaian mesin.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Hands hurriedly disconnecting heavy zinc-copper chemical battery jars and heavy cables in a dim utility room filled with haze, gritty brass and glass textures. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_068",
+   "chapter": 4,
+   "narration": "Namun sebuah keajaiban yang membingungkan akal sehat terjadi ketika mesin-mesin tersebut terbukti masih dapat terus mengirimkan sandi Morse dengan lancar walau baterai kimia telah dicabut total.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. High angle shot looking down at disconnected battery terminals lying on the floor while on the desk above, the brass sounder clicks rhythmically on its own. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_069",
+   "chapter": 4,
+   "narration": "Pesan-pesan telegraf itu melesat melintasi ribuan mil kawat hanya dengan mengendarai arus listrik liar yang diinduksi secara gaib oleh badai matahari dari langit.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dramatic tracking shot along a telegraph wire cutting across the landscape, faint ethereal energy flowing along the wire with towering purple-green aurora above. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_070",
+   "chapter": 4,
+   "narration": "Memasuki dini hari dua September seribu delapan ratus lima puluh sembilan, langit perlahan mulai mereda, meninggalkan miliaran pasang mata dalam takjub dan ketakutan mendalam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse feel of auroral curtains gradually softening into the cold blue dawn over a silhouetted European city skyline, muted teal and pale gold morning hues. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_071",
+   "chapter": 4,
+   "narration": "Dampak sosial dari peristiwa dahsyat ini tetap terbatas karena seluruh peradaban manusia saat itu masih hidup dalam naungan era pra-listrik.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide panoramic view of early morning life in an 1850s city, horse-drawn carriages on stone streets, gas lamps flickering out, peaceful unaware populace, sepia and cool dawn lighting. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_072",
+   "chapter": 4,
+   "narration": "Bumi selamat dari kelumpuhan total semata-mata karena dunia belum bergantung pada jaringan listrik modern, belum memiliki satelit di orbit, dan belum terhubung oleh kabel internet.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Beautiful quiet shot of Earth's curved limb seen from upper stratosphere, gentle green auroral edge fading into deep black space, serene and fragile, cinematic lighting. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_073",
+   "chapter": 5,
+   "narration": "Pada tahun seribu sembilan ratus delapan puluh sembilan, badai matahari melumpuhkan seluruh jaringan listrik Quebec di Kanada secara tiba-tiba.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cold Canadian winter cityscape plunging into pitch-black darkness, silhouettes of snow-covered buildings under a gloomy twilight sky, moody desaturated cold blue and deep shadow tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_074",
+   "chapter": 5,
+   "narration": "Jutaan orang seketika terperangkap dalam gelap gulita dan suhu membeku selama sekitar dua belas jam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Inside a frozen apartment looking through a frosted window onto dark streets, silhouettes of people holding warm candles in freezing indoor gloom, amber candlelight contrasting with icy navy blue shadows. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_075",
+   "chapter": 5,
+   "narration": "Insiden Quebec tersebut menjadi peringatan nyata betapa rentannya ketergantungan peradaban modern kita pada aliran arus listrik.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archive control room with analog dials frozen and extinguished indicators, dim emergency amber glow illuminating dusty meters, nostalgic gritty film texture. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_076",
+   "chapter": 5,
+   "narration": "Kini dunia abad modern ditopang sepenuhnya oleh jaringan listrik antarbenua yang saling terhubung tanpa henti.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive steel high-voltage electrical transmission towers stretching across rolling landscape at dusk, intricate web of power lines against an indigo sky, cinematic teal and orange tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "AERIAL",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_077",
+   "chapter": 5,
+   "narration": "Jantung jaringan itu mengandalkan trafo-trafo tegangan ekstra-tinggi yang membutuhkan waktu hingga berbulan-bulan untuk diganti apabila terbakar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Massive industrial extra-high voltage substation transformer looming with complex ceramic insulators and heavy metal cooling fins, dramatic industrial lighting, steel grey and brass tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_078",
+   "chapter": 5,
+   "narration": "Di luar angkasa, ribuan satelit komunikasi, navigasi penentu posisi, dan cuaca beroperasi tanpa perisai tebal untuk menahan radiasi ekstrem.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. High orbit view of a sleek modern satellite with reflective solar panels hovering above the curved blue rim of planet Earth, deep space blackness, stark white and orbital blue palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "HIGH ANGLE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_079",
+   "chapter": 5,
+   "narration": "Bahkan seluruh urat nadi internet global dan transaksi perbankan digital dunia bergantung pada kestabilan elektromagnetik yang sangat rapuh ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Extreme macro shot of illuminated fiber optic cables and microscopic server circuitry pulsating with light in an ultra-modern data center, glowing cyan and deep violet palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MACRO",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_080",
+   "chapter": 5,
+   "narration": "Para ilmuwan memperkirakan bahwa jika badai sekelas peristiwa Carrington terjadi hari ini, pemadaman listrik luas akan berlangsung selama berhari-hari hingga berminggu-minggu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sprawling metropolitan city suddenly experiencing catastrophic blackout at night, towering skyscrapers turning off in sweeping waves, eerie deep charcoal and dim twilight horizon. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 12
+  },
+  {
+   "id": "shot_081",
+   "chapter": 5,
+   "narration": "Trafo-trafo raksasa di berbagai benua akan mengalami lonjakan arus dahsyat yang berpotensi melelehkan inti tembaga di dalamnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dramatic close view of a massive electrical substation transformer emitting violent electrical sparks, internal coil overheating with glowing orange heat through ventilation louvers, intense warm amber and smoky charcoal palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_082",
+   "chapter": 5,
+   "narration": "Satelit-satelit vital di orbit bumi diperkirakan akan mengalami kerusakan sirkuit permanen hingga lumpuh total.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Orbital satellite enveloped in a silent wave of charged solar particle storm, solar panels glitching with static discharge over dark continents, deep cosmic violet and sharp neon green flare. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_083",
+   "chapter": 5,
+   "narration": "Kerugian ekonomi dunia akibat kelumpuhan pasokan energi, komunikasi, dan perbankan ditaksir dapat menembus hingga triliunan dolar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Empty trading floor of an international financial stock exchange with dead screens, scattered papers, quiet emergency dim lighting, desaturated green and pale silver tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_084",
+   "chapter": 5,
+   "narration": "Berdasarkan model perhitungan statistik para ilmuwan, badai sebesar Carrington diperkirakan berulang setiap sekitar seratus hingga dua ratus tahun.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientific astrophysics laboratory monitor displaying deep solar statistical graphs and sunspot cycle waves, soft glow reflecting on modern analytical equipment, cool cerulean and muted graph-paper grey. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "CLOSE-UP",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_085",
+   "chapter": 5,
+   "narration": "Kenyataannya, peristiwa badai matahari bersejarah pada tahun seribu delapan ratus lima puluh sembilan tersebut kini sudah lewat lebih dari satu setengah abad.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Timelapsed transition visual blending vintage nineteenth-century telegraph wires with a glowing celestial starry night, subtle movement of stars, nostalgic sepia fading into cosmic midnight blue. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "TIME-LAPSE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_086",
+   "chapter": 5,
+   "narration": "Saat ini, siklus matahari ke dua puluh lima tengah berada di fase puncaknya dengan aktivitas letupan yang kian intensif.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. High-definition solar observatory view of the fiery boiling surface of the sun, enormous coronal mass ejection looping into the black vacuum, brilliant golden yellow, incandescent crimson, and deep space black. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 9
+  },
+  {
+   "id": "shot_087",
+   "chapter": 5,
+   "narration": "Badai geomagnetik pada Mei dua ribu dua puluh empat lalu sejatinya hanyalah peringatan kecil sebelum badai terhebat berikutnya tiba.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Vibrant pink and emerald green auroras rippling across a clear night sky over a quiet rural silhouette, ethereal glow lighting the misty ground, deep magenta and emerald green tones. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "WIDE",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_088",
+   "chapter": 5,
+   "narration": "Pertanyaannya kini bukan lagi tentang apakah badai kolosal itu akan melanda kembali, melainkan kapan waktu itu tiba.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lone silhouetted astronomer standing beside a colossal mountain-top radio telescope observatory looking up toward the immense cosmos, striking cinematic composition, deep midnight blue and faint starlight. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "LOW ANGLE",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_089",
+   "chapter": 5,
+   "narration": "Mampukah teknologi dan peradaban yang kita banggakan bertahan ketika matahari melepaskan amarah terdahsyatnya lagi?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Full globe shot of planet Earth showing glowing city lights vulnerable beneath the delicate thin blue line of atmosphere facing the immense dark void, pristine cinematic realism, sapphire blue, black, and delicate city amber. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "PANORAMIC",
+   "duration_hint": 11
+  },
+  {
+   "id": "shot_090",
+   "chapter": 5,
+   "narration": "Bagaimana menurut Anda, apakah dunia kita sudah benar-benar siap menghadapi hantaman badai matahari berikutnya?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Pensive modern person in a darkened room looking out at illuminated city lights holding a dormant smartphone, soft reflection on glass, moody teal and warm amber cinematic palette. No frame, no border, no collage, no text, no watermark.",
+   "shot_type": "MEDIUM",
+   "duration_hint": 10
+  }
+ ]
+}
