@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,140
+letupan bunga api elektrik biru
+
+2
+00:00:02,140 --> 00:00:04,600
+keemasan mulai menyembur dari perangkat-perangkat
+
+3
+00:00:04,600 --> 00:00:07,270
+tembaga di berbagai stasiun telegraf
+
+4
+00:00:07,320 --> 00:00:10,470
+memecah kesunyian malam dengan suara desis berbahaya

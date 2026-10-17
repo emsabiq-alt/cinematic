@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,620
+gulungan kertas pita penerima telegraf mulai
+
+2
+00:00:02,620 --> 00:00:05,040
+terbakar dan berasap dari boston hingga
+
+3
+00:00:05,040 --> 00:00:07,480
+paris akibat kelebihan beban arus liar
+
+4
+00:00:07,480 --> 00:00:09,870
+yang membanjiri sirkuit kawat tembaga

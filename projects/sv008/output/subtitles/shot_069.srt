@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,220
+pesan-pesan telegraf itu melesat melintasi ribuan
+
+2
+00:00:03,220 --> 00:00:05,360
+mil kawat hanya dengan mengendarai arus
+
+3
+00:00:05,360 --> 00:00:07,927
+listrik liar yang diinduksi secara gaib
+
+4
+00:00:07,927 --> 00:00:09,950
+oleh badai matahari dari langit

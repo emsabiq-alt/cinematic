@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,680
+peristiwa yang dinamai badai gannon ini
+
+2
+00:00:02,680 --> 00:00:05,000
+tercatat sebagai badai matahari terkuat dalam
+
+3
+00:00:05,000 --> 00:00:07,480
+dua puluh tahun terakhir dengan intensitas
+
+4
+00:00:07,480 --> 00:00:10,010
+ekstrem mencapai kategori g lima

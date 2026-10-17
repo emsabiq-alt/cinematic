@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,780
+demi meredam amukan api
+
+2
+00:00:01,780 --> 00:00:03,570
+dan menyelamatkan kantor mereka
+
+3
+00:00:03,760 --> 00:00:06,340
+para petugas bergegas mencabut seluruh kabel dan
+
+4
+00:00:06,340 --> 00:00:09,790
+memutus sel-sel baterai asam dari rangkaian mesin

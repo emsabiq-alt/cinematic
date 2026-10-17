@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,010
+jauh di pegunungan rocky
+
+2
+00:00:02,180 --> 00:00:04,180
+para penambang emas terbangun dengan panik
+
+3
+00:00:04,180 --> 00:00:06,650
+karena mengira fajar telah menyingsing
+
+4
+00:00:06,660 --> 00:00:08,600
+lalu bergegas menyalakan api unggun
+
+5
+00:00:08,600 --> 00:00:10,890
+untuk memasak sarapan pagi mereka

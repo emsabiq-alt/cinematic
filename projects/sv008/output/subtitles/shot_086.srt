@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,840
+saat ini siklus matahari
+
+2
+00:00:01,840 --> 00:00:02,360
+ke dua puluh lima
+
+3
+00:00:02,360 --> 00:00:04,740
+tengah berada di fase puncaknya dengan
+
+4
+00:00:04,740 --> 00:00:07,770
+aktivitas letupan yang kian intensif

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,620
+jaringan telegraf ini bertindak layaknya internet generasi
+
+2
+00:00:03,620 --> 00:00:06,440
+awal yang mengalirkan pesan melintasi benua dengan
+
+3
+00:00:06,440 --> 00:00:09,870
+kecepatan yang belum pernah terbayangkan sebelumnya

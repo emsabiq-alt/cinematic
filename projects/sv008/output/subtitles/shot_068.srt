@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,200
+namun sebuah keajaiban yang membingungkan akal sehat
+
+2
+00:00:03,200 --> 00:00:06,540
+terjadi ketika mesin-mesin tersebut terbukti masih dapat
+
+3
+00:00:06,540 --> 00:00:09,340
+terus mengirimkan sandi morse dengan lancar
+
+4
+00:00:09,340 --> 00:00:12,150
+walau baterai kimia telah dicabut total

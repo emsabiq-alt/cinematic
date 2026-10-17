@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:04,020
+satu-satunya gangguan elektromagnetik yang diketahui kala itu
+
+2
+00:00:04,020 --> 00:00:06,680
+hanyalah getaran liar pada jarum kompas maritim
+
+3
+00:00:06,680 --> 00:00:09,850
+yang dianggap sebagai teka-teki cuaca biasa

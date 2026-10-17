@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,770
+di sebuah observatorium pribadi di pedesaan redhill
+
+2
+00:00:03,800 --> 00:00:07,440
+astronom inggris bernama richard carrington secara cermat
+
+3
+00:00:07,440 --> 00:00:11,090
+mendedikasikan hidupnya untuk memantau perilaku sang surya

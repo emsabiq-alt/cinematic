@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,890
+setiap hari yang cerah
+
+2
+00:00:01,940 --> 00:00:04,480
+ia mengarahkan teleskop kuningan berpresisi tinggi
+
+3
+00:00:04,480 --> 00:00:06,740
+untuk memproyeksikan citra matahari ke
+
+4
+00:00:06,740 --> 00:00:09,290
+atas selembar kertas putih berbingkai

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,140
+sebuah ledakan dahsyat di permukaan
+
+2
+00:00:02,140 --> 00:00:04,480
+matahari melepaskan semburan energi teramat
+
+3
+00:00:04,480 --> 00:00:06,770
+masif yang merobek korona surya

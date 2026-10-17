@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,260
+lembaga noaa segera mengeluarkan peringatan resmi
+
+2
+00:00:03,260 --> 00:00:06,260
+mengenai potensi gangguan serius pada jaringan
+
+3
+00:00:06,260 --> 00:00:08,930
+listrik dan operasional satelit global

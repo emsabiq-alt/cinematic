@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,560
+badan meteorologi klimatologi dan geofisika di indonesia
+
+2
+00:00:03,560 --> 00:00:05,800
+mendeteksi terjadinya anomali pada
+
+3
+00:00:05,800 --> 00:00:08,510
+komunikasi satelit jaringan internet
+
+4
+00:00:08,600 --> 00:00:09,990
+serta sinyal gps

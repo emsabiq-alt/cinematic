@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:01,520
+di luar angkasa
+
+2
+00:00:01,520 --> 00:00:03,140
+ribuan satelit komunikasi
+
+3
+00:00:03,140 --> 00:00:04,730
+navigasi penentu posisi
+
+4
+00:00:04,920 --> 00:00:06,620
+dan cuaca beroperasi tanpa perisai
+
+5
+00:00:06,620 --> 00:00:09,090
+tebal untuk menahan radiasi ekstrem

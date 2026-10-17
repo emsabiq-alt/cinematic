@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,340
+sistem kecerdasan buatan bernama dagger milik
+
+2
+00:00:03,340 --> 00:00:06,920
+nasa sejatinya hanya dirancang untuk memprediksi
+
+3
+00:00:06,920 --> 00:00:09,800
+gangguan geomagnetik sekitar tiga puluh menit
+
+4
+00:00:09,800 --> 00:00:12,450
+sebelum dampaknya tiba di bumi

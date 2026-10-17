@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,340
+arus listrik raksasa mulai mengalir
+
+2
+00:00:02,340 --> 00:00:04,260
+deras di lapisan atmosfer atas
+
+3
+00:00:04,260 --> 00:00:07,170
+seiring meluapnya muatan partikel bermagnet

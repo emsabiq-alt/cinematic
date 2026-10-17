@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,590
+karena akurasi pemetaan navigasi satelit terganggu
+
+2
+00:00:03,640 --> 00:00:05,600
+para pilot drone di tanah air diimbau
+
+3
+00:00:05,600 --> 00:00:09,130
+untuk tidak menerbangkan perangkat mereka demi keselamatan

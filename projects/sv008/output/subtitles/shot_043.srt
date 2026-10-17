@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,700
+waktu mendekati sekitar pukul empat pagi
+
+2
+00:00:02,700 --> 00:00:05,060
+greenwich mean time pada dua september
+
+3
+00:00:05,060 --> 00:00:06,893
+seribu delapan ratus lima puluh
+
+4
+00:00:06,893 --> 00:00:09,790
+sembilan saat badai mendekati tujuannya

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,530
+di luar angkasa
+
+2
+00:00:01,620 --> 00:00:03,600
+armada satelit starlink bergulat keras
+
+3
+00:00:03,600 --> 00:00:05,740
+menahan hambatan atmosfer yang memadat
+
+4
+00:00:05,740 --> 00:00:08,310
+akibat serbuan partikel bermuatan tinggi

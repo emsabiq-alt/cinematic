@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,140
+badai geomagnetik yang terjadi diperkirakan berkekuatan
+
+2
+00:00:03,140 --> 00:00:06,020
+indeks penurunan medan magnet mencapai minus
+
+3
+00:00:06,020 --> 00:00:07,960
+nol koma delapan nol hingga minus
+
+4
+00:00:07,960 --> 00:00:10,250
+satu koma tujuh lima mikrotesla

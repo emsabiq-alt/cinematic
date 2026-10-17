@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,240
+jantung jaringan itu mengandalkan trafo-trafo tegangan
+
+2
+00:00:03,240 --> 00:00:05,800
+ekstra-tinggi yang membutuhkan waktu hingga
+
+3
+00:00:05,800 --> 00:00:09,130
+berbulan-bulan untuk diganti apabila terbakar

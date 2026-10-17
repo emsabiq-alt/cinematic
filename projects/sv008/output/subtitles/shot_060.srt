@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:01,550
+di kota boston
+
+2
+00:00:01,560 --> 00:00:03,740
+pancaran sinar aurora begitu kuat dan
+
+3
+00:00:03,740 --> 00:00:06,260
+terang benderang hingga orang-orang dapat membaca
+
+4
+00:00:06,260 --> 00:00:08,620
+lembaran surat kabar pada tengah malam
+
+5
+00:00:08,620 --> 00:00:11,050
+tanpa bantuan lentera sama sekali

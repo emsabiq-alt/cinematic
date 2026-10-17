@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,020
+para operator telegraf tersentak kaget dan sebagian
+
+2
+00:00:03,020 --> 00:00:05,920
+tersengat kejutan listrik bertegangan tinggi saat
+
+3
+00:00:05,920 --> 00:00:08,730
+jemari mereka menyentuh tuas pengirim pesan

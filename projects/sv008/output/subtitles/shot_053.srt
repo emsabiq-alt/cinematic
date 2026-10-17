@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,900
+kompas kapal di tengah laut menjadi
+
+2
+00:00:01,900 --> 00:00:03,940
+kacau dan gagal menunjukkan arah
+
+3
+00:00:03,940 --> 00:00:06,370
+akibat medan magnet yang terguncang

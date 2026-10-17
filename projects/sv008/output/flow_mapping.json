@@ -1,0 +1,636 @@
+{
+  "title": "",
+  "total_shots": 90,
+  "records": [
+    {
+      "shot_id": "shot_001",
+      "chapter": 1,
+      "narration": "Klaim viral yang sempat menghebohkan masyarakat Indonesia menyebut bahwa internet akan mati total akibat badai matahari dahsyat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_001.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_002",
+      "chapter": 1,
+      "narration": "Pemeriksa fakta dengan cepat membantah narasi tersebut dan menegaskan bahwa Badan Penerbangan dan Antariksa Amerika Serikat tidak pernah meramalkan kiamat internet.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_002.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_003",
+      "chapter": 1,
+      "narration": "Sistem kecerdasan buatan bernama DAGGER milik NASA sejatinya hanya dirancang untuk memprediksi gangguan geomagnetik sekitar tiga puluh menit sebelum dampaknya tiba di bumi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_003.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_004",
+      "chapter": 1,
+      "narration": "Matahari kini memang sedang memasuki puncak siklus ke dua puluh lima yang berlangsung sepanjang tahun dua ribu dua puluh lima hingga dua ribu dua puluh enam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_004.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_005",
+      "chapter": 1,
+      "narration": "Kekuatan kosmik itu terbukti nyata ketika badai geomagnetik dahsyat menyapu orbit bumi pada sepuluh hingga dua belas Mei dua ribu dua puluh empat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_005.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_006",
+      "chapter": 1,
+      "narration": "Peristiwa yang dinamai badai Gannon ini tercatat sebagai badai matahari terkuat dalam dua puluh tahun terakhir dengan intensitas ekstrem mencapai kategori G lima.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_006.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_007",
+      "chapter": 1,
+      "narration": "Lembaga NOAA segera mengeluarkan peringatan resmi mengenai potensi gangguan serius pada jaringan listrik dan operasional satelit global.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_007.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_008",
+      "chapter": 1,
+      "narration": "Cahaya aurora menari melintasi langit malam hingga ke wilayah yang tidak biasa seperti Texas, Spanyol, bahkan daratan Afrika Utara.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_008.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_009",
+      "chapter": 1,
+      "narration": "Di luar angkasa, armada satelit Starlink bergulat keras menahan hambatan atmosfer yang memadat akibat serbuan partikel bermuatan tinggi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_009.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_010",
+      "chapter": 1,
+      "narration": "Dampak badai tersebut menyentuh daratan hingga menyebabkan pemadaman listrik di sebagian wilayah Swedia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_010.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_011",
+      "chapter": 1,
+      "narration": "Bahkan di belahan bumi selatan, infrastruktur transmisi listrik Afrika Selatan mengalami kerusakan akibat lonjakan arus induksi geomagnetik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_011.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_012",
+      "chapter": 1,
+      "narration": "Belum genap lima bulan berlalu, suar matahari terbesar dalam tujuh tahun terakhir kembali meletus pada tujuh Oktober dua ribu dua puluh empat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_012.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_013",
+      "chapter": 1,
+      "narration": "Ledakan radiasi tersebut memicu gelombang kejut yang menghasilkan badai geomagnetik kategori G empat pada sepuluh Oktober.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_013.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_014",
+      "chapter": 1,
+      "narration": "Badan Meteorologi Klimatologi dan Geofisika di Indonesia mendeteksi terjadinya anomali pada komunikasi satelit, jaringan internet, serta sinyal GPS.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_014.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_015",
+      "chapter": 1,
+      "narration": "Karena akurasi pemetaan navigasi satelit terganggu, para pilot drone di tanah air diimbau untuk tidak menerbangkan perangkat mereka demi keselamatan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_015.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_016",
+      "chapter": 1,
+      "narration": "Jika badai pada tahun dua ribu dua puluh empat saja mampu mengacaukan teknologi modern, apa yang akan terjadi jika badai paling dahsyat dalam sejarah kembali menerpa peradaban kita?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_016.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_017",
+      "chapter": 1,
+      "narration": "Ada sebuah masa lalu yang membuktikan bahwa seluruh badai modern ini hanyalah riak kecil di hadapan raksasa tidur tata surya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_017.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_018",
+      "chapter": 1,
+      "narration": "Semua berawal pada September seribu delapan ratus lima puluh sembilan, ketika bumi berhadapan langsung dengan badai geomagnetik terkuat yang pernah dicatat oleh umat manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_018.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_019",
+      "chapter": 2,
+      "narration": "Pada tahun seribu delapan ratus lima puluh sembilan, peradaban manusia melangkah dalam ritme zaman Victoria yang tenang dan dipenuhi rasa percaya diri yang tinggi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_019.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_020",
+      "chapter": 2,
+      "narration": "Kekuatan mesin uap menggerakkan lokomotif baja dan kapal-kapal besar, menjadi otot utama penggerak era industri yang tengah mekar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_020.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_021",
+      "chapter": 2,
+      "narration": "Di masa pra-modern tersebut, energi listrik masih merupakan keajaiban langka yang baru dikenal terbatas di dalam ruang-ruang laboratorium ilmiah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_021.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_022",
+      "chapter": 2,
+      "narration": "Namun jalinan kawat tembaga mulai merambah daratan dan menyeberangi samudra, merajut dunia baru melalui jaringan telegraf.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_022.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_023",
+      "chapter": 2,
+      "narration": "Jaringan telegraf ini bertindak layaknya internet generasi awal yang mengalirkan pesan melintasi benua dengan kecepatan yang belum pernah terbayangkan sebelumnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_023.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_024",
+      "chapter": 2,
+      "narration": "Satu-satunya gangguan elektromagnetik yang diketahui kala itu hanyalah getaran liar pada jarum kompas maritim yang dianggap sebagai teka-teki cuaca biasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_024.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_025",
+      "chapter": 2,
+      "narration": "Kala itu, tidak ada seorang pun yang menyangka bahwa Matahari yang tampak tenang mampu memuntahkan ancaman dahsyat ke arah planet kita.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_025.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_026",
+      "chapter": 2,
+      "narration": "Di sebuah observatorium pribadi di pedesaan Redhill, astronom Inggris bernama Richard Carrington secara cermat mendedikasikan hidupnya untuk memantau perilaku sang surya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_026.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_027",
+      "chapter": 2,
+      "narration": "Setiap hari yang cerah, ia mengarahkan teleskop kuningan berpresisi tinggi untuk memproyeksikan citra Matahari ke atas selembar kertas putih berbingkai.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_027.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_028",
+      "chapter": 2,
+      "narration": "Dengan ketelitian luar biasa, tangan terlatihnya menggambar dan mengukur setiap bintik hitam yang berarak melintasi piringan surya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_028.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_029",
+      "chapter": 2,
+      "narration": "Ketika fajar tanggal satu September seribu delapan ratus lima puluh sembilan tiba, langit membentang jernih sempurna tanpa terhalang awan sedikit pun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_029.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_030",
+      "chapter": 2,
+      "narration": "Tepat sekitar pukul sebelas lewat delapan belas menit pagi, Carrington tengah sibuk mencatat formasi bintik hitam raksasa yang tampak luar biasa besar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_030.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_031",
+      "chapter": 2,
+      "narration": "Secara mendadak, dua titik cahaya putih yang sangat menyilaukan meletus tepat di atas gugusan bintik hitam pada proyeksi gambar tersebut.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_031.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_032",
+      "chapter": 2,
+      "narration": "Menyaksikan kecemerlangan yang tak wajar itu, Carrington terperanjat dan mengira ada berkas cahaya matahari langsung yang bocor menembus tirai observatoriumnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_032.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_033",
+      "chapter": 2,
+      "narration": "Kedua kilatan cahaya putih yang teramat kuat itu berpendar spektakuler sebelum akhirnya menyusut dan lenyap seluruhnya dalam waktu sekitar lima menit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_033.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_034",
+      "chapter": 2,
+      "narration": "Pada saat yang bersamaan di lokasi terpisah, seorang astronom amatir Inggris bernama Richard Hodgson menyaksikan pemandangan kembar yang sama persis melalui teleskop miliknya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_034.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_035",
+      "chapter": 2,
+      "narration": "Tanpa disadari oleh keduanya, mereka baru saja menyaksikan suar matahari cahaya-putih pertama yang pernah dicatat dalam seluruh lembaran sejarah manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_035.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_036",
+      "chapter": 2,
+      "narration": "Namun dunia di bawah sana tetap berputar tanpa curiga, sama sekali tidak menyadari bahwa letupan singkat itu telah melemparkan gelombang bahaya raksasa lurus menuju Bumi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_036.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_037",
+      "chapter": 3,
+      "narration": "Sebuah ledakan dahsyat di permukaan Matahari melepaskan semburan energi teramat masif yang merobek korona surya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_037.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_038",
+      "chapter": 3,
+      "narration": "Ledakan di Matahari tersebut melontarkan awan plasma raksasa melintasi kehampaan antariksa sejauh sekitar seratus lima puluh juta kilometer.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_038.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_039",
+      "chapter": 3,
+      "narration": "Awan plasma bermuatan magnetis tinggi tersebut melaju cepat menembus ruang antarplanet yang sunyi dan dingin.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_039.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_040",
+      "chapter": 3,
+      "narration": "Awan plasma itu menempuh jarak seratus lima puluh juta kilometer menuju Bumi hanya dalam tujuh belas koma enam jam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_040.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_041",
+      "chapter": 3,
+      "narration": "Durasi tujuh belas koma enam jam tersebut tercatat sebagai waktu tempuh badai matahari tercepat yang pernah terukur dalam sejarah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_041.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_042",
+      "chapter": 3,
+      "narration": "Di seberang jurang tata surya, planet Bumi tampak mengapung tenang tanpa pertahanan yang terlihat kasat mata.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_042.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_043",
+      "chapter": 3,
+      "narration": "Waktu mendekati sekitar pukul empat pagi Greenwich Mean Time pada dua September seribu delapan ratus lima puluh sembilan saat badai mendekati tujuannya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_043.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_044",
+      "chapter": 3,
+      "narration": "Sekitar pukul empat pagi pada dua September seribu delapan ratus lima puluh sembilan, awan plasma matahari itu akhirnya menghantam magnetosfer Bumi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_044.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_045",
+      "chapter": 3,
+      "narration": "Perisai magnetik Bumi yang tak terlihat mendadak terguncang hebat di bawah tekanan brutal gelombang partikel matahari.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_045.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_046",
+      "chapter": 3,
+      "narration": "Tekanan ekstrem tersebut membuat seluruh medan magnet planet bergetar seperti sebuah gong raksasa yang terpukul keras.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_046.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_047",
+      "chapter": 3,
+      "narration": "Guncangan pada perisai magnetik planet memicu badai geomagnetik dahsyat yang menjalar ke seluruh lapisan pelindung dunia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_047.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_048",
+      "chapter": 3,
+      "narration": "Badai geomagnetik yang terjadi diperkirakan berkekuatan indeks penurunan medan magnet mencapai minus nol koma delapan nol hingga minus satu koma tujuh lima mikrotesla.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_048.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_049",
+      "chapter": 3,
+      "narration": "Skala intensitas tersebut menjadikannya sebagai badai geomagnetik terkuat dalam seluruh sejarah tercatat manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_049.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_050",
+      "chapter": 3,
+      "narration": "Arus listrik raksasa mulai mengalir deras di lapisan atmosfer atas seiring meluapnya muatan partikel bermagnet.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_050.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_051",
+      "chapter": 3,
+      "narration": "Aliran listrik berdaya raksasa tersebut kemudian menembus ke bawah dan mengalir liar di sepanjang kerak Bumi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_051.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_052",
+      "chapter": 3,
+      "narration": "Di tengah samudra lepas, arus elektromagnetik tak kasat mata menyelimuti kapal-kapal layar yang sedang berlayar dalam kegelapan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_052.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_053",
+      "chapter": 3,
+      "narration": "Kompas kapal di tengah laut menjadi kacau dan gagal menunjukkan arah akibat medan magnet yang terguncang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_053.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_054",
+      "chapter": 3,
+      "narration": "Kegagalan penunjuk arah dan guncangan pada seluruh planet membangun ketegangan mencekam menuju malam saat langit akan terbakar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_054.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_055",
+      "chapter": 4,
+      "narration": "Malam satu September seribu delapan ratus lima puluh sembilan perlahan merayap turun, menyelimuti benua-benua dalam kegelapan yang tak lama kemudian pecah oleh kilauan aneh dari atmosfer terluar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_055.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_056",
+      "chapter": 4,
+      "narration": "Langit malam di seluruh penjuru planet mendadak membara hebat, bermandikan tirai cahaya merah darah, hijau zamrud berpendar, dan lelehan lembayung ungu yang seolah membakar angkasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_056.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_057",
+      "chapter": 4,
+      "narration": "Pita aurora borealis dan australis meledak jauh melampaui wilayah kutub es, merayap liar melintasi garis lintang khatulistiwa yang belum pernah menyaksikan pemandangan tersebut sepanjang sejarah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_057.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_058",
+      "chapter": 4,
+      "narration": "Dari perairan Karibia, pesisir Kuba, hingga dataran Meksiko, penduduk setempat terpana memandang kubah langit malam yang berpijar terang benderang seperti kawah api menyala.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_058.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_059",
+      "chapter": 4,
+      "narration": "Cahaya kosmik itu membentang megah di atas pulau Jamaika, membelah langit malam Panama, serta menerangi pucuk-pucuk pepohonan di pedalaman Kolombia tengah hingga gugusan kepulauan Hawaii.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_059.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_060",
+      "chapter": 4,
+      "narration": "Di kota Boston, pancaran sinar aurora begitu kuat dan terang benderang hingga orang-orang dapat membaca lembaran surat kabar pada tengah malam tanpa bantuan lentera sama sekali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_060.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_061",
+      "chapter": 4,
+      "narration": "Jauh di Pegunungan Rocky, para penambang emas terbangun dengan panik karena mengira fajar telah menyingsing, lalu bergegas menyalakan api unggun untuk memasak sarapan pagi mereka.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_061.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_062",
+      "chapter": 4,
+      "narration": "Di tengah samudra, badai medan magnet membuat jarum kompas pada kapal-kapal kayu berputar liar tanpa henti sehingga navigasi pelayaran malam itu buta arah sepenuhnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_062.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_063",
+      "chapter": 4,
+      "narration": "Di daratan, arus geomagnetik bumi yang melonjak tajam mulai menyusup ke dalam urat nadi teknologi tercanggih peradaban manusia saat itu, yaitu jaringan kabel telegraf dunia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_063.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_064",
+      "chapter": 4,
+      "narration": "Letupan bunga api elektrik biru keemasan mulai menyembur dari perangkat-perangkat tembaga di berbagai stasiun telegraf, memecah kesunyian malam dengan suara desis berbahaya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_064.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_065",
+      "chapter": 4,
+      "narration": "Gulungan kertas pita penerima telegraf mulai terbakar dan berasap dari Boston hingga Paris akibat kelebihan beban arus liar yang membanjiri sirkuit kawat tembaga.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_065.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_066",
+      "chapter": 4,
+      "narration": "Para operator telegraf tersentak kaget dan sebagian tersengat kejutan listrik bertegangan tinggi saat jemari mereka menyentuh tuas pengirim pesan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_066.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_067",
+      "chapter": 4,
+      "narration": "Demi meredam amukan api dan menyelamatkan kantor mereka, para petugas bergegas mencabut seluruh kabel dan memutus sel-sel baterai asam dari rangkaian mesin.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_067.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_068",
+      "chapter": 4,
+      "narration": "Namun sebuah keajaiban yang membingungkan akal sehat terjadi ketika mesin-mesin tersebut terbukti masih dapat terus mengirimkan sandi Morse dengan lancar walau baterai kimia telah dicabut total.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_068.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_069",
+      "chapter": 4,
+      "narration": "Pesan-pesan telegraf itu melesat melintasi ribuan mil kawat hanya dengan mengendarai arus listrik liar yang diinduksi secara gaib oleh badai matahari dari langit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_069.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_070",
+      "chapter": 4,
+      "narration": "Memasuki dini hari dua September seribu delapan ratus lima puluh sembilan, langit perlahan mulai mereda, meninggalkan miliaran pasang mata dalam takjub dan ketakutan mendalam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_070.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_071",
+      "chapter": 4,
+      "narration": "Dampak sosial dari peristiwa dahsyat ini tetap terbatas karena seluruh peradaban manusia saat itu masih hidup dalam naungan era pra-listrik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_071.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_072",
+      "chapter": 4,
+      "narration": "Bumi selamat dari kelumpuhan total semata-mata karena dunia belum bergantung pada jaringan listrik modern, belum memiliki satelit di orbit, dan belum terhubung oleh kabel internet.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_072.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_073",
+      "chapter": 5,
+      "narration": "Pada tahun seribu sembilan ratus delapan puluh sembilan, badai matahari melumpuhkan seluruh jaringan listrik Quebec di Kanada secara tiba-tiba.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_073.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_074",
+      "chapter": 5,
+      "narration": "Jutaan orang seketika terperangkap dalam gelap gulita dan suhu membeku selama sekitar dua belas jam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_074.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_075",
+      "chapter": 5,
+      "narration": "Insiden Quebec tersebut menjadi peringatan nyata betapa rentannya ketergantungan peradaban modern kita pada aliran arus listrik.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_075.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_076",
+      "chapter": 5,
+      "narration": "Kini dunia abad modern ditopang sepenuhnya oleh jaringan listrik antarbenua yang saling terhubung tanpa henti.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_076.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_077",
+      "chapter": 5,
+      "narration": "Jantung jaringan itu mengandalkan trafo-trafo tegangan ekstra-tinggi yang membutuhkan waktu hingga berbulan-bulan untuk diganti apabila terbakar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_077.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_078",
+      "chapter": 5,
+      "narration": "Di luar angkasa, ribuan satelit komunikasi, navigasi penentu posisi, dan cuaca beroperasi tanpa perisai tebal untuk menahan radiasi ekstrem.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_078.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_079",
+      "chapter": 5,
+      "narration": "Bahkan seluruh urat nadi internet global dan transaksi perbankan digital dunia bergantung pada kestabilan elektromagnetik yang sangat rapuh ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_079.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_080",
+      "chapter": 5,
+      "narration": "Para ilmuwan memperkirakan bahwa jika badai sekelas peristiwa Carrington terjadi hari ini, pemadaman listrik luas akan berlangsung selama berhari-hari hingga berminggu-minggu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_080.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_081",
+      "chapter": 5,
+      "narration": "Trafo-trafo raksasa di berbagai benua akan mengalami lonjakan arus dahsyat yang berpotensi melelehkan inti tembaga di dalamnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_081.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_082",
+      "chapter": 5,
+      "narration": "Satelit-satelit vital di orbit bumi diperkirakan akan mengalami kerusakan sirkuit permanen hingga lumpuh total.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_082.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_083",
+      "chapter": 5,
+      "narration": "Kerugian ekonomi dunia akibat kelumpuhan pasokan energi, komunikasi, dan perbankan ditaksir dapat menembus hingga triliunan dolar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_083.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_084",
+      "chapter": 5,
+      "narration": "Berdasarkan model perhitungan statistik para ilmuwan, badai sebesar Carrington diperkirakan berulang setiap sekitar seratus hingga dua ratus tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_084.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_085",
+      "chapter": 5,
+      "narration": "Kenyataannya, peristiwa badai matahari bersejarah pada tahun seribu delapan ratus lima puluh sembilan tersebut kini sudah lewat lebih dari satu setengah abad.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_085.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_086",
+      "chapter": 5,
+      "narration": "Saat ini, siklus matahari ke dua puluh lima tengah berada di fase puncaknya dengan aktivitas letupan yang kian intensif.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_086.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_087",
+      "chapter": 5,
+      "narration": "Badai geomagnetik pada Mei dua ribu dua puluh empat lalu sejatinya hanyalah peringatan kecil sebelum badai terhebat berikutnya tiba.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_087.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_088",
+      "chapter": 5,
+      "narration": "Pertanyaannya kini bukan lagi tentang apakah badai kolosal itu akan melanda kembali, melainkan kapan waktu itu tiba.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_088.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_089",
+      "chapter": 5,
+      "narration": "Mampukah teknologi dan peradaban yang kita banggakan bertahan ketika matahari melepaskan amarah terdahsyatnya lagi?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_089.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_090",
+      "chapter": 5,
+      "narration": "Bagaimana menurut Anda, apakah dunia kita sudah benar-benar siap menghadapi hantaman badai matahari berikutnya?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv008/output/flow_images/shot_090.png",
+      "status": "ready"
+    }
+  ]
+}

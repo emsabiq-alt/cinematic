@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:03,140
+bumi selamat dari kelumpuhan total semata-mata karena
+
+2
+00:00:03,140 --> 00:00:06,470
+dunia belum bergantung pada jaringan listrik modern
+
+3
+00:00:06,600 --> 00:00:08,240
+belum memiliki satelit di orbit
+
+4
+00:00:08,240 --> 00:00:11,050
+dan belum terhubung oleh kabel internet
