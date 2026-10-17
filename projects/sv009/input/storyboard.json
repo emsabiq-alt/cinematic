@@ -1,0 +1,726 @@
+{
+  "style": "Cinematic 35mm film still, 16:9 full-bleed volcanic eruption documentary, ash and fire",
+  "description": "Storyboard 90 shot untuk dokumenter TAMBORA 1815: Letusan Terkuat dalam Sejarah Manusia — Saat Satu Gunung di Sumbawa Menghapus Musim Panas Seluruh Bumi. Lima babak simetris: prolog malam kiamat 10 April 1815, raksasa yang tidur, kronologi malam kiamat jam per jam, tahun tanpa musim panas 1816, dan warisan abu (Frankenstein, sepeda, kaldera modern).",
+  "shots": [
+    {
+      "id": "shot_001",
+      "chapter": 1,
+      "narration": "Pada malam sepuluh April seribu delapan ratus lima belas, langit di atas Pulau Sumbawa berubah menjadi lautan api yang menyala-nyala.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Night sky over Sumbawa island transformed into a sea of fire as a colossal volcano erupts violently, towering flames and glowing ash clouds consuming the horizon. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "chapter": 1,
+      "narration": "Gunung Tambora, raksasa yang tertidur lelap selama berabad-abad, tiba-tiba terbangun dengan amarah yang belum pernah disaksikan manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A gigantic dormant volcano silhouetted against a darkening sky suddenly awakening, first orange glow bursting from the crater rim, embers rising into black clouds. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_003",
+      "chapter": 1,
+      "narration": "Sejak tahun seribu delapan ratus dua belas, gunung itu sudah mulai batuk dan bergemuruh, memuntahkan awan gelap ke angkasa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A restless volcano coughing and rumbling, dark ash clouds billowing upward into the sky over a tropical island landscape, ominous gray and charcoal tones. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_004",
+      "chapter": 1,
+      "narration": "Namun tidak ada seorang pun yang menyangka bahwa batuk-batuk itu adalah napas terakhir sebelum ledakan terbesar dalam sejarah manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Vast Indonesian archipelago seen from high above at dusk, one distant volcano glowing faintly on the horizon while villages sleep unaware in the valleys below. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_005",
+      "chapter": 1,
+      "narration": "Pada malam itu, tiga lajur api raksasa terpancar dari puncak dan bergabung menjadi satu di ketinggian langit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Three colossal lanes of fire erupting from a volcanic summit at night and merging into one towering pillar of flame piercing the sky, incandescent orange and crimson palette. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "chapter": 1,
+      "narration": "Seluruh tubuh pegunungan seolah berubah menjadi aliran api raksasa yang mengalir turun ke segala penjuru.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. An entire mountain range transformed into a river of fire flowing down in all directions at night, molten lava streams glowing through thick smoke, apocalyptic panorama. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_007",
+      "chapter": 1,
+      "narration": "Sekitar pukul delapan malam, bom-bom vulkanik sebesar dua puluh sentimeter mulai menghujani dari langit yang terbakar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing volcanic bombs raining down from a burning night sky onto a colonial-era village, fiery projectiles trailing sparks and smoke, dramatic top-down perspective. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_008",
+      "chapter": 1,
+      "narration": "Hujan abu pekat kemudian turun tanpa henti, menenggelamkan malam dalam kegelapan total.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Relentless heavy ashfall burying a tropical village in total darkness at night, thick gray ash swallowing rooftops and palm trees, suffocating monochrome palette. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_009",
+      "chapter": 1,
+      "narration": "Aliran piroklastik yang membara meluncur deras ke laut di semua sisi, melahap apa pun yang dilaluinya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing pyroclastic flows racing down all flanks of a volcano toward the sea at night, rivers of incandescent ash and fire devouring everything in their path. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "chapter": 1,
+      "narration": "Desa Tambora musnah dalam sekejap, lenyap dari peta dunia selamanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A coastal colonial village vanishing beneath a wall of glowing ash and fire at night, rooftops disappearing into the inferno, last lights flickering out. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_011",
+      "chapter": 1,
+      "narration": "Gelombang tsunami setinggi satu hingga empat meter menyapu pantai-pantai di sekitarnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A towering tsunami wave sweeping over a moonlit tropical coastline at night, fishing boats and stilt houses tossed by the surge, foam and darkness. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_012",
+      "chapter": 1,
+      "narration": "Dentuman dahsyat letusan itu terdengar hingga ke Pulau Sumatera, lebih dari dua ribu enam ratus kilometer jauhnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Concentric shockwave rings rippling across the night sky over the Indonesian archipelago, sound waves visualized as glowing ripples traveling from Sumbawa toward Sumatra. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_013",
+      "chapter": 1,
+      "narration": "Di Jawa, Gubernur Jenderal Inggris Thomas Stamford Raffles mengira suara itu adalah tembakan meriam perang yang jauh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A British colonial governor in 1815 Java standing on a veranda at night, startled, looking toward distant flashes on the horizon, oil lamp glow and deep shadows. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_014",
+      "chapter": 1,
+      "narration": "Para pelaut di lautan lepas mencatat dentuman misterius itu sebagai suara senapan raksasa yang tak diketahui asalnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sailors on the deck of a tall ship at night staring in alarm toward a distant thunderous glow on the horizon, rigging silhouetted against an orange-lit sky. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_015",
+      "chapter": 1,
+      "narration": "Malam itu, satu gunung di sebuah pulau kecil Nusantara melepaskan energi letusan terkuat dalam sejarah tercatat manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A lone small volcano on a tropical island unleashing a continent-scale eruption column at night, camera pulling back to reveal the tiny island against a vast dark ocean. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "chapter": 1,
+      "narration": "Abu vulkaniknya akan menutupi matahari selama berbulan-bulan dan mendinginkan seluruh planet.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse of the sun dimming behind spreading volcanic ash veils over months, daylight fading into cold pale twilight above a darkened planet. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_017",
+      "chapter": 1,
+      "narration": "Tahun berikutnya, seribu delapan ratus enam belas, dunia akan mengenalnya sebagai tahun tanpa musim panas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A frozen summer landscape in 1816 with snow-covered fields under a pale dim sun, crops buried in snow during what should be harvest season, eerie cold light. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_018",
+      "chapter": 1,
+      "narration": "Ini bukan sekadar kisah letusan gunung berapi, ini adalah kisah tentang bagaimana satu malam di Sumbawa mengubah iklim seluruh Bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A cracked volcanic rock glowing from within with molten light, extreme close-up of cooling lava crust splitting open, embers breathing in the dark. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_019",
+      "chapter": 2,
+      "narration": "Jauh sebelum malam kiamat itu, Gunung Tambora berdiri megah dengan ketinggian sekitar empat ribu tiga ratus meter di atas permukaan laut.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A majestic towering volcano rising above tropical clouds at dawn, lush green island of Sumbawa spread below, serene and monumental before the catastrophe. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "chapter": 2,
+      "narration": "Puncak itu menjadikannya salah satu gunung tertinggi di seluruh kepulauan Nusantara.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sweeping panorama of the Indonesian archipelago with one dominant volcanic peak piercing the clouds, morning mist drifting over emerald islands. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_021",
+      "chapter": 2,
+      "narration": "Letaknya di Pulau Sumbawa, Nusa Tenggara Barat, wilayah yang kala itu berada di bawah kekuasaan Hindia Belanda.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Colonial-era map-style vista of Sumbawa island in the Dutch East Indies, 1815, tall volcano dominating the horizon above coastal settlements and spice plantations. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_022",
+      "chapter": 2,
+      "narration": "Di bawah kaki raksasa yang tampak tenang itu, tersembunyi dapur magma raksasa belasan kilometer di kedalaman bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section view deep beneath the earth showing a gigantic glowing magma chamber, rivers of molten rock churning in the dark crust, infernal orange glow. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_023",
+      "chapter": 2,
+      "narration": "Selama berabad-abad, dapur magma itu terisi perlahan oleh lelehan batuan panas dari perut planet.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse of molten rock slowly filling a vast underground magma chamber over centuries, glowing currents swirling in darkness, pressure building. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "chapter": 2,
+      "narration": "Tekanan demi tekanan menumpuk dalam diam, menunggu saat untuk meledak dengan kekuatan yang tak terbayangkan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing cracks spreading through dark volcanic rock deep underground, pressure building with pulsing molten light, tension before eruption. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_025",
+      "chapter": 2,
+      "narration": "Di kaki gunung yang subur, tiga kerajaan hidup makmur, yaitu Tambora, Pekat, dan Sanggar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Three prosperous ancient kingdoms at the foot of a volcano, tiered temples and wooden palaces among rice paddies, morning light, 1815 Sumbawa. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_026",
+      "chapter": 2,
+      "narration": "Sawah-sawah hijau membentang luas, pasar-pasar ramai, dan rakyat hidup dalam damai di bawah bayang-bayang sang raksasa tidur.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of lush green rice terraces and a bustling traditional market at the foot of a towering volcano, peaceful village life under the sleeping giant. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_027",
+      "chapter": 2,
+      "narration": "Tidak ada yang menyadari bahwa tanah tempat mereka berpijak menyimpan bom waktu raksasa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Villagers going about daily life in the shadow of a looming volcano, low angle emphasizing the mountain towering silently above their thatched roofs. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_028",
+      "chapter": 2,
+      "narration": "Pada tahun seribu delapan ratus dua belas, sang raksasa mulai menunjukkan tanda-tanda kegelisahan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A volcano beginning to stir in 1812, thin dark smoke curling from the summit, villagers pointing anxiously at the restless peak. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_029",
+      "chapter": 2,
+      "narration": "Gunung itu mulai batuk dan bergemuruh, memuntahkan awan gelap yang membubung ke angkasa Sumbawa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A volcano coughing dark ash clouds into the sky over Sumbawa in 1812, rumbling summit wreathed in gray plumes, birds fleeing. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "chapter": 2,
+      "narration": "Gemuruh misterius terdengar dari perut bumi, membuat penduduk desa menatap puncak dengan cemas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Anxious villagers gazing up at a rumbling volcano, faces lit by an ominous glow from the crater, dust falling like dark snow. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_031",
+      "chapter": 2,
+      "narration": "Namun kehidupan terus berjalan, dan peringatan alam itu perlahan dilupakan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Daily life continuing in a village beneath a smoking volcano, farmers working rice fields while a thin ash plume drifts overhead, fragile normalcy. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_032",
+      "chapter": 2,
+      "narration": "Tiga tahun kemudian, pada lima April seribu delapan ratus lima belas, Tambora melepaskan letusan pembuka.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The opening eruption of April 5 1815, an ash column rising high above the volcano as volcanic gravel rains onto surrounding villages, daylight darkening. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_033",
+      "chapter": 2,
+      "narration": "Kolom abu membumbung tinggi, dan hujan kerikil vulkanik menutupi desa-desa di sekitar lereng.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Volcanic gravel and ash blanketing village rooftops and fields around the volcano slopes, gray desolation spreading, top-down view. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_034",
+      "chapter": 2,
+      "narration": "Letusan itu seharusnya menjadi peringatan terakhir bagi siapa pun yang tinggal di kaki gunung.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Villagers fleeing with belongings as ash falls thick around them, a final warning written in gray, dramatic chiaroscuro lighting. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_035",
+      "chapter": 2,
+      "narration": "Namun peringatan itu diabaikan, dan kehidupan kembali berjalan seperti biasa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A village returning to deceptive calm after the first eruption, smoke still curling from the distant summit, life resuming under a gray sky. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_036",
+      "chapter": 2,
+      "narration": "Tidak ada yang tahu bahwa lima hari kemudian, sang raksasa akan menunjukkan wajah aslinya yang sesungguhnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The volcano looming silent and menacing above a sleeping village at dusk, faint red glow deep within the crater, calm before the apocalypse. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_037",
+      "chapter": 3,
+      "narration": "Malam sepuluh April seribu delapan ratus lima belas tiba dengan ketenangan yang menipu di seluruh Pulau Sumbawa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Deceptive tranquil evening over Sumbawa island, calm sea and quiet villages under a violet dusk sky, the volcano standing silent. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_038",
+      "chapter": 3,
+      "narration": "Sekitar pukul tujuh malam, puncak Tambora meledak dalam letusan ultra-Plinian yang mengguncang langit.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The ultra-Plinian climax eruption at seven in the evening, the summit of Tambora exploding in a blinding flash that shakes the night sky. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_039",
+      "chapter": 3,
+      "narration": "Tiga lajur api raksasa terpancar dari kawah dan bergabung menjadi satu pilar api kolosal di angkasa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Three colossal lanes of fire jetting from the crater and merging into one gigantic pillar of flame towering into the night sky, low angle emphasizing its impossible height. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "chapter": 3,
+      "narration": "Kolom abu vulkanik membumbung hingga empat puluh empat kilometer ke angkasa, memuntahkan sekitar seratus kilometer kubik material letusan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A forty-four kilometer high ash column piercing through the atmosphere seen from the edge of space, the eruption plume spreading into an umbrella cloud above the clouds. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_041",
+      "chapter": 3,
+      "narration": "Sekitar pukul delapan malam, bom-bom vulkanik berukuran dua puluh sentimeter mulai menghujani dari langit yang terbakar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing volcanic bombs the size of cannonballs raining from the burning sky onto a village at eight in the evening, fiery trails streaking downward. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_042",
+      "chapter": 3,
+      "narration": "Batu-batu pijar itu menghantam atap rumah dan membakar apa pun yang disentuhnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Incandescent volcanic stones smashing through thatched rooftops, sparks and embers exploding on impact, houses catching fire in the night. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_043",
+      "chapter": 3,
+      "narration": "Antara pukul sembilan hingga sepuluh malam, hujan abu pekat turun tanpa ampun menutupi seluruh daratan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Merciless heavy ashfall between nine and ten at night burying the land in pitch darkness, thick gray ash swallowing the world, zero visibility. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "chapter": 3,
+      "narration": "Kegelapan total menyelimuti Sumbawa, bahkan cahaya obor pun tak mampu menembus pekatnya abu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A person holding a flickering oil torch in total ash darkness, the flame unable to pierce the choking blackness, ash swirling like a blizzard. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_045",
+      "chapter": 3,
+      "narration": "Aliran piroklastik yang membara meluncur deras menuruni lereng menuju laut di semua sisi gunung.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing pyroclastic flows racing down all sides of the volcano toward the sea at night, incandescent rivers of ash devouring forests and fields. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "chapter": 3,
+      "narration": "Awan panas itu melaju dengan kecepatan mengerikan, melahap hutan, sawah, dan pemukiman dalam sekejap mata.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A terrifying glowing ash cloud surge swallowing forest and farmland in seconds, drone view of the incandescent front advancing relentlessly at night. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_047",
+      "chapter": 3,
+      "narration": "Lahar panas meluncur dengan kecepatan hingga dua ratus kilometer per jam, tak memberi kesempatan untuk melarikan diri.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Superheated lahar racing down a river valley at two hundred kilometers per hour, a glowing torrent of mud and boulders obliterating everything, motion blur of destruction. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_048",
+      "chapter": 3,
+      "narration": "Desa Tambora musnah total dalam sekejap, dan dua kerajaan tetangganya, Pekat dan Sanggar, ikut lenyap dari muka bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A coastal village being erased in an instant by a wall of glowing ash, last rooftops vanishing into the inferno, top-down view of annihilation. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_049",
+      "chapter": 3,
+      "narration": "Gelombang tsunami setinggi satu hingga empat meter menyapu garis pantai dan menghancurkan permukiman pesisir.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A one to four meter tsunami surging over a tropical coastline at night, destroying stilt houses and boats, moonlight glinting on the churning water. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "chapter": 3,
+      "narration": "Sebagian catatan bahkan menyebut gelombang raksasa mencapai empat koma delapan meter dengan jangkauan hingga seribu dua ratus kilometer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A massive tsunami wave radiating across the ocean from Sumbawa, aerial view of the surge front traveling toward distant shores under a stormy night sky. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_051",
+      "chapter": 3,
+      "narration": "Dentuman letusan terdengar hingga Pulau Sumatera, lebih dari dua ribu enam ratus kilometer jauhnya, dan disangka suara tembakan meriam perang.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The eruption blast heard across the archipelago, panoramic view from Sumatra shores with a distant ominous glow on the horizon over two thousand six hundred kilometers away. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "chapter": 3,
+      "narration": "Hujan abu lebat terbawa angin hingga ke Kalimantan, Sulawesi, Jawa, dan Maluku.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Heavy ashfall drifting over Borneo, Sulawesi, Java and Maluku, gray ash settling on tropical forests and villages far from the volcano, hazy sepia tones. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_053",
+      "chapter": 3,
+      "narration": "Para ilmuwan mencatat letusan ini pada level tujuh skala letusan vulkanik, menjadikannya yang terbesar sejak Danau Taupo pada tahun seratus delapan puluh satu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A scientific visualization of volcanic explosivity index level seven, a glowing gauge needle at maximum against swirling magma textures, dramatic infographic-free abstraction. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_054",
+      "chapter": 3,
+      "narration": "Antara sepuluh ribu hingga dua belas ribu jiwa tewas seketika malam itu, dan puncak setinggi empat ribu tiga ratus meter runtuh menjadi dua ribu delapan ratus lima puluh meter, meninggalkan kaldera raksasa yang menganga.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dawn revealing the collapsed summit of Tambora, a gigantic gaping caldera where a four thousand three hundred meter peak once stood, smoke still rising from the ruins. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_055",
+      "chapter": 4,
+      "narration": "Letusan Tambora mereda antara sebelas hingga tujuh belas April, namun aktivitas vulkaniknya terus berlanjut hingga lima belas Juli seribu delapan ratus lima belas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A smoldering volcano continuing to rumble through July 1815, smaller ash plumes rising from the ruined crater under a gray sky, aftermath stillness. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_056",
+      "chapter": 4,
+      "narration": "Sementara itu, jutaan ton abu vulkanik telah terlempar ke lapisan atas atmosfer dan menyebar menutupi matahari.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Millions of tons of volcanic ash spreading through the upper atmosphere seen from space, a gray veil wrapping around the planet, sunlight dimming. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_057",
+      "chapter": 4,
+      "narration": "Selama berbulan-bulan, langit dunia meredup dan sinar matahari terasa dingin dan pucat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse of the world darkening over months, the sun growing cold and pale behind ash veils above a dimmed landscape, seasons blurring. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "chapter": 4,
+      "narration": "Suhu rata-rata Belahan Bumi Utara turun antara nol koma empat hingga nol koma tujuh derajat Celsius.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A pale weakened sun hanging low over a cold gray landscape, thermometer-like frost creeping over farmland, the planet cooling. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_059",
+      "chapter": 4,
+      "narration": "Penurunan sekecil itu ternyata cukup untuk mengacaukan musim tanam di seluruh planet.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Withered crops across a vast farmland under a dim sun, failed planting season stretching to the horizon, desolate brown and gray tones. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_060",
+      "chapter": 4,
+      "narration": "Tahun seribu delapan ratus enam belas pun dikenang sejarah sebagai tahun tanpa musim panas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The year without a summer 1816, a bleak calendar-like montage of snow falling in June over a New England farmstead, anachronistic winter in summer. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_061",
+      "chapter": 4,
+      "narration": "Di New England, Amerika, salju turun pada bulan Juni, Juli, dan Agustus, membekukan ladang yang seharusnya hijau.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Snow falling on green summer fields in New England 1816, frozen crops and bewildered farmers in summer clothes staring at the impossible snow. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_062",
+      "chapter": 4,
+      "narration": "Gagal panen serentak melanda Amerika Utara, Eropa Barat, dan Cina dalam waktu yang bersamaan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Simultaneous crop failures across three continents, panoramic triptych of ruined wheat fields in North America, Western Europe and China under gray skies. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_063",
+      "chapter": 4,
+      "narration": "Harga gandum melambung tinggi dan lumbung-lumbung pangan kosong di tiga benua.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Empty grain barns and soaring bread prices in 1816 Europe, hollow-eyed merchants before bare wooden shelves, candlelit gloom. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_064",
+      "chapter": 4,
+      "narration": "Kelaparan terburuk sepanjang abad kesembilan belas pun melanda dunia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The worst famine of the nineteenth century, gaunt crowds queuing for meager food rations in a gray European town square, despair in every face. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_065",
+      "chapter": 4,
+      "narration": "Hewan-hewan ternak mati massal karena tidak ada rumput dan pakan yang tersisa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Emaciated livestock collapsing in barren fields, dead cattle scattered across a lifeless pasture under a pale sun, 1816. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_066",
+      "chapter": 4,
+      "narration": "Di Nusantara, penderitaan jauh lebih dekat dengan kawah, sawah-sawah tertimbun abu dan panen gagal total.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Rice fields near the volcano buried under thick gray ash, aerial view of dead paddies stretching toward the smoking crater, total agricultural ruin. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_067",
+      "chapter": 4,
+      "narration": "Kelaparan di Sumbawa, Lombok, dan Bali begitu parah hingga penduduk menjual diri sebagai budak hanya untuk ditukar beras.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Starving villagers in Sumbawa, Lombok and Bali trading themselves into servitude for sacks of rice, heartbreaking colonial-era scene in muted sepia. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_068",
+      "chapter": 4,
+      "narration": "Wabah penyakit menyusul kelaparan, merenggut nyawa mereka yang selamat dari letusan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Disease following famine in 1815 Sumbawa, a makeshift sick ward in a bamboo hut, dim lamplight and grieving families. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_069",
+      "chapter": 4,
+      "narration": "Jumlah korban terus bertambah hingga total antara tujuh puluh satu ribu hingga sembilan puluh dua ribu jiwa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Endless rows of simple graves on a Sumbawa hillside under a gray ash sky, a somber memorial to tens of thousands of victims. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_070",
+      "chapter": 4,
+      "narration": "Sebagian sumber bahkan mencatat angka yang lebih mengerikan, hingga seratus tujuh belas ribu jiwa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A vast field of graves stretching beyond count on a volcanic plain, top-down view emphasizing the staggering scale of loss. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_071",
+      "chapter": 4,
+      "narration": "Selama lebih dari seabad, tidak ada yang bisa membuktikan bahwa cuaca ekstrem itu adalah ulah satu gunung di Sumbawa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Nineteenth century scientists puzzling over strange weather records, oil lamps illuminating weather journals and barometers in a Victorian study. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_072",
+      "chapter": 4,
+      "narration": "Hingga pada tahun seribu sembilan ratus dua puluh, ilmuwan iklim William Humphreys akhirnya membuktikan hubungan antara cuaca ekstrem dan abu vulkanik Tambora.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Climate scientist William Humphreys in 1920 proving the link between volcanic ash and extreme weather, chalkboard calculations beside atmospheric diagrams in a university office. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_073",
+      "chapter": 5,
+      "narration": "Dari kegelapan tahun tanpa musim panas itu, lahir dua warisan yang mengubah dunia hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two legacies emerging from darkness, a split-composition of a gothic novel manuscript and an early wooden bicycle under stormy skies, symbolic dawn. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "narration": "Pada musim panas seribu delapan ratus enam belas, seorang gadis delapan belas tahun bernama Mary Shelley terjebak hujan di sebuah vila tepi Danau Jenewa, Swiss.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Eighteen year old Mary Shelley trapped by rain in a villa by Lake Geneva Switzerland in the summer of 1816, gazing through rain-streaked windows at the gloomy lake. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_075",
+      "chapter": 5,
+      "narration": "Bersama teman-temannya di Villa Diodati, ia menghabiskan malam-malam gelap dengan membaca dan bercerita.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Candlelit gathering at Villa Diodati on a dark stormy night, friends reading and telling stories around a fireplace, gothic 1816 atmosphere. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_076",
+      "chapter": 5,
+      "narration": "Untuk mengusir kebosanan, mereka mengadakan kompetisi menulis cerita horor.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Hands writing a horror story by candlelight, quill scratching gothic script on parchment, shadows dancing on the wall. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_077",
+      "chapter": 5,
+      "narration": "Dari malam-malam yang dingin dan muram itulah lahir novel Frankenstein, monster sastra paling terkenal sepanjang masa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A towering gothic monster silhouette looming over a stormy landscape, lightning splitting the sky, the birth of Frankenstein imagined in cinematic horror. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_078",
+      "chapter": 5,
+      "narration": "Tanpa abu Tambora yang menggelapkan langit Eropa, Frankenstein mungkin tidak pernah ditulis.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dark volcanic ash clouds drifting over Europe transforming into the pages of a gothic novel, time-lapse of gloom becoming literature. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_079",
+      "chapter": 5,
+      "narration": "Di Jerman, kelaparan akibat gagal panen memaksa rakyat menyembelih kuda-kuda mereka untuk dimakan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Starving villagers in 1816 Germany slaughtering their horses for food, desperate faces in a gray famine landscape, horses led away. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_080",
+      "chapter": 5,
+      "narration": "Harga gandum sebagai pakan kuda melambung begitu tinggi hingga memelihara kuda menjadi sebuah kemewahan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Empty grain sacks and soaring price tags at a desolate 1816 market, a handful of precious wheat in a merchant palm, scarcity close-up. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_081",
+      "chapter": 5,
+      "narration": "Seorang baron Jerman bernama Karl von Drais kemudian menciptakan kendaraan roda dua tanpa kuda sebagai pengganti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Baron Karl von Drais in 1817 Germany unveiling his wooden two-wheeled running machine, curious onlookers gathering around the horseless contraption. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_082",
+      "chapter": 5,
+      "narration": "Cikal bakal sepeda itu lahir dari kelaparan, dan kini menjadi alat transportasi miliaran manusia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The ancestor of the bicycle evolving into modern bicycles ridden by billions, time-lapse from wooden draisine to city cyclists at dawn. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_083",
+      "chapter": 5,
+      "narration": "Sementara itu di Sumbawa, sang raksasa tidak pernah benar-benar mati.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The giant volcano of Sumbawa standing quiet today, aerial view of the massive caldera wreathed in morning mist, sleeping but alive. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_084",
+      "chapter": 5,
+      "narration": "Kaldera raksasa Tambora kini berdiri tenang di ketinggian dua ribu delapan ratus lima puluh meter, menjadi saksi bisu malam kiamat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone flight over the gigantic Tambora caldera at two thousand eight hundred fifty meters, green vegetation reclaiming the crater rim, silent witness of the apocalypse. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_085",
+      "chapter": 5,
+      "narration": "Gunung itu masih aktif dan sesekali melepaskan letusan-letusan kecil.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The still-active volcano releasing a small ash puff from its crater, a gentle reminder of the sleeping giant, serene yet ominous. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_086",
+      "chapter": 5,
+      "narration": "Pada tahun dua ribu sebelas, statusnya bahkan pernah dinaikkan ke level Waspada.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A volcanic monitoring post in Indonesia with scientists watching seismographs, alert status raised to Waspada in 2011, tense quiet vigilance. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_087",
+      "chapter": 5,
+      "narration": "Para ilmuwan memperingatkan bahwa dapur magma raksasa di bawahnya membutuhkan waktu sekitar seabad untuk terisi kembali.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Glowing magma chamber slowly refilling deep beneath the earth, molten currents swirling in darkness, a century-long countdown visualized in fire. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_088",
+      "chapter": 5,
+      "narration": "Dan ketika tekanan itu mencapai puncaknya, tidak ada yang bisa memastikan apa yang akan terjadi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Immense pressure building beneath a calm volcano at night, the mountain serene above while infernal light pulses in cracks below, impending uncertainty. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_089",
+      "chapter": 5,
+      "narration": "Perbedaannya kini, saat Tambora meletus dulu manusia belum sebanyak sekarang yang berjumlah delapan miliar jiwa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Eight billion people living in the shadow of volcanoes, aerial view of dense modern cities sprawling toward volcanic peaks at dusk, humanity and the giant. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_090",
+      "chapter": 5,
+      "narration": "Menurut Anda, jika Tambora terbangun lagi hari ini, apakah dunia sudah benar-benar siap? Tulis pendapat Anda di kolom komentar.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A lone viewer silhouette watching a giant screen showing the erupting volcano, reflection of fire in their eyes, the question of readiness hanging in the dark. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    }
+  ]
+}
