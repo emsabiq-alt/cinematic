@@ -1,0 +1,45 @@
+name: upload-from-release
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Project path, e.g. projects/sv009"
+        required: true
+        default: projects/sv009
+      master_tag:
+        description: "Release tag holding the master MP4"
+        required: true
+        default: projects-sv009-master
+      privacy:
+        description: "public | unlisted | private"
+        required: true
+        default: public
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download master from release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/master
+          gh release download "${{ inputs.master_tag }}" -p "*.mp4" -D /tmp/master
+          ls -la /tmp/master
+
+      - name: Upload to YouTube
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          VIDEO=$(ls /tmp/master/*.mp4 | head -1)
+          python3 src/youtube_upload.py \
+            --video "$VIDEO" \
+            --title "$(python3 -c "import json;print(json.load(open('${{ inputs.project }}/input/youtube_meta.json'))['titles'][0])")" \
+            --description-file "${{ inputs.project }}/input/youtube_meta.json" \
+            --privacy "${{ inputs.privacy }}"
