@@ -1,1 +1,12 @@
-{"created_at":"2026-10-18","duration":"15-20 min","id":"sv009","mode":"step","pacing":"8-12s","project_dir":"projects/sv009","status":"script_ready","title":"TAMBORA 1815: Letusan Terkuat dalam Sejarah Manusia — Saat Satu Gunung di Sumbawa Menghapus Musim Panas Seluruh Bumi","total_shots":90,"voice":"F2"}
+{
+  "created_at": "2026-10-18",
+  "duration": "15-20 min",
+  "id": "sv009",
+  "mode": "step",
+  "pacing": "8-12s",
+  "project_dir": "projects/sv009",
+  "status": "assets_ready",
+  "title": "TAMBORA 1815: Letusan Terkuat dalam Sejarah Manusia — Saat Satu Gunung di Sumbawa Menghapus Musim Panas Seluruh Bumi",
+  "total_shots": 90,
+  "voice": "F2"
+}

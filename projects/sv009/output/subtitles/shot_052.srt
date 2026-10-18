@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,560
+hujan abu lebat terbawa
+
+2
+00:00:01,560 --> 00:00:02,980
+angin hingga ke kalimantan
+
+3
+00:00:02,980 --> 00:00:05,170
+sulawesi jawa dan maluku

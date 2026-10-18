@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,560
+batu-batu pijar itu menghantam atap rumah
+
+2
+00:00:02,560 --> 00:00:04,910
+dan membakar apa pun yang disentuhnya

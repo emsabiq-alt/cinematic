@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,200
+letaknya di pulau sumbawa
+
+2
+00:00:02,200 --> 00:00:03,480
+nusa tenggara barat
+
+3
+00:00:03,480 --> 00:00:04,760
+wilayah yang kala itu berada
+
+4
+00:00:04,760 --> 00:00:07,190
+di bawah kekuasaan hindia belanda

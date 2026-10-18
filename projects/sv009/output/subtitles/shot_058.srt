@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,620
+suhu rata-rata belahan bumi utara turun
+
+2
+00:00:02,620 --> 00:00:04,360
+antara nol koma empat hingga
+
+3
+00:00:04,360 --> 00:00:06,210
+nol koma tujuh derajat celsius

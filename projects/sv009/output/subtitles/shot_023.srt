@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,520
+selama berabad-abad dapur magma
+
+2
+00:00:02,520 --> 00:00:03,760
+itu terisi perlahan oleh
+
+3
+00:00:03,760 --> 00:00:06,290
+lelehan batuan panas dari perut planet
