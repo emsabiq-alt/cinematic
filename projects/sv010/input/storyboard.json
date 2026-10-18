@@ -1,0 +1,726 @@
+{
+  "style": "Cinematic 35mm film still, 16:9 full-bleed volcanic eruption documentary, ash and fire",
+  "description": "Storyboard 90 shot untuk dokumenter TOBA: Supererupsi 74.000 Tahun Lalu yang Hampir Memusnahkan Umat Manusia — Raksasanya Masih Tidur di Sumatera. Lima babak simetris: prolog hook Danau Toba dan teaser VEI 8, raksasa yang tidur (tiga kaldera bertumpuk, dapur magma, manusia purba), hari kiamat supererupsi (2.800 km3, kaldera 100x30 km), musim dingin vulkanik (teori bencana Ambrose vs bukti Danau Malawi, tanpa kesimpulan), dan warisan (Danau Toba, Samosir, UNESCO Geopark 2020, legenda Batak, supervolcano yang masih tidur).",
+  "shots": [
+    {
+      "id": "shot_001",
+      "chapter": 1,
+      "narration": "Dilihat dari udara, Danau Toba tampak seperti surga yang damai — danau vulkanik terbesar di dunia yang permukaan birunya memantulkan langit Sumatera.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of Lake Toba at dawn, a vast serene blue caldera lake in Sumatra reflecting the morning sky, ringed by lush green volcanic mountains, soft golden mist drifting over glassy water. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "chapter": 1,
+      "narration": "Namun jauh di bawah permukaan tenangnya yang dalam lima ratus lima meter, sebuah monster purba masih tertidur — dan ia belum mati.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section view beneath Lake Toba's dark water: a colossal glowing magma chamber pulsing deep underground like a sleeping monster's heart, veins of molten orange light through black rock. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_003",
+      "chapter": 1,
+      "narration": "Tujuh puluh empat ribu tahun yang lalu, gunung ini bangun dalam amarah yang belum pernah disaksikan planet Bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Prehistoric Sumatra 74,000 years ago: a gigantic volcano looming over primeval rainforest at sunset, first ominous orange glow bursting from its crater as the earth begins to tremble. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "chapter": 1,
+      "narration": "Letusan itu tercatat sebagai level delapan skala letusan vulkanik — tingkat tertinggi yang pernah ada, yang disebut megacolossal.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a colossal volcanic eruption scale concept: a mountain exploding with unimaginable fury, a towering mushroom cloud of fire and ash dwarfing everything, dramatic chiaroscuro lighting. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_005",
+      "chapter": 1,
+      "narration": "Dalam satu ledakan, Toba memuntahkan sekitar dua ribu delapan ratus kilometer kubik material panas ke atmosfer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A supervolcano unleashing a cataclysmic explosion, billions of glowing fragments and superheated ash blasting skyward in a single apocalyptic blast, night sky turned into a furnace. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "chapter": 1,
+      "narration": "Bandingkan dengan letusan Krakatau tahun seribu delapan ratus delapan puluh tiga yang hanya delapan belas kilometer kubik — Toba lebih dari seratus lima puluh kali lipatnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Split comparison scene: a small distant volcano erupting modestly on the horizon while behind it the monstrous Toba eruption column rises hundreds of times larger, dwarfing it completely. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_007",
+      "chapter": 1,
+      "narration": "Abu vulkaniknya menutupi sekitar empat juta kilometer persegi — dari Sumatera hingga India.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style view of Southeast Asia and the Indian Ocean as a gigantic gray ash cloud spreads from Sumatra across millions of square kilometers, darkening India and the sea. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "chapter": 1,
+      "narration": "Di Asia Selatan, abu setebal lima belas sentimeter menimbun tanah, dan jejak abunya ditemukan sejauh tiga ribu seratus kilometer dari sumber letusan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ancient South Asian landscape buried under thick gray volcanic ash, trees collapsing under the weight, rivers choked with ash, a dead silent world in muted gray tones. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_009",
+      "chapter": 1,
+      "narration": "Awan asam sulfat menutupi matahari selama kurang lebih enam tahun — dunia tenggelam dalam kegelapan vulkanik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The sun reduced to a dim blood-red disk behind a thick veil of sulfuric acid aerosols, the world bathed in eerie twilight darkness, volcanic winter gloom over a desolate plain. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "chapter": 1,
+      "narration": "Suhu global anjlok tiga hingga lima belas derajat Celsius; fotosintesis terhenti dan rantai makanan runtuh.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A frozen twilight landscape in the tropics: withered crops, leafless dead trees, frost on jungle leaves, pale cold light filtering through permanent ash haze, total ecological collapse. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_011",
+      "chapter": 1,
+      "narration": "Di tengah kehancuran itu, seluruh populasi Homo sapiens di Bumi menyusut hingga hanya tiga ribu hingga lima belas ribu jiwa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A tiny group of early humans huddled around a dying campfire in an ash-darkened wilderness, gaunt silhouettes wrapped in furs, the last survivors of humanity against an endless gray horizon. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "chapter": 1,
+      "narration": "Sebagian ilmuwan meyakini bahwa tanpa letusan Toba, umat manusia mungkin tidak akan ada seperti hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse vision of human generations: ghostly silhouettes of early humans walking through volcanic darkness toward a faint light, symbolizing the fragile thread of human survival. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_013",
+      "chapter": 1,
+      "narration": "Teori itu disebut teori bencana Toba, yang pertama kali diajukan ilmuwan Stanley Ambrose pada tahun seribu sembilan ratus sembilan puluh delapan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A modern scientist in a laboratory holding up a core sample of ancient Toba ash, dramatic side lighting, microscope and research equipment around, a breakthrough discovery moment. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_014",
+      "chapter": 1,
+      "narration": "Namun teori itu masih diperdebatkan sengit oleh para ilmuwan hingga hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two groups of scientists debating intensely around a conference table covered with geological charts and ash samples, dramatic lighting, intellectual clash over a controversial theory. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_015",
+      "chapter": 1,
+      "narration": "Dan yang paling menakutkan: sang raksasa tidak mati — ia hanya tidur di bawah Danau Toba.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lake Toba at night under a starry sky, perfectly calm black water mirroring the stars, but deep below the surface a faint ominous orange glow pulses like a sleeping giant breathing. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "chapter": 1,
+      "narration": "Letusan sebesar ini diperkirakan terjadi sekitar satu kali dalam tiga ratus ribu tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Geological time visualization: layered strata of earth spinning slowly with a glowing red eruption event flashing once in a vast timeline, deep time concept, dark cinematic palette. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_017",
+      "chapter": 1,
+      "narration": "Artinya, cepat atau lambat, Bumi akan kembali menyaksikan amarah serupa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A cracked earth surface with glowing magma veins spreading like lightning beneath, ominous red light seeping through fissures, a planet holding its breath before the next supereruption. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_018",
+      "chapter": 1,
+      "narration": "Inilah kisah Toba: supererupsi yang hampir memusnahkan umat manusia — dan raksasanya masih tidur di Sumatera.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Epic title moment: Lake Toba's serene blue waters in the foreground with a ghostly transparent overlay of the ancient supervolcano eruption rising behind it, past and present fused in one frame. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_019",
+      "chapter": 2,
+      "narration": "Jauh sebelum danau ini ada, di utara Pulau Sumatera berdiri sebuah gunung raksasa yang jauh lebih tinggi dari apa pun yang kita kenal hari ini.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Primeval northern Sumatra before the lake existed: a colossal stratovolcano towering over the land, its summit piercing the clouds, far mightier than any mountain known today. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "chapter": 2,
+      "narration": "Gunung itu tidak lahir dalam sekali letusan — ia adalah hasil dari tiga letusan raksasa yang membentuk tiga kaldera bertumpuk dalam ratusan ribu tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of three nested giant calderas carved into the landscape like enormous overlapping craters, ancient scars of three mega-eruptions spanning hundreds of thousands of years. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_021",
+      "chapter": 2,
+      "narration": "Setiap letusan meruntuhkan puncaknya, meninggalkan kawah raksasa, lalu dapur magma di bawahnya kembali terisi — perlahan, tanpa henti.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section of the earth revealing a gigantic magma chamber refilling with glowing molten rock after a caldera collapse, rivers of orange magma flowing through dark stone channels. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "chapter": 2,
+      "narration": "Selama puluhan ribu tahun, dapur magma itu membengkak seperti bisul raksasa di perut Bumi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Underground magma chamber swelling like a giant boil inside the planet, pressure waves radiating through rock, glowing cracks spreading, dramatic red-orange volumetric light. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_023",
+      "chapter": 2,
+      "narration": "Diperkirakan volume magma yang terkumpul mencapai ribuan kilometer kubik — bahan bakar untuk letusan terbesar dalam dua puluh lima juta tahun terakhir.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Abstract visualization of thousands of cubic kilometers of magma accumulating: a vast underground reservoir of churning molten rock, glowing currents swirling in the dark depths. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_024",
+      "chapter": 2,
+      "narration": "Kala itu, sekitar tujuh puluh empat ribu tahun yang lalu, Homo sapiens baru saja mulai menyebar keluar dari Afrika.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Early Homo sapiens migrating out of Africa 74,000 years ago: small bands of hunter-gatherers crossing a savanna at dawn, carrying stone spears, the first steps of a long journey. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_025",
+      "chapter": 2,
+      "narration": "Mereka hidup dalam kelompok-kelompok kecil sebagai pemburu dan peramu, bergantung sepenuhnya pada alam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A small prehistoric human band around a campfire at dusk in Africa, sharing hunted meat, children playing, warm firelight against the vast dark savanna. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_026",
+      "chapter": 2,
+      "narration": "Belum ada kota, belum ada pertanian, belum ada tulisan — hanya api unggun, tombak batu, dan insting bertahan hidup.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of primitive stone tools, a hand-axe and spear tips by firelight, sparks and embers, the entire technology of humanity 74,000 years ago. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "CLOSE-UP",
+      "duration_hint": 8
+    },
+    {
+      "id": "shot_027",
+      "chapter": 2,
+      "narration": "Sementara itu di Sumatera purba, hutan hujan tropis yang lebat dan liar menutupi seluruh bentang alam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Dense primeval tropical rainforest of ancient Sumatra, towering trees and thick mist, sunbeams piercing the canopy, an untouched wild paradise. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "chapter": 2,
+      "narration": "Satwa liar berkeliaran bebas di lembah-lembah subur — tak satu pun dari mereka yang tahu apa yang tidur di bawah kaki mereka.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wildlife roaming free in a fertile prehistoric Sumatran valley: elephants and deer-like creatures grazing near a river, birds in flight, unaware of the doom beneath their feet. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_029",
+      "chapter": 2,
+      "narration": "Tekanan di dapur magma terus menumpuk, dan retakan demi retakan menjalar ke permukaan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Underground pressure building: rock strata groaning and cracking, glowing fissures spreading upward through dark stone toward the surface, tension mounting. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_030",
+      "chapter": 2,
+      "narration": "Gunung itu mulai gelisah: gempa-gempa kecil mengguncang tanah, gas beracun merembes dari celah-celah bebatuan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The volcano growing restless: small earthquakes shaking the forest, sulfurous gas seeping from rock crevices, birds fleeing the canopy in panic. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_031",
+      "chapter": 2,
+      "narration": "Namun tidak ada manusia yang bisa membaca tanda-tanda itu sebagai peringatan akhir zaman.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A prehistoric human family staring up at the smoking mountain with confusion and fear, unable to read the warning signs of the coming apocalypse. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_032",
+      "chapter": 2,
+      "narration": "Di Afrika, para pemburu pulang membawa hasil buruan; di gua-gua Asia, kelompok-kelompok kecil manusia berlindung dari malam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Split scene: hunters returning with game to an African camp at sunset on one side, and on the other small human groups sheltering in Asian caves as night falls. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_033",
+      "chapter": 2,
+      "narration": "Mereka tidak tahu bahwa di sebuah pulau jauh di garis khatulistiwa, Bumi sedang menyiapkan ledakan terbesar dalam dua puluh lima juta tahun.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A glowing map of the equatorial belt with Sumatra pulsing red like a wound, while tiny human figures go about their lives far away in Africa and Asia, oblivious. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_034",
+      "chapter": 2,
+      "narration": "Magma yang sangat kental dan kaya gas itu terperangkap di bawah batuan — seperti tutup botol sampanye raksasa yang siap terlepas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro view of gas-rich viscous magma trapped under rock like a giant champagne bottle cork, bubbles of gas building explosive pressure, glowing amber and crimson. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_035",
+      "chapter": 2,
+      "narration": "Dan ketika tekanan akhirnya melampaui kekuatan batuan di atasnya, tutup itu pecah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The cork blows: a cataclysmic underground explosion shattering rock, a blinding flash of white-hot energy bursting upward through the crust. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "chapter": 2,
+      "narration": "Hari kiamat pun dimulai.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The sky over Sumatra splitting open as the supereruption begins, a pillar of black ash and fire rising into the stratosphere, doomsday arriving. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_037",
+      "chapter": 3,
+      "narration": "Langit di atas Sumatera purba tiba-tiba terbelah — kolom abu raksasa melesat puluhan kilometer ke stratosfer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A colossal ash column tearing the sky apart over prehistoric Sumatra, rising dozens of kilometers into the stratosphere, lightning crackling through the volcanic plume. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "LOW ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "chapter": 3,
+      "narration": "Ledakan awalnya begitu dahsyat hingga gema dentumannya mungkin terdengar ribuan kilometer jauhnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The initial blast wave radiating outward from the eruption in concentric rings of fire and dust, flattening the primeval forest for hundreds of kilometers. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_039",
+      "chapter": 3,
+      "narration": "Dalam hitungan jam, sekitar dua ribu delapan ratus kilometer kubik batuan, abu, dan gas panas dimuntahkan ke angkasa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse of the supereruption: billions of tons of rock, ash and superheated gas blasting skyward in hours, a sky-filling inferno of orange and black. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "chapter": 3,
+      "narration": "Bandingkan dengan Tambora tahun seribu delapan ratus lima belas yang hanya sekitar seratus hingga seratus lima puluh kilometer kubik — Toba sekitar dua puluh kali lipatnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Comparison of eruption columns: a modest Tambora-sized plume dwarfed beside the monstrous Toba column twenty times larger, both rendered in the same dramatic night sky. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_041",
+      "chapter": 3,
+      "narration": "Awan panas — aliran piroklastik bersuhu ratusan derajat — meluncur menyapu seluruh permukaan Sumatera dengan kecepatan badai.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A glowing pyroclastic flow racing down the volcano's flanks at hurricane speed, a ground-hugging avalanche of fire hundreds of degrees hot, incinerating everything in its path. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "chapter": 3,
+      "narration": "Tidak ada hutan, tidak ada lembah, tidak ada kehidupan yang bisa selamat dari sapuan api itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The pyroclastic surge sweeping over the Sumatran landscape, forests bursting into flame instantly, a wall of fire consuming the horizon, no escape. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_043",
+      "chapter": 3,
+      "narration": "Lapisan ignimbrit tebal menimbun tanah Sumatera, mengubur segalanya dalam lautan batu panas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Thick ignimbrite deposits burying the land: a sea of glowing hot rock and ash entombing the buried forest, rivers of molten stone cooling into gray stone. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_044",
+      "chapter": 3,
+      "narration": "Sementara itu kolom abu terus membumbung, lalu angin stratosfer membawanya ke barat — menuju India dan Samudra Hindia.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The ash column still rising as stratospheric winds carry the plume westward toward India and the Indian Ocean, a continent-spanning river of ash in the upper atmosphere. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_045",
+      "chapter": 3,
+      "narration": "Abu setebal lima belas sentimeter menutupi Asia Selatan, menimbun tanah dan meracuni sungai-sungai.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Ancient South Asia buried in ash: villages of the distant past under gray fallout, crops smothered, rivers running gray with volcanic poison. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_046",
+      "chapter": 3,
+      "narration": "Jejak abu Toba ditemukan hingga Laut Cina Selatan dan Laut Arab — tiga ribu seratus kilometer dari sumber letusan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A map-like cinematic view tracing the ash fall from Toba across the South China Sea and Arabian Sea, glowing ash particles drifting 3,100 kilometers from the source. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_047",
+      "chapter": 3,
+      "narration": "Total wilayah yang diselimuti abu mencapai sekitar empat juta kilometer persegi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite view of four million square kilometers of Asia shrouded in gray ash, the fallout zone spreading from Sumatra to India like a stain across the map. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "chapter": 3,
+      "narration": "Lalu puncak gunung itu runtuh ke dalam dapur magma yang kosong — membentuk kaldera raksasa seratus kilometer kali tiga puluh kilometer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The mountain's summit collapsing into the emptied magma chamber, the peak crumbling inward in a cataclysmic landslide of rock, birthing a 100-by-30 kilometer caldera. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_049",
+      "chapter": 3,
+      "narration": "Gunung raksasa itu lenyap, meninggalkan lubang menganga selebar seratus kilometer di jantung Sumatera.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial view of the newborn caldera: a gaping hundred-kilometer-wide hole in the heart of Sumatra, steaming and glowing, where a giant mountain once stood. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_050",
+      "chapter": 3,
+      "narration": "Selama berminggu-minggu, langit di atas Asia Tenggara tetap gelap gulita di siang hari.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Southeast Asia in pitch darkness at midday: a sunless world under weeks of ash fall, faint red glow on the horizon, absolute oppressive gloom. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_051",
+      "chapter": 3,
+      "narration": "Hujan abu bercampur lumpur panas mengguyur tanpa henti, menenggelamkan daratan dalam keheningan yang mencekam.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Relentless rain of ash mixed with hot mud pouring from a black sky, burying the land in suffocating silence, a dead world in gray monochrome. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_052",
+      "chapter": 3,
+      "narration": "Inilah letusan eksplosif terbesar di Bumi dalam dua puluh lima juta tahun terakhir.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The eruption column seen from space as the largest explosive eruption on Earth in 25 million years, a planetary-scale wound glowing in the dark. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_053",
+      "chapter": 3,
+      "narration": "Dan dampaknya baru saja dimulai — karena yang keluar dari Toba bukan hanya abu, melainkan racun bagi seluruh atmosfer planet.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Toxic sulfur gases spreading through the global atmosphere: a translucent veil of poison wrapping the planet, continents below dimming under the chemical shroud. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_054",
+      "chapter": 3,
+      "narration": "Musim dingin vulkanik pun tiba.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The world plunging into volcanic winter: a frozen desolate plain under a dim sulfurous sky, snow falling on tropical lands, the coldest dawn in human history. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_055",
+      "chapter": 4,
+      "narration": "Jutaan ton gas belerang yang dimuntahkan Toba berubah menjadi aerosol asam sulfat di stratosfer.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Millions of tons of sulfur gas transforming into sulfuric acid aerosols high in the stratosphere, a shimmering toxic veil spreading around the planet. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_056",
+      "chapter": 4,
+      "narration": "Lapisan aerosol itu memantulkan cahaya matahari kembali ke angkasa — Bumi kehilangan pemanas utamanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Sunlight bouncing off the stratospheric aerosol layer back into space, Earth's main heater blocked, the planet below growing cold and dim. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_057",
+      "chapter": 4,
+      "narration": "Kegelapan berlangsung sekitar enam tahun; di banyak wilayah, siang hari terasa seperti senja yang tak pernah berakhir.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A world in endless twilight: six years of volcanic darkness, midday looking like perpetual dusk, weak orange sun barely visible through the haze. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "chapter": 4,
+      "narration": "Suhu rata-rata global anjlok tiga hingga lima belas derajat Celsius.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Global temperatures plunging: frozen landscapes, ice forming on tropical rivers, a thermometer-like visual of the world dropping 3 to 15 degrees Celsius. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_059",
+      "chapter": 4,
+      "narration": "Di daerah tropis yang biasanya hangat, udara menjadi dingin menusuk dan tanaman layu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Tropical farmlands turned cold and barren: withered banana plants and crops under a pale cold sun, farmers' huts abandoned in the chill. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_060",
+      "chapter": 4,
+      "narration": "Fotosintesis terhenti di banyak wilayah; hutan-hutan gundul dan padang rumput mengering.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Photosynthesis halting worldwide: forests standing leafless and skeletal, grasslands dried to dust, a planet losing its green breath. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_061",
+      "chapter": 4,
+      "narration": "Hewan-hewan herbivora mati kelaparan secara massal, diikuti para predator yang kehilangan mangsanya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mass starvation of herbivores: gaunt deer-like creatures collapsing on barren ground, followed by predators with no prey, the food chain breaking. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_062",
+      "chapter": 4,
+      "narration": "Rantai makanan global runtuh — dan manusia, yang bergantung pada berburu dan meramu, terpukul paling keras.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Early humans as hunter-gatherers facing the collapse: empty-handed hunters returning to a desperate camp, children crying, the harshest winter humanity ever knew. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_063",
+      "chapter": 4,
+      "narration": "Pada tahun seribu sembilan ratus sembilan puluh delapan, ilmuwan Stanley Ambrose mengajukan teori yang mengguncang dunia: teori bencana Toba.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Scientist Stanley Ambrose in 1998 presenting the Toba catastrophe theory: dramatic lecture hall, a world map with the Toba ash layer highlighted, a paradigm-shifting moment. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_064",
+      "chapter": 4,
+      "narration": "Menurut teori itu, populasi Homo sapiens di seluruh Bumi menyusut drastis hingga hanya tersisa tiga ribu hingga lima belas ribu jiwa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A dwindling band of early humans crossing an ash-covered wasteland, their numbers shrinking to a handful of survivors, humanity on the edge of extinction. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_065",
+      "chapter": 4,
+      "narration": "Bukti genetik tampaknya mendukung: keragaman genetik manusia modern sangat rendah, seolah kita semua keturunan dari segelintir penyintas.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. DNA double helix glowing in the dark with sparse branches: visualization of humanity's low genetic diversity, all modern humans descending from a few survivors. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_066",
+      "chapter": 4,
+      "narration": "Para ilmuwan menelusuri garis keturunan itu hingga Eva mitokondria — ibu genetik umat manusia yang hidup sekitar seratus empat puluh ribu tahun lalu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Mitochondrial Eve concept: a primordial mother figure as a luminous silhouette in a dark ancient landscape, the genetic mother of all humanity 140,000 years ago. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_067",
+      "chapter": 4,
+      "narration": "Dan Adam kromosom-Y — ayah genetik umat manusia — yang hidup sekitar enam puluh ribu hingga sembilan puluh ribu tahun lalu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Y-chromosomal Adam concept: a primordial father figure as a luminous silhouette beside a campfire in deep time, the genetic father of humanity tens of thousands of years ago. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_068",
+      "chapter": 4,
+      "narration": "Rentang waktu itu berhimpitan dengan masa setelah letusan Toba — seolah populasi manusia dimulai ulang dari hampir nol.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A genetic timeline converging: countless human lineages narrowing to a bottleneck point right after the Toba eruption, then expanding again — humanity restarting from near zero. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_069",
+      "chapter": 4,
+      "narration": "Namun tidak semua ilmuwan setuju — dan inilah sisi lain kisahnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A skeptical scientist shaking her head in a laboratory, crossing her arms before a whiteboard full of conflicting data, the other side of the story emerging. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_070",
+      "chapter": 4,
+      "narration": "Penelitian sedimen di Danau Malawi, Afrika, tidak menemukan tanda perubahan iklim besar di Afrika Timur pada masa itu.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lake Malawi in Africa at dawn: researchers drilling a sediment core from a boat, calm waters, no sign of ancient climate catastrophe in East Africa. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_071",
+      "chapter": 4,
+      "narration": "Para arkeolog juga menemukan bukti bahwa manusia berhasil bertahan hidup di beberapa wilayah selama periode tersebut.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Archaeologists excavating an ancient human settlement layer, uncovering stone tools and hearths that prove humans survived through the Toba period in several regions. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_072",
+      "chapter": 4,
+      "narration": "Hingga hari ini, para ilmuwan masih memperdebatkan seberapa parah sebenarnya dampak Toba bagi umat manusia — dan film ini tidak akan memihak; Anda yang menilai.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Two groups of scientists on opposite sides of a debate stage, spotlights on each, the question hanging in the air unresolved — the viewer invited to judge. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_073",
+      "chapter": 5,
+      "narration": "Ribuan tahun berlalu; kaldera raksasa itu perlahan terisi air hujan.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Time-lapse over millennia: the giant caldera slowly filling with rainwater, steam rising, a barren crater transforming into a shimmering young lake. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "TIME-LAPSE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "narration": "Lahirlah Danau Toba — danau vulkanik terbesar di dunia, dengan kedalaman lima ratus lima meter.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The newborn Lake Toba in all its glory: the world's largest volcanic lake, deep blue waters 505 meters deep, surrounded by towering green caldera walls. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_075",
+      "chapter": 5,
+      "narration": "Permukaan danau ini berada sembilan ratus meter di atas permukaan laut, dikelilingi pegunungan hijau yang megah.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lake Toba's surface 900 meters above sea level, majestic green mountains encircling the vast blue expanse, morning clouds drifting through the highland air. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "PANORAMIC",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_076",
+      "chapter": 5,
+      "narration": "Di tengah danau, muncul Pulau Samosir — yang ternyata adalah kubah resurgent, lantai kaldera yang terangkat kembali oleh tekanan magma di bawahnya.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Samosir Island rising from the middle of Lake Toba: a lush green dome island, revealed as a resurgent dome — the caldera floor pushed back up by magma pressure below. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_077",
+      "chapter": 5,
+      "narration": "Kini, danau ini menjadi rumah bagi suku Batak dengan budaya yang kaya dan hangat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Batak village on the shores of Lake Toba: traditional boat-shaped houses with ornate carvings, warm cultural life, fishermen on the calm water at golden hour. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_078",
+      "chapter": 5,
+      "narration": "Masyarakat Batak memiliki legenda tentang terbentuknya danau ini — kisah tentang seorang petani, seekor ikan ajaib, dan janji yang dilanggar hingga banjir besar menenggelamkan lembah menjadi danau.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Batak legend illustrated: a humble farmer by a magical giant fish in a mountain valley, a broken promise, and floodwaters rising to swallow the valley into a lake — folklore style. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_079",
+      "chapter": 5,
+      "narration": "Itu adalah legenda rakyat yang indah — meski ilmu geologi menceritakan kisah yang jauh lebih dahsyat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Split vision: the beautiful Batak legend scene fading into the far more violent geological truth — the supervolcano eruption ghosted behind the folk tale. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_080",
+      "chapter": 5,
+      "narration": "Pada bulan Juli tahun dua ribu dua puluh, UNESCO mengakui kawasan ini sebagai UNESCO Global Geopark.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. UNESCO Global Geopark recognition: Lake Toba's stunning caldera landscape with a celebratory golden light, July 2020 milestone, world heritage pride. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_081",
+      "chapter": 5,
+      "narration": "Danau Toba kini menjadi destinasi wisata kelas dunia — namun di bawah keindahannya, sang raksasa masih tertidur.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Lake Toba as a world-class tourist destination: boats crossing the blue water, visitors on scenic viewpoints, but beneath the beauty a faint ominous red glow deep underwater. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "DRONE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_082",
+      "chapter": 5,
+      "narration": "Para ilmuwan terus memantau aktivitas vulkanik di kawasan ini dengan peralatan modern.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern scientists monitoring volcanic activity around Lake Toba: seismometers and GPS stations on the caldera rim, researchers analyzing data on laptops at dawn. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_083",
+      "chapter": 5,
+      "narration": "Karena Toba bukanlah gunung mati — ia adalah supervolcano yang masih aktif, hanya sedang beristirahat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Cross-section of Toba today: the serene lake above and the still-active magma chamber glowing below, a sleeping supervolcano merely resting, not dead. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_084",
+      "chapter": 5,
+      "narration": "Letusan sebesar Toba diperkirakan terjadi sekitar satu kali dalam tiga ratus ribu tahun — jarang, tetapi bukan tidak mungkin.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Deep-time clock: a geological timeline showing supereruptions striking roughly once every 300,000 years, a rare but inevitable cosmic schedule, dark cinematic rendering. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MACRO",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_085",
+      "chapter": 5,
+      "narration": "Dan jika ia bangun hari ini, taruhannya jauh lebih besar: manusia kini berjumlah delapan miliar jiwa.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern Earth with 8 billion people: glowing city lights across the night side of the planet, megacities and farmland — everything at stake if the giant wakes. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "HIGH ANGLE",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_086",
+      "chapter": 5,
+      "narration": "Kota-kota modern, rantai pasok global, dan peradaban yang bergantung pada iklim stabil — semuanya rentan terhadap satu musim dingin vulkanik.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Modern civilization's fragility: container ships, highways and skyscrapers under a darkening sulfurous sky, global supply chains trembling before one volcanic winter. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "AERIAL",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_087",
+      "chapter": 5,
+      "narration": "Toba mengajarkan kita satu hal: peradaban manusia pernah berdiri di tepi kepunahan — dan selamat.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Humanity at the edge of extinction and back: silhouettes of early survivors walking out of volcanic darkness into a sunrise, the triumph of survival against all odds. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_088",
+      "chapter": 5,
+      "narration": "Pertanyaannya kini: jika sang raksasa terbangun lagi, apakah dunia sudah siap?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. The sleeping giant beneath Lake Toba stirring: the calm lake surface with a faint tremor, ripples spreading, the question of readiness hanging over a modern lakeside town. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 11
+    },
+    {
+      "id": "shot_089",
+      "chapter": 5,
+      "narration": "Tulis pendapat Anda di kolom komentar — apakah teori bencana Toba meyakinkan bagi Anda, atau Anda lebih percaya pada bukti Danau Malawi?",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. A global audience of viewers typing comments on glowing screens, the debate between the Toba catastrophe theory and the Lake Malawi evidence continuing in the digital age. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "MEDIUM",
+      "duration_hint": 9
+    },
+    {
+      "id": "shot_090",
+      "chapter": 5,
+      "narration": "Karena raksasa di bawah Danau Toba masih tidur — dan suatu hari, ia akan bangun lagi.",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Final epic shot: Lake Toba at dusk, serene and beautiful, while deep beneath the water the magma chamber pulses with slow ominous light — the giant still sleeps, but one day it will wake. No frame, no border, no collage, no text, no watermark.",
+      "shot_type": "WIDE",
+      "duration_hint": 12
+    }
+  ]
+}
