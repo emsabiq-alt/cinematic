@@ -285,6 +285,11 @@ def align_chapter(project_dir, babak_num, whisper_model=None):
     for i, s in enumerate(shots):
         sid = s["id"]
         img_p = project / "output" / "flow_images" / f"{sid}.png"
+        # Format hybrid (sv011+): shot bertanda media="video" di storyboard
+        # memakai klip Veo dari output/flow_videos/<sid>.mp4; shot lain tetap
+        # gambar. Proyek lama tanpa field media diperlakukan semua gambar.
+        media = s.get("media", "image")
+        vid_p = project / "output" / "flow_videos" / f"{sid}.mp4"
         start_t = 0.0 if i == 0 else max(0.0, shot_starts.get(sid, 0.0) - LEAD_IN)
         if i < len(shots) - 1:
             next_sid = shots[i + 1]["id"]
@@ -292,7 +297,8 @@ def align_chapter(project_dir, babak_num, whisper_model=None):
         else:
             end_t = total_dur
         dur = max(1.5, end_t - start_t)
-        shot_timings.append({"id": sid, "img": img_p, "dur": dur})
+        shot_timings.append({"id": sid, "img": img_p, "vid": vid_p,
+                             "media": media, "dur": dur})
 
     print(f"✓ Calculated visual cut timings for {len(shot_timings)} shots in Babak {babak_num}.", flush=True)
     return wav_p, srt_p, shot_timings
@@ -308,6 +314,21 @@ def _validate_images_or_raise(project, shot_timings):
     from PIL import Image
     bad = []
     for item in shot_timings:
+        if item.get("media") == "video":
+            # Shot video: validasi MP4 bisa dibaca ffprobe & berdurasi nyata.
+            vid = item["vid"]
+            try:
+                r = subprocess.run(
+                    ["ffprobe", "-v", "error", "-show_entries",
+                     "format=duration", "-of",
+                     "default=noprint_wrappers=1:nokey=1", str(vid)],
+                    capture_output=True, text=True, timeout=30)
+                d = float(r.stdout.strip())
+                if d < 1.0:
+                    raise ValueError(f"durasi video tidak wajar: {d}")
+            except Exception as e:
+                bad.append(f"{vid}: {e}")
+            continue
         img = project / "output" / "flow_images" / item["img"]
         try:
             with Image.open(img) as im:
@@ -316,7 +337,7 @@ def _validate_images_or_raise(project, shot_timings):
             bad.append(f"{item['img']}: {e}")
     if bad:
         raise RuntimeError(
-            f"{len(bad)} gambar rusak/truncated, render dibatalkan agar tidak hang:\n"
+            f"{len(bad)} aset visual rusak/truncated, render dibatalkan agar tidak hang:\n"
             + "\n".join(bad[:10])
         )
 
@@ -351,19 +372,35 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
         dur = base_dur + XFADE_DUR if idx < len(shot_timings) - 1 else base_dur
         out_c = clip_dir / f"{sid}.mp4"
         frames = int(dur * 30)
-        zoom_step = 0.060 / float(max(frames, 1))
 
-        cmd = [
-            "ffmpeg", "-y", "-loop", "1", "-t", f"{dur:.3f}", "-i", str(img_p),
-            "-filter_complex",
-            f"[0:v]scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,"
-            f"zoompan=z='min(zoom+{zoom_step:.6f},1.060)':x='iw*0.50-(iw/zoom/2)':y='ih*0.48-(ih/zoom/2)':d={frames}:s=1920x1080:fps=30,"
-            f"format=yuv420p[v]",
-            "-map", "[v]",
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
-            "-t", f"{dur:.3f}",
-            str(out_c)
-        ]
+        if item.get("media") == "video":
+            # Shot video (Veo): loop klip sampai durasi narasi, samakan spek
+            # keluaran dengan klip gambar (1920x1080, 30fps, yuv420p, tanpa
+            # audio — suara Veo dibuang; audio film = narasi + musik).
+            cmd = [
+                "ffmpeg", "-y", "-stream_loop", "-1", "-i", str(item["vid"]),
+                "-filter_complex",
+                "[0:v]scale=1920:1080:force_original_aspect_ratio=increase,"
+                "crop=1920:1080,fps=30,format=yuv420p[v]",
+                "-map", "[v]", "-an",
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+                "-t", f"{dur:.3f}",
+                str(out_c)
+            ]
+        else:
+            zoom_step = 0.060 / float(max(frames, 1))
+
+            cmd = [
+                "ffmpeg", "-y", "-loop", "1", "-t", f"{dur:.3f}", "-i", str(img_p),
+                "-filter_complex",
+                f"[0:v]scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,"
+                f"zoompan=z='min(zoom+{zoom_step:.6f},1.060)':x='iw*0.50-(iw/zoom/2)':y='ih*0.48-(ih/zoom/2)':d={frames}:s=1920x1080:fps=30,"
+                f"format=yuv420p[v]",
+                "-map", "[v]",
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+                "-t", f"{dur:.3f}",
+                str(out_c)
+            ]
         subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True, timeout=300)
         clip_paths.append(out_c)
         clip_durations.append(dur)

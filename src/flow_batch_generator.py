@@ -43,11 +43,19 @@ def _download_resumable(url, out_path, timeout=40, tries=5):
     meregenerasi gambar baru di Flow (boros kuota), lanjutkan dengan HTTP
     Range dari byte terakhir yang sudah tersimpan.
 
+    2026-10-13: Python http.client (urllib) TERBUKTI terpotong sistematis
+    (IncompleteRead) untuk host flow-content.google lewat proxy ini, sementara
+    curl mengunduh file yang sama utuh 100%. Karena itu unduhan kini lewat
+    curl dulu (dengan resume -C -); urllib hanya fallback bila curl tak ada.
+
     Setelah unduhan selesai, verifikasi integritas: bandingkan dengan
     Content-Length (bila server memberikannya) dan cek magic bytes
     (PNG/JPEG). File yang gagal verifikasi dihapus dan diunduh ulang dari
     awal — file parsial TIDAK BOLEH lolos sebagai "selesai".
     """
+    import shutil
+    import subprocess
+
     def _verify(path):
         """Return True jika file adalah gambar utuh (PNG/JPEG)."""
         try:
@@ -71,6 +79,57 @@ def _download_resumable(url, out_path, timeout=40, tries=5):
         return True
 
     base_headers = {"User-Agent": "Mozilla/5.0", "Referer": "https://flow.google.com/"}
+    # 2026-10-13: curl TERBUKTI andal untuk flow-content.google (urllib
+    # IncompleteRead sistematis). Coba curl dulu; urllib hanya fallback.
+    curl_bin = shutil.which("curl")
+    if curl_bin:
+        for attempt in range(tries):
+            have = out_path.stat().st_size if out_path.exists() else 0
+            cmd = [curl_bin, "-sS", "-L", "--max-time", str(timeout),
+                   "-C", "-",  # resume otomatis dari ukuran file yg ada
+                   "-A", base_headers["User-Agent"],
+                   "-e", base_headers["Referer"],
+                   "-o", str(out_path), url]
+            try:
+                proc = subprocess.run(cmd, capture_output=True, text=True,
+                                      timeout=timeout + 10)
+            except Exception as e:
+                last_exc = e
+                print(f"  → Unduhan curl bermasalah: {e}; menyambung...",
+                      flush=True)
+                time.sleep(4 * (attempt + 1))
+                continue
+            if proc.returncode != 0 and not out_path.exists():
+                last_exc = IOError(f"curl exit {proc.returncode}: "
+                                   f"{proc.stderr.strip()[:120]}")
+                print(f"  → Unduhan curl bermasalah ({last_exc}); menyambung...",
+                      flush=True)
+                time.sleep(4 * (attempt + 1))
+                continue
+            # curl -C - keluar 33 bila server tak dukung resume & file sudah
+            # ada sebagian → hapus parsial, unduh ulang penuh.
+            if proc.returncode == 33:
+                try:
+                    out_path.unlink()
+                except OSError:
+                    pass
+                time.sleep(4 * (attempt + 1))
+                continue
+            final_size = out_path.stat().st_size if out_path.exists() else 0
+            if _verify(out_path):
+                return final_size
+            last_exc = IOError("File bukan gambar utuh (magic bytes / EOF "
+                               "marker salah)")
+            print(f"  → Unduhan curl bermasalah ({final_size} bytes: "
+                  f"{last_exc}); menyambung...", flush=True)
+            try:
+                out_path.unlink()
+            except OSError:
+                pass
+            time.sleep(4 * (attempt + 1))
+        # curl gagal total → jatuh ke urllib di bawah sebagai fallback.
+        print("  → curl gagal, fallback ke urllib...", flush=True)
+
     last_exc = None
     for attempt in range(tries):
         have = out_path.stat().st_size if out_path.exists() else 0
@@ -283,6 +342,27 @@ def run_batch(start_idx=1, end_idx=75, delay_between=14):
             sid = s["id"]
             out_png = FLOW_DIR / f"{sid}.png"
             prompt = s["visual_prompt"]
+
+            # Format hybrid (sv011+): shot media="video" digenerate oleh
+            # flow_video_generator.py — lewati di pass gambar ini.
+            if s.get("media") == "video":
+                vid_p = BASE / "output" / "flow_videos" / f"{sid}.mp4"
+                print(f"\n[{idx:02d}/{len(shots)}] {sid} = shot VIDEO "
+                      f"(ditangani generator video), dilewati.")
+                records.append({
+                    "shot_id": sid,
+                    "chapter": s["chapter"],
+                    "narration": s["narration"],
+                    "image_file": "",
+                    "video_file": str(vid_p).replace("\\", "/"),
+                    "status": "video"
+                })
+                MAPPING_JSON.write_text(json.dumps({
+                    "title": data["title"],
+                    "total_shots": len(shots),
+                    "records": records
+                }, ensure_ascii=False, indent=2), encoding="utf-8")
+                continue
 
             print(f"\n[{idx:02d}/{len(shots)}] Memproses {sid} (Babak {s['chapter']})")
             print(f"  Narasi: \"{s['narration'][:60]}...\"")
