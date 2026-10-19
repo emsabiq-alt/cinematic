@@ -357,6 +357,9 @@ def run_batch(delay_between=10):
 
     runner = FlowVideoRunner()
     runner.connect()
+    # Halaman bisa tertinggal di /edit/<aset> dari sesi sebelumnya — paksa
+    # kembali ke grid dulu (di sana panel setelan & editor berada).
+    runner._back_to_grid()
     runner.ensure_video_settings()
 
     print(f"\n=== GENERASI VIDEO FLOW ({len(shots)} shot video) ===", flush=True)
