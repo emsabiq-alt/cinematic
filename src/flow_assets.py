@@ -91,6 +91,10 @@ def pending_shots(project):
     shots = json.loads(story_path.read_text(encoding="utf-8"))["shots"]
     out = []
     for s in shots:
+        # Format hybrid (sv011+): shot video tidak butuh PNG — ditangani
+        # flow_video_generator.py (output/flow_videos/<id>.mp4).
+        if s.get("media") == "video":
+            continue
         png = flow_dir / f"{s['id']}.png"
         if not png.exists() or png.stat().st_size <= MIN_IMAGE_BYTES:
             out.append(s)
