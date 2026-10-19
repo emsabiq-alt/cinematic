@@ -225,9 +225,46 @@ class FlowVideoRunner(GoogleFlowRunner):
             .filter(s => s.includes('flow-content.google/image/')))()
         """) or []
 
+    def _grid_url(self):
+        url = self.evaluate_js("(() => location.href)()") or ""
+        return url.split("/edit/")[0]
+
+    def _wait_editor(self, timeout=60):
+        """Tunggu sampai editor prompt grid proyek muncul lagi."""
+        start_t = time.time()
+        while time.time() - start_t < timeout:
+            ok = self.evaluate_js("""
+            (() => !!document.querySelector(
+                '.ProseMirror[contenteditable="true"]'))()
+            """)
+            if ok:
+                return True
+            time.sleep(3)
+        return False
+
+    def _back_to_grid(self):
+        """Keluar dari halaman /edit/<aset> kembali ke grid proyek.
+
+        Pelajaran 19 Okt 2026: klik kartu aset membuka halaman /edit/<id>
+        (bukan overlay); Escape TIDAK keluar dari sana — generator batch
+        pertama macet total setelah video pertama karena halaman tidak
+        pernah kembali ke grid. Navigasi eksplisit + tunggu editor.
+        """
+        url = self.evaluate_js("(() => location.href)()") or ""
+        if "/edit/" not in url:
+            return True
+        grid = url.split("/edit/")[0]
+        self._send("Page.navigate", {"url": grid})
+        return self._wait_editor(90)
+
     def generate_video_one(self, prompt, out_mp4, timeout=GEN_TIMEOUT):
         if not self.ws:
             self.connect()
+        # Pastikan mulai dari grid proyek (bukan halaman /edit/ sisa shot
+        # sebelumnya) — tanpa editor, generate pasti gagal.
+        if not self._back_to_grid():
+            raise RuntimeError(
+                "Tidak bisa kembali ke grid Flow (editor tidak muncul).")
         before = set(self._poster_urls())
 
         # Fokus editor, bersihkan, ketik prompt
@@ -304,10 +341,12 @@ class FlowVideoRunner(GoogleFlowRunner):
             """)
             if video_url and "/video/" in video_url:
                 break
-        # Tutup viewer agar grid bersih untuk shot berikutnya
-        self._close_settings()  # Escape juga menutup viewer
         if not video_url:
+            self._back_to_grid()
             raise RuntimeError("URL video tidak terbaca dari viewer Flow.")
+        # WAJIB kembali ke grid sebelum shot berikutnya (halaman /edit/
+        # tidak punya editor/grid — batch pertama macet di sini).
+        self._back_to_grid()
         _download_video(video_url.replace("&amp;", "&"), out_mp4)
         return str(out_mp4)
 
@@ -320,30 +359,30 @@ def run_batch(delay_between=10):
     runner.connect()
     runner.ensure_video_settings()
 
-    print(f"\n=== GENERASI VIDEO FLOW ({len(shots)} shot video) ===")
+    print(f"\n=== GENERASI VIDEO FLOW ({len(shots)} shot video) ===", flush=True)
     try:
         for i, s in enumerate(shots, 1):
             sid = s["id"]
             out_mp4 = VIDEO_DIR / f"{sid}.mp4"
             prompt = s.get("video_prompt") or s["visual_prompt"]
-            print(f"\n[{i}/{len(shots)}] {sid} (Babak {s['chapter']})")
+            print(f"\n[{i}/{len(shots)}] {sid} (Babak {s['chapter']})", flush=True)
             if out_mp4.exists() and _verify_video(out_mp4):
                 print(f"  ✓ Video sudah ada & valid: {out_mp4.name} "
-                      f"({out_mp4.stat().st_size/1048576:.1f} MB)")
+                      f"({out_mp4.stat().st_size/1048576:.1f} MB)", flush=True)
                 continue
             try:
                 runner.generate_video_one(prompt, out_mp4)
                 print(f"  ✓ Berhasil: {out_mp4.name} "
-                      f"({out_mp4.stat().st_size/1048576:.1f} MB)")
+                      f"({out_mp4.stat().st_size/1048576:.1f} MB)", flush=True)
             except Exception as e:
-                print(f"  ✗ Gagal: {e}")
+                print(f"  ✗ Gagal: {e}", flush=True)
                 time.sleep(6)
             if i < len(shots):
                 print(f"  ⏳ Jeda {delay_between}s...")
                 time.sleep(delay_between)
     finally:
         runner.close()
-    print("\n=== GENERASI VIDEO SELESAI ===")
+    print("\n=== GENERASI VIDEO SELESAI ===", flush=True)
 
 
 if __name__ == "__main__":
