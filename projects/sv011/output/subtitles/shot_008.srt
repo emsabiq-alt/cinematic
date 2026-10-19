@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:01,610
+dari jumlah itu
+
+2
+00:00:01,620 --> 00:00:03,020
+tujuh puluh satu ribu enam ratus enam
+
+3
+00:00:03,020 --> 00:00:04,820
+puluh titik berada di
+
+4
+00:00:04,820 --> 00:00:07,460
+satu provinsi kalimantan tengah
+
+5
+00:00:07,460 --> 00:00:08,313
+enam puluh dua koma
+
+6
+00:00:08,313 --> 00:00:10,150
+tujuh persen dari total

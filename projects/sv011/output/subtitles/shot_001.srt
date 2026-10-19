@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,240
+setiap tahun di bulan yang sama
+
+2
+00:00:02,240 --> 00:00:04,300
+langit kalimantan berubah warna
+
+3
+00:00:04,300 --> 00:00:07,350
+dan sebuah pertanyaan tua kembali beredar
+
+4
+00:00:07,660 --> 00:00:09,990
+siapa yang sebenarnya membakar indonesia?

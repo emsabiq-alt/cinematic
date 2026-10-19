@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:01,580
+kedua sisi punya bukti
+
+2
+00:00:01,580 --> 00:00:04,150
+dan keduanya tidak bisa saling meniadakan

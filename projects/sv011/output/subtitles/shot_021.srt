@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,820
+satu orang dengan obor bisa
+
+2
+00:00:01,820 --> 00:00:03,830
+membersihkan lahan dalam semalam
+
+3
+00:00:03,920 --> 00:00:05,660
+pekerjaan yang butuh belasan pekerja
+
+4
+00:00:05,660 --> 00:00:08,110
+dan mesin selama berminggu-minggu

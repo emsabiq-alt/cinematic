@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,580
+pernahkah anda bertanya
+
+2
+00:00:01,580 --> 00:00:03,480
+mengapa cara termurah selalu
+
+3
+00:00:03,480 --> 00:00:05,350
+menjadi cara yang dipilih?

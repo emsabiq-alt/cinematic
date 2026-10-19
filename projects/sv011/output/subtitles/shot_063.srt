@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,560
+di banyak desa
+
+2
+00:00:01,560 --> 00:00:03,960
+kelompok masyarakat peduli api dibentuk
+
+3
+00:00:03,960 --> 00:00:05,860
+warga yang dilatih memadamkan api
+
+4
+00:00:05,860 --> 00:00:07,910
+di halaman belakang mereka sendiri

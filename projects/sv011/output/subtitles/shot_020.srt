@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,160
+membakar adalah cara membuka lahan
+
+2
+00:00:02,160 --> 00:00:04,190
+termurah yang dikenal manusia
+
+3
+00:00:04,360 --> 00:00:05,860
+jauh lebih murah daripada menebang
+
+4
+00:00:05,860 --> 00:00:08,390
+dan membersihkan dengan alat berat

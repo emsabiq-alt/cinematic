@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,590
+api gambut mengajarkan satu hal
+
+2
+00:00:02,680 --> 00:00:04,640
+yang membara di bawah permukaan jauh lebih
+
+3
+00:00:04,640 --> 00:00:07,370
+lama daripada yang terlihat di atasnya

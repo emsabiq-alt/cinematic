@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,920
+api gambut bergerak lambat di
+
+2
+00:00:01,920 --> 00:00:03,640
+bawah tanah tak terlihat
+
+3
+00:00:03,640 --> 00:00:05,360
+tak terjangkau air pemadam
+
+4
+00:00:05,360 --> 00:00:07,390
+dan bisa bertahan berbulan-bulan

@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,760
+mereka berkata ini bukan kebetulan
+
+2
+00:00:02,760 --> 00:00:05,830
+ini sistem yang bekerja persis seperti dirancang

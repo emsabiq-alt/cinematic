@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,580
+kita mulai dari fakta
+
+2
+00:00:01,580 --> 00:00:03,280
+yang tidak bisa dibantah
+
+3
+00:00:03,280 --> 00:00:05,260
+api selalu datang di musim yang sama
+
+4
+00:00:05,260 --> 00:00:07,450
+di tempat yang hampir sama

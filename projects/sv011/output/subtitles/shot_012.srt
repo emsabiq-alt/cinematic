@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:03,010
+para penganut teori ini punya jawaban
+
+2
+00:00:03,100 --> 00:00:05,240
+karena ada yang diuntungkan setiap kali
+
+3
+00:00:05,240 --> 00:00:07,610
+api padam dan asap menghilang

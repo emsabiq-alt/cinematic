@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,550
+inilah inti teori tangan tak terlihat
+
+2
+00:00:02,580 --> 00:00:03,840
+api bukan tujuan
+
+3
+00:00:03,840 --> 00:00:04,880
+api adalah alat
+
+4
+00:00:04,880 --> 00:00:07,070
+dan keuntungan adalah tujuannya

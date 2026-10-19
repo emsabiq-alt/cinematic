@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,640
+tentu saja ini baru logika ekonomi
+
+2
+00:00:02,640 --> 00:00:04,730
+bukan bukti bahwa setiap api disengaja

@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:01,900
+setiap musim kemarau
+
+2
+00:00:01,900 --> 00:00:03,930
+peta titik panas kembali menyala
+
+3
+00:00:03,960 --> 00:00:04,960
+dan setiap tahun pula
+
+4
+00:00:04,960 --> 00:00:06,480
+pertanyaan yang sama kembali
+
+5
+00:00:06,480 --> 00:00:08,430
+siapa yang menyalakannya?

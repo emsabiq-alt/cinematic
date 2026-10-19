@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,990
+film ini sengaja tidak memberi kesimpulan
+
+2
+00:00:03,000 --> 00:00:04,960
+karena kesimpulan yang jujur membutuhkan
+
+3
+00:00:04,960 --> 00:00:07,090
+bukti yang belum kita miliki

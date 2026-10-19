@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,410
+tahun seribu sembilan ratus sembilan puluh lima
+
+2
+00:00:03,140 --> 00:00:06,220
+presiden soeharto menandatangani keputusan presiden
+
+3
+00:00:06,220 --> 00:00:07,967
+nomor delapan puluh dua
+
+4
+00:00:07,967 --> 00:00:10,710
+proyek lahan gambut sejuta hektar

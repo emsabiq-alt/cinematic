@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,810
+api membersihkan hutan dalam hitungan hari
+
+2
+00:00:02,940 --> 00:00:05,420
+sesuatu yang butuh buldoser berminggu-minggu bisa
+
+3
+00:00:05,420 --> 00:00:07,610
+selesai dengan satu korek api

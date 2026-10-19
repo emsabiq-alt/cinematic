@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,920
+dan penyala api di lapangan
+
+2
+00:00:01,920 --> 00:00:04,220
+sering kali bukan korporasi besar
+
+3
+00:00:04,220 --> 00:00:06,260
+melainkan petani kecil yang membuka dua
+
+4
+00:00:06,260 --> 00:00:08,770
+hektare ladang untuk bertahan hidup

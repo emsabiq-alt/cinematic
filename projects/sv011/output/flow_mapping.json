@@ -1,0 +1,636 @@
+{
+  "title": "",
+  "total_shots": 90,
+  "records": [
+    {
+      "shot_id": "shot_001",
+      "chapter": 1,
+      "narration": "Setiap tahun, di bulan yang sama, langit Kalimantan berubah warna — dan sebuah pertanyaan tua kembali beredar: siapa yang sebenarnya membakar Indonesia?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_001.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_002",
+      "chapter": 1,
+      "narration": "Di media sosial, klaimnya berbunyi begini: kebakaran hutan ini bukan musibah — melainkan proyek yang direncanakan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_002.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_003",
+      "chapter": 1,
+      "narration": "Mereka menyebutnya tangan tak terlihat — pihak yang menyalakan api, lalu memanen keuntungan dari abu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_003.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_004",
+      "chapter": 1,
+      "narration": "Benarkah setiap tahun ada yang sengaja membakar? Atau ini hanya teori konspirasi yang lahir dari asap?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_004.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_005",
+      "chapter": 1,
+      "narration": "Film ini tidak akan menjawab dengan emosi — melainkan menguji klaim itu dengan bukti.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_005.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_006",
+      "chapter": 1,
+      "narration": "Kita mulai dari fakta yang tidak bisa dibantah: api selalu datang di musim yang sama, di tempat yang hampir sama.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_006.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_007",
+      "chapter": 1,
+      "narration": "Data mencatat seratus empat belas ribu tiga ratus lima puluh dua titik panas di Kalimantan hanya dalam tiga puluh hari — dari tiga belas September hingga dua belas Oktober dua ribu dua puluh enam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_007.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_008",
+      "chapter": 1,
+      "narration": "Dari jumlah itu, tujuh puluh satu ribu enam ratus enam puluh titik berada di satu provinsi: Kalimantan Tengah — enam puluh dua koma tujuh persen dari total.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_008.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_009",
+      "chapter": 1,
+      "narration": "Kementerian Kehutanan mencatat seratus tujuh ribu empat ratus enam puluh lima hektare lahan terdampak hanya dalam enam bulan pertama tahun dua ribu dua puluh enam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_009.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_010",
+      "chapter": 1,
+      "narration": "Angka itu naik seratus sepuluh persen dibanding tahun dua ribu dua puluh tiga — dan disebut sebagai musim kebakaran terparah dalam sebelas tahun terakhir.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_010.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_011",
+      "chapter": 1,
+      "narration": "Pola yang berulang setiap tahun inilah yang membuat banyak orang curiga: kalau ini murni kecelakaan, mengapa lokasinya nyaris tidak pernah berubah?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_011.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_012",
+      "chapter": 1,
+      "narration": "Para penganut teori ini punya jawaban: karena ada yang diuntungkan setiap kali api padam dan asap menghilang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_012.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_013",
+      "chapter": 1,
+      "narration": "Mereka menunjuk pada satu pola klasik — lahan yang terbakar tahun ini, beberapa tahun kemudian berubah menjadi kebun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_013.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_014",
+      "chapter": 1,
+      "narration": "Api membersihkan hutan dalam hitungan hari; sesuatu yang butuh buldoser berminggu-minggu bisa selesai dengan satu korek api.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_014.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_015",
+      "chapter": 1,
+      "narration": "Dan inilah bagian yang paling menyeramkan dari klaim mereka: api gambut tidak padam — ia membara di bawah tanah berbulan-bulan, menunggu musim kering berikutnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_015.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_016",
+      "chapter": 1,
+      "narration": "Apakah mungkin sebuah bencana sebesar ini dirancang? Ataukah kita hanya mencari kambing hitam atas kegagalan bersama?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_016.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_017",
+      "chapter": 1,
+      "narration": "Kita akan menelusuri jejak-jejaknya satu per satu — dari kanal-kanal tua peninggalan proyek negara hingga ruang sidang pengadilan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_017.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_018",
+      "chapter": 1,
+      "narration": "Bersiaplah: yang akan Anda dengar berikutnya mungkin mengubah cara Anda melihat setiap titik api di peta.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_018.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_019",
+      "chapter": 2,
+      "narration": "Pernahkah Anda bertanya: mengapa cara termurah selalu menjadi cara yang dipilih?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_019.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_020",
+      "chapter": 2,
+      "narration": "Membakar adalah cara membuka lahan termurah yang dikenal manusia — jauh lebih murah daripada menebang dan membersihkan dengan alat berat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_020.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_021",
+      "chapter": 2,
+      "narration": "Satu orang dengan obor bisa membersihkan lahan dalam semalam; pekerjaan yang butuh belasan pekerja dan mesin selama berminggu-minggu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_021.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_022",
+      "chapter": 2,
+      "narration": "Abu sisa pembakaran bahkan menyuburkan tanah untuk sementara — bonus gratis bagi yang menanam setelahnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_022.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_023",
+      "chapter": 2,
+      "narration": "Inilah ekonomi api: ketika hukum melarang membakar, insentif ekonomi justru berbisik sebaliknya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_023.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_024",
+      "chapter": 2,
+      "narration": "Dan Indonesia punya bahan bakar yang nyaris sempurna untuk ekonomi ini: gambut.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_024.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_025",
+      "chapter": 2,
+      "narration": "Indonesia menyimpan sekitar tiga puluh enam persen gambut tropis dunia — tanah yang terbentuk dari ribuan tahun sisa tumbuhan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_025.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_026",
+      "chapter": 2,
+      "narration": "Gambut yang kering bukan tanah biasa — ia adalah bahan bakar padat yang bisa membara tanpa api terlihat di permukaan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_026.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_027",
+      "chapter": 2,
+      "narration": "Sekali kanal drainase membelah kubah gambut, air turun, tanah mengering, dan seluruh kawasan berubah menjadi gudang mesiu raksasa.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_027.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_028",
+      "chapter": 2,
+      "narration": "Api gambut bergerak lambat di bawah tanah — tak terlihat, tak terjangkau air pemadam, dan bisa bertahan berbulan-bulan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_028.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_029",
+      "chapter": 2,
+      "narration": "Para ahli menyebutnya zombie fire: api yang mati di permukaan, hidup di bawah tanah, lalu bangkit lagi saat kemarau tiba.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_029.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_030",
+      "chapter": 2,
+      "narration": "Sekarang bayangkan: siapa yang paling diuntungkan dari lahan yang sudah dibersihkan api secara gratis?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_030.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_031",
+      "chapter": 2,
+      "narration": "Lahan bekas terbakar lebih mudah diklaim, lebih mudah diurus izinnya, dan lebih mudah ditanami — jejak hutan aslinya sudah hilang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_031.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_032",
+      "chapter": 2,
+      "narration": "Inilah inti teori tangan tak terlihat: api bukan tujuan — api adalah alat, dan keuntungan adalah tujuannya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_032.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_033",
+      "chapter": 2,
+      "narration": "Tentu saja, ini baru logika ekonomi — bukan bukti bahwa setiap api disengaja.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_033.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_034",
+      "chapter": 2,
+      "narration": "Tapi logika inilah yang membuat klaim konspirasi ini begitu sulit mati: ia masuk akal di atas kertas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_034.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_035",
+      "chapter": 2,
+      "narration": "Pertanyaannya: apakah ada jejak nyata bahwa pola ini benar-benar terjadi?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_035.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_036",
+      "chapter": 2,
+      "narration": "Kita masuk ke babak bukti — dan bukti pertamanya sudah berusia tiga puluh tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_036.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_037",
+      "chapter": 3,
+      "narration": "Bagaimana jika saya katakan: saluran-saluran yang mengeringkan gambut hari ini digali oleh proyek negara tiga puluh tahun lalu?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_037.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_038",
+      "chapter": 3,
+      "narration": "Tahun seribu sembilan ratus sembilan puluh lima, Presiden Soeharto menandatangani Keputusan Presiden Nomor delapan puluh dua: Proyek Lahan Gambut Sejuta Hektar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_038.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_039",
+      "chapter": 3,
+      "narration": "Targetnya ambisius: mengubah satu juta hektare rawa gambut Kalimantan Tengah menjadi lumbung padi nasional.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_039.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_040",
+      "chapter": 3,
+      "narration": "Untuk itu, kanal-kanal raksasa digali membelah kubah gambut — memotong jantung tanah yang menahan air selama ribuan tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_040.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_041",
+      "chapter": 3,
+      "narration": "Air gambut mengalir keluar melalui kanal; tanah yang tadinya basah berubah menjadi kering dan mudah terbakar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_041.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_042",
+      "chapter": 3,
+      "narration": "Proyek itu gagal total dan dihentikan pada tahun seribu sembilan ratus sembilan puluh delapan — tetapi kanal-kanalnya tetap di sana hingga hari ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_042.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_043",
+      "chapter": 3,
+      "narration": "Organisasi WALHI menyebut kanal-kanal peninggalan proyek inilah penyebab kekeringan gambut Kalimantan Tengah yang tak pernah sembuh.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_043.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_044",
+      "chapter": 3,
+      "narration": "Tiga puluh tahun kemudian, di tanah yang sama itulah titik-titik api terbanyak muncul setiap musim kemarau.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_044.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_045",
+      "chapter": 3,
+      "narration": "Jejak kedua datang dari ruang sidang: Rita Widyasari, Bupati Kutai Kartanegara, divonis sepuluh tahun penjara pada tahun dua ribu delapan belas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_045.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_046",
+      "chapter": 3,
+      "narration": "Ia terbukti menerima gratifikasi seratus sepuluh koma tujuh miliar rupiah dan suap enam miliar rupiah terkait perizinan perusahaan sawit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_046.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_047",
+      "chapter": 3,
+      "narration": "Kasus ini menjadi bukti sah di pengadilan: izin lahan memang bisa diperdagangkan oleh pejabat — dan perusahaan membayar mahal untuk itu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_047.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_048",
+      "chapter": 3,
+      "narration": "Jejak ketiga datang dari negara sendiri: pada Januari dua ribu dua puluh enam, Satgas Penertiban Kawasan Hutan menyita empat juta hektare sawit ilegal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_048.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_049",
+      "chapter": 3,
+      "narration": "Empat juta hektare — luas yang menunjukkan betapa masifnya lahan bermasalah yang selama ini beroperasi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_049.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_050",
+      "chapter": 3,
+      "narration": "Dan jejak keempat adalah musim ini sendiri: seratus empat belas ribu titik panas dalam sebulan, musim terparah dalam sebelas tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_050.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_051",
+      "chapter": 3,
+      "narration": "Bagi para penganut teori konspirasi, rangkaiannya jelas: kanal negara, izin yang diperjualbelikan, lahan disita massal, dan api yang kembali setiap tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_051.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_052",
+      "chapter": 3,
+      "narration": "Mereka berkata: ini bukan kebetulan — ini sistem yang bekerja persis seperti dirancang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_052.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_053",
+      "chapter": 3,
+      "narration": "Bukti-buktinya nyata dan sebagian sudah diuji di pengadilan — sulit untuk menepisnya begitu saja.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_053.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_054",
+      "chapter": 3,
+      "narration": "Namun sebelum Anda memutuskan — ada sisi lain cerita yang wajib didengar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_054.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_055",
+      "chapter": 4,
+      "narration": "Tapi tunggu — bagaimana jika sebagian besar api justru bukan ulah tangan tak terlihat, melainkan tangan-tangan kecil yang terdesak?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_055.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_056",
+      "chapter": 4,
+      "narration": "Para peneliti mengingatkan satu faktor raksasa yang sering dilupakan: El Nino yang memperpanjang musim kemarau hingga berbulan-bulan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_056.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_057",
+      "chapter": 4,
+      "narration": "Pada tahun-tahun El Nino kuat, hujan bisa hilang begitu lama hingga gambut yang sehat sekalipun menjadi rentan terbakar.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_057.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_058",
+      "chapter": 4,
+      "narration": "Dan penyala api di lapangan sering kali bukan korporasi besar — melainkan petani kecil yang membuka dua hektare ladang untuk bertahan hidup.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_058.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_059",
+      "chapter": 4,
+      "narration": "Membakar adalah satu-satunya cara yang mereka mampu — alat berat dan pupuk kimia jauh di luar jangkauan kantong mereka.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_059.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_060",
+      "chapter": 4,
+      "narration": "Klaim bahwa sembilan puluh sembilan persen kebakaran berakar pada aktivitas manusia memang benar — tetapi aktivitas manusia mencakup petani miskin, bukan hanya mafia lahan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_060.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_061",
+      "chapter": 4,
+      "narration": "Negara pun tidak diam: moratorium pembukaan gambut diberlakukan sejak tahun dua ribu sebelas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_061.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_062",
+      "chapter": 4,
+      "narration": "Badan Restorasi Gambut dibentuk tahun dua ribu enam belas — dan ribuan kanal disekat kembali untuk membasahi gambut.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_062.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_063",
+      "chapter": 4,
+      "narration": "Di banyak desa, kelompok Masyarakat Peduli Api dibentuk — warga yang dilatih memadamkan api di halaman belakang mereka sendiri.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_063.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_064",
+      "chapter": 4,
+      "narration": "Upaya-upaya ini menunjukkan hasil: di beberapa wilayah, luas kebakaran menurun dan gambut kembali basah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_064.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_065",
+      "chapter": 4,
+      "narration": "Inilah titik di mana saya ingin mendengar dari Anda — tulis di kolom komentar: menurut pengalaman Anda, api di daerah Anda ulah siapa?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_065.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_066",
+      "chapter": 4,
+      "narration": "Apakah Anda pernah melihat sendiri lahan bekas terbakar yang kemudian berubah menjadi kebun? Ceritakan — komentar Anda adalah data bagi penonton lain.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_066.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_067",
+      "chapter": 4,
+      "narration": "Fakta penyeimbangnya jelas: iklim, kemiskinan, dan upaya negara yang nyata — semuanya berperan dalam cerita ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_067.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_068",
+      "chapter": 4,
+      "narration": "Teori konspirasi cenderung memilih bukti yang cocok dan membuang yang tidak — dan itu jebakan berpikir yang harus kita hindari.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_068.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_069",
+      "chapter": 4,
+      "narration": "Tidak ada satu pun bukti yang menghubungkan langsung setiap titik api dengan satu perintah terpusat.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_069.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_070",
+      "chapter": 4,
+      "narration": "Para ahli hukum pun mengingatkan: korupsi izin yang terbukti di pengadilan tidak sama dengan bukti bahwa setiap kebakaran disengaja.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_070.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_071",
+      "chapter": 4,
+      "narration": "Jadi di mana posisi kita sekarang? Bukti menguatkan ada — bukti penyeimbang pun ada.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_071.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_072",
+      "chapter": 4,
+      "narration": "Dan justru di sinilah bagian tersulitnya dimulai: menarik garis antara keduanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_072.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_073",
+      "chapter": 5,
+      "narration": "Jadi, setelah semua bukti — kebetulan, atau desain? Mari kita rangkum tanpa memutuskan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_073.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_074",
+      "chapter": 5,
+      "narration": "Di satu sisi: kanal tiga puluh tahun yang mengeringkan gambut, izin yang terbukti diperjualbelikan, dan lahan sitaan seluas empat juta hektare.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_074.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_075",
+      "chapter": 5,
+      "narration": "Di sisi lain: El Nino, petani kecil yang terdesak, dan negara yang membangun kembali sekat kanal demi sekat kanal.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_075.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_076",
+      "chapter": 5,
+      "narration": "Kedua sisi punya bukti — dan keduanya tidak bisa saling meniadakan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_076.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_077",
+      "chapter": 5,
+      "narration": "Inilah yang membuat teori tangan tak terlihat begitu abadi: ia hidup di ruang abu-abu di antara fakta-fakta yang nyata.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_077.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_078",
+      "chapter": 5,
+      "narration": "Api gambut mengajarkan satu hal: yang membara di bawah permukaan jauh lebih lama daripada yang terlihat di atasnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_078.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_079",
+      "chapter": 5,
+      "narration": "Mungkin begitu pula kebenaran soal karhutla — yang terlihat hanyalah asapnya, sementara yang membara di bawahnya tak pernah benar-benar kita gali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_079.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_080",
+      "chapter": 5,
+      "narration": "Setiap musim kemarau, peta titik panas kembali menyala — dan setiap tahun pula pertanyaan yang sama kembali: siapa yang menyalakannya?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_080.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_081",
+      "chapter": 5,
+      "narration": "Apakah Anda percaya ini murni bencana alam yang diperparah manusia? Atau ada desain yang bekerja di baliknya?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_081.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_082",
+      "chapter": 5,
+      "narration": "Ataukah jawabannya ada di tengah: sistem yang rusak, insentif yang salah, dan tangan-tangan yang memanfaatkan celahnya?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_082.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_083",
+      "chapter": 5,
+      "narration": "Film ini sengaja tidak memberi kesimpulan — karena kesimpulan yang jujur membutuhkan bukti yang belum kita miliki.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_083.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_084",
+      "chapter": 5,
+      "narration": "Yang bisa kita lakukan adalah terus bertanya, terus mengawasi, dan tidak berhenti pada satu penjelasan yang nyaman.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_084.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_085",
+      "chapter": 5,
+      "narration": "Karena selama pertanyaan siapa yang membakar belum terjawab tuntas, api akan terus kembali setiap tahun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_085.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_086",
+      "chapter": 5,
+      "narration": "Dan setiap tahun, akan selalu ada yang diuntungkan dari abu — entah disengaja atau tidak.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_086.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_087",
+      "chapter": 5,
+      "narration": "Menurut Anda: kebetulan, atau desain? Tulis jawaban Anda di kolom komentar — dan sebutkan dari daerah mana Anda menonton.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_087.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_088",
+      "chapter": 5,
+      "narration": "Jika Anda punya foto atau pengalaman langsung soal titik api di daerah Anda, bagikan — itu bukti yang tak ternilai.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_088.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_089",
+      "chapter": 5,
+      "narration": "Langit Kalimantan akan kembali berubah warna musim depan — pertanyaannya, apakah kita akan kembali bertanya hal yang sama?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_089.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_090",
+      "chapter": 5,
+      "narration": "Saya kembalikan kepada Anda: siapa yang membakar Indonesia setiap tahun? Jawabannya, mungkin, ada di tangan Anda.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv011/output/flow_images/shot_090.png",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,660
+tidak ada satu pun bukti
+
+2
+00:00:01,660 --> 00:00:03,800
+yang menghubungkan langsung setiap titik
+
+3
+00:00:03,800 --> 00:00:06,170
+api dengan satu perintah terpusat
