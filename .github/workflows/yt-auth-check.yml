@@ -14,28 +14,53 @@ jobs:
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
         run: |
+          pip install -q google-auth requests
           python3 - <<'EOF'
           import os, json, urllib.request, urllib.parse, urllib.error
           cid = os.environ["YOUTUBE_CLIENT_ID"]
           sec = os.environ["YOUTUBE_CLIENT_SECRET"]
           rtk = os.environ["YOUTUBE_REFRESH_TOKEN"]
           print("VALUE LENGTHS id/secret/refresh:", len(cid), len(sec), len(rtk))
+
+          token = None
+
+          # Method 1: raw urllib form POST
           data = urllib.parse.urlencode({
               "client_id": cid,
               "client_secret": sec,
               "refresh_token": rtk,
               "grant_type": "refresh_token"}).encode()
           try:
-              tok = json.load(urllib.request.urlopen(
+              token = json.load(urllib.request.urlopen(
                   "https://oauth2.googleapis.com/token", data))["access_token"]
+              print("URLLIB: OK")
           except urllib.error.HTTPError as e:
-              print("TOKEN EXCHANGE FAILED:", e.code,
-                    e.read().decode(errors="replace"))
+              print("URLLIB: FAILED", e.code,
+                    e.read().decode(errors="replace").replace("\n", " "))
+
+          # Method 2: google-auth library (same path youtube_upload.py uses)
+          if token is None:
+              try:
+                  from google.oauth2.credentials import Credentials
+                  from google.auth.transport.requests import Request
+                  creds = Credentials(
+                      token=None, refresh_token=rtk,
+                      token_uri="https://oauth2.googleapis.com/token",
+                      client_id=cid, client_secret=sec)
+                  creds.refresh(Request())
+                  token = creds.token
+                  print("GOOGLEAUTH: OK")
+              except Exception as e:
+                  print("GOOGLEAUTH: FAILED", type(e).__name__, str(e)[:300])
+
+          if token is None:
+              print("RESULT: BOTH METHODS FAILED")
               raise SystemExit(1)
+
           print("ACCESS TOKEN OK")
           req = urllib.request.Request(
               "https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true",
-              headers={"Authorization": f"Bearer {tok}"})
+              headers={"Authorization": f"Bearer {token}"})
           ch = json.load(urllib.request.urlopen(req))
           items = ch.get("items", [])
           print("CHANNEL:", items[0]["snippet"]["title"] if items else "NONE")
