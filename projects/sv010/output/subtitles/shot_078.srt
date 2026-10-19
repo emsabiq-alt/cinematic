@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:02,060
+masyarakat batak memiliki legenda
+
+2
+00:00:02,060 --> 00:00:04,030
+tentang terbentuknya danau ini
+
+3
+00:00:04,060 --> 00:00:05,500
+kisah tentang seorang petani
+
+4
+00:00:05,500 --> 00:00:06,980
+seekor ikan ajaib
+
+5
+00:00:06,980 --> 00:00:09,300
+dan janji yang dilanggar hingga banjir
+
+6
+00:00:09,300 --> 00:00:12,050
+besar menenggelamkan lembah menjadi danau

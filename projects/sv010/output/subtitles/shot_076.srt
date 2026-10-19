@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:01,200
+di tengah danau
+
+2
+00:00:01,200 --> 00:00:02,640
+muncul pulau samosir
+
+3
+00:00:02,640 --> 00:00:05,050
+yang ternyata adalah kubah resurgent
+
+4
+00:00:05,120 --> 00:00:06,700
+lantai kaldera yang terangkat kembali
+
+5
+00:00:06,700 --> 00:00:08,850
+oleh tekanan magma di bawahnya

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,860
+gunung itu mulai gelisah
+
+2
+00:00:01,860 --> 00:00:04,210
+gempa-gempa kecil mengguncang tanah
+
+3
+00:00:04,280 --> 00:00:06,950
+gas beracun merembes dari celah-celah bebatuan

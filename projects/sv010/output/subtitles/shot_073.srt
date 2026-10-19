@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:01,780
+ribuan tahun berlalu
+
+2
+00:00:01,780 --> 00:00:04,270
+kaldera raksasa itu perlahan terisi air hujan

@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,440
+karena raksasa di bawah
+
+2
+00:00:01,440 --> 00:00:02,680
+danau toba masih tidur
+
+3
+00:00:02,680 --> 00:00:04,110
+dan suatu hari
+
+4
+00:00:04,200 --> 00:00:05,450
+ia akan bangun lagi

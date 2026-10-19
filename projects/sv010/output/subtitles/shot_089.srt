@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:02,360
+tulis pendapat anda di kolom komentar
+
+2
+00:00:02,360 --> 00:00:05,380
+apakah teori bencana toba meyakinkan bagi anda
+
+3
+00:00:05,380 --> 00:00:06,940
+atau anda lebih percaya
+
+4
+00:00:06,940 --> 00:00:08,610
+pada bukti danau malawi?

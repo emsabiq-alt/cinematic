@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,460
+tidak ada hutan
+
+2
+00:00:01,460 --> 00:00:02,550
+tidak ada lembah
+
+3
+00:00:02,580 --> 00:00:04,040
+tidak ada kehidupan yang bisa
+
+4
+00:00:04,040 --> 00:00:06,030
+selamat dari sapuan api itu

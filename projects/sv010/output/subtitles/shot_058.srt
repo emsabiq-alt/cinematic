@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,080
+suhu rata-rata global anjlok tiga
+
+2
+00:00:02,080 --> 00:00:04,390
+hingga lima belas derajat celsius

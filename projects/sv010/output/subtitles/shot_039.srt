@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,220
+dalam hitungan jam
+
+2
+00:00:01,220 --> 00:00:02,628
+sekitar dua ribu delapan
+
+3
+00:00:02,628 --> 00:00:04,740
+ratus kilometer kubik batuan abu
+
+4
+00:00:04,740 --> 00:00:07,250
+dan gas panas dimuntahkan ke angkasa

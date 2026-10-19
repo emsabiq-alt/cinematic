@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:03,120
+letusan sebesar ini diperkirakan terjadi sekitar satu
+
+2
+00:00:03,120 --> 00:00:05,530
+kali dalam tiga ratus ribu tahun

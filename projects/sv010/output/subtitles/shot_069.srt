@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,060
+namun tidak semua ilmuwan setuju
+
+2
+00:00:02,060 --> 00:00:04,270
+dan inilah sisi lain kisahnya

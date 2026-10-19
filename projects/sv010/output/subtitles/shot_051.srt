@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,740
+hujan abu bercampur lumpur
+
+2
+00:00:01,740 --> 00:00:03,730
+panas mengguyur tanpa henti
+
+3
+00:00:03,840 --> 00:00:06,670
+menenggelamkan daratan dalam keheningan yang mencekam

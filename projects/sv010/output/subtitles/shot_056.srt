@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,700
+lapisan aerosol itu memantulkan cahaya
+
+2
+00:00:02,700 --> 00:00:04,450
+matahari kembali ke angkasa
+
+3
+00:00:04,600 --> 00:00:06,670
+bumi kehilangan pemanas utamanya

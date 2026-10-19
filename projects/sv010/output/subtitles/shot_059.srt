@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,660
+di daerah tropis yang biasanya hangat
+
+2
+00:00:02,660 --> 00:00:05,450
+udara menjadi dingin menusuk dan tanaman layu
