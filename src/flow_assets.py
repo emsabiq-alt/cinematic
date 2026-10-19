@@ -101,6 +101,51 @@ def pending_shots(project):
     return out
 
 
+def _ensure_image_mode(runner):
+    """Pastikan UI Flow dalam mode Gambar (bukan Video).
+
+    Pelajaran 19 Okt 2026 (sv011): setelah batch video, UI Flow tertinggal
+    di mode Video — batch gambar lalu mengambil poster video sebagai
+    "gambar" dan menunggu selamanya. Cek & perbaiki di awal run.
+    """
+    try:
+        runner.evaluate_js("""
+        (() => {
+            const b = Array.from(document.querySelectorAll('button'))
+                .find(x => /Pemicu setelan/.test(
+                    (x.getAttribute('aria-label') || '') +
+                    (x.innerText || '')));
+            if (b) b.click();
+        })()
+        """)
+        time.sleep(2)
+        clicked = runner.evaluate_js("""
+        (() => {
+            const radios = Array.from(
+                document.querySelectorAll('[role="radio"]'));
+            const vid = radios.find(x => /Video/.test(x.innerText || ''));
+            const img = radios.find(x => /Gambar/.test(x.innerText || ''));
+            if (vid && vid.getAttribute('aria-checked') === 'true' && img) {
+                img.scrollIntoView({block: 'center'});
+                img.click();
+                return 'switched-to-image';
+            }
+            return 'already-image';
+        })()
+        """)
+        print(f"  [mode] Flow image mode: {clicked}", flush=True)
+        time.sleep(1)
+        runner._send("Input.dispatchKeyEvent",
+                     {"type": "rawKeyDown", "windowsVirtualKeyCode": 27,
+                      "unmodifiedText": "", "text": ""})
+        runner._send("Input.dispatchKeyEvent",
+                     {"type": "keyUp", "windowsVirtualKeyCode": 27,
+                      "unmodifiedText": "", "text": ""})
+        time.sleep(0.5)
+    except Exception as e:
+        print(f"  [mode] cek mode gambar dilewati: {e}", flush=True)
+
+
 def regenerate_shot(project, n):
     """Force-regenerate one shot with the locked style, overwriting the old PNG."""
     project, story_path, flow_dir = _paths(project)
@@ -138,6 +183,7 @@ def run_assets(project, delay=14, limit=None):
         return {"generated": 0, "failed": [], "total": len(shots)}
 
     runner = connect_runner()
+    _ensure_image_mode(runner)
     try:
         for i, s in enumerate(todo):
             png = flow_dir / f"{s['id']}.png"
