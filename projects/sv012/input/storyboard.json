@@ -50,7 +50,7 @@
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow tracking shot past bodies lying motionless on a village path at dawn, morning mist curling around them, unbearable stillness, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow tracking shot along an empty village path at dawn, fallen grain bowls and a toppled stool left behind, morning mist curling low over cassava fields, unbearable stillness, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_006",
@@ -110,7 +110,7 @@
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow push-in on a crater lake with disturbing reddish-brown water, dead fish floating near the shore, crater walls looming under sickly light, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow push-in on a crater lake with strange reddish-brown water, crater walls looming under sickly pale light, an unnatural silence hanging over the shore, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_012",
@@ -270,7 +270,7 @@
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Aerial shot over a small crater lake in forested highlands, morning mist, a smaller and quieter twin of a killer lake, 35mm film grain, 10 seconds"
+   "video_prompt": "Aerial shot over a small crater lake in forested highlands, morning mist, a smaller and quieter twin lake, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_028",
@@ -330,7 +330,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Invisible heavy gas pouring over a sleeping village like an unseen flood, only the bending grass reveals it, night, terrifying subtlety, 35mm film grain, 10 seconds"
+   "video_prompt": "Invisible heavy mist creeping over a quiet village at night like a slow unseen tide, only the bending grass reveals its path, deep silence, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_034",
@@ -350,7 +350,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow tracking shot of a faint shimmering gas river hugging the ground as it flows down a dark valley at night, swallowing the grass, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow tracking shot of a faint shimmering mist river hugging the ground as it flows down a dark valley at night, covering the grass, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_036",
@@ -360,7 +360,7 @@
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "High aerial shot of a perfectly calm crater lake at twilight, glassy surface hiding deadly pressure below, the last quiet moment, 35mm film grain, 10 seconds"
+   "video_prompt": "High aerial shot of a perfectly calm crater lake at twilight, glassy surface hiding immense pressure below, the last quiet moment, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_037",
@@ -400,7 +400,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Time-lapse style shot of a massive gas cloud erupting upward from a lake at terrifying speed, engulfing the crater rim, 35mm film grain, 10 seconds"
+   "video_prompt": "Time-lapse style shot of a massive gas cloud erupting upward from a lake at astonishing speed, engulfing the crater rim, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_041",
@@ -420,7 +420,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow aerial following a heavy fog-like gas cloud rushing down branching valleys at dawn, swallowing everything, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow aerial following a heavy fog-like cloud pouring down branching valleys at dawn, covering the slopes, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_043",
@@ -430,7 +430,7 @@
    "shot_type": "SATELLITE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Satellite-style zoom-out over a 25-kilometer circle of silent valleys around a crater lake, a perfect circle of devastation, 35mm film grain, 10 seconds"
+   "video_prompt": "Satellite-style zoom-out over a 25-kilometer circle of silent valleys around a crater lake, a perfect circle of stillness, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_044",
@@ -460,7 +460,7 @@
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Violent close-up of churning white foam and exploding water on a lake surface, massive turbulence, deafening visual chaos, 35mm film grain, 10 seconds"
+   "video_prompt": "Dramatic close-up of churning white foam and bursting water on a lake surface, massive turbulence, powerful visual energy, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_047",
@@ -540,7 +540,7 @@
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Aerial view of lake water violently overturning, deep black water surging to the surface in roiling patches, 35mm film grain, 10 seconds"
+   "video_prompt": "Aerial view of lake water powerfully overturning, deep black water surging to the surface in roiling patches, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_055",
@@ -550,7 +550,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Research team in boats on a brown crater lake urgently deploying instruments, 1980s gear, overcast sky, race against the next disaster, 35mm film grain, 10 seconds"
+   "video_prompt": "Research team in boats on a brown crater lake urgently deploying instruments, 1980s gear, overcast sky, a race against time, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_056",
@@ -660,7 +660,7 @@
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Aerial following a river valley from a crater lake toward distant Nigerian plains, potential catastrophic flood path, 35mm film grain, 10 seconds"
+   "video_prompt": "Aerial following a river valley from a crater lake toward distant Nigerian plains, the long river path below, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_067",
@@ -670,7 +670,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow lateral pan across a split scene: a gas cloud rising from dark water on one side, a collapsing dam with flood on the other, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow lateral pan across a split scene: a mist cloud rising from dark water on one side, a cracked dam wall with rushing water on the other, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_068",
@@ -710,7 +710,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow push-in on a bustling African lakeside town, markets and boats along the shore, two million lives beneath deep water, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow push-in on a bustling African lakeside town, markets and boats along the shore, life thriving beside deep water, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_072",
@@ -760,7 +760,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "A controlled methane flame jetting from lake water at night, blue fire on black water, beautiful and terrifying, 35mm film grain, 10 seconds"
+   "video_prompt": "A controlled methane flame jetting from lake water at night, blue fire on black water, beautiful and mesmerizing, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_077",
@@ -870,7 +870,7 @@
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
-   "video_prompt": "Slow push-in on a quiet memorial stone by a crater lake among green hills, seventeen hundred forty-six lives remembered in silence, 35mm film grain, 10 seconds"
+   "video_prompt": "Slow push-in on a quiet memorial stone by a crater lake among green hills, flowers resting at its base in silence, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_088",
