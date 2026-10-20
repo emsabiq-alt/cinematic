@@ -1,0 +1,816 @@
+{
+ "style": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 volcanic mystery documentary, ash and deep time",
+ "description": "Storyboard 90 shot untuk dokumenter SAMALAS 1257: Gunung di Lombok yang Menghilang — Letusan Misteri Terbesar dalam 7.000 Tahun. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar.",
+ "shots": [
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_001",
+   "media": "video",
+   "narration": "Pada musim panas tahun seribu dua ratus lima puluh delapan, langit Eropa menggelap tanpa peringatan dan hawa dingin menyelimuti ladang-ladang yang seharusnya bersinar terang di bawah matahari.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic drone push-in over a darkened medieval valley beneath churning grey storm clouds, drifting toward a lone stone church spire, cold blue-grey light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, vast dark storm sky swallowing a medieval European valley at dusk, heavy grey cloud banks rolling low over patchwork fields, a lone stone church spire piercing the gloom, cold desaturated blue-grey palette, volumetric light through torn clouds. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_002",
+   "media": "image",
+   "narration": "Di dalam biara-biara batu yang sunyi, para penulis kronik menekuni lilin dan perkamen, mencatat dengan heran bahwa musim panas tahun itu terasa seperti musim gugur yang enggan pergi dari tanah mereka.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, weathered monk hands writing in a parchment chronicle inside a dim stone scriptorium, flickering candlelight carving deep shadows across desk and ink pot, hooded figure blurred behind, rain-streaked window, warm amber glow against cold stone. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_003",
+   "media": "video",
+   "narration": "Hujan turun nyaris tanpa henti selama berminggu-minggu, membanjiri alur-alur tanah dan membusukkan bulir gandum yang masih muda, sementara para petani hanya bisa berdiri pasrah menatap ladang mereka.",
+   "shot_type": "WIDE",
+   "video_prompt": "Slow lateral tracking shot across rain-soaked medieval wheat fields under a leaden sky, water pooling between furrows, wind bending young stalks, distant peasants standing motionless, cold wet light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, endless rain-drenched medieval wheat fields under a heavy leaden sky, water pooling between muddy furrows, wind-bent young stalks glistening, tiny peasant silhouettes at the field edge, cold desaturated greens and greys, rain dissolving the horizon. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_004",
+   "media": "image",
+   "narration": "Di pasar-pasar desa, keranjang dagangan kian hari kian kosong dan harga gandum melambung tak terkendali, hingga kelaparan mulai mengetuk pintu rumah-rumah sederhana yang tak menyimpan cadangan apa pun.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, nearly empty medieval village market square under a grey overcast sky, overturned wooden baskets and bare stalls, gaunt villagers in rough wool cloaks huddling together, half-timbered houses leaning over cobblestones, muted browns and greys. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_005",
+   "media": "video",
+   "narration": "Dari atas menara kota yang menjulang, para penjaga menyaksikan langit kelabu menggantung rendah berbulan-bulan lamanya, seolah matahari telah kehilangan tenaganya dan enggan menyinari dunia.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow aerial orbit around a medieval town tower under a low oppressive grey sky, circling past rooftops and drifting smoke, sunken sun glowing faintly through haze, cold muted light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, aerial orbit around a tall medieval stone watchtower, clustered slate rooftops of an old town below, thin smoke drifting sideways, a pale sunken sun glowing faintly through thick haze, cold muted blue-grey tones, oppressive low cloud ceiling. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_006",
+   "media": "image",
+   "narration": "Berabad-abad kemudian, para ilmuwan menemukan kesaksian lain yang terukir di dalam kayu: lingkaran tahun pohon di banyak belahan dunia menunjukkan pertumbuhan yang terhambat pada masa itu.",
+   "shot_type": "DETAIL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, careful hands holding a brass magnifier over a polished ancient tree cross-section in a warm study, concentric growth rings with strikingly narrow bands, scattered shavings and field notebooks on an oak desk, golden lamplight against deep shadow. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_007",
+   "media": "video",
+   "narration": "Di lereng-lereng yang jauh, hutan-hutan tumbuh dengan susah payah dan cabang-cabangnya tampak kurus, seolah seluruh alam sedang menahan napas dalam dingin yang tak wajar dan berkepanjangan.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic drone gliding over a sparse struggling mountain forest, thin pale trees clinging to misty slopes, low clouds snagging on ridgelines, cold desaturated light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, vast sparse mountain forest of thin pale trees clinging to misty slopes, low clouds snagging on dark ridgelines, stunted canopy revealing bare rock, cold desaturated green-grey palette, drifting fog between trunks, melancholic stillness. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_008",
+   "media": "image",
+   "narration": "Irisan melintang batang pohon yang berusia ratusan tahun memperlihatkan garis-garis sempit yang berjejer rapat, catatan bisu dari tahun-tahun ketika langit menolak memberi kehangatan kepada bumi.",
+   "shot_type": "MACRO",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, extreme macro of an ancient tree trunk cross-section, tight clusters of narrow growth rings like frozen ripples, rich amber wood grain with deep shadowed grooves, raking side light revealing every ridge, shallow depth of field fading to darkness. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_009",
+   "media": "video",
+   "narration": "Lonceng-lonceng gereja berdentang sayup di tengah kabut tebal, dan penduduk berlutut memohon ampun, yakin bahwa kegelapan yang menyelimuti dunia adalah tanda murka langit atas dosa manusia.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow crane descending through thick fog toward a medieval stone church, bell tower emerging from mist, tiny kneeling figures in the churchyard below, cold diffused light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, medieval stone church half-swallowed by thick rolling fog, tall bell tower emerging from the mist, tiny dark figures kneeling in the churchyard, bare twisted trees framing the scene, cold diffused grey light, heavy mournful silence. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_010",
+   "media": "image",
+   "narration": "Tak seorang cendekiawan pun pada zaman itu mampu menjelaskan mengapa musim panas bisa sedingin itu, sebab pengetahuan tentang langit dan bumi masih terbungkus kabut takhayul yang sangat pekat.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, close portrait of an elderly medieval scholar in a dark wool hood, weathered face lit by a single candle flame, troubled eyes staring into the distance, stacked manuscripts and an astrolabe blurred behind, warm flicker against deep shadow. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_011",
+   "media": "video",
+   "narration": "Musim berganti musim dan tahun berganti tahun, namun kenangan tentang tahun tanpa musim panas itu tetap hidup, diwariskan dari mulut ke mulut sebagai legenda masa ketika dunia hampir kehilangan cahayanya.",
+   "shot_type": "TIMELAPSE",
+   "video_prompt": "Cinematic timelapse of brooding grey clouds racing over a medieval stone castle, light shifting from dim dawn to darker dusk, banners whipping in wind, dramatic sky movement, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, storm clouds streaking over a medieval stone castle on a cliff, banners whipping sideways in fierce wind, half-lit battlements against a turbulent sky, cold steel-grey and slate tones, motion-blurred clouds conveying the rush of passing seasons. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_012",
+   "media": "image",
+   "narration": "Para sejarawan modern menelusuri kembali catatan-catatan tua itu dan menemukan pola yang sama di banyak negeri: langit yang redup, panen yang gagal, dan kelaparan yang datang tanpa peringatan apa pun.",
+   "shot_type": "DETAIL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, towering archive hall of ancient chronicles and scrolls, dust motes drifting through a single shaft of window light, endless wooden shelves receding into darkness, a lone ladder leaning against the stacks, warm amber beam against deep brown shadow. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_013",
+   "media": "video",
+   "narration": "Namun satu teka-teki besar tak kunjung terpecahkan: bencana sebesar apa yang sanggup membuat seluruh planet jatuh sakit, padahal tak ada gunung berapi yang tercatat meletus pada masa itu?",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic drone push-in toward a dark brooding horizon over an empty grey sea, heavy clouds pressing down on the water, no land in sight, cold ominous light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, vast empty grey sea stretching to a dark brooding horizon, heavy storm clouds pressing down onto black water, faint cold light breaking along the cloud line, no ship and no land in sight, deep blue-grey palette, profound unsettling emptiness. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_014",
+   "media": "image",
+   "narration": "Para ilmuwan memetakan setiap letusan besar yang dikenal dalam sejarah, tetapi tak satu pun yang cocok dengan skala kegelapan global sebagaimana terekam dalam kronik-kronik abad pertengahan.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, wide rolling green highlands under a heavy grey sky, smooth empty horizon with no mountain in sight, wind-combed grass and scattered dark stones, cold muted emerald and slate tones, thin mist lying in the valleys, eerie calm. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_015",
+   "media": "video",
+   "narration": "Misteri itu terkubur sangat lama dalam debu arsip yang sunyi dan lapisan zaman, menunggu seseorang yang berani menghubungkan titik-titik yang selama ini terpisah sangat jauh.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow aerial orbit over a tranquil tropical bay ringed by green hills, turquoise water under a thin overcast veil, gentle waves lapping a dark sand shore, mysterious calm, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, sweeping aerial view of a tranquil tropical bay ringed by lush green hills, turquoise water beneath a thin overcast veil, gentle waves lapping a dark volcanic sand shore, soft diffused light, quiet mysterious calm hiding an ancient secret. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_016",
+   "media": "image",
+   "narration": "Hingga akhirnya, dari sebuah pulau tropis nun jauh di timur, muncul petunjuk yang mengejutkan tentang gunung raksasa yang pernah berdiri megah lalu lenyap tanpa jejak yang jelas.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, tropical island shoreline at hazy dawn, dark palm silhouettes leaning over calm water, a conspicuously flat empty horizon where a great mountain should rise, soft golden-grey light in humid air, lingering mist over the treeline, haunting absence. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "duration_hint": 10,
+   "id": "shot_017",
+   "media": "video",
+   "narration": "Gunung itu bernama Samalas, dan letusannya pada tahun seribu dua ratus lima puluh tujuh disebut sebagai yang terbesar dalam tujuh ribu tahun terakhir sejarah peradaban manusia.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow lateral tracking drone shot through low fog over dark fields toward a distant vanished mountain silhouette, mist parting to reveal empty sky, cold dawn light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, low fog drifting over dark Lombok fields toward a ghostly vanished mountain silhouette, mist parting to reveal empty pale sky, faint cold dawn light on wet grass, deep teal and grey palette, spectral quiet. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_018",
+   "media": "image",
+   "narration": "Kini, tujuh abad kemudian, satu pertanyaan masih menggantung di udara: bencana apa yang mampu membuat seluruh planet jatuh sakit tanpa meninggalkan jejak gunung yang jelas bagi dunia?",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 medieval climate mystery documentary, lone small figure on a windswept hill crest gazing at a vast darkened horizon, torn clouds glowing faintly at the edges, endless shadowed landscape below, cold blue-grey twilight, powerful sense of scale and solitude. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_019",
+   "media": "video",
+   "narration": "Di kedalaman es Greenland dan Antarktika, para ilmuwan menemukan jejak kimia yang membuat mereka terdiam — lonjakan sulfat vulkanik terbesar yang tercatat dalam tujuh ribu tahun.",
+   "shot_type": "DETAIL",
+   "video_prompt": "Slow cinematic push-in through a vast Antarctic ice drilling hall as scientists extract a glowing ice core cylinder, frost vapor curling through pale blue arctic light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, Antarctic ice drilling hall glowing in blue arctic light, scientists in orange parkas guiding a drill extracting a luminous ice core cylinder, cold vapor curling through shafts of light, translucent ice layers shimmering like ancient glass. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_020",
+   "media": "image",
+   "narration": "Silinder es yang diangkat dari gletser itu menyimpan arsip langit masa lalu — setiap lapis tipis adalah satu tahun, dan satu lapis di antaranya menyimpan ledakan raksasa tanpa nama.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, cold laboratory interior, two scientists in white thermal suits leaning over an ice core segment under fluorescent light, steel tables, magnifying lamps revealing dark volcanic dust bands within crystal ice, meticulous scientific scrutiny. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_021",
+   "media": "video",
+   "narration": "Sinyal yang sama muncul di dua kutub bumi — Greenland dan Antarktika — dan itu hanya punya satu makna: gunung yang meletus berdiri di suatu tempat di kawasan tropis.",
+   "shot_type": "WIDE",
+   "video_prompt": "Slow cinematic orbit around a glowing world map in a dark research station, twin ice core samples on a lit table, holographic polar visuals drifting above, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, dim research station control room with a glowing world map, twin ice core samples resting side by side on a lit steel table, faint holographic polar ice visuals floating above, deep blue cinematic gloom, planetary-scale revelation. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_022",
+   "media": "image",
+   "narration": "Di laboratorium geokimia, sidik jari itu dibaca dengan teliti — komposisi belerang dan aerosol vulkanik mengarah pada satu letusan kolosal, tetapi pelakunya sama sekali tak dikenal.",
+   "shot_type": "DETAIL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, geochemistry laboratory at night, mass spectrometer machine humming beside racked ice core vials, glowing abstract data spikes on monitors, a scientist's gloved hand holding a vial against the light, green and blue instrument glow in darkness. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_023",
+   "media": "video",
+   "narration": "Penanggalan lapisan es mematok waktu kejadian dengan presisi mengejutkan — sekitar seribu dua ratus lima puluh delapan — namun daftar gunung tropis raksasa era itu justru kosong.",
+   "shot_type": "MACRO",
+   "video_prompt": "Slow cinematic macro tracking along an ice core cross-section, annual layers passing like tree rings until a dark ash band glows ominously, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, dramatic macro view of an ice core cross-section under low side lighting revealing fine annual layers like tree rings, one dark ash band glowing ominously, shallow depth of field, laboratory darkness beyond, time frozen in crystal. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_024",
+   "media": "image",
+   "narration": "Para glasiolog, vulkanolog, dan klimatolog memeras otak selama lebih dari tiga dekade — buktinya sedahsyat itu, tetapi peta gunung berapi dunia tak menyimpan tersangka yang cocok.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, conference room filled with scientists studying scattered ice core charts and world maps, hands on heads in contemplation, warm tungsten desk lamps against window light, decades of research folders stacked high, heavy intellectual stalemate. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_025",
+   "media": "video",
+   "narration": "Kandidat pertama pun diajukan — Okataina di Selandia Baru — namun penanggalan letusannya meleset jauh dari waktu yang ditunjukkan lapisan es, dan ia pun gugur dari daftar.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic drone push-in over the Okataina volcanic complex under brooding storm clouds, geothermal steam rising, an investigative marker dissolving away, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, aerial view of the Okataina volcanic complex in New Zealand under brooding storm clouds, geothermal steam rising from crater lakes, a faint red investigative marker dissolving over the landscape, moody overcast light, a suspect being dismissed. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_026",
+   "media": "image",
+   "narration": "El Chichon di Meksiko sempat menjanjikan karena kimia sulfur vulkaniknya terasa mirip, tetapi usianya terlalu muda — ia meletus pada abad kedua puluh, bukan abad ketiga belas.",
+   "shot_type": "DRONE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, El Chichon crater in Mexico at golden dusk, sulfurous turquoise lake glowing inside the ash-gray caldera, drifting volcanic mist catching amber light, tropical forest slopes below, beautiful yet geologically too young, quiet elimination mood. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_027",
+   "media": "video",
+   "narration": "Quilotoa di Ekuador menjadi harapan ketiga para peneliti, tetapi sidik jari geokimianya pun ternyata tak cocok — tiga tersangka terbesar itu akhirnya gugur satu demi satu.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic aerial orbit around Quilotoa crater lake mirroring dramatic Andean clouds, wind rippling the emerald surface, cold high-altitude light, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, Quilotoa crater lake in Ecuador mirroring dramatic Andean clouds, emerald water ringed by jagged mineral-stained cliffs, thin wind rippling the surface, cold high-altitude light, a place of beauty ruled out by its chemical fingerprint. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_028",
+   "media": "image",
+   "narration": "Dekade demi dekade berlalu dalam kebuntuan total — makalah demi makalah terbit, teori demi teori runtuh, dan misteri gunung tak dikenal itu tetap membeku di dalam es.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, archive corridor with towering shelves of bound journals and ice core logbooks under dim greenish fluorescent light, a single desk lamp glowing on scattered rejected theories, dust motes drifting, weight of decades of failure. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_029",
+   "media": "video",
+   "narration": "Di Paris, seorang peneliti Prancis bernama Franck Lavigne dari Universitas Pantheon Sorbonne yang bergengsi memutuskan mendekati misteri ini seperti sebuah investigasi kriminal.",
+   "shot_type": "DETAIL",
+   "video_prompt": "Slow cinematic lateral tracking across a Paris researcher's night office, camera gliding past a cork investigation board of ice core photographs and charts, rain streaking the windows, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, Paris university office at night, a determined researcher pinning ice core photographs and chemical charts onto a cork investigation board, desk lamp cutting warm light through the darkness, rain streaking windows, noir detective atmosphere. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_030",
+   "media": "image",
+   "narration": "Ia memimpin tim internasional dengan pola pikir detektif — mereka tidak tahu siapa pelakunya, tetapi mereka tahu persis kapan kejadiannya dan mereka memegang sidik jarinya.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, laboratory meeting room with scientists of many nationalities gathered around a backlit table of ice core samples, laptops and core scanners glowing, a world map projected on the wall behind them, focused collaborative energy in blue light. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_031",
+   "media": "video",
+   "narration": "Sidik jari itu adalah sinyal geokimia di inti es — jejak sulfur dan aerosol yang unik — dan Lavigne yakin jejak itulah yang akan menuntun mereka pada gunung yang bertanggung jawab.",
+   "shot_type": "MACRO",
+   "video_prompt": "Slow cinematic push-in on a glowing chemical spike igniting like embers along a rotating ice core cylinder in a dark laboratory, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, close-up of a glowing chemical spike igniting like embers along the surface of a rotating ice core cylinder, data points flaring in sequence, dark laboratory background, forensic revelation rendered as light, electric documentary tension. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_032",
+   "media": "image",
+   "narration": "Timnya membedah ulang setiap data dengan kacamata forensik — membandingkan rasio kimia, menghitung ulang penanggalan, dan menyisir sabuk vulkanik tropis satu per satu.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, gloved hands comparing ice core segments against a tropical world map spread on a table, circles narrowing onto the equatorial belt, chemical sample vials lined up like evidence, warm spotlight over cool shadows, investigative precision. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_033",
+   "media": "video",
+   "narration": "Peta penyelidikan menyempit pada kawasan tropis — zona tempat abu letusan bisa tersebar ke dua kutub — dan sebuah kepulauan di Asia Tenggara mulai menarik perhatian mereka.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic drone glide over the Indonesian archipelago at dawn, emerald islands across a turquoise sea, thin volcanic plumes on the horizon, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, satellite-style aerial view of the Indonesian archipelago at dawn, emerald islands scattered across a glowing turquoise sea, thin volcanic plumes on the horizon, golden light breaking through monsoon clouds, a region about to take center stage. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_034",
+   "media": "image",
+   "narration": "Indonesia — negeri cincin api paling aktif di planet ini — masuk radar para peneliti, dan satu pulau di timur Bali menyimpan rahasia besar yang selama ini terlewatkan dunia.",
+   "shot_type": "DRONE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, dramatic volcanic ridgeline of the Indonesian ring of fire at blue hour, smoking cones receding into misty layers, last orange light on the horizon, silhouetted palm forest in the foreground, majestic and menacing atmosphere. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "duration_hint": 10,
+   "id": "shot_035",
+   "media": "video",
+   "narration": "Lombok — pulau kecil berdanau kawah raksasa bernama Segara Anak — belum pernah masuk daftar tersangka, padahal kalderanya berbisik tentang letusan purba yang dahsyat.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic aerial descent toward Segara Anak crater lake inside a colossal ancient caldera on Lombok, morning mist parting, god rays over jade water, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, aerial view of Segara Anak crater lake on Lombok cradled inside a colossal ancient caldera, jade water glowing beneath clouds, a perfect volcanic cone rising from the lake, morning mist and god rays, breathtaking scale of a forgotten giant. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_036",
+   "media": "image",
+   "narration": "Jejak es telah menunjuk arah dan sidik jari telah dipegang erat — kini para pemburu misteri terbang menuju satu titik di peta yang akan mengubah sejarah vulkanologi.",
+   "shot_type": "MACRO",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 ice core mystery investigation documentary, detective-style close-up of a brass magnifying glass hovering over a weathered map of Southeast Asia, a single island circled in red, warm lamplight pooling on old paper, deep shadows at the frame edges, the moment before the truth surfaces. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_037",
+   "media": "video",
+   "narration": "Setelah bertahun-tahun menemui jalan buntu, para ilmuwan akhirnya mempersempit pencarian ke satu negeri: Indonesia, negeri yang dijaga oleh sekitar seratus tiga puluh gunung berapi aktif.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic drone push-in over the Indonesian archipelago at golden hour, gliding toward a smoking volcanic island on the horizon, amber clouds, mist drifting over turquoise seas, epic scale, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok documentary investigation, sweeping golden-hour aerial vista of the Indonesian archipelago, emerald volcanic islands scattered across turquoise seas, thin mist curling around smoking distant peaks, dramatic amber clouds, hazy atmospheric depth, rich analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_038",
+   "media": "image",
+   "narration": "Dari ketinggian luar angkasa, para peneliti memburu gunung berkaldera besar lewat citra satelit canggih, memindai ribuan kilometer sabuk api nusantara demi satu jejak raksasa yang hilang.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok mystery documentary, volcanology mission control bathed in monitor glow, giant satellite maps of Indonesia projected on dark walls, glowing markers circling giant calderas, silhouetted analysts studying imagery, cold blue light, tense investigative mood, deep shadows, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_039",
+   "media": "video",
+   "narration": "Tujuh kandidat pun tersusun di meja penyelidikan mereka; tujuh gunung berapi dari seluruh kepulauan yang masing-masing diduga pernah meletus dahsyat pada masa silam yang telah terlupakan.",
+   "shot_type": "WIDE",
+   "video_prompt": "Slow cinematic lateral tracking shot across a dark investigation desk, gliding over volcano photographs, topographic maps and red string linking seven marked sites across Indonesia, moody lamplight, shallow depth of field, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok investigation documentary, moody close view of a wooden desk covered in volcano photographs, topographic maps and red string linking seven marked sites across Indonesia, warm lamplight pooling on paper, shallow depth of field, dust in the air, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_040",
+   "media": "image",
+   "narration": "Namun pada akhirnya hanya satu pulau yang memenuhi semua syarat itu: Lombok, pulau kecil yang tampak begitu tenang, menyimpan rahasia terbesar dalam sejarah panjang vulkanologi modern dunia.",
+   "shot_type": "DRONE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok documentary, breathtaking high aerial of Lombok island at sunrise, lush green ridges rolling to pristine coastlines, soft golden light breaking through low clouds, long shadows across valleys, turquoise shallows ringing the shore, serene yet mysterious, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_041",
+   "media": "video",
+   "narration": "Di seluruh wilayahnya terhampar ladang batu apung yang luas, sisa ledakan purba yang jelas terlalu besar untuk bisa dijelaskan oleh gunung yang masih berdiri tegak hingga hari ini.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic drone glide over vast gray pumice stone fields stretching across Lombok hills to the horizon, wind rippling sparse grass, ancient volcanic debris plains under dramatic clouds, desolate timeless mood, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok documentary, vast gray pumice stone fields stretching across rolling Lombok hills to the horizon, wind rippling through sparse dry grass, ancient volcanic debris plains under dramatic clouds, pale harsh daylight, desolate timeless mood, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_042",
+   "media": "image",
+   "narration": "Di jantung pulau itu terbentang kaldera raksasa berukuran delapan kali enam kilometer, yang kini telah terisi air dan berubah menjadi Danau Segara Anak yang begitu memesona dan misterius.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok documentary, staggering aerial of Danau Segara Anak crater lake, turquoise water cradled inside a colossal volcanic caldera, steep ridges glowing in warm afternoon light, a small smoking cone rising from the lake, wisps of cloud drifting over the rim, sublime scale, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_043",
+   "media": "video",
+   "narration": "Kaldera raksasa itu berdiri di kompleks Gunung Rinjani, gunung berapi tertinggi kedua di Indonesia; dan puncak yang gagah menjulang itu ternyata bukanlah puncak aslinya sama sekali.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic aerial orbit around Mount Rinjani at dawn, revealing the vast turquoise Segara Anak caldera lake far below, golden light washing volcanic ridges, clouds swirling inside the ancient crater, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok Rinjani documentary, majestic dawn view of Mount Rinjani summit ridge above a sea of clouds, golden light igniting volcanic rock, the vast Segara Anak caldera hinted below, drifting mist, razor-sharp ridgelines, overwhelming natural power, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_044",
+   "media": "image",
+   "narration": "Tim Franck Lavigne memulai beberapa ekspedisi ilmiah ke Lombok sejak tahun dua ribu dua belas, menggali tanah pulau itu lapis demi lapis dengan ketelitian yang sungguh luar biasa.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok field expedition documentary, geologists in wide-brimmed hats digging a deep trench into volcanic soil, exposed strata of dark ash and pumice layers, worn tools and sample bags scattered around, tropical hillside, warm documentary daylight, grounded scientific realism, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_045",
+   "media": "video",
+   "narration": "Mereka menemukan arang yang hangus dan lapisan debris vulkanik yang sangat tebal, bukti nyata bahwa api pernah melahap pulau ini dalam amukan dahsyat yang sungguh tak terbayangkan.",
+   "shot_type": "MACRO",
+   "video_prompt": "Slow cinematic macro push-in on a fresh excavation trench wall, dark volcanic ash strata and embedded charred wood fragments in razor detail, a geologist brush sweeping dust in raking side light, forensic intensity, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok documentary, extreme close view of a fresh excavation trench wall, stark horizontal strata of black volcanic ash and gray pumice, embedded charred wood fragments, a soft brush sweeping dust aside, raking side light revealing texture, forensic intensity, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_046",
+   "media": "image",
+   "narration": "Namun petunjuk penentu tidak lahir dari laboratorium canggih mana pun, melainkan dari lembaran daun lontar berusia berabad-abad: sebuah naskah kuno yang bernama Babad Lombok.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok Babad Lombok ancient manuscript documentary, intimate close-up of fragile dried palm-leaf lontar pages, carved Old Javanese script catching warm lamplight, darkened edges and cracks of age, shallow depth of field, reverent museum stillness, golden shadows, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_047",
+   "media": "video",
+   "narration": "Naskah itu ditulis dalam bahasa Jawa Kuno dengan tinta hitam di atas daun lontar yang sangat rapuh, menuturkan kisah dahsyat yang selama ini hanya dianggap sekadar dongeng belaka.",
+   "shot_type": "DETAIL",
+   "video_prompt": "Slow cinematic crane down over ancient lontar palm-leaf manuscript pages, carved Old Javanese script catching warm lamplight, a scholar hand turning fragile leaves, dust motes drifting in window light, hushed reverence, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Babad Lombok ancient manuscript documentary, delicate lontar palm leaves laid on dark cloth, etched Old Javanese characters filled with black pigment, a scholar hand gently turning a brittle page, dust motes drifting through a shaft of window light, hushed archival reverence, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_048",
+   "media": "image",
+   "narration": "Naskah kuno itu ditemukan di sebuah perpustakaan tua nan megah di Belanda, terbawa jauh dari tanah asalnya selama masa kolonial yang panjang dan meninggalkan luka sejarah yang dalam.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Babad Lombok colonial archive documentary, towering dark wooden shelves of an old Dutch library, thousands of aged manuscripts and bound volumes, tall arched windows casting long shafts of pale light, dust hanging in the air, a lone figure between the stacks, solemn timeless atmosphere, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_049",
+   "media": "video",
+   "narration": "Babad Lombok mencatat dengan sangat gamblang: sebuah letusan dahsyat mengguncang seluruh pulau, langit berubah menjadi gelap gulita, dan gunung yang megah itu runtuh dalam sekejap mata.",
+   "shot_type": "TIMELAPSE",
+   "video_prompt": "Slow cinematic time-lapse of a colossal volcanic eruption column rising over Lombok, sky churning black with lightning, glowing ash cloud swallowing the sun, burning horizon below, overwhelming cataclysm, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok eruption documentary, apocalyptic volcanic eruption column towering over Lombok, sky churning black with forked lightning, glowing ash cloud swallowing the sun, burning horizon, silhouettes of ancient rooftops below, overwhelming cataclysmic power, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_050",
+   "media": "image",
+   "narration": "Gunung Samalas hancur berkeping-keping dan Kerajaan Lombok kuno pun musnah seketika; ibukotanya, Pamatan, terkubur hidup-hidup di bawah endapan abu vulkanik yang sangat tebal.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok lost kingdom documentary, haunting aftermath of a collapsed volcano, jagged crater rim under an ash-gray sky, ancient stone walls and carved gateways half-buried in deep gray deposits, uprooted palms, lifeless silence, cold desaturated palette, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_051",
+   "media": "video",
+   "narration": "Sebuah peradaban lenyap dalam sekejap mata, menyisakan hanya baris-baris lontar kuno sebagai saksi bisu dari bencana terbesar yang pernah melanda seluruh kepulauan nusantara.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic drone push-in over ash-buried ancient stone ruins emerging from jungle, broken carved walls half-swallowed by gray volcanic deposits, morning mist threading between stones, haunting forgotten grandeur, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok forgotten Pompeii documentary, ash-buried ancient stone ruins emerging from encroaching jungle, broken carved walls half-swallowed by gray volcanic deposits, morning mist threading between mossy stones, eerie forgotten grandeur, soft diffused light, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_052",
+   "media": "image",
+   "narration": "Pada September tahun dua ribu tiga belas, temuan monumental itu terbit di jurnal ilmiah PNAS, dan misteri yang membingungkan dunia sains selama tiga dekade resmi terpecahkan sudah.",
+   "shot_type": "DETAIL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok PNAS breakthrough documentary, close view of an open scientific journal on a wooden desk, dense research pages beside a glowing laptop showing the Segara Anak caldera, reading glasses and coffee cup, quiet triumph of discovery, warm focused lamplight, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "duration_hint": 10,
+   "id": "shot_053",
+   "media": "video",
+   "narration": "Untuk pertama kalinya dalam sejarah, dunia mengetahui nama sang raksasa yang hilang: Samalas, gunung di Lombok yang meletus dengan sangat dahsyat lalu lenyap tanpa meninggalkan jejak.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic aerial orbit revealing the massive Segara Anak caldera lake inside Rinjani at sunset, crater walls glowing copper and gold, a single wisp of cloud rising like a ghost from the ancient vent, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok mystery solved documentary, breathtaking sunset aerial of the giant Segara Anak caldera, crater walls glowing copper and gold, turquoise lake mirror-calm below, a single wisp of cloud rising like a ghost from the ancient vent, profound revelation, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_054",
+   "media": "image",
+   "narration": "Para ilmuwan menyebutnya Pompeii yang terlupakan di Timur Jauh; kota kuno itu mungkin masih terkubur rapi di bawah lapisan abu Lombok hingga hari ini, diam-diam menunggu untuk ditemukan.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas Lombok forgotten Pompeii documentary, dusk scene of an excavated trench cutting through thick gray ash, hints of carved stone and pottery emerging from the layers, lantern light flickering on the dig walls, jungle pressing in beyond, promise of a city still sleeping below, analog grain, No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_055",
+   "chapter": 4,
+   "shot_type": "DRONE",
+   "media": "video",
+   "narration": "Bayangkan pagi yang biasa saja di Lombok, lebih dari tujuh abad yang lalu — matahari terbit di balik gunung berapi raksasa yang megah, sementara penduduk desa mulai beraktivitas tanpa firasat apa pun.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, serene pre-dawn aerial over the island, the majestic volcano silhouetted against a rose-gold horizon, thin mist over emerald terraces, village lights flickering below in soft volumetric glow, a deceptive calm before catastrophe No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Slow cinematic drone drift over a tranquil pre-eruption volcanic island at dawn, lush green slopes beneath a majestic smoking volcano on the horizon, gentle golden light over waking villages, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_056",
+   "chapter": 4,
+   "shot_type": "WIDE",
+   "media": "image",
+   "narration": "Di lereng suburnya, sawah membentang hijau dan rumah-rumah kayu berdiri tenang — rakyat Kerajaan Lombok kuno hidup damai di bawah bayang-bayang gunung yang mereka anggap pelindung abadi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, wide view of an ancient village at the volcano's fertile foot, thatched wooden houses among emerald rice terraces, farmers starting their day in warm sunlight, the towering volcano looming protectively behind, a peaceful rural morning No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_057",
+   "chapter": 4,
+   "shot_type": "AERIAL",
+   "media": "video",
+   "narration": "Namun tanpa peringatan apa pun, tanah mulai bergetar — awalnya pelan, lalu semakin kuat. Para tetua yang pernah mendengar legenda letusan kuno saling berpandangan, dan wajah mereka berubah pucat.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, ominous aerial of the volcano's crater as tremors begin, thin dark smoke curling from the summit, flocks of birds scattering across a dimming sky, dust rising from the shaking slopes, cold desaturated light, mounting dread No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Slow cinematic aerial descent toward the volcano's crater as the ground begins to tremble, dark smoke curling from the summit, birds scattering across a darkening sky, dust rising from shaking slopes, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_058",
+   "chapter": 4,
+   "shot_type": "DETAIL",
+   "media": "image",
+   "narration": "Burung-burung beterbangan panik meninggalkan hutan di lereng, sementara di puncak muncul gumpalan awan gelap yang tidak bergerak seperti awan biasa — sesuatu yang mengerikan sedang bangkit dari dalam bumi.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, detailed view of the volcano's summit crowned by an unnatural stationary black cloud, panicked flocks of birds fleeing across a bruised purple sky, dead-still air over the foreground canopy, an eerie visible silence, foreboding chiaroscuro No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_059",
+   "chapter": 4,
+   "shot_type": "WIDE",
+   "media": "video",
+   "narration": "Lalu dalam sekejap yang mengubah sejarah, gunung itu meledak — raungan memekakkan telinga mengguncang seluruh pulau, dan semburan api raksasa menyembur lurus menembus langit siang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, the cataclysmic first blast tearing the summit apart, an incandescent fireball and ash rocketing skyward, a shockwave flattening the surrounding forest, searing orange against a darkening midday sky, apocalyptic scale No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Epic cinematic slow push-in toward the erupting volcano as the first colossal blast tears the summit apart, fire and ash rocketing skyward, a visible shockwave flattening the forest, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_060",
+   "chapter": 4,
+   "shot_type": "TIMELAPSE",
+   "media": "image",
+   "narration": "Kolom erupsi menjulang hingga empat puluh tiga kilometer ke angkasa — menembus awan, menembus stratosfer, memuntahkan setidaknya empat puluh kilometer kubik magma dalam ledakan yang tak terbayangkan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, time-lapse impression of an ultra-Plinian column towering impossibly high, cauliflower ash clouds boiling through layered atmosphere toward the stratosphere, an umbrella cloud spreading at the top, godlike scale against the horizon No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_061",
+   "chapter": 4,
+   "shot_type": "AERIAL",
+   "media": "video",
+   "narration": "Tiga lapisan utama jatuhan batu apung menghujani wilayah sekitar tanpa ampun — menimbun sawah dan rumah lapis demi lapis, hingga seluruh pemandangan berubah menjadi hamparan abu yang mencekam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, relentless rain of pumice and burning ash over a drowning landscape, grey curtains falling over half-buried houses and fields, distant villagers fleeing through the choking murk, sickly yellow-grey light No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Slow cinematic lateral tracking through a relentless rain of pumice and burning ash over half-buried villages, grey curtains falling without pause, distant figures fleeing through the choking murk, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_062",
+   "chapter": 4,
+   "shot_type": "CLOSEUP",
+   "media": "image",
+   "narration": "Di dalam kolom abu yang bergolak, petir vulkanik menyambar berkali-kali — kilatan biru dan ungu menyala di tengah kegelapan pekat, seolah langit sendiri ikut murka atas amukan sang gunung.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, close view of volcanic lightning forking violently inside the churning ash column, electric blue and violet bolts tearing through boiling black clouds, glowing embers swirling upward, a hellish contrast of fire and darkness No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_063",
+   "chapter": 4,
+   "shot_type": "DRONE",
+   "media": "video",
+   "narration": "Awan panas meluncur menuruni lereng dengan kecepatan mengerikan, membakar segala yang dilaluinya — endapan aliran piroklastik yang tebal ditemukan hingga ke pantai, dua puluh lima kilometer dari sumbernya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, drone view of a glowing pyroclastic flow racing down the volcano's flank, an incandescent cloud front devouring forest and villages, a towering ash surge rolling behind it, the coastline visible far below in the haze, unstoppable fury No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Epic cinematic drone shot following a glowing pyroclastic flow racing down the volcano's flank toward the distant coast, an incandescent cloud front devouring forest and villages, a towering ash surge behind, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_064",
+   "chapter": 4,
+   "shot_type": "WIDE",
+   "media": "image",
+   "narration": "Ibukota Pamatan, pusat Kerajaan Lombok kuno, terkubur hidup-hidup di bawah endapan yang membara — peradaban yang dibangun selama berabad-abad lenyap dalam hitungan jam, tanpa sempat meninggalkan pesan.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, wide view of the ancient capital Pamatan being entombed, carved stone temples and palace rooftops sinking beneath a glowing pyroclastic surge, last banners whipping in superheated wind, embers filling the air No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_065",
+   "chapter": 4,
+   "shot_type": "AERIAL",
+   "media": "video",
+   "narration": "Langit yang tadinya biru berubah gelap gulita di siang hari — seluruh Pulau Lombok tertutup endapan setebal puluhan meter, sementara Jawa, Bali, dan Sumbawa diselimuti abu setebal beberapa sentimeter.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, aerial of a landscape plunged into pitch darkness at midday, a blizzard of ash swallowing Lombok's buried terrain, neighboring islands fading into a grey void on the horizon, only faint embers glowing below, a total eclipse of the sun No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Slow cinematic aerial push-in across a landscape plunged into pitch darkness at midday, an ash blizzard swallowing the island, neighboring islands fading into a grey void, faint embers glowing below, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_066",
+   "chapter": 4,
+   "shot_type": "WIDE",
+   "media": "image",
+   "narration": "Letusan berkekuatan tujuh ini termasuk salah satu yang terbesar dalam sejarah letusan eksplosif — terjadi antara Mei dan Oktober seribu dua ratus lima puluh tujuh, saat angin pasat timur bertiup di musim kemarau.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, vast panorama of the eruption's continental reach, the colossal ash plume bending eastward on dry-season trade winds, thin grey veils drifting over distant Java, Bali and Sumbawa, stratospheric scale, apocalyptic grandeur No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_067",
+   "chapter": 4,
+   "shot_type": "AERIAL",
+   "media": "video",
+   "narration": "Setelah amukannya mereda, puncak Samalas runtuh total dan lenyap dari muka bumi — yang tersisa hanyalah kaldera raksasa yang menganga, bekas luka terbesar yang pernah ditinggalkan sebuah gunung.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, the mountain's summit collapsing inward in a cataclysmic landslide, colossal cliffs crumbling into a yawning giant caldera, dust plumes billowing outward for kilometers, the volcano devouring itself, monumental ruin No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Epic cinematic slow orbit around the collapsing volcano as its summit caves inward, colossal cliffs crumbling into a yawning giant caldera, dust plumes billowing outward for kilometers, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_068",
+   "chapter": 4,
+   "shot_type": "DETAIL",
+   "media": "image",
+   "narration": "Diperkirakan puluhan ribu jiwa menjadi korban — petani, nelayan, pedagang, beserta keluarga mereka. Tidak ada catatan pasti yang tersisa, karena mereka yang bisa mencatat pun ikut terkubur.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, detailed view of a buried world half-exposed in grey ash, a carved wooden beam and shattered pottery emerging from the deposit, soft cold light raking across the silent ruins, profound and mournful stillness No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_069",
+   "chapter": 4,
+   "shot_type": "DRONE",
+   "media": "video",
+   "narration": "Ketika debu akhirnya mengendap, yang tersisa hanyalah keheningan — tidak ada kicau burung, tidak ada riuh pasar, tidak ada tanda kehidupan. Hanya hamparan abu sejauh mata memandang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, drone drift over a silent ash-covered wasteland after the eruption, grey desolation stretching to the horizon, skeletal trees frozen in the deposit, pale light breaking through thinning haze, absolute emptiness No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Slow cinematic drone drift over a silent ash-covered wasteland in the eruption's aftermath, grey desolation stretching to the horizon, skeletal trees frozen in the deposit, pale light through thinning haze, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_070",
+   "chapter": 4,
+   "shot_type": "WIDE",
+   "media": "image",
+   "narration": "Gunung yang pagi itu masih berdiri megah kini benar-benar menghilang — seolah ditelan bumi. Namanya pun ikut terkubur, dan selama berabad-abad tidak ada yang tahu bahwa ia pernah ada.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, wide view where the great volcano once stood, now only an empty horizon of ash and a vast silent caldera, low clouds drifting through the hollow where a mountain was, a haunting absence, melancholic dusk light No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "id": "shot_071",
+   "chapter": 4,
+   "shot_type": "TIMELAPSE",
+   "media": "video",
+   "narration": "Tetapi alam selalu meninggalkan jejak — di lapisan es kutub, di lingkaran tahun pepohonan, dan di naskah-naskah kuno. Tujuh abad kemudian, para ilmuwan mulai menyatukan potongan-potongan teka-teki itu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, time-lapse over the vast silent caldera at dusk as the last ash settles, stars emerging above the scarred land, a faint mysterious glow in the clearing sky, the earth keeping its secret, contemplative and epic No frame, no border, no collage, no text, no watermark.",
+   "video_prompt": "Slow cinematic push-in over the vast silent caldera at dusk as the last ash settles, stars emerging above the scarred land, a faint mystery glowing in the clearing sky, 35mm film grain, 10 seconds",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_072",
+   "chapter": 4,
+   "shot_type": "MACRO",
+   "media": "image",
+   "narration": "Malam turun di atas kaldera yang sunyi, dan bintang-bintang muncul di langit yang telah bersih kembali — menatap sebuah pulau yang tidak akan pernah sama lagi setelah hari kiamat itu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Samalas 1257 cataclysmic eruption reconstruction documentary, macro view of layered volcanic ash and pumice grains under moonlight, delicate crystalline textures of the deposit, a tiny starfield reflected in glassy shards, the mountain's fury reduced to silent mineral beauty, poetic and still No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_073",
+   "media": "video",
+   "narration": "Abu dan gas belerang dari Samalas naik menembus stratosfer, membentuk selubung abu tipis yang memantulkan cahaya matahari, membuat sinar hangat tak lagi mencapai permukaan bumi.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic orbital pull-back from Earth's glowing stratospheric ash veil revealing the whole darkened planet, drifting camera, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed view of planet Earth from deep space wrapped in a thin grey veil of volcanic ash and sulfur, the stratosphere glowing pale amber around the limb, sunlight scattering off aerosol layers, dark oceans and cloud swirls below, quiet planetary menace. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_074",
+   "media": "image",
+   "narration": "Selubung abu itu menyelimuti planet selama bertahun-tahun, suhu global turun perlahan, musim menjadi kacau, dan petani di berbagai belahan dunia mulai merasakan ada yang salah.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Earth seen from orbit dimmed by a stratospheric ash veil, continents muted under pale haze, the sun disk weakened and diffused behind the aerosol layer, cold blue-grey palette, thin luminous ring at the horizon, vast silent atmosphere of global cooling. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_075",
+   "media": "video",
+   "narration": "Musim tanam seribu dua ratus lima puluh delapan gagal total di banyak wilayah, gandum membusuk di ladang yang dingin, dan petani menatap langit kelabu yang tak kunjung cerah.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow drone push-in over desolate medieval wheat fields under heavy grey clouds, wind stirring dead stalks, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed medieval wheat fields rotting under a cold grey sky, flattened stalks in dark mud, distant thatched cottages in fog, desaturated earthy tones, oppressive overcast light, the despair of a failed harvest. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_076",
+   "media": "image",
+   "narration": "Tahun berikutnya pun tak lebih baik, panen seribu dua ratus lima puluh sembilan hancur kembali, lumbung kosong, dan kelaparan merayap ke desa-desa yang tak pernah mendengar nama Samalas.",
+   "shot_type": "CLOSEUP",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed weathered hands of a medieval farmer holding shriveled frozen grain, coarse linen sleeve, an empty granary looming in shadow behind, cold blue window light, shallow depth of field, gritty texture of hunger and helplessness. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_077",
+   "media": "video",
+   "narration": "Para ilmuwan menduga letusan ini menutup tirai tiga abad kehangatan dan kestabilan iklim dunia, membuka jalan menuju Zaman Es Kecil yang dingin, panjang, dan penuh derita.",
+   "shot_type": "TIMELAPSE",
+   "video_prompt": "Dramatic timelapse of storm clouds racing across the sky over a medieval valley, light draining from warm gold to cold grey, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed time-lapse sky over a medieval landscape, centuries of clouds racing above dark forests and stone villages, light draining from warm gold to cold iron grey, ominous and sweeping, the symbolic end of a climate age. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_078",
+   "media": "image",
+   "narration": "Zaman Es Kecil ditandai paceklik berulang, wabah yang menyebar luas, dan gejolak sosial di mana-mana, semuanya bermula dari satu gunung raksasa yang meledak di sebuah pulau bernama Lombok.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed medieval village street in famine, gaunt figures in cloaks gathered around empty market stalls, shuttered wooden houses, crows on rooftops, cold desaturated light, fog drifting, heavy air of suffering and unrest. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_079",
+   "media": "video",
+   "narration": "Tujuh abad telah berlalu sejak letusan dahsyat itu, dan kini yang tersisa dari raksasa Samalas hanyalah sebuah danau kawah biru memukau yang diberi nama Segara Anak.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow majestic aerial orbit over Lombok revealing the vast caldera of Segara Anak lake at golden sunrise, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed aerial view of Lombok island emerging from morning mist, lush green ridges, a vast volcanic caldera holding a brilliant blue crater lake, golden sunrise light, clouds pooled in valleys, breathtaking scale and serenity. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_080",
+   "media": "image",
+   "narration": "Airnya yang biru jernih membingkai kaldera raksasa, seolah menutupi luka lama dengan keindahan menawan, namun diam-diam di tengah danau itu sebuah ancaman baru sedang tumbuh.",
+   "shot_type": "DRONE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed turquoise-blue Segara Anak crater lake from high above, jagged caldera walls framing the water, morning mist drifting, a small smoking volcanic cone rising from the lake's center, vivid contrast of blue water and dark rock. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_081",
+   "media": "video",
+   "narration": "Barujari, yang berarti anak Rinjani, adalah gunung api muda yang lahir di tengah danau, tumbuh dari sisa-sisa letusan Samalas dan masih sangat aktif hingga hari ini.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow drone push-in toward the smoking cone of Barujari volcano rising from Segara Anak lake, mist drifting across caldera walls, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed young volcanic cone of Barujari rising from blue crater lake waters, a thin smoke plume curling from its crater, black lava rock slopes, mist clinging to caldera walls, late afternoon light, raw and alive. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_082",
+   "media": "image",
+   "narration": "Gunung muda itu meletus pada dua ribu lima belas dan kembali meletus pada dua ribu enam belas, kolom abu membumbung tinggi hingga ribuan wisatawan dievakuasi dari lereng Rinjani.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Barujari erupting, a towering grey ash column rising above the crater lake, hikers silhouetted on a ridge trail watching in awe, evacuation boats on the blue water, dramatic backlit smoke, tense documentary realism. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_083",
+   "media": "video",
+   "narration": "Kini para ilmuwan memantau kompleks Rinjani tanpa henti siang dan malam, karena sejarah membuktikan gunung ini mampu mengubah iklim seluruh planet hanya dalam sekali letusan.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow lateral tracking shot following modern hikers along the Rinjani summit ridge at dawn, the crater lake far below, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed line of modern hikers with colorful backpacks climbing the sandy Rinjani summit ridge at dawn, the volcanic crater lake far below, warm golden light on their faces, a sense of adventure and immense scale, crisp mountain air. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_084",
+   "media": "image",
+   "narration": "Seismograf dan satelit berjaga setiap hari, mencatat setiap getaran dan setiap hembusan gas, karena kewaspadaan adalah satu-satunya cara menghadapi kekuatan sebesar ini.",
+   "shot_type": "DETAIL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed volcano monitoring station interior, scientists studying seismograph drums and satellite imagery on glowing screens, maps of the Rinjani complex pinned on the wall, cool blue monitor light, focused faces, quiet vigilance. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_085",
+   "media": "video",
+   "narration": "Kini bayangkan bila letusan sebesar Samalas terjadi hari ini, dengan delapan miliar manusia yang hidup bergantung pada rantai pasok global yang rapuh dan saling terhubung.",
+   "shot_type": "AERIAL",
+   "video_prompt": "Slow cinematic aerial pull-back over a glowing modern megacity at dusk revealing its vast fragile infrastructure, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed sprawling modern megacity at dusk seen from above, dense towers and highways glowing with lights, container ports and endless traffic, a fragile web of global supply chains, moody blue-orange palette, awe and unease. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_086",
+   "media": "image",
+   "narration": "Satu musim tanam yang gagal akan berarti krisis pangan global dalam hitungan bulan, harga-harga melambung tinggi, dan tak ada satu pun pelosok desa yang bisa luput dari dampaknya.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed darkened modern supermarket shelves half empty under flickering fluorescent light, anxious shoppers pushing carts, rain-streaked glass facade beyond, cold green-grey tones, cinematic realism of looming shortage. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_087",
+   "media": "video",
+   "narration": "Samalas mengajarkan kita satu hal penting, bahwa peradaban manusia hanyalah tamu kecil di atas bumi, dan sesekali bumi mengingatkan dengan keras siapa sebenarnya sang penguasa sejati.",
+   "shot_type": "WIDE",
+   "video_prompt": "Slow crane down revealing a tiny human silhouette against the immense caldera walls of Segara Anak at dusk, the lake glowing below, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed lone human silhouette standing before the vast dark crater walls of Segara Anak at dusk, tiny against geological immensity, the lake glowing deep blue below, dramatic scale contrast, humbling and poetic. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_088",
+   "media": "image",
+   "narration": "Sejarah memang tak berulang persis, tetapi selalu berirama, dan gunung-gunung raksasa itu masih ada di luar sana, tertidur lelap, menunggu giliran untuk kembali bersuara.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Earth from deep space wrapped in drifting ash clouds, faint lightning storms flickering inside the veil, dark continents below, a pale glowing aerosol band on the limb, haunting beauty and latent threat. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "duration_hint": 10,
+   "id": "shot_089",
+   "media": "video",
+   "narration": "Sekarang menurutmu, bila letusan sebesar Samalas terjadi esok hari, apa yang akan terjadi pada dunia kita? Tuliskan pendapatmu di kolom komentar dan jangan lupa berdiskusi.",
+   "shot_type": "DRONE",
+   "video_prompt": "Slow cinematic aerial drift over Segara Anak lake at fiery sunset, Barujari silhouetted with drifting smoke, 35mm film grain, 10 seconds",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Segara Anak crater lake at fiery sunset, orange clouds mirrored in still blue water, the Barujari cone a dark silhouette with a wisp of smoke, birds crossing the sky, reflections shimmering on the calm surface, epic closing-frame grandeur. No frame, no border, no collage, no text, no watermark."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_090",
+   "media": "image",
+   "narration": "Tuliskan prediksimu di kolom komentar, kisah Samalas berakhir di sini, namun misteri bumi masih sangat panjang dan menantang, jadi tetaplah penasaran dan sampai jumpa di episode berikutnya.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed night sky over the Rinjani caldera, the Milky Way blazing above the dark volcanic rim, Segara Anak a black mirror below, a single distant campfire glowing on the shore, timeless wonder and quiet invitation. No frame, no border, no collage, no text, no watermark."
+  }
+ ]
+}
