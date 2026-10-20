@@ -128,15 +128,18 @@ def _words_to_value(words):
 
 
 def _pair_year_words(val):
+    # Bentuk tahun pilihan user (uji dengar 2026-10-21, "Bentuk 4 mantap"):
+    # pasangan pertama utuh + pasangan kedua sebagai bilangan penuh,
+    # mis. 1986 -> "sembilan belas delapan puluh enam".
+    # Bentuk lama "sembilan belas delapan enam" (digit per digit untuk
+    # pasangan kedua) dinilai user tidak jelas dan sudah diganti.
     hi, lo = val // 100, val % 100
     s = _terbilang(hi)
     if lo == 0:
-        return s
+        return s + " nol nol"
     if lo < 10:
         return s + " nol " + _SATUAN[lo]
-    s += " " + _SATUAN[lo // 10]
-    s += " " + (_SATUAN[lo % 10] if lo % 10 else "nol")
-    return s
+    return s + " " + _terbilang(lo)
 
 
 def _digit_token_to_words(tok):
