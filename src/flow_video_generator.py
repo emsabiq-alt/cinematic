@@ -46,19 +46,23 @@ DURATION_LABEL = "10 dtk"
 GEN_TIMEOUT = 420  # detik; user: tunggu, jangan buru-buru
 
 
-def _verify_video(path):
-    """True bila file MP4 utuh: ffprobe membaca durasi >= 7 detik."""
+def _verify_video(path, min_dur=7.0):
+    """True bila file MP4 utuh: ffprobe membaca durasi >= min_dur detik.
+
+    min_dur mengikuti duration_hint shot (menu Flow 4/6/8/10 dtk, instruksi
+    user 2026-10-20): klip dianggap valid bila durasinya >= target - 1,5.
+    """
     try:
         r = subprocess.run(
             ["ffprobe", "-v", "error", "-show_entries", "format=duration",
              "-of", "default=noprint_wrappers=1:nokey=1", str(path)],
             capture_output=True, text=True, timeout=30)
-        return float(r.stdout.strip()) >= 7.0
+        return float(r.stdout.strip()) >= min_dur
     except Exception:
         return False
 
 
-def _download_video(url, out_path, timeout=120, tries=5):
+def _download_video(url, out_path, timeout=120, tries=5, min_dur=7.0):
     """Unduh MP4 dengan curl resumable (urllib terbukti terpotong untuk
     flow-content lewat proxy ini — pola sama seperti unduhan gambar)."""
     import shutil
@@ -85,7 +89,7 @@ def _download_video(url, out_path, timeout=120, tries=5):
                 pass
             time.sleep(4 * (attempt + 1))
             continue
-        if out_path.exists() and _verify_video(out_path):
+        if out_path.exists() and _verify_video(out_path, min_dur):
             return out_path.stat().st_size
         last_exc = IOError(f"unduhan belum utuh (rc={proc.returncode})")
         time.sleep(4 * (attempt + 1))
@@ -139,8 +143,8 @@ class FlowVideoRunner(GoogleFlowRunner):
                     "unmodifiedText": "", "text": ""})
         time.sleep(0.5)
 
-    def ensure_video_settings(self):
-        """Atur panel ke Video/Veo Fast/720p/16:9/10 dtk dan verifikasi.
+    def ensure_video_settings(self, duration_label=DURATION_LABEL):
+        """Atur panel ke Video/Omni/720p/16:9/<duration_label> & verifikasi.
 
         Diulang sampai 3x: panel Flow kadang me-render ulang di tengah
         pengaturan sehingga sebagian klik hilang (kasus 2026-10-19: 720p
@@ -189,7 +193,7 @@ class FlowVideoRunner(GoogleFlowRunner):
                 self._mouse_click(rect["x"], rect["y"])
                 time.sleep(2)
             # Durasi TERAKHIR (pemilihan model bisa meresetnya)
-            self._click_radio(DURATION_LABEL)
+            self._click_radio(duration_label)
             time.sleep(1)
             checked = self.evaluate_js("""
             (() => Array.from(document.querySelectorAll('[role="radio"]'))
@@ -204,7 +208,7 @@ class FlowVideoRunner(GoogleFlowRunner):
             """) or ""
             ok = (any("Video" in c for c in checked)
                   and any("720p" in c for c in checked)
-                  and any(DURATION_LABEL in c for c in checked)
+                  and any(duration_label in c for c in checked)
                   and MODEL_LABEL in model)
             print(f"  Setelan (percobaan {attempt}): checked={checked} "
                   f"model={model!r} -> {'OK' if ok else 'BELUM COCOK'}",
@@ -257,7 +261,8 @@ class FlowVideoRunner(GoogleFlowRunner):
         self._send("Page.navigate", {"url": grid})
         return self._wait_editor(90)
 
-    def generate_video_one(self, prompt, out_mp4, timeout=GEN_TIMEOUT):
+    def generate_video_one(self, prompt, out_mp4, timeout=GEN_TIMEOUT,
+                           target_dur=10):
         if not self.ws:
             self.connect()
         # Pastikan mulai dari grid proyek (bukan halaman /edit/ sisa shot
@@ -347,7 +352,8 @@ class FlowVideoRunner(GoogleFlowRunner):
         # WAJIB kembali ke grid sebelum shot berikutnya (halaman /edit/
         # tidak punya editor/grid — batch pertama macet di sini).
         self._back_to_grid()
-        _download_video(video_url.replace("&amp;", "&"), out_mp4)
+        _download_video(video_url.replace("&amp;", "&"), out_mp4,
+                        min_dur=max(2.0, target_dur - 1.5))
         return str(out_mp4)
 
 
@@ -360,7 +366,7 @@ def run_batch(delay_between=10):
     # Halaman bisa tertinggal di /edit/<aset> dari sesi sebelumnya — paksa
     # kembali ke grid dulu (di sana panel setelan & editor berada).
     runner._back_to_grid()
-    runner.ensure_video_settings()
+    current_label = None
 
     print(f"\n=== GENERASI VIDEO FLOW ({len(shots)} shot video) ===", flush=True)
     try:
@@ -368,13 +374,23 @@ def run_batch(delay_between=10):
             sid = s["id"]
             out_mp4 = VIDEO_DIR / f"{sid}.mp4"
             prompt = s.get("video_prompt") or s["visual_prompt"]
-            print(f"\n[{i}/{len(shots)}] {sid} (Babak {s['chapter']})", flush=True)
-            if out_mp4.exists() and _verify_video(out_mp4):
+            # Durasi per shot mengikuti menu Flow (4/6/8/10 dtk) dari
+            # duration_hint storyboard — instruksi user 2026-10-20.
+            dur = s.get("duration_hint") or 10
+            dur = dur if dur in (4, 6, 8, 10) else 10
+            label = f"{dur} dtk"
+            print(f"\n[{i}/{len(shots)}] {sid} (Babak {s['chapter']}, "
+                  f"durasi {label})", flush=True)
+            if out_mp4.exists() and _verify_video(
+                    out_mp4, min_dur=max(2.0, dur - 1.5)):
                 print(f"  ✓ Video sudah ada & valid: {out_mp4.name} "
                       f"({out_mp4.stat().st_size/1048576:.1f} MB)", flush=True)
                 continue
+            if label != current_label:
+                runner.ensure_video_settings(label)
+                current_label = label
             try:
-                runner.generate_video_one(prompt, out_mp4)
+                runner.generate_video_one(prompt, out_mp4, target_dur=dur)
                 print(f"  ✓ Berhasil: {out_mp4.name} "
                       f"({out_mp4.stat().st_size/1048576:.1f} MB)", flush=True)
             except Exception as e:
