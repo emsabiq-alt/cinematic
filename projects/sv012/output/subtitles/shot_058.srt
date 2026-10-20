@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,915
+tahun dua ribu satu
+
+2
+00:00:01,915 --> 00:00:03,729
+pipa degassing pertama dipasang
+
+3
+00:00:03,729 --> 00:00:07,055
+menyedot air dari lapisan terdalam ke permukaan

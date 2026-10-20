@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,493
+seolah-olah seluruh desa hanya tertidur
+
+2
+00:00:02,493 --> 00:00:05,035
+dan tidak pernah bangun lagi

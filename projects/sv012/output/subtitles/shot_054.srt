@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:01,968
+apapun pemicunya hasilnya sama
+
+2
+00:00:01,968 --> 00:00:04,304
+air dalam yang jenuh gas
+
+3
+00:00:04,304 --> 00:00:06,172
+tercampur ke lapisan atas
+
+4
+00:00:06,172 --> 00:00:08,657
+dan gas mendidih keluar seketika

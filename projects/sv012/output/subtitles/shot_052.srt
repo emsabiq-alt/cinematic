@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:01,945
+kemungkinan lain hujan dingin
+
+2
+00:00:01,945 --> 00:00:03,790
+yang jatuh di satu
+
+3
+00:00:03,790 --> 00:00:06,707
+sisi danau memicu pembalikan lapisan air

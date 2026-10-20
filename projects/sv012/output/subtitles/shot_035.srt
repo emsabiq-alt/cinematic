@@ -1,0 +1,19 @@
+1
+00:00:00,100 --> 00:00:02,311
+gas itu lebih berat dari udara
+
+2
+00:00:02,311 --> 00:00:04,523
+sehingga ia tidak naik dan hilang
+
+3
+00:00:04,523 --> 00:00:05,629
+ia merayap turun
+
+4
+00:00:05,629 --> 00:00:07,103
+menggenangi lembah seperti air
+
+5
+00:00:07,103 --> 00:00:08,727
+bah yang tak terlihat

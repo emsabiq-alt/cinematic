@@ -1,12 +1,12 @@
 {
- "style": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water",
- "description": "Storyboard 90 shot untuk dokumenter DANAU NYOS: Danau yang Membunuh 1.746 Orang dalam Satu Malam — Tanpa Satu Luka Pun. Lima babak simetris: prolog malam tanpa suara 21 Agustus 1986, sains bom CO2 di dasar danau (danau meromiktik, hanya tiga danau jenuh CO2 di dunia, Monoun 1984 sebagai peringatan yang diabaikan), jejak-jejak bukti investigasi tim Prancis-AS (semburan 100 meter, gelombang 25 meter, 1,2 km kubik gas), penjinakan danau lewat pipa degassing 2001 dan 2011 plus ancaman dinding alami yang melemah, dan bom waktu Danau Kivu (2.000 kali lebih besar, CO2 plus metana, 2 juta penduduk, KivuWatt 2016). 30 shot berformat video (hook, pembuka babak, adegan dramatis), 60 shot gambar.",
+ "style": "Cinematic 35mm Limnic Disaster Documentary — Midnight & Mist",
+ "description": "Storyboard 90 shot untuk dokumenter DANAU NYOS: Danau yang Membunuh 1.746 Orang dalam Satu Malam — Tanpa Satu Luka Pun. Gaya sv001: narasi panjang mengalir, visual_prompt kaya detail komposisi/cahaya/atmosfer. Format VIDEO SEMUA (instruksi user 2026-10-20): 90 shot video, tanpa gambar. duration_hint per shot mengikuti menu Google Flow Omni (4/6/8/10 detik) berdasarkan panjang narasi (±14 kar/detik): ≤60 kar → 4; ≤85 kar → 6; ≤115 kar → 8; lebih → 10. Lima babak: prolog malam tanpa suara, sains bom CO2 di dasar danau, jejak bukti investigasi, penjinakan lewat degassing, dan bom waktu Danau Kivu.",
  "shots": [
   {
    "id": "shot_001",
    "chapter": 1,
-   "narration": "Malam itu, sebuah danau di Kamerun membunuh seribu tujuh ratus empat puluh enam orang — tanpa menyentuh satu pun dari mereka.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dark volcanic crater lake at night, thick mist rolling over black water, moonlight glinting on ripples. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Bayangkan malam yang begitu hening hingga tak ada suara jangkrik, lalu sebuah danau di jantung Kamerun membunuh seribu tujuh ratus empat puluh enam jiwa tanpa menyentuh satu pun dari mereka.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot of a volcanic crater lake at night, ink-black water ringed by a jagged crater rim, thick mist crawling over the surface, cold moonlight glinting on slow ripples. Palette: midnight-blue, moonlit silver, deep teal, volcanic black, bone-pale mist, dramatic chiaroscuro, volumetric moonbeams, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DRONE",
    "duration_hint": 10,
    "media": "video",
@@ -15,26 +15,28 @@
   {
    "id": "shot_002",
    "chapter": 1,
-   "narration": "Dua puluh satu Agustus seribu sembilan ratus delapan puluh enam, Danau Nyos tampak tenang seperti biasa — tak ada yang tahu air di bawahnya sedang menyimpan bom.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Serene volcanic crater lake at dusk, glassy blue water reflecting the crater walls, a few thatched huts on the distant shore, deceptively peaceful. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tanggal dua puluh satu Agustus seribu sembilan ratus delapan puluh enam, Danau Nyos tampak tenang seperti biasa, dan tak seorang pun tahu bahwa air di bawahnya sedang menyimpan bom waktu yang siap meledak.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a serene crater lake at dusk, glassy water mirroring steep green crater walls, a few thatched huts on the distant shore, deceptively peaceful evening light. Palette: dusk teal, olive green, warm amber huts, soft violet sky, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a serene crater lake at dusk, glassy water mirroring steep green crater walls, deceptively peaceful, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_003",
    "chapter": 1,
-   "narration": "Di desa-desa sekitar danau, orang-orang pergi tidur seperti malam-malam sebelumnya — tak ada firasat apa pun.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Small Cameroonian village at night, thatched-roof huts with warm oil-lamp glow in doorways, stars above, deep quiet. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Di desa-desa sekitar danau, orang-orang pergi tidur seperti malam-malam sebelumnya, tanpa firasat sedikit pun bahwa malam itu adalah malam terakhir bagi hampir dua ribu nyawa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a Cameroonian village lane at night, thatched-roof huts with warm oil-lamp glow spilling from doorways, stars glittering above, deep quiet before sleep. Palette: warm amber, thatch brown, midnight-blue sky, silver starlight, dramatic chiaroscuro, volumetric moonbeams, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow lateral tracking shot past a Cameroonian village lane at night, warm oil-lamp glow in doorways, stars above, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_004",
    "chapter": 1,
-   "narration": "Pagi harinya, desa Cha sunyi total — tidak ada suara ayam, tidak ada suara anak bermain, tidak ada asap dapur.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Abandoned village at dawn, empty dirt street, cooking pots untouched, morning mist drifting, no people, no movement. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Keesokan paginya, desa Cha sunyi total, tak ada suara ayam berkokok, tak ada suara anak bermain, tak ada asap dapur yang mengepul, hanya keheningan pekat yang menusuk setiap pendengarnya.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of an abandoned village at dawn, empty dirt street between silent huts, cooking pots left untouched, thin morning mist drifting, no people, no movement. Palette: dawn grey, dusty ochre, pale blue mist, faded thatch, dramatic chiaroscuro, volumetric morning light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -43,26 +45,28 @@
   {
    "id": "shot_005",
    "chapter": 1,
-   "narration": "Tim yang datang menemukan mayat-mayat tergeletak di jalan, di ladang, di dalam rumah — persis di tempat mereka terakhir berada.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Open hut doorway, a fallen stool and spilled grain bowl on the ground, morning light, everything frozen mid-moment. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tim penyelamat yang datang menemukan mayat-mayat tergeletak di jalan setapak, di ladang singkong, dan di dalam rumah, persis di tempat terakhir mereka berada sebelum ajal menjemput.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a dirt path strewn with fallen grain bowls and a toppled stool, a cassava field stretching beyond, everything frozen mid-step in morning light. Palette: dry earth brown, withered green, pale gold light, dusty grey, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow tracking shot past bodies lying motionless on a village path at dawn, morning mist curling around them, unbearable stillness, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_006",
    "chapter": 1,
-   "narration": "Yang paling mengerikan: tidak satu pun tubuh menunjukkan luka atau tanda perlawanan.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Brass oil lamp tipped over on a woven mat, flame long dead, thin wisp of smoke, shallow depth of field, somber stillness. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Namun yang paling mengerikan bukanlah jumlahnya, melainkan fakta bahwa tak satu pun tubuh menunjukkan luka, tanda perlawanan, atau bekas kekerasan apa pun yang terlihat, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of a brass oil lamp tipped over on a woven mat, its flame long dead, a thin wisp of smoke curling upward, shallow depth of field, somber stillness. Palette: burnished brass, smoky grey, dark umber, faint blue shadow, dramatic chiaroscuro, soft window light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Extreme close-up of a brass oil lamp tipped over on a woven mat, a thin wisp of smoke curling upward, somber stillness, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_007",
    "chapter": 1,
-   "narration": "Seolah-olah seluruh desa hanya tertidur — dan tidak pernah bangun lagi.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Peacefully sleeping villagers in a dark hut, serene faces, soft moonlight through the doorway, they never wake. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Seolah-olah seluruh desa hanya tertidur pulas dalam damai, dan anehnya tak seorang pun pernah bangun lagi dari tidur panjang yang misterius dan tak terjelaskan itu, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of peacefully sleeping villagers inside a dark hut, serene faces half-lit by soft moonlight through the doorway, never to wake again. Palette: deep shadow, silver-blue moonlight, warm skin tones, thatch dark brown, dramatic chiaroscuro, volumetric moonbeams, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
@@ -71,26 +75,28 @@
   {
    "id": "shot_008",
    "chapter": 1,
-   "narration": "Korbannya bukan puluhan, bukan ratusan — seribu tujuh ratus empat puluh enam jiwa dalam satu malam.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Rural village valley at sunrise from above, scattered huts, livestock lying still in fields, unnatural total silence. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Korbannya bukan puluhan dan bukan ratusan, melainkan seribu tujuh ratus empat puluh enam jiwa yang meregang nyawa dalam satu malam yang begitu hening dan mencekam, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a rural valley at sunrise, scattered huts among green fields, livestock lying still, an unnatural total silence hanging over the land. Palette: pale gold sunrise, misty green, thatch brown, ash-grey haze, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial pull-back over a silent rural valley at sunrise, scattered huts and motionless livestock, unnatural stillness, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_009",
    "chapter": 1,
-   "narration": "Ditambah sekitar tiga ribu lima ratus ekor ternak, dan burung serta serangga yang tak terhitung jumlahnya.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Cattle lying motionless in a green pasture at dawn, mist low over the grass, a silent herd that will never rise. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Ditambah sekitar tiga ribu lima ratus ekor ternak yang roboh di padang gembala, serta burung dan serangga yang jumlahnya sudah tak terhitung lagi oleh siapa pun, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of cattle lying motionless in a green pasture at dawn, low mist over the grass, a silent herd that will never rise. Palette: dew-green, silver mist, dark hide brown, cold blue shadow, dramatic chiaroscuro, soft dawn light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on cattle lying motionless in a misty green pasture at dawn, low mist drifting over the grass, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_010",
    "chapter": 1,
-   "narration": "Delapan ratus empat puluh lima orang selamat — tetapi banyak yang terbangun dengan tubuh lemas dan ingatan yang kabur.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dazed survivors stumbling out of huts at dawn, confused faces, one man clutching his head, weak morning light. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Delapan ratus empat puluh lima orang selamat, tetapi banyak yang terbangun dengan tubuh lemas, kepala berdenyut hebat, dan ingatan yang kabur tentang malam yang mengerikan itu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of dazed survivors stumbling out of huts at dawn, confused faces, one man clutching his head, weak morning light on a shattered village. Palette: pale dawn grey, dusty ochre, trembling skin tones, faded cloth, dramatic chiaroscuro, volumetric morning light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -99,35 +105,38 @@
   {
    "id": "shot_011",
    "chapter": 1,
-   "narration": "Danau itu sendiri berubah: airnya yang biru jernih menjadi cokelat kemerahan yang pekat.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Crater lake with disturbing reddish-brown water, dead fish floating near the shore, crater walls looming, sickly light. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Sementara itu, danau itu sendiri berubah rupa dengan mengerikan, airnya yang biru jernih berubah menjadi cokelat kemerahan yang pekat dan berbau busuk menyengat, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a crater lake turned disturbing reddish-brown, dead fish floating near the shore, crater walls looming under sickly yellow-green light. Palette: iron-red, ochre brown, sickly olive, dead-leaf grey, dramatic chiaroscuro, harsh flat light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a crater lake with disturbing reddish-brown water, dead fish floating near the shore, crater walls looming under sickly light, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_012",
    "chapter": 1,
-   "narration": "Para ilmuwan dari Prancis dan Amerika yang tiba di lokasi langsung tahu satu hal: pelakunya adalah danau itu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Two researchers in 1980s field gear unloading scientific equipment from a jeep near a lake, notebooks and gas masks, determined faces. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Para ilmuwan dari Prancis dan Amerika yang bergegas tiba di lokasi langsung tahu satu hal yang pasti, pelakunya bukanlah manusia, melainkan danau itu sendiri yang menyimpan rahasia kelam.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of two researchers in 1980s field gear unloading scientific equipment from a dusty jeep near a lake, notebooks and gas masks, determined faces. Palette: khaki field wear, dusty blue jeep, chrome instruments, savanna green, dramatic chiaroscuro, harsh midday sun, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow tracking shot past two researchers in 1980s field gear unloading equipment from a dusty jeep near a lake, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_013",
    "chapter": 1,
-   "narration": "Tetapi bagaimana caranya sebuah danau membunuh — tanpa gelombang, tanpa lahar, tanpa satu ledakan besar pun?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Extreme close-up of a glass vial filled with murky brown lake water held against the light, tiny bubbles rising, laboratory mood. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tetapi bagaimana mungkin sebuah danau membunuh ribuan nyawa, sebuah tragedi yang membekas hingga hari ini, tanpa gelombang raksasa, tanpa lahar panas yang membara, dan tanpa satu ledakan besar pun yang terdengar?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot of a glass vial filled with murky brown lake water held against the light, tiny bubbles rising through the murk, clinical laboratory mood. Palette: murky amber, glass-white highlight, steel grey, deep shadow, dramatic chiaroscuro, backlit glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "MACRO",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Extreme close-up of a glass vial of murky brown lake water held against light, tiny bubbles rising through the murk, hypnotic laboratory mood, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_014",
    "chapter": 1,
-   "narration": "Inilah kisah letusan limnik — pembunuh tak terlihat yang hanya tercatat dua kali dalam sejarah manusia modern.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Crater lake with swirling brown-red water seen from high above, dead vegetation ring around the shore, ominous and alien. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Inilah kisah letusan limnik, pembunuh tak terlihat yang dalam sejarah manusia modern hanya tercatat dua kali, dan salah satunya terjadi tepat di sini, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a crater lake with swirling brown-red water seen from high above, a dead vegetation ring around the shore, ominous and alien. Palette: rust red, scorched olive, bone-grey dead reeds, slate water, dramatic chiaroscuro, cold overhead light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
@@ -136,26 +145,28 @@
   {
    "id": "shot_015",
    "chapter": 1,
-   "narration": "Bencana ini bukan kecelakaan biasa; ini adalah peringatan pertama bahwa danau bisa menjadi senjata.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Vintage 1986 newspaper front page about a Cameroon disaster lying on a wooden table beside a map of Africa, dramatic side light. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Bencana ini bukan kecelakaan biasa yang mudah dilupakan, melainkan peringatan pertama bagi dunia bahwa sebuah danau bisa berubah menjadi senjata yang mematikan, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of a vintage 1986 newspaper front page about a Cameroon disaster on a wooden table beside a worn map of Africa, dramatic side light. Palette: aged paper yellow, ink black, mahogany wood, dusty blue map, dramatic chiaroscuro, low side light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a vintage 1986 newspaper front page about a Cameroon disaster beside a worn map of Africa, dramatic side light, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_016",
    "chapter": 1,
-   "narration": "Dan yang paling menakutkan: danau seperti ini masih ada — jauh lebih besar, dengan jutaan orang tinggal di tepinya.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Satellite view of a vast African great lake at dusk with city lights glittering on its shores, beautiful yet ominous. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Dan yang paling menakutkan dari semuanya adalah bahwa danau-danau seperti ini masih ada hingga hari ini, jauh lebih besar dan lebih dekat dengan jutaan manusia, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style shot of a vast African great lake at dusk, city lights glittering along its shores, beautiful yet deeply ominous. Palette: indigo dusk, electric amber lights, deep ultramarine water, violet haze, dramatic chiaroscuro, last light glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "SATELLITE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow orbital descent over a vast African great lake at dusk, city lights glittering along its shores, beautiful yet ominous, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_017",
    "chapter": 1,
-   "narration": "Malam ini, kita telusuri malam tanpa suara itu — bukti demi bukti, sampai misterinya terungkap.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dark lake water surface, large gas bubbles rising and bursting silently, black water, hypnotic and threatening. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Malam ini kita akan menelusuri malam tanpa suara itu, bukti demi bukti, hingga misteri kelam di dasar danau itu terungkap seluruhnya di hadapan kita, sebuah tragedi yang membekas hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a dark lake surface at night, large gas bubbles rising and bursting silently, black water hypnotic and threatening. Palette: pitch black water, silver bubble rims, moonlit highlights, abyssal blue, dramatic chiaroscuro, cold moonlight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
@@ -164,17 +175,18 @@
   {
    "id": "shot_018",
    "chapter": 1,
-   "narration": "Pertanyaannya sederhana namun menghantui: jika danau bisa membunuh tanpa peringatan, siapa yang berikutnya?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Volcanic crater lake under a starry night sky, perfectly still black water mirroring the stars. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Pertanyaannya sederhana namun menghantui setiap pikiran yang mendengarnya, sebuah tragedi yang membekas hingga hari ini: jika sebuah danau bisa membunuh tanpa peringatan, siapa yang akan menjadi korban berikutnya?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a volcanic crater lake under a starry night sky, perfectly still black water mirroring the stars, absolute silence. Palette: star-silver, midnight-blue, deep black water, faint violet horizon, dramatic chiaroscuro, starlight glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a volcanic crater lake under a starry night sky, perfectly still black water mirroring the stars, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_019",
    "chapter": 2,
-   "narration": "Apa yang sebenarnya tidur di dasar Danau Nyos — dan mengapa ia bisa meledak tanpa api?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Crater lake from above, the view diving beneath the surface revealing glowing magma veins feeding gas into deep dark water. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Apa yang sebenarnya tidur di dasar Danau Nyos, dan bagaimana mungkin ia meledak tanpa api, tanpa magma yang menyembur, dan tanpa letusan gunung berapi, sebuah misteri yang terus dikaji para ahli hingga hari ini?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot above a crater lake, the view plunging beneath the surface to glowing magma veins feeding gas into deep dark water. Palette: abyssal indigo, magma orange, bioluminescent teal, pitch black depth, dramatic chiaroscuro, inner volcanic glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DRONE",
    "duration_hint": 10,
    "media": "video",
@@ -183,35 +195,38 @@
   {
    "id": "shot_020",
    "chapter": 2,
-   "narration": "Danau Nyos adalah danau kawah di dataran vulkanik Oku, Kamerun barat laut — terbentuk di kawah gunung berapi yang sudah lama mati.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Volcanic crater lake nestled in the green Oku volcanic plain of Cameroon, steep crater walls, morning mist. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Danau Nyos adalah danau kawah di dataran vulkanik Oku, Kamerun barat laut, yang terbentuk di sebuah kawah gunung berapi yang telah lama mati dan selalu dianggap aman, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a volcanic crater lake nestled in the green Oku highlands of Cameroon, steep crater walls wrapped in morning mist. Palette: emerald green, mist white, teal water, basalt grey cliffs, dramatic chiaroscuro, soft morning light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial orbit around a volcanic crater lake nestled in green highlands, steep crater walls wrapped in morning mist, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_021",
    "chapter": 2,
-   "narration": "Di bawah danau itu, ada kantong magma yang masih hidup — dan ia terus-menerus membocorkan gas karbon dioksida ke dalam air.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Cutaway view of a lake bottom with a glowing magma pocket below, streams of gas bubbles rising into dark blue deep water. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Namun di bawah danau itu, ada kantong magma yang masih hidup dan aktif, dan ia terus-menerus membocorkan gas karbon dioksida yang merembes masuk ke dalam air, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot cutaway of a lake bottom, a glowing magma pocket pulsing below, streams of gas bubbles rising into dark blue deep water. Palette: molten orange, deep cobalt, bubbling silver, basalt black, dramatic chiaroscuro, subterranean glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow descent through dark blue water toward a glowing magma pocket on the lakebed, streams of gas bubbles rising around the camera, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_022",
    "chapter": 2,
-   "narration": "Selama puluhan tahun, gas itu larut dan menumpuk di lapisan air terdalam, mengubahnya menjadi asam karbonat.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Deep lake water with fine streams of carbon dioxide bubbles dissolving, faint blue-green tint, pressurized depth mood. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Selama puluhan tahun, gas itu larut dan menumpuk di lapisan air terdalam, mengubahnya menjadi asam karbonat yang jenuh dan bertekanan sangat tinggi, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of deep lake water, fine streams of carbon-dioxide bubbles dissolving into faint blue-green tint, pressurized depth mood. Palette: pressurized teal, bubble silver, ink indigo, cold cyan shimmer, dramatic chiaroscuro, filtered depth light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in through deep lake water with fine streams of carbon-dioxide bubbles dissolving into blue-green tint, pressurized depth, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_023",
    "chapter": 2,
-   "narration": "Danau Nyos tidak pernah tercampur: lapisan atas dan bawahnya terpisah seperti minyak dan air.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dark water revealing distinct horizontal layers, warm clear water above, cold black gas-saturated water below, never mixing. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Danau Nyos tidak pernah tercampur oleh angin atau arus apa pun, lapisan atas dan bawahnya terpisah rapat seperti minyak dan air yang tak pernah bersatu, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot inside dark water revealing distinct horizontal layers, warm clear water above, cold black gas-saturated water below, never mixing. Palette: warm amber top layer, cold black bottom layer, silver boundary shimmer, deep blue, dramatic chiaroscuro, diffused underwater light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -220,35 +235,38 @@
   {
    "id": "shot_024",
    "chapter": 2,
-   "narration": "Bayangkan botol soda raksasa yang dikocok perlahan selama puluhan tahun — tutupnya adalah tekanan air itu sendiri.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Giant glass soda bottle standing in a dark volcanic landscape, pressurized bubbles swirling inside, surreal cinematic metaphor. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Bayangkan sebuah botol soda raksasa yang dikocok perlahan selama puluhan tahun, di mana tutup botolnya adalah tekanan air itu sendiri yang menahan semuanya agar tidak meledak.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a giant glass soda bottle standing in a dark volcanic landscape, pressurized bubbles swirling inside, surreal cinematic metaphor. Palette: glass green, fizz white, basalt black ground, ember orange rim light, dramatic chiaroscuro, low rim glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow orbit around a giant glass soda bottle in a dark volcanic landscape, pressurized bubbles swirling inside, surreal metaphor, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_025",
    "chapter": 2,
-   "narration": "Di seluruh dunia, hanya ada tiga danau yang jenuh karbon dioksida seperti ini: Nyos, Monoun — dan Kivu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dark world map with three glowing red dots marking Cameroon and the Rwanda-Congo border, subtle grid lines. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Di seluruh dunia, hanya ada tiga danau yang jenuh karbon dioksida seperti ini, yaitu Nyos dan Monoun di Kamerun, serta Kivu di perbatasan Kongo dan Rwanda, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style shot of a dark world map with three glowing red dots over Cameroon and the Rwanda-Congo border, subtle grid lines. Palette: deep navy map, glowing crimson markers, faint grid silver, abyssal blue ocean, dramatic chiaroscuro, screen glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "SATELLITE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a dark world map as three red dots ignite over Cameroon and the Rwanda-Congo border, subtle grid lines, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_026",
    "chapter": 2,
-   "narration": "Artinya, dari ribuan danau kawah di bumi, hanya tiga yang bisa berubah menjadi bom gas kapan saja.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Three volcanic crater lakes side by side in mist, two small in Cameroon highlands and one vast great lake, comparative scale. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Artinya, dari ribuan danau kawah yang tersebar di muka bumi, hanya tiga yang sewaktu-waktu bisa berubah menjadi bom gas yang mematikan dan tak terduga, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of three volcanic crater lakes side by side in mist, two small in Cameroon highlands and one vast great lake, comparative scale. Palette: mist white, highland green, steel-blue water, distant indigo, dramatic chiaroscuro, soft overcast light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow pull-back revealing three volcanic crater lakes side by side in mist, two small and one vast, comparative scale, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_027",
    "chapter": 2,
-   "narration": "Dan dua tahun sebelum Nyos, bom yang lebih kecil sudah meledak — di Danau Monoun, juga di Kamerun.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Small crater lake in forested highlands from above, morning mist, a smaller and quieter twin of a killer lake. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Dan dua tahun sebelum Nyos, bom yang lebih kecil sudah lebih dulu meledak di Danau Monoun, yang juga terletak di dataran tinggi Kamerun yang sepi, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot over a small crater lake in forested highlands, morning mist drifting, a smaller and quieter twin of a killer lake. Palette: forest green, pearl mist, dark teal water, pale gold dawn, dramatic chiaroscuro, volumetric god-rays, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
@@ -257,26 +275,28 @@
   {
    "id": "shot_028",
    "chapter": 2,
-   "narration": "Tahun seribu sembilan ratus delapan puluh empat, Danau Monoun melepaskan gasnya dan menewaskan tiga puluh tujuh orang dalam tidurnya.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Small highland village at night in 1984, a few huts with dim lights, stars, the same deceptive calm before disaster. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tahun seribu sembilan ratus delapan puluh empat, Danau Monoun melepaskan gasnya dan menewaskan tiga puluh tujuh orang yang sedang tertidur lelap di malam hari, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a small highland village at night in 1984, a few huts with dim lights under stars, the same deceptive calm before disaster. Palette: dim amber windows, thatch brown, starlit indigo sky, black silhouette hills, dramatic chiaroscuro, faint starlight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial drift over a small highland village at night in 1984, dim lights under stars, deceptive calm, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_029",
    "chapter": 2,
-   "narration": "Saat itu, orang menyalahkan kekuatan gaib — atau bahkan serangan senjata kimia.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Villagers gathered around a fire at night, fearful faces lit by flames, an elder gesturing toward the dark lake. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Saat itu masyarakat menyalahkan kekuatan gaib yang marah, bahkan ada yang menuduh serangan senjata kimia dari negara lain yang tidak terlihat wujudnya, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of villagers gathered fearfully around a night fire, faces lit by flames, an elder gesturing toward the dark lake. Palette: fire orange, anxious brown skin tones, ember red, deep night black, dramatic chiaroscuro, flickering firelight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on villagers gathered fearfully around a night fire, faces lit by flames, an elder pointing toward the dark lake, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_030",
    "chapter": 2,
-   "narration": "Tidak ada yang menyangka danau bisa membunuh; peringatan itu pun diabaikan begitu saja.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dusty 1984 scientific report about a lake gas release lying unread on a shelf, cobwebs, a warning the world ignored. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tak ada yang menyangka sebuah danau bisa membunuh manusia, sehingga peringatan kecil itu pun diabaikan begitu saja oleh dunia yang lengah dan tak peduli, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of a dusty 1984 scientific report about a lake gas release lying unread on a shelf, cobwebs, a warning the world ignored. Palette: aged paper beige, dust grey, cobweb silver, dark wood brown, dramatic chiaroscuro, single shaft of light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
    "media": "video",
@@ -285,26 +305,28 @@
   {
    "id": "shot_031",
    "chapter": 2,
-   "narration": "Padahal mekanismenya sudah jelas: air dalam yang jenuh gas, sekali terganggu, akan mendidih melepaskan semuanya sekaligus.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Underwater macro shot of deep lake water suddenly effervescing, chains of bubbles exploding upward, violent release. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Padahal mekanismenya sudah sangat jelas bagi dunia sains, air dalam yang jenuh gas, sekali terganggu keseimbangannya, akan mendidih dan melepaskan semuanya sekaligus, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot underwater of deep lake water suddenly effervescing, chains of bubbles exploding upward in violent release. Palette: churning silver-white, deep cobalt, foam pale blue, abyssal black, dramatic chiaroscuro, refracted depth light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "MACRO",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Underwater macro shot of deep lake water suddenly effervescing, chains of bubbles exploding upward in violent release, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_032",
    "chapter": 2,
-   "narration": "Para ilmuwan menyebutnya letusan limnik — dari kata Yunani limne yang berarti danau.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Ancient Greek stone carving of the word LIMNE beside rippling dark water, classical documentary mood. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Para ilmuwan menyebut fenomena ini letusan limnik, dari kata Yunani limne yang berarti danau, sebuah istilah ilmiah yang lahir dari tragedi berdarah ini, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of an ancient Greek stone carving of the word LIMNE beside rippling dark water, classical documentary mood. Palette: weathered marble grey, dark rippling teal, moss green, aged bronze, dramatic chiaroscuro, soft directional light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on an ancient Greek stone carving of the word LIMNE beside rippling dark water, classical documentary mood, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_033",
    "chapter": 2,
-   "narration": "Ini adalah asfiksia massal pertama dalam sejarah yang disebabkan murni oleh peristiwa alam.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Invisible heavy gas pouring over a sleeping village like an unseen flood, only the bending grass reveals it, night. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Ini tercatat sebagai peristiwa asfiksia massal pertama dalam sejarah yang disebabkan murni oleh peristiwa alam, bukan oleh perang atau senjata buatan manusia, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of invisible heavy gas pouring over a sleeping village like an unseen flood at night, only bending grass revealing it. Palette: night indigo, bent-grass green, faint silver shimmer, sleeping hut brown, dramatic chiaroscuro, cold moonlight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -313,26 +335,28 @@
   {
    "id": "shot_034",
    "chapter": 2,
-   "narration": "Karbon dioksida tidak berwarna dan tidak berbau — korban tidak akan pernah tahu bahaya datang.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Glowing molecular model of carbon dioxide drifting in darkness, scientific beauty. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Karbon dioksida tidak berwarna dan tidak berbau sama sekali, sehingga para korban tidak akan pernah tahu bahwa bahaya maut sedang mendekati mereka dalam diam, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot of a glowing molecular model of carbon dioxide drifting in darkness, scientific beauty in the void. Palette: electric cyan atoms, deep space black, silver bond rods, violet aura, dramatic chiaroscuro, internal glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "MACRO",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow drift past a glowing molecular model of carbon dioxide in darkness, scientific beauty in the void, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_035",
    "chapter": 2,
-   "narration": "Gas itu lebih berat dari udara, sehingga ia tidak naik dan hilang — ia merayap turun, menggenangi lembah seperti air bah yang tak terlihat.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dense invisible gas flowing down a green valley at night visualized as a faint shimmering river hugging the ground. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Gas itu lebih berat dari udara, sehingga ia tidak naik dan hilang begitu saja, melainkan merayap turun dan menggenangi lembah-lembah seperti air bah yang tak terlihat, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a dense invisible gas flowing down a green valley at night, visualized as a faint shimmering river hugging the ground. Palette: valley green, shimmering silver-grey, night indigo, distant hut amber, dramatic chiaroscuro, moonlit haze, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow tracking shot of a faint shimmering gas river hugging the ground as it flows down a dark valley at night, swallowing the grass, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_036",
    "chapter": 2,
-   "narration": "Dan pada malam dua puluh satu Agustus seribu sembilan ratus delapan puluh enam, tutup botol itu akhirnya terlepas.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Perfectly calm crater lake at twilight from high above, glassy surface hiding deadly pressure below, the last quiet moment. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Dan pada malam dua puluh satu Agustus seribu sembilan ratus delapan puluh enam, tutup botol raksasa itu akhirnya terlepas dengan sangat dahsyat dan mematikan, dan temuan ini terus dikaji hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a perfectly calm crater lake at twilight from high above, glassy surface hiding deadly pressure below, the last quiet moment. Palette: twilight violet, glass-teal water, silhouetted crater black, last gold streak, dramatic chiaroscuro, fading dusk light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
@@ -341,8 +365,8 @@
   {
    "id": "shot_037",
    "chapter": 3,
-   "narration": "Apa yang sebenarnya terjadi malam itu — dan bukti apa yang ditinggalkan sang pembunuh?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dark hills at night, a sudden small flash and low rumble from a distant lake, villagers looking up, then unnatural silence. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Apa yang sebenarnya terjadi pada malam yang mencekam itu, dan bukti apa saja yang ditinggalkan sang pembunuh tak terlihat di sekitar danau, jejak yang tak terhapuskan hingga hari ini?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot over dark hills at night, a sudden small flash and low rumble from a distant lake, villagers looking up, then unnatural silence. Palette: night black hills, brief orange flash, startled skin tones, cold starlit blue, dramatic chiaroscuro, flash illumination, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DRONE",
    "duration_hint": 10,
    "media": "video",
@@ -351,26 +375,28 @@
   {
    "id": "shot_038",
    "chapter": 3,
-   "narration": "Saksi yang selamat mengingat satu ledakan kecil — seperti guntur dari kejauhan — disertai bau busuk yang aneh.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Weathered face of an elderly Cameroonian witness, eyes wide with memory, faint greenish haze behind. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Saksi yang selamat hanya mengingat satu ledakan kecil, seperti guntur dari kejauhan, yang disertai bau busuk yang aneh dan menusuk hidung mereka, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of the weathered face of an elderly Cameroonian witness, eyes wide with memory, faint greenish haze behind him. Palette: weathered brown skin, silver-streaked hair, ghostly green haze, deep shadow, dramatic chiaroscuro, soft key light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on the weathered face of an elderly Cameroonian witness, eyes wide with memory, faint greenish haze behind, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_039",
    "chapter": 3,
-   "narration": "Lalu semuanya sunyi; gas yang tak terlihat mulai mengalir keluar dari danau.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Thick white gas cloud billowing up from a crater lake at night, rising fast, moonlit and ghostly. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Setelah itu semuanya kembali sunyi mencekam, dan gas yang tak terlihat mulai mengalir keluar dari danau, merayap tanpa suara menuju desa-desa yang tertidur, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a thick white gas cloud billowing up from a crater lake at night, rising fast, moonlit and ghostly. Palette: ghost-white cloud, midnight-blue water, silver moonlit rim, abyssal black, dramatic chiaroscuro, cold moonlight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a thick white gas cloud billowing up from a crater lake at night, rising fast under cold moonlight, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_040",
    "chapter": 3,
-   "narration": "Para ilmuwan memperkirakan sekitar seratus ribu hingga tiga ratus ribu ton karbon dioksida terlepas sekaligus.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Massive gas cloud erupting upward from a lake at terrifying speed, engulfing the crater rim. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Para ilmuwan memperkirakan sekitar seratus ribu hingga tiga ratus ribu ton karbon dioksida terlepas sekaligus dalam satu semburan tunggal yang dahsyat, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a massive gas cloud erupting upward from a lake at terrifying speed, engulfing the crater rim. Palette: boiling white-grey, rust-red water, torn olive vegetation, storm slate sky, dramatic chiaroscuro, violent motion light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -379,26 +405,28 @@
   {
    "id": "shot_041",
    "chapter": 3,
-   "narration": "Awan gas itu mula-mula melesat naik dengan kecepatan hampir seratus kilometer per jam.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Dense gas cloud spilling over the northern lip of a crater lake, pouring down into the valley like a waterfall of fog. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Awan gas itu mula-mula melesat naik dengan kecepatan hampir seratus kilometer per jam, secepat badai yang tak terlihat oleh mata telanjang manusia, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a dense gas cloud spilling over the northern lip of a crater lake, pouring down into the valley like a waterfall of fog. Palette: fog white, valley green below, crater rock grey, dawn gold edge, dramatic chiaroscuro, low dawn light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial pull-back as a dense gas cloud spills over the crater rim and pours down into the valley like a waterfall of fog, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_042",
    "chapter": 3,
-   "narration": "Kemudian, karena lebih berat dari udara, ia runtuh dan mengalir turun ke lembah-lembah di sekitar danau.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Heavy fog-like gas cloud rushing down two branching valleys at dawn, swallowing everything. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Kemudian, karena lebih berat dari udara, ia runtuh dan mengalir turun ke lembah-lembah di sekitar danau seperti air terjun kabut yang mematikan, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a heavy fog-like gas cloud rushing down two branching valleys at dawn, swallowing everything in its path. Palette: swallowing white fog, dark green ridges, pale blue sky, shadowed huts, dramatic chiaroscuro, cold dawn light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial following a heavy fog-like gas cloud rushing down branching valleys at dawn, swallowing everything, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_043",
    "chapter": 3,
-   "narration": "Dalam radius dua puluh lima kilometer, udara digantikan gas — manusia dan hewan lemas kehabisan oksigen.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Satellite view of a 25-kilometer circle of silent valleys around a crater lake, a perfect circle of devastation. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Dalam radius dua puluh lima kilometer, udara segar digantikan gas beracun, dan manusia serta hewan pun lemas kehabisan oksigen tanpa sempat melawan, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style shot of a twenty-five-kilometer circle of silent valleys around a crater lake, a perfect circle of devastation. Palette: ashen grey circle, lifeless olive, crater rust-red, dark blue lake, dramatic chiaroscuro, flat orbital light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "SATELLITE",
    "duration_hint": 10,
    "media": "video",
@@ -407,26 +435,28 @@
   {
    "id": "shot_044",
    "chapter": 3,
-   "narration": "Desa Cha, Nyos, dan Subum menjadi yang paling parah; Cha bahkan ditinggalkan selamanya setelah itu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Abandoned village of Cha from above, collapsing thatched huts reclaimed by weeds, a place erased forever. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Desa Cha, Nyos, dan Subum menjadi yang paling parah terdampak, dan Cha bahkan ditinggalkan selamanya setelah malam yang kelam dan tragis itu, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of the abandoned village of Cha, collapsing thatched huts reclaimed by weeds, a place erased forever. Palette: weed green, rotting thatch brown, dust grey, pale blue sky, dramatic chiaroscuro, harsh midday sun, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial orbit over the abandoned village of Cha, collapsing huts reclaimed by weeds, a place erased forever, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_045",
    "chapter": 3,
-   "narration": "Di permukaan danau, para peneliti menemukan bukti ledakan: semburan air dan buih setinggi seratus meter.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Colossal 100-meter fountain of white water and foam erupting from the center of a crater lake, apocalyptic. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Di permukaan danau, para peneliti menemukan bukti ledakan yang mengejutkan, semburan air dan buih setinggi seratus meter yang membelah malam, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a colossal hundred-meter fountain of white water and foam erupting from the center of a crater lake, apocalyptic. Palette: blinding white foam, rust-brown water, torn sky grey, spray silver, dramatic chiaroscuro, violent daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a colossal hundred-meter fountain of white water and foam erupting from the center of a crater lake, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_046",
    "chapter": 3,
-   "narration": "Gelombang setinggi sedikitnya dua puluh lima meter menyapu dan mengikis salah satu sisi pantai danau.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Violent churning white foam and exploding water on a lake surface, massive turbulence. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Gelombang setinggi sedikitnya dua puluh lima meter menyapu dan mengikis salah satu sisi pantai danau hingga bersih tak bersisa sama sekali, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of violent churning white foam and exploding water on a lake surface, massive turbulence, deafening visual chaos. Palette: foam white, churned rust-brown, spray silver, deep shadow troughs, dramatic chiaroscuro, harsh flash light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
@@ -435,26 +465,28 @@
   {
    "id": "shot_047",
    "chapter": 3,
-   "narration": "Hutan rafia di sekitarnya rata dengan tanah — dihantam ledakan dan gelombang seperti tsunami.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Wall of muddy water crashing against a crater lake shore, scouring trees and soil, frozen at destruction peak. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Hutan rafia di sekitarnya rata dengan tanah, dihantam ledakan dan gelombang dahsyat seperti diterjang tsunami raksasa yang muncul dari dalam danau, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a wall of muddy water crashing against a crater lake shore, scouring trees and soil, frozen at destruction peak. Palette: mud brown, splintered wood tan, uprooted green, spray white, dramatic chiaroscuro, violent daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial over a flattened raffia palm forest, trees laid down radially around the lake like matchsticks, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_048",
    "chapter": 3,
-   "narration": "Diperkirakan sekitar satu koma dua kilometer kubik gas terlepas malam itu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Flattened raffia palm forest around a lake from above, trees laid down radially like matchsticks. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Diperkirakan sekitar satu koma dua kilometer kubik gas terlepas pada malam itu, jumlah yang sulit dibayangkan oleh akal manusia biasa, menjadikannya teka-teki terbesar dalam geologi modern.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a flattened raffia palm forest around a lake, trees laid down radially like matchsticks. Palette: snapped palm green, exposed root brown, lake rust-red, ash-grey sky, dramatic chiaroscuro, flat aftermath light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial pull-back over a flattened raffia palm forest, trees laid radially around the lake like matchsticks, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_049",
    "chapter": 3,
-   "narration": "Namun satu misteri tetap tak terpecahkan hingga kini: apa yang memicu semuanya?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Brown crater lake at dusk, investigators' boats tiny on the surface, unanswered questions over dead water. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Namun satu misteri tetap tak terpecahkan hingga hari ini, apa yang sebenarnya memicu semuanya pada malam yang begitu tenang itu, sebuah teka-teki yang masih diperdebatkan para ahli geologi dunia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a brown crater lake at dusk, investigators' boats tiny on the surface, unanswered questions over dead water. Palette: dusk violet, dead-water brown, tiny boat white, silhouetted rim black, dramatic chiaroscuro, fading dusk glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -463,17 +495,18 @@
   {
    "id": "shot_050",
    "chapter": 3,
-   "narration": "Sebagian besar ahli geologi menduga tanah longsor — guguran yang mengguncang lapisan air dalam.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Fresh landslide scar on a steep crater wall above a lake, exposed red earth and fallen rocks, the prime suspect. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Sebagian besar ahli geologi menduga tanah longsor, guguran batuan yang mengguncang lapisan air dalam dan memicu malapetaka berantai yang fatal, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of a fresh landslide scar on a steep crater wall above a lake, exposed red earth and fallen rocks, the prime suspect. Palette: raw red earth, fractured grey rock, fallen boulder brown, dark water below, dramatic chiaroscuro, raking side light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a fresh landslide scar on a steep crater wall, exposed red earth and fallen rocks, the prime suspect, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_051",
    "chapter": 3,
-   "narration": "Ada pula yang menduga letusan vulkanik kecil di dasar danau.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Underwater view of a small volcanic vent on a lakebed cracking open, glowing orange fissure, bubbles erupting. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Ada pula yang menduga letusan vulkanik kecil di dasar danau, yang memanaskan air dan mengacaukan keseimbangan lapisannya yang sudah sangat rapuh, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot underwater of a small volcanic vent on a lakebed cracking open, glowing orange fissure, bubbles erupting. Palette: glowing fissure orange, lakebed black, bubble silver, deep cobalt water, dramatic chiaroscuro, volcanic inner glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "MACRO",
    "duration_hint": 10,
    "media": "video",
@@ -482,26 +515,28 @@
   {
    "id": "shot_052",
    "chapter": 3,
-   "narration": "Kemungkinan lain: hujan dingin yang jatuh di satu sisi danau memicu pembalikan lapisan air.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Cold rain hammering one side of a crater lake at dusk, dark clouds, the surface disturbed. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Kemungkinan lain adalah hujan dingin yang jatuh di satu sisi danau, memicu pembalikan lapisan air secara tiba-tiba, cepat, dan fatal, sebuah bukti bisu dari malam paling sunyi dalam sejarah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of cold rain hammering one side of a crater lake at dusk, dark clouds, the surface disturbed and rippling. Palette: rain-streaked grey, slate cloud black, rippled teal water, distant lightning white, dramatic chiaroscuro, storm light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow tracking shot of cold rain hammering one side of a crater lake at dusk, dark clouds, disturbed surface, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_053",
    "chapter": 3,
-   "narration": "Teori gempa bumi gugur — karena tidak ada saksi yang merasakan getaran pagi itu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. 1986 seismograph drum with a flat calm line, no tremors recorded, vintage instrument. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Teori gempa bumi gugur dengan sendirinya, karena tidak ada satu saksi pun yang merasakan getaran pada pagi yang sunyi dan damai itu, sebuah bukti bisu dari malam paling sunyi dalam sejarah.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of a 1986 seismograph drum with a flat calm line, no tremors recorded, vintage brass instrument in darkness. Palette: brass gold, paper cream, ink-flat black line, dark wood, dramatic chiaroscuro, single lamp glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a 1986 seismograph drum with a flat calm line, vintage brass instrument in a dark observatory, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_054",
    "chapter": 3,
-   "narration": "Apapun pemicunya, hasilnya sama: air dalam yang jenuh gas tercampur ke lapisan atas, dan gas mendidih keluar seketika.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Lake water violently overturning from above, deep black water surging to the surface in roiling patches. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Apa pun pemicunya, hasilnya tetap sama mengerikannya, air dalam yang jenuh gas tercampur ke lapisan atas, dan gas pun mendidih keluar seketika, dan jejak itu tak terhapuskan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of lake water violently overturning, deep black water surging to the surface in roiling patches. Palette: surging black water, foam white patches, rust-brown edges, sky grey, dramatic chiaroscuro, violent daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
@@ -510,8 +545,8 @@
   {
    "id": "shot_055",
    "chapter": 4,
-   "narration": "Setelah seribu tujuh ratus empat puluh enam nyawa melayang, satu pertanyaan mendesak muncul: bagaimana memastikan ini tak terulang?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Research team in boats on a brown crater lake urgently deploying instruments, 1980s gear, overcast sky. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Setelah seribu tujuh ratus empat puluh enam nyawa melayang sia-sia, satu pertanyaan mendesak muncul ke permukaan — bagaimana memastikan ini tak pernah terulang — dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a research team in boats on a brown crater lake urgently deploying instruments, 1980s gear, overcast sky. Palette: overcast grey, rust-brown water, khaki field wear, chrome instruments, dramatic chiaroscuro, flat urgent light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -520,35 +555,38 @@
   {
    "id": "shot_056",
    "chapter": 4,
-   "narration": "Para ilmuwan tahu gas akan kembali menumpuk — danau itu masih hidup, magma di bawahnya tak pernah berhenti membocor.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Underwater view of deep lake water with new streams of gas bubbles slowly accumulating again, dark blue. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Para ilmuwan tahu gas akan kembali menumpuk perlahan, karena danau itu masih hidup dan magma di bawahnya tak pernah berhenti membocor setiap hari, dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot underwater of deep lake water with new streams of gas bubbles slowly accumulating again, dark blue. Palette: accumulating bubble silver, deep cobalt, faint teal shimmer, abyssal black, dramatic chiaroscuro, dim depth light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "MACRO",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow drift through deep lake water with new streams of gas bubbles slowly accumulating again, dark blue depths, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_057",
    "chapter": 4,
-   "narration": "Solusinya terdengar sederhana: keluarkan gasnya sedikit demi sedikit, sebelum sempat menumpuk berbahaya.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Engineer's hands sketching a degassing pipe design on paper, fountain pen, technical drawing of a lake cross-section. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Solusinya terdengar sangat sederhana bagi telinga awam, keluarkan gasnya sedikit demi sedikit, sebelum sempat menumpuk hingga mencapai titik yang berbahaya, dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of an engineer's hands sketching a degassing pipe design on paper, fountain pen, technical lake cross-section. Palette: paper white, ink black lines, skin brown, brass pen gold, dramatic chiaroscuro, warm desk lamp, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on an engineer's hand sketching a degassing pipe design on paper, technical cross-section of a lake, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_058",
    "chapter": 4,
-   "narration": "Tahun dua ribu satu, pipa degassing pertama dipasang — menyedot air dari lapisan terdalam ke permukaan.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Tall degassing pipe on a crater lake erupting a spectacular white fountain of water and gas, hope rising with the spray. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tahun dua ribu satu, pipa degassing pertama dipasang dengan susah payah, menyedot air dari lapisan terdalam danau hingga naik ke permukaan, sebuah pengingat bahwa sains menyelamatkan nyawa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a tall degassing pipe on a crater lake erupting a spectacular white fountain of water and gas, hope rising with the spray. Palette: fountain white, teal lake water, steel pipe grey, hopeful blue sky, dramatic chiaroscuro, bright daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial orbit around a tall degassing pipe erupting a spectacular white fountain on a crater lake, hope rising, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_059",
    "chapter": 4,
-   "narration": "Di permukaan, tekanan hilang dan karbon dioksida bocor keluar dalam jumlah aman — seperti membuka tutup soda perlahan-lahan.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Soda bottle cap being slowly twisted open, gentle hiss of escaping gas, dark background. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Di permukaan, tekanan hilang dan karbon dioksida pun bocor keluar dalam jumlah aman, seperti membuka tutup soda perlahan-lahan tanpa ledakan, sebuah pengingat bahwa sains menyelamatkan nyawa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a soda bottle cap being slowly twisted open, gentle hiss of escaping gas, dark background. Palette: bottle green glass, fizz white, cap silver, deep black background, dramatic chiaroscuro, studio rim light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
@@ -557,26 +595,28 @@
   {
    "id": "shot_060",
    "chapter": 4,
-   "narration": "Air mancur buih yang muncul dari pipa itu menjadi pemandangan rutin di Danau Nyos.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Crater lake with a permanent white fountain jetting from a degassing pipe, rainbow in the spray, peaceful. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Air mancur buih yang muncul dari pipa itu kemudian menjadi pemandangan rutin yang menenangkan di Danau Nyos yang dulu pernah mematikan, menjadikannya pelajaran penting bagi umat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a crater lake with a permanent white fountain jetting from a degassing pipe, rainbow in the spray, peaceful. Palette: fountain white, rainbow pastel, calm teal water, clear blue sky, dramatic chiaroscuro, warm sunlight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a crater lake with a permanent white fountain jetting from a degassing pipe, rainbow in the spray, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_061",
    "chapter": 4,
-   "narration": "Sepuluh tahun kemudian, tahun dua ribu sebelas, dua pipa tambahan dipasang untuk mempercepat pengosongan.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Crater lake with three degassing pipes creating white fountains, expanded operation, systematic safety. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Sepuluh tahun kemudian, tahun dua ribu sebelas, dua pipa tambahan dipasang untuk mempercepat pengosongan gas yang berbahaya dari dasar danau, sebuah pengingat bahwa sains menyelamatkan nyawa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a crater lake with three degassing pipes creating white fountains, expanded systematic safety operation. Palette: triple fountain white, deep teal water, steel grey pipes, pale blue sky, dramatic chiaroscuro, bright work light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow orbit around a crater lake with three degassing pipes jetting white fountains, systematic safety operation under grey sky, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_062",
    "chapter": 4,
-   "narration": "Sejak itu, konsentrasi gas di danau terus dipantau — dan risiko letusan susulan menurun drastis.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Scientist checking gas monitoring instruments on a lakeside platform, gauges and sample bottles, vigilant routine. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Sejak itu, konsentrasi gas di danau terus dipantau dengan ketat oleh para ahli, dan risiko letusan susulan pun menurun secara sangat drastis, sebuah pengingat bahwa sains menyelamatkan nyawa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a scientist checking gas monitoring instruments on a lakeside platform, gauges and sample bottles, vigilant routine. Palette: gauge brass, bottle glass green, khaki sleeve, lake teal behind, dramatic chiaroscuro, soft daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
@@ -585,35 +625,38 @@
   {
    "id": "shot_063",
    "chapter": 4,
-   "narration": "Tetapi para ahli menemukan ancaman baru yang tak kalah menakutkan: dinding alami danau melemah.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Natural volcanic dam wall holding back a crater lake, visible cracks and erosion on the rock face, tension. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tetapi para ahli menemukan ancaman baru yang tak kalah menakutkan, dinding alami danau ternyata mulai melemah dan rapuh dimakan waktu, menjadikannya pelajaran penting bagi umat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a natural volcanic dam wall holding back a crater lake, visible cracks and erosion on the rock face, tension. Palette: cracked basalt grey, seep water dark, lichen green, lake teal, dramatic chiaroscuro, raking light on cracks, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial push-in on a natural volcanic dam wall holding back a crater lake, visible cracks and erosion on the rock face, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_064",
    "chapter": 4,
-   "narration": "Danau Nyos ditahan oleh bendungan vulkanik alami — dan dinding itu kini menipis.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Cracked natural rock dam, water seeping through fissures, the wall groaning under pressure. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Danau Nyos ditahan oleh bendungan vulkanik alami, dan dinding batuan itu kini menipis dan rapuh di beberapa titik yang sangat kritis, menjadikannya pelajaran penting bagi umat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a cracked natural rock dam, water seeping through fissures, the wall groaning under pressure. Palette: wet rock black, seep silver, algae green, deep shadow cracks, dramatic chiaroscuro, cold seep light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Extreme close-up of a cracked natural rock dam, water seeping through fissures, the wall groaning under pressure, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_065",
    "chapter": 4,
-   "narration": "Getaran geologi bisa meruntuhkan dinding itu kapan saja, melepaskan banjir bandang ke desa-desa di hilir.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Volcanic highlands shaking in a geological tremor, dust rising from cliffs, a lake's surface rippling ominously. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Getaran geologi bisa meruntuhkan dinding itu kapan saja tanpa peringatan, melepaskan banjir bandang yang menerjang desa-desa di daerah hilir, sebuah pengingat bahwa sains menyelamatkan nyawa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of volcanic highlands shaking in a geological tremor, dust rising from cliffs, a lake's surface rippling ominously. Palette: dust tan, cliff grey, rippled teal water, hazy white sky, dramatic chiaroscuro, trembling daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow pull-back as volcanic highlands shake in a geological tremor, dust rising from cliffs, the lake surface rippling, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_066",
    "chapter": 4,
-   "narration": "Banjir itu bahkan bisa mencapai Nigeria — sekaligus melepaskan gas dalam jumlah masif.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. River valley from a crater lake toward distant Nigerian plains, the potential path of a catastrophic flood. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Banjir raksasa itu bahkan bisa mencapai Nigeria yang jauh di utara, sekaligus melepaskan gas dalam jumlah yang sangat masif dan mematikan bagi semua, dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot following a river valley from a crater lake toward distant Nigerian plains, potential catastrophic flood path. Palette: winding river silver, valley green, plain gold, distant haze blue, dramatic chiaroscuro, high aerial light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
@@ -622,35 +665,38 @@
   {
    "id": "shot_067",
    "chapter": 4,
-   "narration": "Artinya, bom gas itu kini punya dua pemicu: dari dalam air, dan dari dinding yang menahannya.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Split composition: a gas cloud rising from dark water on one side, a collapsing dam wall with flood on the other. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Artinya, bom gas itu kini punya dua pemicu sekaligus yang sama berbahayanya, dari dalam air yang jenuh, dan dari dinding batuan yang menahannya, dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot split composition: a gas cloud rising from dark water on one side, a collapsing dam wall with flood on the other. Palette: gas white, flood mud brown, dark water black, torn sky grey, dramatic chiaroscuro, divided light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow lateral pan across a split scene: a gas cloud rising from dark water on one side, a collapsing dam with flood on the other, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_068",
    "chapter": 4,
-   "narration": "Para insinyur kini memperkuat dinding alami itu sambil terus memantau degassing.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Engineers in hard hats reinforcing a natural dam wall with concrete and rock, heavy machinery. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Para insinyur kini memperkuat dinding alami itu dengan tekun sambil terus memantau degassing yang berjalan setiap hari tanpa pernah henti, menjadikannya pelajaran penting bagi umat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of engineers in hard hats reinforcing a natural dam wall with concrete and rock, heavy machinery. Palette: hi-vis yellow, concrete grey, machine steel, dust tan, dramatic chiaroscuro, hard work light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow tracking shot past engineers in hard hats reinforcing a natural dam wall with concrete and rock, heavy machinery, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_069",
    "chapter": 4,
-   "narration": "Pelajaran Nyos jelas: danau yang tenang bukan berarti danau yang aman.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Deceptively calm crater lake at sunrise with a small warning buoy floating, beauty hiding danger. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Pelajaran Nyos menjadi sangat jelas bagi seluruh dunia, danau yang tenang bukan berarti danau yang aman bagi siapa pun yang tinggal di sekitarnya, dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a deceptively calm crater lake at sunrise with a small warning buoy floating, beauty hiding danger. Palette: sunrise gold, glass-teal water, buoy red, mist white, dramatic chiaroscuro, warm dawn light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a deceptively calm crater lake at sunrise, a small warning buoy bobbing on glassy water, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_070",
    "chapter": 4,
-   "narration": "Namun Nyos hanyalah latihan — karena bom sesungguhnya, yang ribuan kali lebih besar, masih menunggu di tempat lain.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Drone pulling back from a small crater lake revealing an enormous great lake on the horizon, scale shift. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Namun Nyos hanyalah sebuah latihan kecil, karena bom sesungguhnya yang ribuan kali lebih besar masih menunggu di tempat lain yang jauh dari sini, dan upaya itu terus berjalan hingga hari ini.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot pulling back from a small crater lake revealing an enormous great lake on the horizon, staggering scale shift. Palette: small lake teal, vast lake ultramarine, horizon haze violet, green shore, dramatic chiaroscuro, high aerial light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DRONE",
    "duration_hint": 10,
    "media": "video",
@@ -659,26 +705,28 @@
   {
    "id": "shot_071",
    "chapter": 4,
-   "narration": "Danau itu bernama Kivu — dan dua juta orang tinggal di tepinya tanpa banyak yang tahu bahayanya.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Shoreline of a vast African lake with bustling towns, markets and boats, two million lives in the shadow of deep water. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Danau itu bernama Kivu, dan sekitar dua juta orang tinggal di tepinya tanpa banyak yang tahu bahaya besar yang sedang mengintai mereka, menjadikannya pelajaran penting bagi umat manusia.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of the shoreline of a vast African lake with bustling towns, markets and boats, two million lives in deep water's shadow. Palette: market color bursts, boat wood brown, lake ultramarine, haze blue, dramatic chiaroscuro, bright daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a bustling African lakeside town, markets and boats along the shore, two million lives beneath deep water, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_072",
    "chapter": 4,
-   "narration": "Mampukah manusia menjinakkan danau raksasa itu sebelum ia terbangun?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Vast lake at dusk with city lights flickering on, can humanity tame a giant before it wakes. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Mampukah manusia menjinakkan danau raksasa itu sebelum ia terbangun dari tidurnya yang panjang, dan mampukah upaya yang terus berjalan hingga hari ini mencegah sejarah kelam Nyos terulang kembali?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a vast lake at dusk with city lights flickering on, can humanity tame a giant before it wakes. Palette: dusk indigo, city-light amber, deep blue water, violet sky, dramatic chiaroscuro, twilight glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow pull-back from a vast lake at dusk as city lights flicker on, the giant sleeping below, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_073",
    "chapter": 5,
-   "narration": "Jika Nyos bisa membunuh seribu tujuh ratus empat puluh enam orang, apa yang terjadi jika danau yang dua ribu kali lebih besar meledak?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Drone rising high above a tiny crater lake, then an endless great lake horizon, staggering scale difference. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Jika Nyos yang kecil bisa membunuh seribu tujuh ratus empat puluh enam orang, sebuah peringatan bagi generasi mendatang, apa yang terjadi jika danau yang dua ribu kali lebih besar meledak tanpa ampun?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Drone shot rising high above a tiny crater lake, then an endless great lake horizon, staggering scale difference. Palette: tiny teal lake, endless ultramarine, sky gradient blue, cloud white, dramatic chiaroscuro, high aerial light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DRONE",
    "duration_hint": 10,
    "media": "video",
@@ -687,26 +735,28 @@
   {
    "id": "shot_074",
    "chapter": 5,
-   "narration": "Danau Kivu terletak di perbatasan Rwanda dan Republik Demokratik Kongo — luasnya sekitar dua ribu tujuh ratus kilometer persegi.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Satellite view of a huge lake on the Rwanda-Congo border, 2700 square kilometers of deep blue, cities along its shores. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Danau Kivu terletak di perbatasan Rwanda dan Republik Demokratik Kongo, dengan luas sekitar dua ribu tujuh ratus kilometer persegi yang membentang luas, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style shot of a huge lake on the Rwanda-Congo border, deep blue expanse, cities along its shores. Palette: deep ultramarine, city amber clusters, borderland green, cloud white, dramatic chiaroscuro, flat orbital light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "SATELLITE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow orbital zoom over a huge lake on the Rwanda-Congo border, deep blue expanse with cities along its shores, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_075",
    "chapter": 5,
-   "narration": "Di dasarnya tersimpan ratusan juta meter kubik karbon dioksida — dan puluhan juta meter kubik metana.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Underwater macro of deep lake water saturated with two kinds of gas bubbles, carbon dioxide and methane rising together. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Di dasarnya tersimpan ratusan juta meter kubik karbon dioksida, dan puluhan juta meter kubik metana yang sangat mudah terbakar kapan saja, sebuah pertanyaan yang hanya dijawab oleh waktu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Macro shot underwater of deep lake water saturated with two kinds of gas bubbles, carbon dioxide and methane rising together. Palette: twin bubble silver, deep cobalt, methane blue shimmer, abyssal black, dramatic chiaroscuro, dim depth light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "MACRO",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Underwater macro drift through deep lake water saturated with two kinds of gas bubbles, carbon dioxide and methane rising together, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_076",
    "chapter": 5,
-   "narration": "Metana itu mudah terbakar — Kivu bukan hanya bisa mencekik, tetapi juga bisa meledak dan terbakar.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Controlled methane flame jetting from lake water at night, blue fire on black water, beautiful and terrifying. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Metana itu sangat mudah terbakar, sehingga Kivu bukan hanya bisa mencekik dalam diam, tetapi juga bisa meledak dan terbakar dengan sangat hebat, dan jawabannya menentukan nasib jutaan jiwa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a controlled methane flame jetting from lake water at night, blue fire on black water, beautiful and terrifying. Palette: methane-flame blue, pitch black water, ember orange core, night indigo, dramatic chiaroscuro, flame glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
    "media": "video",
@@ -715,26 +765,28 @@
   {
    "id": "shot_077",
    "chapter": 5,
-   "narration": "Sekitar dua juta orang tinggal di tepi danau ini — berbanding beberapa ribu di sekitar Nyos tahun seribu sembilan ratus delapan puluh enam.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Satellite view of dense lakeside cities, Goma and Gisenyi, hundreds of thousands of homes along the water. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Sekitar dua juta orang tinggal di tepi danau ini, berbanding hanya beberapa ribu jiwa di sekitar Nyos tahun seribu sembilan ratus delapan puluh enam, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Satellite-style shot of dense lakeside cities, Goma and Gisenyi, hundreds of thousands of homes along the water. Palette: dense urban amber, roof rust-red, lake ultramarine edge, haze grey, dramatic chiaroscuro, dusk city glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "SATELLITE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow satellite-style descent toward dense lakeside cities along the water, hundreds of thousands of homes glittering, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_078",
    "chapter": 5,
-   "narration": "Di dekatnya berdiri Gunung Nyiragongo yang masih aktif — meletus tahun dua ribu dua dan kembali tahun dua ribu dua puluh satu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Active Nyiragongo volcano looming over a great lake, glowing lava lake in its crater at night, smoke rising. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Di dekatnya berdiri Gunung Nyiragongo yang masih aktif dan berbahaya, yang meletus tahun dua ribu dua dan kembali meletus tahun dua ribu dua puluh satu, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of the active Nyiragongo volcano looming over a great lake, glowing lava lake in its crater at night, smoke rising. Palette: lava orange-red, crater black, smoke grey, lake ink blue, dramatic chiaroscuro, volcanic night glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on the active Nyiragongo volcano looming over a great lake, glowing lava lake in its crater at night, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_079",
    "chapter": 5,
-   "narration": "Letusan magma di dalam danau atau gempa besar bisa menjadi pemicu yang membangunkan raksasa itu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Black 2021 lava rock meeting lake water, steam hissing up, nature's warning written in stone. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Letusan magma di dalam danau atau gempa besar bisa menjadi pemicu yang membangunkan raksasa itu dari tidurnya yang panjang dan dalam, sebuah pertanyaan yang hanya dijawab oleh waktu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of black 2021 lava rock meeting lake water, steam hissing up, nature's warning written in stone. Palette: lava black, steam white, hiss silver, water deep blue, dramatic chiaroscuro, steam-lit glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
    "media": "video",
@@ -743,26 +795,28 @@
   {
    "id": "shot_080",
    "chapter": 5,
-   "narration": "Para ilmuwan masih berdebat: apakah gas di Kivu terus menumpuk, atau stabil?",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Two scientists debating over lake data printouts in a field station, disagreement in the air. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Para ilmuwan masih berdebat sengit hingga hari ini, apakah gas di Kivu terus menumpuk, atau justru berada dalam kondisi yang stabil dan aman, dan jawabannya menentukan nasib jutaan jiwa di masa depan?",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of two scientists debating over lake data printouts in a field station, disagreement hanging in the air. Palette: paper white charts, khaki shirts, brown skin tones, tent canvas beige, dramatic chiaroscuro, warm lamp light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on two scientists debating over lake data printouts in a field station, disagreement in the air, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_081",
    "chapter": 5,
-   "narration": "Pengukuran terbaru menunjukkan air dalamnya masih jauh di bawah titik pelepasan spontan — untuk saat ini.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Research boat lowering instruments into the calm deep water of a great lake, cables descending into blackness. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Pengukuran terbaru menunjukkan air dalamnya masih jauh di bawah titik pelepasan spontan, setidaknya untuk saat ini yang bisa dipastikan para ahli, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a research boat lowering instruments on long cables into the calm deep water of a great lake. Palette: boat white, cable black lines, calm ultramarine water, pale sky, dramatic chiaroscuro, soft daylight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a research boat lowering instruments on long cables into the black deep water of a great lake, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_082",
    "chapter": 5,
-   "narration": "Tetapi produksi metana di sedimen dilaporkan meningkat — yang bisa mempercepat kejenuhan dalam abad ini.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Underwater close-up of lake sediment releasing increasing streams of methane bubbles from the mud, ominous. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Tetapi produksi metana di sedimen dilaporkan terus meningkat setiap tahun, yang bisa mempercepat kejenuhan gas dalam abad ini juga menurut para ahli, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up underwater of lake sediment releasing increasing streams of methane bubbles from the mud, ominous. Palette: mud brown, methane bubble silver-blue, dark water black, faint green algae, dramatic chiaroscuro, murky depth light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",
@@ -771,35 +825,38 @@
   {
    "id": "shot_083",
    "chapter": 5,
-   "narration": "Rwanda tidak tinggal diam: sejak dua ribu enam belas, pembangkit KivuWatt menyedot gas metana untuk listrik.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Industrial extraction barge on a great lake drawing deep water, pipes and platforms, turning danger into power. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Rwanda tidak tinggal diam menghadapi ancaman, sejak dua ribu enam belas, pembangkit KivuWatt menyedot gas metana dari dasar danau untuk dijadikan listrik, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of an industrial extraction barge on a great lake drawing deep water, pipes and platforms, turning danger into power. Palette: industrial steel grey, pipe yellow, lake ultramarine, sky pale blue, dramatic chiaroscuro, bright industrial light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow tracking shot past an industrial extraction barge on a great lake, pipes and platforms drawing deep water, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_084",
    "chapter": 5,
-   "narration": "Sekitar dua puluh enam megawatt listrik menerangi Rwanda — dari gas yang seharusnya menjadi ancaman.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Power plant on a lakeshore glowing at night, transmission lines carrying electricity across Rwanda. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Sekitar dua puluh enam megawatt listrik menerangi Rwanda setiap malam, berasal dari gas yang seharusnya menjadi ancaman yang mematikan, sebuah pertanyaan yang hanya dijawab oleh waktu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a power plant on a lakeshore glowing at night, transmission lines carrying electricity across Rwanda. Palette: plant amber glow, pylon black silhouettes, night indigo, lake reflection blue, dramatic chiaroscuro, electric night glow, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial orbit over a lakeshore power plant glowing at night, transmission lines carrying electricity across Rwanda, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_085",
    "chapter": 5,
-   "narration": "Setiap meter kubik metana yang diambil adalah sedikit risiko yang dicabut dari danau itu.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Methane being captured from a pipe on an extraction barge, the invisible threat tamed into fuel. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Setiap meter kubik metana yang diambil adalah sedikit risiko yang dicabut dari danau itu, langkah kecil yang berarti menuju keselamatan bersama, dan jawabannya menentukan nasib jutaan jiwa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Detail shot of methane being captured from a pipe on an extraction barge, the invisible threat tamed into fuel. Palette: pipe steel, captured flame blue, barge deck grey, lake green-blue, dramatic chiaroscuro, work light glare, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "DETAIL",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Extreme close-up of methane being captured from a pipe on an extraction barge, the invisible threat tamed into fuel, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_086",
    "chapter": 5,
-   "narration": "Namun prosesnya lambat, berisiko, dan ketidakstabilan politik kawasan mempersulit operasi besar.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Vast lake from above with a single tiny extraction barge, the scale of the task overwhelming. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Namun prosesnya lambat, berisiko tinggi, dan ketidakstabilan politik kawasan mempersulit setiap operasi besar yang telah direncanakan dengan matang, sebuah peringatan bagi generasi mendatang.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Aerial shot of a vast lake with a single tiny extraction barge, the scale of the task overwhelming. Palette: vast ultramarine, tiny barge white, wake silver, horizon haze, dramatic chiaroscuro, high aerial light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "AERIAL",
    "duration_hint": 10,
    "media": "video",
@@ -808,35 +865,38 @@
   {
    "id": "shot_087",
    "chapter": 5,
-   "narration": "Nyos mengajarkan dunia bahwa danau bisa membunuh dalam diam — Kivu menguji apakah manusia sempat belajar.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Quiet memorial by a crater lake, simple stone marker among green hills, 1746 lives remembered in silence. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Nyos mengajarkan dunia bahwa danau bisa membunuh dalam diam yang mencekam, dan Kivu kini menguji apakah manusia sempat belajar dari tragedi itu, dan jawabannya menentukan nasib jutaan jiwa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a quiet memorial by a crater lake, simple stone marker among green hills, seventeen hundred forty-six lives remembered in silence. Palette: memorial stone grey, hill green, wildflower white, calm teal water, dramatic chiaroscuro, soft overcast light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow push-in on a quiet memorial stone by a crater lake among green hills, seventeen hundred forty-six lives remembered in silence, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_088",
    "chapter": 5,
-   "narration": "Danau-danau kawah serupa juga dipantau di Indonesia, Filipina, dan Jepang — karena pemanasan iklim bisa menggoyahkan lapisan air.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Steaming tropical crater lake in Indonesia at dawn seen from the crater rim, monitoring buoys on the water. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Danau-danau kawah serupa juga dipantau di Indonesia, Filipina, dan Jepang, karena pemanasan iklim bisa menggoyahkan lapisan airnya yang rapuh, dan jawabannya menentukan nasib jutaan jiwa.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a steaming tropical crater lake in Indonesia at dawn seen from the crater rim, monitoring buoys on the water. Palette: steam white, tropical green, dawn gold, buoy orange, dramatic chiaroscuro, volcanic dawn light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow aerial over a steaming tropical crater lake in Indonesia at dawn, monitoring buoys floating on the water, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_089",
    "chapter": 5,
-   "narration": "Malam tanpa suara di Nyos terjadi empat puluh tahun lalu — tetapi bom-bom di dasar danau masih terus berdetak.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Crater lake at sunset forty years after disaster, peaceful surface, pressure silently building deep below. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Malam tanpa suara di Nyos terjadi empat puluh tahun lalu, tetapi bom-bom di dasar danau masih terus berdetak hingga detik ini tanpa henti, sebuah pertanyaan yang hanya dijawab oleh waktu.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Wide shot of a crater lake at sunset forty years after disaster, peaceful surface, pressure silently building deep below. Palette: sunset amber, calm teal surface, silhouetted rim, deep shadow below, dramatic chiaroscuro, low golden light, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "WIDE",
    "duration_hint": 10,
-   "media": "image"
+   "media": "video",
+   "video_prompt": "Slow pull-back from a peaceful crater lake at sunset as darkness creeps across the water, pressure silently building below, 35mm film grain, 10 seconds"
   },
   {
    "id": "shot_090",
    "chapter": 5,
-   "narration": "Pertanyaannya kini untuk Anda: jika danau di dekat rumah Anda menyimpan gas mematikan, maukah Anda mengetahuinya — atau memilih tetap tenang dalam ketidaktahuan? Tulis pendapat Anda di kolom komentar.",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed crater lake disaster documentary, mist and dark water. Lone viewer's silhouette reflected in dark lake water at dusk, the question hanging in the air. No frame, no border, no collage, no text, no watermark.",
+   "narration": "Pertanyaannya kini untuk Anda, jika danau di dekat rumah Anda menyimpan gas mematikan, maukah Anda mengetahuinya, atau memilih tetap tenang dalam ketidaktahuan? Tulis pendapat Anda di kolom komentar.",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed. Close-up of a lone viewer's silhouette reflected in dark lake water at dusk, the question hanging in the air. Palette: silhouette black, dusk violet water, last gold streak, mirror silver ripple, dramatic chiaroscuro, fading twilight, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark.",
    "shot_type": "CLOSE_UP",
    "duration_hint": 10,
    "media": "video",

@@ -1,0 +1,11 @@
+1
+00:00:00,100 --> 00:00:02,431
+bencana ini bukan kecelakaan biasa
+
+2
+00:00:02,431 --> 00:00:04,762
+ini adalah peringatan pertama bahwa
+
+3
+00:00:04,762 --> 00:00:06,777
+danau bisa menjadi senjata

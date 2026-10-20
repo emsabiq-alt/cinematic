@@ -1,0 +1,7 @@
+1
+00:00:00,100 --> 00:00:02,900
+para insinyur kini memperkuat dinding alami
+
+2
+00:00:02,900 --> 00:00:05,383
+itu sambil terus memantau degassing
