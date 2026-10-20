@@ -335,6 +335,69 @@ def extract_shot_scripts(project):
     return files
 
 
+def _split_tts_clauses(text):
+    """Pecah teks menjadi klausa untuk sintesis per-klausa.
+
+    Satu panggilan synthesize untuk satu shot utuh terbukti membuat angka
+    bocor/berulang antar-angka dalam kalimat yang sama (uji 2026-10-20:
+    "meletus tahun dua ribu dua dan kembali meletus tahun dua ribu dua
+    puluh satu" terdengar "2021 ... 2021"). Sintesis per-klausa
+    mengisolasi tiap angka ke panggilannya sendiri.
+    """
+    parts = re.split(r"(?<=[,;:])\s+|(?<=[.!?])\s+", text)
+    parts = [p.strip() for p in parts if p.strip()]
+    conj = ("dan", "yang", "lalu", "tetapi", "namun", "hingga", "atau")
+    out = []
+    for p in parts:
+        while len(p.split()) > 13:
+            words = p.split()
+            mid = len(words) // 2
+            cut = -1
+            for d in range(0, 7):
+                for j in (mid - d, mid + d):
+                    if 0 < j < len(words) and words[j].lower() in conj:
+                        cut = j
+                        break
+                if cut > 0:
+                    break
+            if cut <= 0:
+                break
+            out.append(" ".join(words[:cut]).strip())
+            p = " ".join(words[cut:]).strip()
+        out.append(p)
+    merged = []
+    for p in out:
+        if merged and len(p.split()) < 3:
+            merged[-1] = merged[-1] + " " + p
+        else:
+            merged.append(p)
+    return merged
+
+
+def synthesize_speech(tts, style, text):
+    """Sintesis satu shot: normalisasi angka, lalu per-klausa, digabung
+    dengan jeda 90 ms antar-klausa. Mengembalikan (wav_data, sr) dengan
+    konvensi yang sama seperti tts.synthesize()."""
+    import numpy as np
+
+    text = normalize_numbers_for_tts(text)
+    chunks = _split_tts_clauses(text)
+    if len(chunks) <= 1:
+        return tts.synthesize(text, style, lang="id")
+    pieces = []
+    sr = 44100
+    for c in chunks:
+        wav_data, sr = tts.synthesize(c, style, lang="id")
+        pieces.append(np.asarray(wav_data[0], dtype=np.float32))
+    gap = np.zeros(int(0.09 * sr), dtype=np.float32)
+    joined = []
+    for i, p in enumerate(pieces):
+        if i:
+            joined.append(gap)
+        joined.append(p)
+    return [np.concatenate(joined)], sr
+
+
 def get_tts_instance():
     import supertonic
     return supertonic.TTS()
@@ -374,8 +437,9 @@ def run_tts_subtitles(project, voice=None):
 
         # Generate audio if missing or too small
         if not out_wav.exists() or out_wav.stat().st_size < 5000:
-            # Angka dinormalisasi khusus untuk pengucapan; teks asli untuk subtitle.
-            wav_data, sr = tts.synthesize(normalize_numbers_for_tts(text), style, lang="id")
+            # Angka dinormalisasi + sintesis per-klausa khusus untuk
+            # pengucapan; teks asli untuk subtitle.
+            wav_data, sr = synthesize_speech(tts, style, text)
             sf.write(str(out_wav), wav_data[0], 44100)
             print(f"TTS_OK {sid} -> {out_wav.name}", flush=True)
 
