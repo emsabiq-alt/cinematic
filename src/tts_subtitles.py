@@ -387,7 +387,7 @@ def synthesize_speech(tts, style, text):
     pieces = []
     sr = 44100
     for c in chunks:
-        wav_data, sr = tts.synthesize(c, style, lang="id")
+        wav_data, _sr = tts.synthesize(c, style, lang="id")
         pieces.append(np.asarray(wav_data[0], dtype=np.float32))
     gap = np.zeros(int(0.09 * sr), dtype=np.float32)
     joined = []
