@@ -1,1 +1,13 @@
-{"created_at":"2026-10-21","duration":"15-20 min","id":"sv013","mode":"step","pacing":"8-12s","project_dir":"projects/sv013","status":"script_ready","title":"SAMALAS 1257: Gunung di Lombok yang Menghilang — Letusan Misteri Terbesar dalam 7.000 Tahun","total_shots":90,"voice":"F2"}
+{
+  "created_at": "2026-10-21",
+  "duration": "15-20 min",
+  "id": "sv013",
+  "mode": "step",
+  "pacing": "8-12s",
+  "project_dir": "projects/sv013",
+  "status": "cancelled_by_user",
+  "title": "SAMALAS 1257: Gunung di Lombok yang Menghilang — Letusan Misteri Terbesar dalam 7.000 Tahun",
+  "total_shots": 90,
+  "voice": "F2",
+  "cancel_reason": "User batalkan 21 Okt 2026 06:24 WIB: topik Samalas sudah banyak video di YouTube, jangan diproduksi lagi."
+}
