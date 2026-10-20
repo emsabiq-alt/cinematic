@@ -5,8 +5,9 @@
  "mode": "step",
  "pacing": "8-12s",
  "project_dir": "projects/sv012",
- "status": "assets_ready",
+ "status": "published",
  "title": "DANAU NYOS: Danau yang Membunuh 1.746 Orang dalam Satu Malam — Tanpa Satu Luka Pun",
  "total_shots": 90,
- "voice": "F2"
+ "voice": "F2",
+ "youtube_url": "https://www.youtube.com/watch?v=cCeoGwYKs9A"
 }
