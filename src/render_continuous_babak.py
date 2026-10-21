@@ -374,15 +374,30 @@ def render_babak_video(project_dir, babak_num, whisper_model=None):
         frames = int(dur * 30)
 
         if item.get("media") == "video":
-            # Shot video (Veo): loop klip sampai durasi narasi, samakan spek
-            # keluaran dengan klip gambar (1920x1080, 30fps, yuv420p, tanpa
-            # audio — suara Veo dibuang; audio film = narasi + musik).
-            cmd = [
-                "ffmpeg", "-y", "-stream_loop", "-1", "-i", str(item["vid"]),
+            # Shot video (Veo): perpanjang klip secara MULUS model ping-pong —
+            # klip diputar maju lalu mundur (reverse) dan digabung jadi satu
+            # unit seamless ±2x durasi klip (10 dtk -> 20 dtk), lalu unit itu
+            # di-loop dan dipotong tepat ke durasi narasi. Cara lama
+            # (stream_loop langsung pada klip mentah) memutar ulang dari awal
+            # di tengah shot dan terlihat melompat (komplain penonton).
+            # Spek keluaran sama dengan klip gambar: 1920x1080, 30fps,
+            # yuv420p, tanpa audio (suara Veo dibuang; audio = narasi+musik).
+            pp_path = clip_dir / f"{sid}_pingpong.mp4"
+            cmd_pp = [
+                "ffmpeg", "-y", "-i", str(item["vid"]),
                 "-filter_complex",
                 "[0:v]scale=1920:1080:force_original_aspect_ratio=increase,"
-                "crop=1920:1080,fps=30,format=yuv420p[v]",
+                "crop=1920:1080,fps=30,format=yuv420p,split=2[fwd][rev_in];"
+                "[rev_in]reverse[rev];"
+                "[fwd][rev]concat=n=2:v=1:a=0[v]",
                 "-map", "[v]", "-an",
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+                str(pp_path)
+            ]
+            subprocess.run(cmd_pp, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True, timeout=300)
+            cmd = [
+                "ffmpeg", "-y", "-stream_loop", "-1", "-i", str(pp_path),
+                "-map", "0:v", "-an",
                 "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
                 "-t", f"{dur:.3f}",
                 str(out_c)
