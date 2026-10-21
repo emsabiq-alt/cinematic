@@ -1,189 +1,189 @@
 PROLOG
 
-001. Di perbukitan hijau Kecamatan Campaka, Kabupaten Cianjur, sebuah bukit batu menjulang menembus awan, teras-terasnya dari jauh menyerupai tangga raksasa yang dibangun untuk mencapai langit.
+001. Dengarkan. Di Campaka, Cianjur, ada bukit batu menembus awan. Teras-terasnya seperti tangga raksasa menuju langit. Bukan bukit sembarangan. Dari sinilah cerita dimulai.
 
-002. Penduduk di lerengnya menamainya Gunung Padang, gunung pencerahan, dan turun-temurun mereka merawat batu-batu tegak di puncaknya sebagai pusaka sakral yang tidak boleh diganggu sembarangan.
+002. Warga lerengnya menamai tempat ini Gunung Padang. Artinya gunung pencerahan. Batu-batu tegaknya pusaka sakral. Turun-temurun dijaga. Tidak boleh diganggu sembarangan.
 
-003. Lima undakan batu membentang dari kaki bukit sampai puncak tertinggi, tersusun dari balok-balok andesit memanjang yang tegak berbaris seperti pasukan penjaga yang membisu berabad-abad.
+003. Lima undakan batu membentang dari kaki sampai puncak. Bahannya balok andesit memanjang. Tegak berbaris seperti pasukan penjaga. Membisu berabad-abad. Syududu.
 
-004. Dilihat dari udara, siluetnya terasa terlalu teratur untuk sebuah bukit biasa, sisi-sisinya menurun berjenjang rapi dengan puncak datar yang seakan dibentuk mengikuti gambar rancangan kuno.
+004. Lihat dari udara. Bentuknya terlalu teratur untuk bukit biasa. Sisi-sisinya berjenjang rapi. Puncaknya datar. Seolah mengikuti gambar rancangan kuno.
 
-005. Setiap kabut pagi menyusuri lembah, para petani mendaki tangga batu yang sama dengan yang dipijak orang berabad-abad silam, membawa sesaji dan doa bagi arwah para leluhur yang mereka hormati.
+005. Tiap pagi kabut turun. Para petani mendaki tangga batu yang sama. Tangga yang dipijak orang berabad-abad silam. Mereka membawa sesaji. Mereka membawa doa untuk leluhur.
 
-006. Legenda yang hidup di tanah Sunda mengisahkan Prabu Siliwangi, raja Pajajaran yang agung, bertekad mendirikan istana megah di tempat ini hanya dalam tempo satu malam, sebelum fajar menyingsing.
+006. Legenda Sunda bercerita. Prabu Siliwangi, raja Pajajaran, hendak mendirikan istana megah di sini. Hanya dalam satu malam. Selesai sebelum fajar. Ma askoli inna kaliyamata inna asqoli.
 
-007. Tim pemeta pertama yang meneliti tempat ini justru dibuat bingung, sebab susunan batunya terlalu rapi, berlapis-lapis, dan terhampar terlalu luas untuk sekadar disebut bentukan alam yang kebetulan.
+007. Tim pemeta pertama datang. Mereka bingung. Susunannya terlalu rapi. Terlalu berlapis. Terlalu luas. Sulit disebut bentukan alam yang kebetulan.
 
-008. Sebagian balok di permukaan terpasang tanpa perekat sedikit pun, tetapi sanggup saling mengunci hingga ratusan bahkan ribuan tahun, bertahan melewati guncangan gempa dan guyuran hujan tropis.
+008. Sebagian balok terpasang tanpa perekat. Sedikit pun tidak ada. Tapi saling mengunci ratusan, bahkan ribuan tahun. Gempa tidak merobohkannya. Hujan tropis tidak meluruhkannya.
 
-009. Di undakan paling atas, batu-batu tegak menyusun ruang-ruang terbuka yang diduga menjadi arena upacara, tempat orang kuno menghadap matahari terbit dan menyapa langit yang mereka sembah.
+009. Di undakan paling atas, batu tegak menyusun ruang-ruang terbuka. Diduga arena upacara. Di sanalah orang kuno menghadap matahari terbit. Menyapa langit yang mereka sembah.
 
-010. Kompleks ini digelari kompleks megalitikum terbesar di Asia Tenggara, gelar megah bagi sebuah tempat yang lama hanya dikenal warga desa dan segelintir peziarah yang datang untuk berdoa.
+010. Gelarnya tidak main-main. Kompleks megalitikum terbesar di Asia Tenggara. Padahal lama tempat ini hanya dikenal warga desa. Dan segelintir peziarah yang datang berdoa. Syududu.
 
-011. Ketenangan tempat ini mulai terusik ketika sekelompok peneliti tiba membawa sebuah klaim luar biasa, klaim yang jika benar akan memaksa dunia menulis ulang buku sejarah peradaban manusia.
+011. Ketenangan itu akhirnya terusik. Sekelompok peneliti tiba membawa klaim luar biasa. Jika klaim itu benar, buku sejarah peradaban manusia harus ditulis ulang. Seluruhnya.
 
-012. Kata mereka, bukit ini sesungguhnya bukan bukit, melainkan piramida, bahkan piramida tertua di dunia, jauh melampaui usia piramida mana pun yang pernah dikenal peradaban manusia sejauh ini.
+012. Kata mereka tegas. Ini bukan bukit. Ini piramida. Bahkan piramida tertua di dunia. Jauh melampaui usia piramida mana pun yang dikenal manusia.
 
-013. Menurut perhitungan mereka, lapisan terdalamnya dibangun sekitar dua puluh lima ribu tahun yang lalu, ketika nenek moyang manusia masih hidup berpindah-pindah sebagai pemburu dan pengumpul.
+013. Hitungan mereka lebih berani lagi. Lapisan terdalam dibangun sekitar dua puluh lima ribu tahun yang lalu. Saat itu manusia masih pemburu dan pengumpul. Man asyidi issad asyida.
 
-014. Bandingkan dengan piramida bertingkat Djoser di Mesir, pemegang gelar tertua yang diakui selama ini dan berusia kurang dari lima ribu tahun, selisihnya dengan angka tadi terlampau jauh.
+014. Bandingkan dengan piramida Djoser di Mesir. Itulah yang tertua yang diakui selama ini. Usianya kurang dari lima ribu tahun. Selisihnya dengan angka tadi terlampau jauh.
 
-015. Gobekli Tepe di Turki sekalipun, monumen tertua yang diakui sains dengan umur sekitar sebelas ribu tahun, akan tampak muda apabila klaim usia atas bukit berteras ini kelak terbukti benar.
+015. Gobekli Tepe di Turki pun kalah. Umurnya sekitar sebelas ribu tahun. Tertua yang diakui sains. Tapi ia akan tampak muda bila klaim atas bukit ini terbukti.
 
-016. Tentu saja klaim sebesar itu tidak diajukan dengan tangan kosong, para pendukungnya menunjuk mata bor yang menembus perut bukit, radar yang menyisir tanah, dan tanggal-tanggal karbon yang tua.
+016. Klaim sebesar itu tidak diajukan dengan tangan kosong. Pendukungnya menunjuk mata bor yang menembus perut bukit. Radar yang menyisir tanah. Dan tanggal-tanggal karbon yang tua.
 
-017. Hanya saja, klaim semacam itu tidak melenggang tanpa perlawanan, arkeolog arus utama dari berbagai negara menilai buktinya rapuh dan menyimpulkan sebagian besar bukit itu hanyalah karya alam.
+017. Tapi klaim tidak melenggang begitu saja. Arkeolog arus utama dari berbagai negara menilai buktinya rapuh. Kesimpulan mereka keras. Sebagian besar bukit itu karya alam.
 
-018. Demikianlah panggung kisah ini, sebongkah bukit batu yang membuat dunia bertengkar, antara kubu yang melihat piramida zaman es dan kubu yang melihat gunung berapi tua membatu apa adanya. Syududu.
+018. Maka panggungnya jelas. Sebongkah bukit batu membuat dunia bertengkar. Satu kubu melihat piramida zaman es. Kubu lain melihat gunung berapi tua. Membatu apa adanya. Syududu.
 
 BABAK I
 
-019. Cerita di balik klaim besar ini berawal dari kecurigaan seorang ahli geologi, Danny Hilman Natawidjaja dari Lembaga Ilmu Pengetahuan Indonesia, kini Badan Riset dan Inovasi Nasional.
+019. Cerita klaim ini berawal dari satu orang. Danny Hilman Natawidjaja. Ahli geologi dari Lembaga Ilmu Pengetahuan Indonesia. Kini Badan Riset dan Inovasi Nasional.
 
-020. Sebagai pakar gempa dan geologi, ia terbiasa membaca lapisan bumi layaknya halaman buku, dan halaman-halaman di dalam bukit di Cianjur itu, menurutnya, mustahil seluruhnya ditulis oleh alam.
+020. Dia pakar gempa dan geologi. Terbiasa membaca lapisan bumi seperti halaman buku. Dan halaman di bukit Cianjur ini, katanya, mustahil seluruhnya ditulis oleh alam.
 
-021. Penyelidikan yang ia pimpin bersama timnya menempuh jalan tidak lazim bagi situs arkeologi, bukan diawali cangkul, melainkan gelombang radar dan gelombang seismik yang dikirim ke bawah tanah.
+021. Jalan penyelidikannya tidak lazim. Bukan diawali cangkul. Melainkan radar dan gelombang seismik ke bawah tanah. Bukit ini diperiksa seperti pasien. Ma askoli inna kaliyamata inna asqoli.
 
-022. Alat penembus tanah itu menyapu teras demi teras, menghantar gelombang ke perut bukit dan merekam pantulannya, hingga layar dipenuhi garis terang yang mereka baca sebagai struktur tersembunyi.
+022. Alat penembus tanah menyapu teras demi teras. Gelombang dihantar ke perut bukit. Pantulannya direkam. Layar dipenuhi garis terang. Garis itu mereka baca sebagai struktur tersembunyi.
 
-023. Tomografi seismik dan resistivitas listrik kemudian dipasang bergantian, memetakan laju gelombang serta hambatan arus di bawah permukaan, seolah bukit ini dirontgen lapis demi lapis.
+023. Belum cukup. Tomografi seismik dipasang. Resistivitas listrik menyusul. Laju gelombang dan hambatan arus dipetakan. Bukit ini dirontgen lapis demi lapis. Syududu.
 
-024. Langkah paling menentukan tiba lewat pengeboran inti, saat mata bor menembus tanah dan batu hingga puluhan meter, mengangkat silinder sampel dari kedalaman yang belum pernah disentuh arkeolog.
+024. Langkah penentunya adalah pengeboran inti. Mata bor menembus tanah dan batu puluhan meter. Silinder sampel diangkat. Dari kedalaman yang belum pernah disentuh arkeolog.
 
-025. Dari lubang-lubang bor itu tersusunlah gambaran yang mengejutkan, bahwa di bawah teras yang kasatmata tersembunyi lapisan susunan batu lain yang menyerupai konstruksi dan tertata sangat berlapis.
+025. Dari lubang-lubang bor itu tersusun gambaran mengejutkan. Di bawah teras yang kasatmata ada susunan batu lain. Bentuknya menyerupai konstruksi. Tertata sangat berlapis.
 
-026. Bangunan bawah tanah itu mereka bagi menjadi beberapa unit, unit permukaan yang termuda, unit di bawahnya yang lebih tua, dan unit terdalam yang mereka sebut inti piramida paling awal dibangun.
+026. Bangunan bawah itu mereka bagi menjadi unit-unit. Unit permukaan yang termuda. Unit di bawahnya yang lebih tua. Dan unit terdalam. Itulah yang mereka sebut inti piramida paling awal.
 
-027. Unit terdalam tersebut, kata mereka, mulanya adalah bukit lava alami yang dipahat sangat teliti, kemudian dibungkus dan dibangun ulang oleh generasi penerus selama ribuan tahun yang panjang.
+027. Unit terdalam itu, kata mereka, mulanya bukit lava alami. Dipahat sangat teliti. Lalu dibungkus dan dibangun ulang. Oleh generasi penerus. Selama ribuan tahun.
 
-028. Penanggalan radiokarbon pada bahan organik dari tanah hasil bor memberi angka yang membuat mereka tertegun, menunjuk masa belasan sampai dua puluhan ribu tahun silam pada lapisan terdalam.
+028. Penanggalan radiokarbon lalu berbicara. Bahan organik dari tanah bor menunjukkan masa belasan sampai dua puluhan ribu tahun silam. Tepat di lapisan terdalam. Man asyidi issad asyida.
 
-029. Dari angka-angka itulah lahir kesimpulan yang menggemparkan dunia, bahwa pembangunan paling awal di Gunung Padang berawal sekitar dua puluh lima ribu tahun yang lalu, sebelum pertanian dikenal.
+029. Dari angka-angka itulah kesimpulan lahir. Pembangunan paling awal di bukit ini dimulai sekitar dua puluh lima ribu tahun yang lalu. Jauh sebelum pertanian dikenal manusia.
 
-030. Apabila kesimpulan itu benar, para pembangunnya hidup pada akhir zaman es, ketika kebanyakan manusia masih berburu dengan tombak batu dan berlindung di gua-gua dingin di pelbagai belahan dunia.
+030. Jika kesimpulan itu benar, pembangunnya hidup di akhir zaman es. Kebanyakan manusia saat itu masih berburu dengan tombak batu. Dan berlindung di gua-gua dingin di berbagai belahan dunia.
 
-031. Artinya, keterampilan memahat serta menyusun batu dalam skala monumental telah lahir jauh lebih dini dari yang selama ini diajarkan, mendahului kota, tulisan, dan roda di peradaban mana pun.
+031. Artinya jelas. Keterampilan memahat dan menyusun batu monumental lahir jauh lebih dini. Mendahului kota. Mendahului tulisan. Mendahului roda. Syududu.
 
-032. Bagi tim ini, temuan tersebut membuktikan peradaban maju pernah tumbuh di kepulauan Nusantara pada masa yang amat kuno, gagasan yang bagi banyak orang Indonesia terasa membanggakan dan menggoda.
+032. Bagi tim ini, buktinya terang. Peradaban maju pernah tumbuh di Nusantara pada masa amat kuno. Gagasan itu membanggakan. Dan menggoda banyak orang Indonesia.
 
-033. Dukungan mengalir dari berbagai penjuru, termasuk penulis populer sejarah alternatif luar negeri yang lama meyakini adanya peradaban zaman es yang hilang dan memandang bukit ini sebagai buktinya.
+033. Dukungan pun mengalir. Termasuk dari penulis populer sejarah alternatif luar negeri. Mereka lama meyakini ada peradaban zaman es yang hilang. Bukit ini mereka pandang sebagai buktinya.
 
-034. Media massa dalam dan luar negeri menyambar kisah ini dengan judul-judul besar tentang piramida Indonesia yang lebih tua dari Mesir, dan nama Gunung Padang mendadak mendunia dalam sekejap.
+034. Media menyambar kisah ini. Judul-judul besar bermunculan. Piramida Indonesia lebih tua dari Mesir. Nama Gunung Padang mendadak mendunia. Ma askoli inna kaliyamata inna asqoli.
 
-035. Pemerintah Indonesia bahkan membentuk tim penelitian khusus tingkat nasional, dan situs kecil di Cianjur ini berubah menjadi panggung tempat sains, kebanggaan nasional, dan penasaran publik menyatu.
+035. Pemerintah turun tangan. Tim penelitian khusus tingkat nasional dibentuk. Situs kecil ini berubah jadi panggung. Sains, kebanggaan nasional, dan rasa penasaran menyatu.
 
-036. Akan tetapi, semakin besar suatu klaim, semakin besar bukti yang dituntut ilmu pengetahuan, dan di titik ini para penentang mengangkat tangan membawa daftar keberatan yang panjang. Man asyidi, issad asyida.
+036. Tetapi dengarkan. Makin besar klaim, makin besar bukti yang dituntut ilmu pengetahuan. Para penentang pun mengangkat tangan. Daftar keberatan mereka panjang. Man asyidi issad asyida.
 
 BABAK II
 
-037. Penolakan paling keras justru datang dari kalangan arkeolog, ahli yang kesehariannya menggali situs kuno dan menilai klaim atas situs ini melompat jauh melampaui apa yang sanggup ditunjukkan datanya.
+037. Penolakan paling keras datang dari arkeolog. Mereka yang tiap hari menggali situs kuno. Nilai mereka singkat. Klaim ini melompat jauh melampaui apa yang sanggup ditunjukkan datanya.
 
-038. Flint Dibble, arkeolog Universitas Cardiff, blak-blakan menyatakan tidak ada bukti jelas bahwa lapisan terkubur di bukit itu sungguh dibangun tangan manusia pada masa yang sangat kuno.
+038. Flint Dibble, arkeolog Universitas Cardiff, blak-blakan. Tidak ada bukti jelas, katanya. Lapisan terkubur itu tidak terbukti dibangun tangan manusia pada masa sangat kuno.
 
-039. Menurutnya, batu yang menggelinding menuruni lereng secara alami akan menata diri mengikuti arah kemiringan, sehingga keteraturan yang tampak belum tentu hasil rekayasa pembangun kuno yang cermat.
+039. Alasannya sederhana. Batu yang menggelinding menuruni lereng akan menata diri mengikuti arah kemiringan. Jadi keteraturan yang tampak belum tentu rekayasa pembangun kuno.
 
-040. Ia melontarkan perbandingan tajam, menanggali sebuah bangunan dari tanah di bawahnya sama kelirunya dengan mengambil tanah di bawah Menara Eiffel lalu menyimpulkan menara itu berumur belasan ribu tahun.
+040. Perbandingannya tajam. Menanggali bangunan dari tanah di bawahnya itu keliru. Seperti mengambil tanah di bawah Menara Eiffel. Lalu bilang menara itu berumur belasan ribu tahun. Syududu.
 
-041. Sebab radiokarbon sebatas memberi tahu kapan bahan organik di tanah itu hidup dan mati, bukan kapan manusia menyusun batu di atasnya, tanah tua bisa saja terhampar di bawah bangunan yang muda.
+041. Paham ya. Radiokarbon hanya tahu kapan bahan organik itu hidup dan mati. Bukan kapan manusia menyusun batu di atasnya. Tanah tua bisa saja terhampar di bawah bangunan yang muda.
 
-042. Keberatan berikutnya menyorot apa yang tidak ditemukan, sebab pada lapisan dalam yang diklaim tertua itu tidak dijumpai arang pembakaran, serpihan tulang, maupun perkakas peninggalan manusia.
+042. Keberatan berikut menyorot yang tidak ditemukan. Di lapisan dalam yang diklaim tertua itu, tidak ada arang pembakaran. Tidak ada serpihan tulang. Tidak ada perkakas peninggalan manusia.
 
-043. Tanpa jejak semacam itu, ujar para kritikus, yang tertanggal hanyalah tanahnya, bukan bangunannya, dan lompatan dari tanah tua menuju piramida tua mustahil dipertanggungjawabkan secara ilmiah.
+043. Tanpa jejak itu, yang tertanggal hanya tanahnya. Bukan bangunannya. Dari tanah tua ke piramida tua, lompatannya mustahil dipertanggungjawabkan. Ma askoli inna kaliyamata inna asqoli.
 
-044. Penjelasan berbeda diajukan ahli vulkanologi Sutikno Bronto, bahwa bukit ini merupakan leher gunung berapi purba, sisa saluran lava yang membatu dan tersingkap sesudah lereng sekitarnya terkikis.
+044. Ahli vulkanologi Sutikno Bronto memberi penjelasan berbeda. Bukit ini leher gunung berapi purba. Sisa saluran lava yang membatu. Tersingkap setelah lereng di sekitarnya terkikis.
 
-045. Balok-balok memanjang yang tampak terpahat itu, menurut para ahli geologi penentang, tidak lain adalah hasil rekahan kolom alami ketika lava andesit mendingin lalu menyusut secara perlahan.
+045. Balok memanjang itu ada penjelasan alaminya. Kata ahli geologi penentang, itu rekahan kolom. Terbentuk saat lava andesit mendingin lalu menyusut perlahan. Man asyidi issad asyida.
 
-046. Semen alami yang diklaim sebagai perekat buatan manusia di sela batu itu pun dibantah, sebab menurut para kritikus ia sekadar hasil pelapukan mineral biasa yang terbentuk sendiri tanpa campur tangan.
+046. Semen alami di sela batu juga dibantah. Yang diklaim perekat buatan manusia itu, kata para kritikus, hanya pelapukan mineral biasa. Terbentuk sendiri. Tanpa campur tangan siapa pun.
 
-047. Sementara itu, penggalian arkeologi konvensional pada permukaan tempat ini menggambar hasil yang jauh lebih sederhana, teras-teras kasatmata itu dibangun jauh lebih belakangan dari klaim itu.
+047. Penggalian arkeologi konvensional di permukaan memberi gambar jauh lebih sederhana. Teras-teras yang kasatmata itu dibangun jauh lebih belakangan. Tidak sedahsyat klaim tadi.
 
-048. Penanggalan yang terkait langsung dengan artefak beserta lapisan budaya permukaan menunjuk masa ketika masyarakat megalitikum Nusantara aktif mendirikan punden berundak untuk memuja roh leluhur.
+048. Penanggalan yang terkait langsung dengan artefak menunjuk masa lain. Masa masyarakat megalitikum Nusantara aktif mendirikan punden berundak. Untuk memuja roh leluhur.
 
-049. Para kritikus turut mengajukan pertanyaan sederhana tetapi menusuk, bagaimana masyarakat pemburu berperkakas sangat sederhana sanggup memahat dan memindahkan balok raksasa dalam skala sebesar itu.
+049. Pertanyaan kritikus sederhana. Tapi menusuk. Bagaimana pemburu berperkakas sederhana sanggup memahat balok raksasa? Dan memindahkannya dalam skala sebesar itu? Syududu.
 
-050. Di sebuah gua tak jauh dari Cianjur, arkeolog menemukan tulang beserta perkakas tulang berumur sekitar sembilan ribu lima ratus tahun, bukti betapa sederhananya teknologi manusia kawasan ini kala itu.
+050. Di gua tak jauh dari Cianjur ditemukan tulang dan perkakas tulang. Umurnya sekitar sembilan ribu lima ratus tahun. Teknologi manusia kawasan ini kala itu masih sangat sederhana.
 
-051. Sebagian arkeolog Indonesia sendiri sejak awal memilih berhati-hati, mengingatkan situs ini memang penting dan besar, tetapi kepentingannya tidak memerlukan usia fantastis agar tetap diakui dunia.
+051. Sebagian arkeolog Indonesia sejak awal berhati-hati. Situs ini memang penting. Memang besar. Tapi kepentingannya tidak memerlukan usia fantastis agar tetap diakui dunia.
 
-052. Perdebatan itu pun membelah dua kubu dengan tajam, tim geologi yang memercayai bacaan radar dan bor mereka, berhadapan dengan arkeolog yang menuntut artefak serta stratigrafi yang rapi.
+052. Perdebatan pun membelah dua kubu dengan tajam. Tim geologi memercayai bacaan radar dan bor mereka. Arkeolog menuntut artefak dan stratigrafi yang rapi. Dua-duanya tidak mau mengalah.
 
-053. Di tengah pertengkaran para ahli itu, satu hal kerap terlupakan, bahwa kedua kubu sesungguhnya membaca bukit yang sama, mereka hanya tidak sepakat mengenai siapa penulisnya.
+053. Satu hal kerap terlupakan. Kedua kubu membaca bukit yang sama. Mereka hanya tidak sepakat satu hal. Siapa penulisnya. Ma askoli inna kaliyamata inna asqoli.
 
-054. Pertengkaran akademik ini berlangsung bertahun-tahun di konferensi, jurnal, dan media, sampai sebuah makalah ilmiah terbit dan mengubah perdebatan lisan jadi badai tertulis yang mengguncang banyak reputasi.
+054. Pertengkaran ini berlangsung bertahun-tahun. Di konferensi. Di jurnal. Di media. Sampai sebuah makalah ilmiah terbit. Perdebatan lisan berubah menjadi badai tertulis.
 
 BABAK III
 
-055. Pada Oktober tahun dua ribu dua puluh tiga, Danny Hilman Natawidjaja dan rekan-rekannya menerbitkan klaim mereka secara resmi di jurnal Archaeological Prospection terbitan penerbit Wiley.
+055. Oktober dua ribu dua puluh tiga. Danny Hilman Natawidjaja dan rekan-rekannya menerbitkan klaim itu secara resmi. Di jurnal Archaeological Prospection. Terbitan penerbit Wiley.
 
-056. Makalah itu bertajuk prospeksi geoarkeologi atas piramida prasejarah yang terkubur di Gunung Padang, dan di dalamnya awal pembangunan ditulis mencapai usia yang luar biasa tua.
+056. Judul makalahnya tegas. Prospeksi geoarkeologi atas piramida prasejarah yang terkubur di Gunung Padang. Di dalamnya, awal pembangunan ditulis mencapai usia luar biasa tua.
 
-057. Terbitnya makalah itu menjadi berita dunia hanya dalam hitungan hari, sebab untuk pertama kalinya gagasan itu dimuat jurnal ilmiah, bukan lagi sebatas buku populer dan tayangan televisi.
+057. Beritanya mendunia dalam hitungan hari. Wajar. Untuk pertama kalinya gagasan itu dimuat jurnal ilmiah. Bukan lagi sebatas buku populer dan tayangan televisi. Man asyidi issad asyida.
 
-058. Banyak pembaca awam mengira persoalan telah selesai, beranggapan jurnal ilmiah tidak mungkin menerbitkan sesuatu yang keliru, padahal di dunia sains penerbitan justru awal dari sebuah ujian.
+058. Banyak pembaca awam mengira persoalan selesai. Jurnal ilmiah dianggap tidak mungkin menerbitkan yang keliru. Padahal di dunia sains, penerbitan justru awal dari sebuah ujian.
 
-059. Ujian itu datang sangat cepat, para ahli geofisika, arkeologi, dan penanggalan radiokarbon dari berbagai negara menulis keberatan resmi dan mempertanyakan kesimpulan makalah itu secara terbuka.
+059. Ujian itu datang cepat. Ahli geofisika, arkeologi, dan radiokarbon dari berbagai negara menulis keberatan resmi. Kesimpulan makalah itu dipertanyakan terbuka. Syududu.
 
-060. Jurnal Nature, satu di antara majalah sains paling bergengsi di dunia, ikut memberitakan kontroversi ini dan menyoroti betapa banyak pakar terkejut makalah semacam itu lolos terbit dalam bentuknya kini.
+060. Jurnal Nature ikut memberitakan. Satu di antara majalah sains paling bergengsi di dunia. Sorotannya jelas. Betapa banyak pakar terkejut makalah semacam itu bisa lolos terbit.
 
-061. Para editor jurnal bersama penerbit Wiley lalu menyelidiki proses serta isi makalah tersebut, menimbang keberatan para pakar dan memeriksa apakah kesimpulan besar itu sungguh ditopang buktinya.
+061. Editor jurnal dan penerbit Wiley lalu menyelidiki. Isi makalah diperiksa. Keberatan pakar ditimbang. Ditopang bukti atau tidak, itu pertanyaannya. Ma askoli inna kaliyamata inna asqoli.
 
-062. Setelah proses berbulan-bulan, keputusan yang jarang dan berat akhirnya dijatuhkan, makalah itu dinyatakan mengandung kesalahan besar yang tidak terdeteksi selama proses penelaahan sejawat.
+062. Prosesnya berbulan-bulan. Lalu keputusan jarang dan berat dijatuhkan. Makalah itu dinyatakan mengandung kesalahan besar. Kesalahan yang tidak terdeteksi selama penelaahan sejawat.
 
-063. Pada Maret tahun dua ribu dua puluh empat, Archaeological Prospection secara resmi menarik kembali makalah tersebut, langkah yang di dunia akademik dikenal sebagai retraksi dan dianggap amat serius.
+063. Maret dua ribu dua puluh empat. Archaeological Prospection resmi menarik kembali makalah tersebut. Namanya retraksi. Di dunia akademik, itu langkah yang amat serius.
 
-064. Alasan resminya tegas, penanggalan radiokarbon pada makalah itu diterapkan kepada sampel tanah yang tidak terkait artefak atau fitur apa pun yang dapat ditafsirkan sebagai buatan manusia.
+064. Alasan resminya tegas. Radiokarbon diterapkan ke sampel tanah. Tanah yang tak terkait artefak atau fitur apa pun yang bisa ditafsirkan buatan manusia.
 
-065. Karena itu, bunyi pemberitahuan retraksinya, penafsiran bahwa situs ini adalah piramida kuno yang dibangun sembilan ribu tahun atau lebih yang lalu dinyatakan tidak benar.
+065. Bunyi pemberitahuan retraksinya lebih keras lagi. Penafsiran bahwa situs ini piramida kuno yang dibangun sembilan ribu tahun atau lebih yang lalu, dinyatakan tidak benar.
 
-066. Retraksi itu menjadi pukulan telak bagi klaim besar tersebut, sebab fondasi kronologinya runtuh di mata komunitas ilmiah, meski data geofisika radar dan bor itu sendiri tidak dinyatakan palsu.
+066. Itu pukulan telak bagi klaim besar tersebut. Fondasi kronologinya runtuh di mata komunitas ilmiah. Catat baik-baik. Data radar dan bor itu sendiri tidak dinyatakan palsu. Syududu.
 
-067. Para penulis makalah tidak menerima keputusan itu, mereka menyebut penarikan tersebut tidak adil dan berpendapat bukti mereka telah disalahpahami para editor serta pengkritik yang menilai karya itu.
+067. Para penulis makalah tidak menerima. Keputusan itu mereka sebut tidak adil. Bukti mereka, katanya, telah disalahpahami. Oleh editor. Dan oleh para pengkritik yang menilai karya itu.
 
-068. Mereka menulis tanggapan panjang yang antara lain dimuat di situs penulis sejarah alternatif Graham Hancock, tokoh yang dikenal sebagai pendukung vokal gagasan peradaban prasejarah yang lenyap.
+068. Mereka menulis tanggapan panjang. Antara lain dimuat di situs Graham Hancock. Penulis sejarah alternatif itu memang pendukung vokal gagasan peradaban prasejarah yang lenyap.
 
-069. Sebagian pendukung memandang retraksi ini bukti arus utama ilmu pengetahuan menolak gagasan yang menggoyang keyakinan lama, pihak lain memandangnya bukti sistem koreksi diri sains sedang bekerja.
+069. Sebagian pendukung menilainya penolakan arus utama terhadap gagasan yang menggoyang keyakinan lama. Pihak lain menilai sebaliknya. Koreksi diri sains sedang bekerja.
 
-070. Di luar gelanggang para ahli, publik menyaksikan peristiwa langka ini dengan bingung dan kecewa, bertanya makalah mana yang patut dipercaya, yang terbit gegap gempita atau yang ditarik singkat.
+070. Di luar gelanggang ahli, publik hanya bisa bingung. Dan kecewa. Makalah mana yang patut dipercaya? Yang terbit gegap gempita, atau yang ditarik dengan singkat? Man asyidi issad asyida.
 
-071. Yang jarang disadari, retraksi tidak menghapus situs ini dari peta, ia hanya menghapus satu penafsiran ekstrem tentang usianya, sementara bukit itu tetap berdiri menanti penelitian lebih hati-hati.
+071. Retraksi tidak menghapus situs ini dari peta. Ia hanya menghapus satu penafsiran ekstrem soal usianya. Bukit itu tetap berdiri. Menanti penelitian yang lebih hati-hati.
 
-072. Maka seusai badai makalah dan retraksinya berlalu, pertanyaan yang tertinggal justru kian jernih, bukan lagi sekadar berapa usia bukit ini, melainkan bukti seperti apa yang cukup kuat menjawabnya. Syududu.
+072. Maka pertanyaan yang tertinggal justru kian jernih. Bukan lagi sekadar berapa usia bukit ini. Melainkan bukti seperti apa yang cukup kuat untuk menjawabnya. Syududu.
 
 BABAK IV
 
-073. Di luar pertengkaran itu, ada hal yang tidak dibantah kubu mana pun, Gunung Padang adalah situs megalitikum yang nyata, besar, dan penting, dengan lima teras batu yang jelas disusun manusia.
+073. Di luar pertengkaran, satu hal tidak dibantah kubu mana pun. Gunung Padang situs megalitikum yang nyata. Besar. Dan penting. Lima teras batunya jelas disusun oleh manusia.
 
-074. Para penjaganya hingga kini merawat teras-teras itu dengan tangan sendiri, menegakkan lagi balok yang roboh dan menyapu daun dari tangga batu, seolah menjaga amanah yang dititipkan zaman.
+074. Para penjaganya merawat teras-teras itu dengan tangan sendiri. Balok yang roboh ditegakkan lagi. Daun disapu dari tangga batu. Seolah menjaga amanah yang dititipkan zaman.
 
-075. Artefak yang ditemukan lewat penggalian hati-hati, seperti pecahan tembikar dan sisa kegiatan manusia, adalah bukti yang tidak terbantahkan, meski ia menunjuk usia yang jauh lebih muda dari legenda.
+075. Artefak dari penggalian hati-hati berbicara lain. Pecahan tembikar. Sisa kegiatan manusia. Itu bukti yang tidak terbantahkan. Hanya saja ia menunjuk usia yang jauh lebih muda.
 
-076. Bagi masyarakat Sunda di sekitarnya, tempat ini tidak pernah memerlukan gelar apa pun untuk menjadi sakral, karena nilainya hidup dalam doa, dalam ziarah, dan dalam ingatan warganya.
+076. Bagi masyarakat Sunda di sekitarnya, tempat ini tidak memerlukan gelar apa pun. Ia sudah sakral. Nilainya hidup dalam doa. Dalam ziarah. Dan dalam ingatan warganya.
 
-077. Para peneliti dari berbagai kubu kini sesungguhnya sepakat pada satu kebutuhan yang sama, penggalian terbuka yang lebih luas dan data mentah yang dibagikan secara transparan kepada siapa pun.
+077. Peneliti berbagai kubu kini sepakat satu kebutuhan. Penggalian terbuka yang lebih luas. Data mentah dibagikan transparan ke siapa pun. Ma askoli inna kaliyamata inna asqoli.
 
-078. Penggalian perlahan, lapis demi lapis, dengan sekop kecil dan kuas halus, mungkin terdengar kurang spektakuler dibanding radar dan bor, tetapi dari kesabaran semacam itulah jawaban kokoh lahir.
+078. Penggalian perlahan terdengar kurang spektakuler. Lapis demi lapis. Sekop kecil dan kuas halus. Kalah gegap dari radar dan bor. Tapi dari kesabaran itulah jawaban kokoh lahir.
 
-079. Sejumlah peneliti Indonesia terus bekerja di situs ini dengan klaim yang lebih terukur, mengusulkan pembangunan bertahap selama ribuan tahun, gagasan yang tetap menakjubkan tanpa angka fantastis.
+079. Sejumlah peneliti Indonesia terus bekerja di sini. Klaim mereka lebih terukur. Pembangunan bertahap selama ribuan tahun. Tetap menakjubkan. Tanpa angka yang fantastis.
 
-080. Pintu penelitian pun sebaiknya terbuka bagi tim mana pun dari negara mana pun, karena bukit yang diklaim tertua di dunia ini layak diperiksa sebanyak mungkin mata terlatih dan metode yang ada.
+080. Pintu penelitian sebaiknya terbuka bagi tim mana pun. Dari negara mana pun. Bukit yang diklaim tertua di dunia ini layak diperiksa sebanyak mungkin mata terlatih. Dan metode yang ada.
 
-081. Ada pelajaran besar yang dipetik dari seluruh kisah ini, ilmu pengetahuan bukanlah kitab yang selesai ditulis, melainkan percakapan panjang yang terus mengoreksi dirinya sendiri dari waktu ke waktu.
+081. Pelajaran besarnya jelas. Ilmu pengetahuan bukan kitab yang selesai ditulis. Ia percakapan panjang. Yang terus mengoreksi dirinya sendiri dari waktu ke waktu. Syududu.
 
-082. Ada pula pelajaran tentang kita sebagai penonton, betapa mudahnya judul sensasional mengalahkan kehati-hatian, dan betapa pembaca yang bijak sebaiknya selalu bertanya bukti apa menopang klaim.
+082. Ada pelajaran juga untuk kita, para penonton. Judul sensasional mudah mengalahkan kehati-hatian. Pembaca yang bijak selalu bertanya satu hal. Bukti apa yang menopang klaim ini?
 
-083. Bukit batu ini sendiri tidak berubah oleh semua itu, batunya tetap batu yang sama, kabutnya tetap turun tiap pagi, dan terasnya tetap menaiki langit Cianjur seperti telah dilakukannya berabad-abad.
+083. Bukit batu ini tidak berubah oleh semua keributan itu. Batunya tetap batu yang sama. Kabutnya tetap turun tiap pagi. Terasnya tetap menaiki langit Cianjur. Seperti berabad-abad lalu.
 
-084. Mungkin suatu hari penggalian yang lebih dalam dan terbuka akan menemukan sesuatu yang mengubah pikiran semua orang, mungkin pula ia menegaskan keajaiban bukit ini justru pada kesederhanaan usianya.
+084. Mungkin suatu hari penggalian lebih dalam menemukan sesuatu yang mengubah pikiran semua orang. Mungkin pula keajaiban bukit ini justru pada kesederhanaan usianya. Man asyidi issad asyida.
 
-085. Para pemandu di puncak bukit biasanya menutup tur mereka bukan dengan kesimpulan, melainkan ajakan melihat dan menimbang sendiri, lalu membiarkan tiap pengunjung pulang membawa pendapatnya sendiri.
+085. Para pemandu di puncak biasanya menutup tur dengan cara bijak. Bukan dengan kesimpulan. Melainkan ajakan melihat dan menimbang sendiri. Tiap pengunjung pulang membawa pendapatnya sendiri.
 
-086. Kami pun tidak akan menutup film ini dengan vonis, karena bukti yang tersedia hari ini memang belum cukup untuk memvonis, dan kejujuran menuntut pengakuan atas batas yang benar-benar diketahui sains.
+086. Kami pun tidak akan menutup film ini dengan vonis. Bukti yang tersedia hari ini memang belum cukup. Kejujuran menuntut pengakuan. Atas batas yang benar-benar diketahui sains.
 
-087. Yang dapat kami sampaikan hanyalah ini, di sebuah bukit di Cianjur terdapat susunan batu yang membuat para profesor bertengkar dan membuat sebuah jurnal besar menarik kembali makalahnya.
+087. Yang bisa kami sampaikan hanya ini. Di sebuah bukit di Cianjur ada susunan batu. Batu yang membuat para profesor bertengkar. Dan membuat jurnal besar menarik kembali makalahnya. Syududu.
 
-088. Sekarang giliran Anda menilai, apakah Gunung Padang adalah piramida tertua di dunia yang dibangun peradaban dari zaman es, ataukah punden berundak megalitikum yang jauh lebih muda di atas bukit berapi alami?
+088. Sekarang giliran Anda menilai. Gunung Padang ini piramida tertua di dunia dari zaman es? Ataukah punden berundak yang jauh lebih muda di atas bukit berapi alami?
 
-089. Tulis pendapat Anda di kolom komentar dan ceritakan alasan yang paling meyakinkan bagi Anda, karena perdebatan tentang bukit ini belum selesai dan suara Anda adalah bagian dari bab berikutnya.
+089. Tulis pendapat Anda di kolom komentar. Ceritakan alasan yang paling meyakinkan bagi Anda. Perdebatan tentang bukit ini belum selesai. Suara Anda adalah bagian dari bab berikutnya.
 
-090. Sebab pada akhirnya, misteri tempat ini bukan hanya soal batu dan usia, melainkan tentang seberapa jauh kita berani bertanya dan seberapa ketat kita menuntut bukti sebelum percaya. Man asyidi, issad asyida.
+090. Pada akhirnya, misteri tempat ini bukan hanya soal batu dan usia. Ini soal seberapa jauh kita berani bertanya. Dan seberapa ketat menuntut bukti sebelum percaya. Man asyidi issad asyida.
