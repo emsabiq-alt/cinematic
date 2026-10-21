@@ -5,9 +5,10 @@
   "mode": "step",
   "pacing": "8-12s",
   "project_dir": "projects/sv014",
-  "status": "rendering",
+  "status": "published",
   "title": "GUNUNG PADANG: Piramida Tertua di Dunia dari Cianjur — Klaim 25.000 Tahun yang Makalahnya Ditarik?",
   "total_shots": 90,
   "voice": "clone-user-omnivoice",
-  "audio_source": "PC user (OmniVoice clone), terverifikasi 90/90; F2 disimpan sbg cadangan tidak dipakai"
+  "audio_source": "PC user (OmniVoice clone), terverifikasi 90/90; F2 disimpan sbg cadangan tidak dipakai",
+  "youtube_url": "https://www.youtube.com/watch?v=z8GUhNPISXg"
 }
