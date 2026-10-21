@@ -1,0 +1,546 @@
+{
+  "style": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, sacred volcano and the last gatekeeper",
+  "description": "Storyboard 60 shot untuk dokumenter MERAPI & MBAH MARIDJAN: Juru Kunci yang Menolak Turun dan Wafat Bersama Gunungnya — Setia atau Keras Kepala?. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar.",
+  "shots": [
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_001",
+      "media": "video",
+      "narration": "Dengarkan. Di perbatasan Yogya dan Jawa Tengah, ada gunung yang tidak pernah benar-benar tidur. Kawahnya berasap setiap hari. Lerengnya dihuni ribuan keluarga. Namanya pendek. Merapi.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow cinematic drone push-in over layered green ridges toward a smoking volcanic cone, aerial view of Mount Merapi's perfect cone wreathed in morning cloud above Sleman farmland, thin white vapor rising from the crater, terraced fields and villages far below, cold blue-grey dawn palette with pale gold horizon light, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, aerial view of Mount Merapi's perfect cone wreathed in morning cloud above Sleman farmland, thin white vapor rising from the crater, terraced fields and villages far below, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_002",
+      "media": "image",
+      "narration": "Warga Jawa menyebutnya gunung api sejati. Meletus kecil tiap dua sampai lima tahun. Meletus besar tiap berganti generasi. Siklusnya pendek. Marabahayanya panjang sekali.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of the symmetrical stratovolcano cone at dawn seen from a rice-field village, farmers silhouetted against pale sky, thin smoke banner streaming sideways from the summit crater, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_003",
+      "media": "video",
+      "narration": "Catatan letusannya membentang berabad-abad. Tahun seribu delapan ratus tujuh puluh dua, ia mengamuk lima hari tanpa henti. Kolom letusannya menembus sepuluh kilometer langit.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow aerial orbit around the smoking summit crater, the battered crater rim and steaming dome of the volcano from above, grey ash slopes falling away into green ravines, archival storm light gathering behind the peak, cold blue-grey dawn palette with pale gold horizon light, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the battered crater rim and steaming dome of the volcano from above, grey ash slopes falling away into green ravines, archival storm light gathering behind the peak, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_004",
+      "media": "image",
+      "narration": "Generasi berikutnya lebih pahit. Tahun seribu sembilan ratus tiga puluh, awan panasnya menewaskan seribu tiga ratus enam puluh sembilan jiwa. Tiga belas desa hilang dari peta.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide archival-mood view of a nineteen-thirties Javanese highland village beneath a towering eruption column, ash cloud boiling into a darkened sky, palm roofs dwarfed by the mountain, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_005",
+      "media": "video",
+      "narration": "Awan panas itu punya nama lokal. Wedhus gembel. Artinya kambing berbulu tebal yang berguling menuruni lereng. Terdengar lucu. Padahal suhunya ratusan derajat. Syududu.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro dolly across rolling grey pyroclastic cloud texture, a dense grey pyroclastic surge cloud rolling down a gullied slope like thick wool, glowing embers hidden inside the ash, trees bending under its heat wind, cold blue-grey dawn palette with pale gold horizon light, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, a dense grey pyroclastic surge cloud rolling down a gullied slope like thick wool, glowing embers hidden inside the ash, trees bending under its heat wind, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_006",
+      "media": "image",
+      "narration": "Di lereng selatan gunung ini, Keraton Yogyakarta memasang seorang penjaga. Bukan tentara. Bukan insinyur. Seorang abdi dalem tua dengan tugas yang terdengar mustahil.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of an elderly Javanese palace servant in batik and blangkon headdress standing at a wooden gate on the volcano slope, holding ritual offerings, morning mist around him, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_007",
+      "media": "video",
+      "narration": "Tugasnya menjaga gerbang gaib gunung. Memimpin labuhan, upacara sesaji tahunan ke puncak. Menjadi jembatan antara keraton, warga lereng, dan penunggu gunung. Man asyidi issad asyida.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow tracking shot following a ritual procession climbing stone steps, royal offering procession ascending toward the summit shrine, bearers carrying woven trays of flowers, cloth and incense, crater smoke drifting across the path, cold blue-grey dawn palette with pale gold horizon light, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, royal offering procession ascending toward the summit shrine, bearers carrying woven trays of flowers, cloth and incense, crater smoke drifting across the path, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_008",
+      "media": "image",
+      "narration": "Posisinya diwariskan turun-temurun. Ayah mengajari anak membaca tanda-tanda gunung. Dari getaran tanah. Dari perilaku satwa. Dari mimpi yang diceritakan turun-temurun pula.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of weathered hands of an old man teaching a young boy to read the mountain, pointing at the smoking crater, generations of slope farmers in soft background, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_009",
+      "media": "video",
+      "narration": "Di sisi lain lereng, negara memasang penjaga berbeda. Pos pengamatan dengan seismograf dan kamera. Dua cara membaca gunung yang sama. Dua bahasa yang jarang bertemu.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in through a volcano observation post window, scientists silhouetted before seismograph drums and glowing monitors inside a monitoring post, the smoking cone framed in the window behind them, cold blue-grey dawn palette with pale gold horizon light, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, scientists silhouetted before seismograph drums and glowing monitors inside a monitoring post, the smoking cone framed in the window behind them, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_010",
+      "media": "image",
+      "narration": "Keluarga lereng hidup di antara keduanya. Pagi mereka mendengar radio pemantau. Sore mereka menunggu kabar sang penjaga tua. Bila dua suara itu sepakat, barulah kaki melangkah turun.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of a slope village at dusk between rice fields and the volcano, families listening to a small radio on a bamboo porch while an elder scans the summit, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_011",
+      "media": "video",
+      "narration": "Satu gunung dipeluk empat kabupaten. Sleman, Magelang, Klaten, dan Boyolali berbagi lerengnya. Jutaan orang hidup dari tanah subur pemberian abunya. Tanah yang membunuh, tanah pula yang menghidupi. Syududu.",
+      "shot_type": "AERIAL",
+      "video_prompt": "High aerial sweep across four regencies' patchwork farmland, aerial patchwork of emerald farms and villages wrapping the volcano on all sides, rivers of grey lahar scars cutting the green, morning haze in the valleys, cold blue-grey dawn palette with pale gold horizon light, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, aerial patchwork of emerald farms and villages wrapping the volcano on all sides, rivers of grey lahar scars cutting the green, morning haze in the valleys, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_012",
+      "media": "image",
+      "narration": "Dan di antara semua penjaga itu, satu nama paling dikenal seantero negeri. Lelaki kurus berblankon yang menolak turun gunung, bahkan ketika raja sendiri yang memintanya.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium portrait of a frail old gatekeeper in dark batik standing before his wooden house, chin raised toward the summit, defiant calm in deep wrinkles, storm light behind him, cold blue-grey dawn palette with pale gold horizon light, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_013",
+      "media": "video",
+      "narration": "Namanya Mas Penewu Surakso Hargo. Dunia memanggilnya Mbah Maridjan. Ia lahir di Kinahrejo, lereng selatan, pada tahun seribu sembilan ratus dua puluh tujuh, di kaki gunung yang kelak ia jaga seumur hidupnya.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in on an old photograph-style portrait come alive, a young Javanese palace servant in nineteen-twenties dress standing in the hamlet of Kinahrejo, the volcano cone rising directly behind the rooftops, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, a young Javanese palace servant in nineteen-twenties dress standing in the hamlet of Kinahrejo, the volcano cone rising directly behind the rooftops, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_014",
+      "media": "image",
+      "narration": "Ayahnya juru kunci sebelumnya. Tahun sembilan belas tujuh puluh, sang anak diangkat menjadi wakil ayahnya. Ia belajar sambil memikul sesaji mendaki ke puncak.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of a young deputy gatekeeper carrying woven offering trays up a steep ash path in nineteen-seventies dress, crater smoke above, the older guardian walking ahead, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_015",
+      "media": "video",
+      "narration": "Sang ayah wafat, tongkat pun beralih. Tahun sembilan belas delapan puluh dua, ia resmi menyandang amanah dari Sri Sultan Hamengkubuwono Sembilan. Penjaga gunung, seumur hidup.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow ceremonial pan across a palace courtyard investiture, a Javanese royal court ceremony in warm torchlight, an aging guardian receiving his mandate scroll from the Sultan's court, gamelan musicians waiting in shadow, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, a Javanese royal court ceremony in warm torchlight, an aging guardian receiving his mandate scroll from the Sultan's court, gamelan musicians waiting in shadow, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_016",
+      "media": "image",
+      "narration": "Upahnya simbolis, nyaris tak berarti. Tetapi ia menyebut tugasnya begini: membiarkan gunung bernapas, jangan sampai ia batuk. Kalimat sederhana. Isinya dalam sekali.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of an old man's simple wooden table with a tiny official envelope, a kerosene lamp and prayer beads, the humble room of the volcano gatekeeper, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_017",
+      "media": "video",
+      "narration": "Setiap tahun ia memimpin labuhan. Kain, kemenyan, dan bunga diarak dari keraton ke puncak. Doa dipanjatkan untuk penunggu gunung. Tradisi ratusan tahun berjalan di pundaknya.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow tracking shot beside the annual Labuhan offering procession, villagers and palace servants carrying flowers, cloth and incense up the ash slope at dawn, banners and umbrellas in procession, crater steaming above, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, villagers and palace servants carrying flowers, cloth and incense up the ash slope at dawn, banners and umbrellas in procession, crater steaming above, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_018",
+      "media": "image",
+      "narration": "Warga menunggu aba-abanya. Bila sang kakek berkata aman, petani kembali ke ladang. Bila ia berkata waspada, kampung bersiap. Ucapannya lebih didengar daripada sirene. Syududu.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of farmers pausing in salak orchards to listen to the old gatekeeper speaking calmly, tools in hand, the smoking cone over his shoulder, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_019",
+      "media": "video",
+      "narration": "Tahun dua ribu enam, gunung itu bergolak lagi. Sultan sendiri memintanya turun menyelamatkan diri. Jawabannya sopan, tetapi keras: amanah tidak bisa ditinggal. Ia tetap di rumahnya.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in on a tense courtyard meeting, officials in uniform respectfully urging the old gatekeeper to evacuate while he sits unmoved on his porch, hands folded, the volcano smoking in the distance, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, officials in uniform respectfully urging the old gatekeeper to evacuate while he sits unmoved on his porch, hands folded, the volcano smoking in the distance, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_020",
+      "media": "image",
+      "narration": "Penolakan itu mengangkat namanya ke layar kaca. Ia membintangi iklan minuman energi dengan satu kata andalan: roso. Seantero negeri hafal gaya bicaranya yang lugu dan tegas.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of a vintage television in a village coffee stall showing an energy-drink commercial with the smiling old gatekeeper, villagers laughing around the screen, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_021",
+      "media": "video",
+      "narration": "Tetapi jangan salah. Ia bukan menolak sains. Ia hanya percaya urutan: selama gunung belum menyuruhnya pergi, ia tetap tinggal. Keyakinan itu utuh. Tak tergoyahkan. Man asyidi issad asyida.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow dolly around the gatekeeper's porch as visitors listen, the old guardian explaining his philosophy to journalists on his wooden porch, notebooks open, incense smoke curling, the cone visible through the doorway, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the old guardian explaining his philosophy to journalists on his wooden porch, notebooks open, incense smoke curling, the cone visible through the doorway, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_022",
+      "media": "image",
+      "narration": "Di rumah kayunya ia menerima tamu dari mana-mana. Pejabat, wartawan, mahasiswa, peziarah. Semua disuguhi cerita yang sama: hiduplah rukun dengan gunung, jangan menantangnya.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of the gatekeeper's modest wooden house receiving guests at dusk, students, officials and pilgrims queuing on the dirt yard, lanterns glowing, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_023",
+      "media": "video",
+      "narration": "Sebagian orang memujanya sebagai orang sakti. Sebagian menyebutnya keras kepala. Ia sendiri hanya menjawab dengan senyum: saya ini cuma abdi, menjalankan perintah. Ma askoli inna kaliyamata inna asqoli.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro push-in on the gatekeeper's weathered smiling face, extreme close portrait of the elderly gatekeeper smiling gently in batik headcloth, deep laugh lines, crater smoke softly blurred behind him, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, extreme close portrait of the elderly gatekeeper smiling gently in batik headcloth, deep laugh lines, crater smoke softly blurred behind him, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_024",
+      "media": "image",
+      "narration": "Dua ribu sepuluh tiba. Gunung yang dijaganya mulai batuk lebih sering dari biasanya. Gempa-gempa kecil berdatangan. Dan kali ini, tanda-tandanya berbeda. Para pemantau mulai gelisah.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of the volcano at restless dusk, small rockfalls sparking down the crater, villagers watching from rooftops as seismic unease grows in purple twilight, warm teak-brown and torch-gold palette, intimate lamplight and incense haze, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_025",
+      "media": "video",
+      "narration": "Para ahli membacanya dengan angka. Sejak akhir September dua ribu sepuluh, gempa vulkanik naik tajam. Kubah lava membengkak puluhan sentimeter per hari. Gunung ini menekan dari dalam.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in across a monitoring desk of rising graphs, seismograph needles scratching violent zigzags on paper drums, scientists' hands pointing at swelling deformation charts, the volcano smoking beyond the glass, sterile blue-grey observatory palette, harsh instrument glow and cold screens, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, seismograph needles scratching violent zigzags on paper drums, scientists' hands pointing at swelling deformation charts, the volcano smoking beyond the glass, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_026",
+      "media": "image",
+      "narration": "Status pun dinaikkan bertahap. Waspada pada akhir September. Siaga pada dua puluh satu Oktober. Lalu awas, level tertinggi, pada dua puluh lima Oktober. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of an official warning board at a village office with staged alert levels, officials updating markers while residents gather reading the board in silence, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_027",
+      "media": "video",
+      "narration": "Zona bahaya diperluas berkali-kali. Sepuluh kilometer. Lalu lebih jauh lagi. Ratusan ribu warga diperintah mengungsi ke barak-barak di dataran rendah. Gunung terasa dekat sekali.",
+      "shot_type": "DRONE",
+      "video_prompt": "Fast urgent drone pull-back from the swelling lava dome, the crater dome bulging and cracking with incandescent seams, gas jets hissing, exclusion-zone villages emptying along dusty roads far below, sterile blue-grey observatory palette, harsh instrument glow and cold screens, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the crater dome bulging and cracking with incandescent seams, gas jets hissing, exclusion-zone villages emptying along dusty roads far below, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_028",
+      "media": "image",
+      "narration": "Ilmu pengetahuan berkata jujur: letusan besar sedang disiapkan, tetapi tak seorang pun bisa menyebut jamnya. Kepastian sains berhenti di kata waspada. Sisanya adalah keputusan manusia.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of two scientists debating an eruption forecast chart late at night, coffee cups and radios on the desk, a red warning lamp glowing above the map, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_029",
+      "media": "video",
+      "narration": "Petugas mendatangi Kinahrejo. Kampung itu hanya sekitar empat kilometer dari puncak. Jantung zona merah. Setiap penghuninya wajib turun sebelum malam tiba. Tak ada pengecualian, kata petugas.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow tracking shot along an evacuation road at the red-zone edge, trucks and buses loading families with bundles and livestock at the four-kilometer danger line, officers with loudspeakers, ash-grey light over Kinahrejo rooftops, sterile blue-grey observatory palette, harsh instrument glow and cold screens, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, trucks and buses loading families with bundles and livestock at the four-kilometer danger line, officers with loudspeakers, ash-grey light over Kinahrejo rooftops, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_030",
+      "media": "image",
+      "narration": "Sebagian warga menurut dan mengungsi. Sebagian kembali diam-diam menjaga ternak. Dan sang penjaga tua membuat pilihan yang membelah pendapat bangsa sampai hari ini.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of an old man's calm face in lamplight as an officer's hand rests pleadingly on the table between them, an evacuation leaflet lying ignored beside the tea glass, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_031",
+      "media": "video",
+      "narration": "Ia menolak turun. Bukan karena tidak percaya data, katanya. Melainkan karena tugasnya memang di situ. Bila semua penjaga pergi, siapa menyampaikan kabar kepada warga? Syududu.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in on the gatekeeper shaking his head gently, the old guardian refusing evacuation on his porch, one hand raised politely, villagers watching in torn silence behind the fence, the volcano fuming above, sterile blue-grey observatory palette, harsh instrument glow and cold screens, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the old guardian refusing evacuation on his porch, one hand raised politely, villagers watching in torn silence behind the fence, the volcano fuming above, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_032",
+      "media": "image",
+      "narration": "Di pos pengamatan, para ahli menatap grafik yang makin liar. Gempa ratusan kali sehari. Deformasi tak mau turun. Mereka tahu letusan tinggal menunggu hitungan jam. Man asyidi issad asyida.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of seismograph paper tearing under violent needle strokes, a scientist's finger tracing the overscaled trace, alarm reflected in the observatory window, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_033",
+      "media": "video",
+      "narration": "Dua suara bertolak belakang. Satu dari data seismograf yang dingin. Satu dari keyakinan yang diwariskan seumur hidup. Keduanya memandang gunung yang sama, dengan kesimpulan berlawanan.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow split-feeling pan between observatory screens and the porch, split mood composition: cold blue monitoring screens on one side, the warm lamplit porch of the old guardian on the other, the same smoking cone between them, sterile blue-grey observatory palette, harsh instrument glow and cold screens, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, split mood composition: cold blue monitoring screens on one side, the warm lamplit porch of the old guardian on the other, the same smoking cone between them, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_034",
+      "media": "image",
+      "narration": "Para penentang berkata: nyawa manusia di atas tradisi. Sekali ini saja, turunlah. Para pendukung menjawab: tanpa penjaga setia, lereng ini kehilangan kompasnya sejak lama.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of villagers arguing at a hamlet meeting in a bamboo hall, some pointing downhill toward safety, others toward the gatekeeper's house, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_035",
+      "media": "video",
+      "narration": "Tak ada yang menang berdebat hari itu. Yang ada hanyalah senja yang turun lebih cepat. Awan menebal di atas puncak. Dan kampung-kampung lereng selatan menahan napas bersama-sama.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow aerial descent over silent emptied villages at dusk, abandoned slope hamlets at twilight, doors ajar, empty pens and silent orchards, thick cloud swallowing the summit above the evacuation zone, sterile blue-grey observatory palette, harsh instrument glow and cold screens, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, abandoned slope hamlets at twilight, doors ajar, empty pens and silent orchards, thick cloud swallowing the summit above the evacuation zone, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_036",
+      "media": "image",
+      "narration": "Dua puluh enam Oktober dua ribu sepuluh. Jam menunjukkan lewat pukul lima sore. Gunung yang dijaga puluhan tahun itu akhirnya berbicara dengan caranya sendiri. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of the volcano's summit at five in the afternoon wrapped in black cloud, last orange light dying on the ash slope, a village holding its breath below, sterile blue-grey observatory palette, harsh instrument glow and cold screens, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_037",
+      "media": "video",
+      "narration": "Letusan pertama pecah sore itu. Kolom abu membumbung. Dentuman terdengar sampai jauh. Seismograf sampai tak sanggup mencatat getaran yang melampaui skala alatnya.",
+      "shot_type": "DRONE",
+      "video_prompt": "Violent fast drone pull-back as the eruption column explodes upward, the summit bursting into a towering ash column at dusk, lightning flickering inside the plume, a shockwave of grey cloud expanding over the southern slope, charred black and ember-orange palette, apocalyptic dusk and falling ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the summit bursting into a towering ash column at dusk, lightning flickering inside the plume, a shockwave of grey cloud expanding over the southern slope, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_038",
+      "media": "image",
+      "narration": "Lalu datanglah sang wedhus gembel. Awan panas berguling menuruni lereng selatan. Membakar apa saja yang dilewatinya dalam hitungan menit. Tak ada yang bisa berlari lebih cepat darinya.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of a pyroclastic surge rolling like a grey woolen avalanche down the southern ravine, an incandescent core glowing through the ash, trees igniting at its front, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_039",
+      "media": "video",
+      "narration": "Kinahrejo berada tepat di jalur luncurannya. Rumah-rumah kayu, kebun salak, dan kandang ternak hilang dalam gelap panas. Kampung itu rata dengan abu berwarna kelabu.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow aerial glide over the destroyed hamlet, the hamlet of Kinahrejo flattened under grey ash, collapsed wooden houses, scorched salak orchards and ash-buried lanes in eerie silence, charred black and ember-orange palette, apocalyptic dusk and falling ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the hamlet of Kinahrejo flattened under grey ash, collapsed wooden houses, scorched salak orchards and ash-buried lanes in eerie silence, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_040",
+      "media": "image",
+      "narration": "Telepon berdering di banyak tempat. Wartawan yang baru mewawancarainya siang tadi berusaha menghubunginya. Tak ada jawaban. Hanya nada sambung yang kosong. Syududu.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of a telephone ringing unanswered on a wooden desk covered in fine grey ash, a journalist's notebook left open beside it, ash still drifting through the air, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_041",
+      "media": "video",
+      "narration": "Malam harinya tim penyelamat mendaki dengan senter seadanya. Mereka menyusuri kampung yang baru saja dilalui api langit. Memanggil nama-nama yang mereka kenal satu per satu.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow handheld tracking shot behind rescuers with flashlights, rescue workers climbing through ash-covered ruins at night with flashlights and stretchers, calling names into the grey darkness, embers glowing in the debris, charred black and ember-orange palette, apocalyptic dusk and falling ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, rescue workers climbing through ash-covered ruins at night with flashlights and stretchers, calling names into the grey darkness, embers glowing in the debris, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_042",
+      "media": "image",
+      "narration": "Pagi berikutnya kabar itu datang. Sang penjaga ditemukan di rumahnya, dalam posisi bersujud di dapurnya. Ia pergi sebagaimana ia hidup: tetap di posnya, sampai akhir.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of rescuers kneeling in a ruined kitchen around a discovered figure beneath grey ash, flashlight beams cutting the dust, bowed heads in silence, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_043",
+      "media": "video",
+      "narration": "Bersamanya, warga lain ikut berpulang. Total korban rangkaian letusan tahun itu mencapai tiga ratus lima puluh tiga jiwa. Angka resmi dari catatan kementerian kesehatan.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow pan across an emergency post and mourning tents, rows of body bags and grieving families at an emergency post below the slope, ambulances in ash rain, officials reading casualty lists under tarpaulins, charred black and ember-orange palette, apocalyptic dusk and falling ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, rows of body bags and grieving families at an emergency post below the slope, ambulances in ash rain, officials reading casualty lists under tarpaulins, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_044",
+      "media": "image",
+      "narration": "Bangsa ini berduka sekaligus berdebat. Ada yang menyebutnya pengorbanan suci. Ada yang menyebutnya tragedi yang sebenarnya bisa dicegah sejak sore sebelumnya. Man asyidi issad asyida.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of residents in a village hall watching breaking news of the gatekeeper's death on an old television, hands covering mouths in grief, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_045",
+      "media": "video",
+      "narration": "Belum selesai duka itu, gunung tersebut meletus lebih besar lagi pada lima November. Awan panas meluncur sampai lima belas kilometer. Letusan terbesar sejak abad sebelumnya.",
+      "shot_type": "DRONE",
+      "video_prompt": "Massive aerial orbit of the November climax eruption, a far larger eruption column rising high with pyroclastic flows racing fifteen kilometers down multiple ravines, cities dimmed under the ash cloud, charred black and ember-orange palette, apocalyptic dusk and falling ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, a far larger eruption column rising high with pyroclastic flows racing fifteen kilometers down multiple ravines, cities dimmed under the ash cloud, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_046",
+      "media": "image",
+      "narration": "Lebih dari tiga ratus ribu orang mengungsi. Kota Yogyakarta tertutup abu. Bandara ditutup. Selama berminggu-minggu langit Jawa Tengah berwarna kelabu pekat. Syududu.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, aerial view of Yogyakarta city streets blanketed in white-grey ash, motorbikes leaving tracks in the powder, an airport runway closed under the grey sky, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_047",
+      "media": "video",
+      "narration": "Jenazah Mbah Maridjan dimakamkan di Bendesari, tak jauh dari kampungnya. Ribuan pelayat datang. Bendera keraton mengantarnya seperti mengantar seorang prajurit pulang.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow procession tracking shot at the funeral, thousands of mourners and palace guards escorting the gatekeeper's coffin through ash-dusted village roads, royal banners lowered, gamelan silent, charred black and ember-orange palette, apocalyptic dusk and falling ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, thousands of mourners and palace guards escorting the gatekeeper's coffin through ash-dusted village roads, royal banners lowered, gamelan silent, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_048",
+      "media": "image",
+      "narration": "Pertanyaan menggantung sampai sekarang. Apakah ia korban keyakinannya sendiri, atau justru teladan kesetiaan terakhir di zaman yang serba menghitung selamat? Ma askoli inna kaliyamata inna asqoli.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of fresh flowers and incense on the gatekeeper's grave at dusk, an old photograph propped against the headstone, the volcano smoking faintly far behind, charred black and ember-orange palette, apocalyptic dusk and falling ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_049",
+      "media": "video",
+      "narration": "Tongkat penjaga Gunung Merapi tidak dibiarkan kosong. April dua ribu sebelas, keraton mengangkat putranya sendiri, Asih, bergelar Surakso Hargo. Garis penjaga gunung berlanjut satu generasi lagi.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow ceremonial pan of the successor's appointment, the gatekeeper's son kneeling in palace dress receiving the guardian mandate at the Yogyakarta court in two thousand eleven, elders watching in warm daylight, fresh green and clear morning-gold palette, hopeful daylight after ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the gatekeeper's son kneeling in palace dress receiving the guardian mandate at the Yogyakarta court in two thousand eleven, elders watching in warm daylight, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_050",
+      "media": "image",
+      "narration": "Penjaga baru itu memilih jalan tengah. Ia tetap memimpin labuhan dan doa-doa leluhur. Tetapi kabar status dari para ahli kini ia teruskan kepada warga tanpa ditahan.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of the new gatekeeper speaking with volcanologists at a village meeting, a status chart shared on the table between tradition and science, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_051",
+      "media": "video",
+      "narration": "Sistem peringatan pun berbenah. Pos pengamatan bertambah, kamera pengawas menyala siang malam. Jalur evakuasi diperlebar. Desa-desa lereng dilatih siaga setiap musim hujan abu.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow drone rise over rebuilt monitoring posts and new roads, modern observation posts with CCTV masts and solar panels on the slope, widened evacuation roads and rebuilt villages in fresh green valleys, fresh green and clear morning-gold palette, hopeful daylight after ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, modern observation posts with CCTV masts and solar panels on the slope, widened evacuation roads and rebuilt villages in fresh green valleys, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_052",
+      "media": "image",
+      "narration": "Gunung Merapi sendiri belum pensiun. Status siaga bertahan sejak dua ribu dua puluh satu. Guguran awan panas kecil masih turun berkala ke sungai-sungai di lereng barat daya. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of the volcano in alert mood with small glowing pyroclastic trickles at night on the southwest slope, monitoring lights blinking on the ridge, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_053",
+      "media": "video",
+      "narration": "Kinahrejo yang hangus perlahan bangkit. Rumah Mbah Maridjan kini menjadi petilasan yang diziarahi banyak orang. Batu-batu besar sisa luncuran dibiarkan sebagai pengingat abadi.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow walking shot through the memorial site, visitors walking quietly through the preserved gatekeeper's house memorial at Kinahrejo, giant boulders from the eruption resting in the yard, offerings at the door, fresh green and clear morning-gold palette, hopeful daylight after ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, visitors walking quietly through the preserved gatekeeper's house memorial at Kinahrejo, giant boulders from the eruption resting in the yard, offerings at the door, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_054",
+      "media": "image",
+      "narration": "Setiap tahun, labuhan tetap digelar. Sesaji diarak seperti dulu, doa dipanjatkan seperti dulu. Bedanya, kini rombongan berhenti bila radio pemantau menyuruh berhenti.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide view of the annual Labuhan procession in bright morning, offerings carried uphill as a monitoring radio crackles in a volunteer's hand, the community walking in step, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_055",
+      "media": "video",
+      "narration": "Pelajaran terbesar tahun itu sederhana tetapi mahal. Data tanpa kearifan terasa dingin. Kearifan tanpa data bisa membahayakan. Lereng ini membutuhkan keduanya sekaligus. Man asyidi issad asyida.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in on two hands exchanging a radio and an offering tray, a scientist handing a radio to the new gatekeeper while incense smoke curls between them, symbol of two languages finally translating each other, fresh green and clear morning-gold palette, hopeful daylight after ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, a scientist handing a radio to the new gatekeeper while incense smoke curls between them, symbol of two languages finally translating each other, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_056",
+      "media": "image",
+      "narration": "Para ahli tidak lagi memandang penjaga sebagai penghalang. Para penjaga tidak lagi memandang ahli sebagai perusuh adat. Dua bahasa itu akhirnya belajar saling menerjemahkan.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, medium view of schoolchildren on a field trip listening to the new gatekeeper and a geologist together at the memorial, the volcano calm and green behind them, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_057",
+      "media": "video",
+      "narration": "Dan gunung itu tetap berdiri di sana. Berasap pelan di pagi hari. Menatap empat kabupaten yang hidup dari pemberiannya. Sabar menunggu generasi penjaga berikutnya. Syududu.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Gentle aerial pull-back over the green recovering slopes, the volcano breathing thin morning vapor above four regencies of emerald farmland, villages rebuilt, rivers running clear between lahar banks, fresh green and clear morning-gold palette, hopeful daylight after ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the volcano breathing thin morning vapor above four regencies of emerald farmland, villages rebuilt, rivers running clear between lahar banks, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_058",
+      "media": "image",
+      "narration": "Namanya kini diabadikan di jalan, di buku pelajaran, dan di cerita orang tua kepada anaknya. Bukan karena ia menang melawan gunung. Melainkan karena ia menolak meninggalkan posnya.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, close view of a schoolbook page and a street sign bearing the old gatekeeper's name, children's hands turning the page, warm classroom light, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_059",
+      "media": "video",
+      "narration": "Pada akhirnya, kisah ini bukan sekadar soal letusan. Ini soal apa yang membuat manusia bertahan: angka yang terukur, atau janji yang dipegang sampai napas terakhir?",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow contemplative drone circle around the quiet summit, the crater steaming softly at golden hour, the whole mountain calm, as if keeping its own counsel about loyalty, data and destiny, fresh green and clear morning-gold palette, hopeful daylight after ash, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, the crater steaming softly at golden hour, the whole mountain calm, as if keeping its own counsel about loyalty, data and destiny, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_060",
+      "media": "image",
+      "narration": "Menurutmu, sang penjaga itu pahlawan kesetiaan, atau korban keyakinan yang terlalu keras? Tulis pendapatmu di kolom komentar, kami ingin tahu. Man asyidi issad asyida.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Mount Merapi volcanic documentary, wide closing view of the volcano at serene dusk above village lights, the gatekeeper's memorial lamp glowing in the foreground, the audience left with the open question, fresh green and clear morning-gold palette, hopeful daylight after ash, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    }
+  ]
+}
