@@ -34,7 +34,7 @@ PROLOG
 
 017. Tetapi klaim sebesar itu juga tidak datang tanpa perlawanan, sebab para arkeolog arus utama di berbagai negara menilai buktinya rapuh dan menyimpulkan sebagian besar bukit itu adalah karya alam.
 
-018. Maka inilah kisahnya, sebuah bukit batu di Cianjur yang membuat dunia bertengkar, antara mereka yang melihat piramida zaman es dan mereka yang hanya melihat gunung berapi tua yang membatu dengan caranya sendiri.
+018. Maka inilah kisahnya, sebuah bukit batu di Cianjur yang membuat dunia bertengkar, antara mereka yang melihat piramida zaman es dan mereka yang hanya melihat gunung berapi tua yang membatu dengan caranya sendiri. Syududu.
 
 BABAK I
 
@@ -72,7 +72,7 @@ BABAK I
 
 035. Pemerintah Indonesia bahkan membentuk tim penelitian khusus tingkat nasional, dan situs kecil di Cianjur ini menjadi panggung tempat sains, kebanggaan nasional, dan rasa penasaran publik bercampur jadi satu.
 
-036. Namun semakin besar sebuah klaim, semakin besar pula bukti yang dituntut ilmu pengetahuan, dan di titik inilah para penentang mulai mengangkat tangan, membawa daftar keberatan yang tidak kalah panjang dari daftar buktinya.
+036. Namun semakin besar sebuah klaim, semakin besar pula bukti yang dituntut ilmu pengetahuan, dan di titik inilah para penentang mulai mengangkat tangan, membawa daftar keberatan yang tidak kalah panjang dari daftar buktinya. Man asyidi, issad asyida.
 
 BABAK II
 
@@ -148,7 +148,7 @@ BABAK III
 
 071. Yang jarang disadari, retraksi tidak menghapus Gunung Padang dari peta, ia hanya menghapus satu penafsiran ekstrem tentang usianya, sementara bukit itu tetap berdiri menunggu penelitian yang lebih hati-hati.
 
-072. Maka setelah badai makalah dan retraksinya berlalu, pertanyaan yang tertinggal justru menjadi lebih jernih, bukan lagi sekadar berapa usia bukit ini, melainkan bukti seperti apa yang cukup kuat untuk menjawabnya dengan jujur.
+072. Maka setelah badai makalah dan retraksinya berlalu, pertanyaan yang tertinggal justru menjadi lebih jernih, bukan lagi sekadar berapa usia bukit ini, melainkan bukti seperti apa yang cukup kuat untuk menjawabnya dengan jujur. Syududu.
 
 BABAK IV
 
@@ -186,4 +186,4 @@ BABAK IV
 
 089. Tulis pendapat Anda di kolom komentar dan ceritakan alasan yang paling meyakinkan bagi Anda, karena perdebatan tentang bukit ini belum selesai dan suara Anda adalah bagian dari bab berikutnya dalam kisahnya.
 
-090. Sebab pada akhirnya, misteri Gunung Padang bukan hanya tentang batu dan usia, melainkan tentang seberapa jauh kita berani bertanya, seberapa ketat kita menuntut bukti.
+090. Sebab pada akhirnya, misteri Gunung Padang bukan hanya tentang batu dan usia, melainkan tentang seberapa jauh kita berani bertanya, seberapa ketat kita menuntut bukti. Man asyidi, issad asyida.

@@ -1,816 +1,816 @@
 {
- "style": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, ancient stone terraces and deep time",
- "description": "Storyboard 90 shot untuk dokumenter GUNUNG PADANG: Piramida Tertua di Dunia dari Cianjur — Klaim 25.000 Tahun yang Makalahnya Ditarik?. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar.",
- "shots": [
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_001",
-   "media": "video",
-   "narration": "Di perbukitan hijau Kecamatan Campaka, Kabupaten Cianjur, sebuah bukit batu berdiri di atas awan, dan dari kejauhan susunan terasnya tampak seperti tangga raksasa yang sengaja dibangun menuju langit.",
-   "shot_type": "DRONE",
-   "video_prompt": "Slow cinematic drone push-in over misty green hills toward the terraced stone summit, aerial view of a green volcanic hill in West Java crowned with five dark stone terraces rising through morning mist, terraced rice fields far below, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of a green volcanic hill in West Java crowned with five dark stone terraces rising through morning mist, terraced rice fields far below, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_002",
-   "media": "image",
-   "narration": "Warga setempat menyebutnya Gunung Padang, gunung pencerahan, dan selama bergenerasi mereka menjaga batu-batu tegak di puncaknya sebagai tempat sakral yang tidak boleh diperlakukan sembarangan oleh siapa pun.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, wide view of massive columnar andesite stones standing upright across the lowest terrace of an ancient hilltop site, jungle valleys behind, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_003",
-   "media": "video",
-   "narration": "Lima teras batu membentang berundak dari kaki bukit hingga ke puncak tertingginya, disusun dari balok-balok andesit memanjang yang berdiri tegak seperti barisan penjaga yang membisu selama berabad-abad lamanya.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro dolly along the rough surface of an ancient andesite column, close view of a weathered five-sided andesite column with rough volcanic texture, moss in its cracks, a hand brushing its surface, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, close view of a weathered five-sided andesite column with rough volcanic texture, moss in its cracks, a hand brushing its surface, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_004",
-   "media": "image",
-   "narration": "Dari udara, bentuk bukit ini tampak terlalu teratur untuk sekadar bukit biasa, dengan sisi-sisi yang menurun berjenjang dan puncak datar yang seolah dipahat mengikuti rancangan arsitektur yang sangat kuno.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, top-down aerial of five stepped stone terraces climbing a forested hill like a giant staircase toward the sky, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_005",
-   "media": "video",
-   "narration": "Setiap pagi, kabut menuruni lembah di sekelilingnya dan para petani menaiki tangga batu yang sama seperti yang dinaiki orang-orang berabad-abad silam, membawa sesaji dan doa untuk para leluhur mereka.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow tracking shot following villagers climbing ancient stone steps at dawn, local Sundanese villagers in simple clothing climbing worn stone steps between terraces at dawn, carrying offerings, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, local Sundanese villagers in simple clothing climbing worn stone steps between terraces at dawn, carrying offerings, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_006",
-   "media": "image",
-   "narration": "Legenda yang hidup di tanah Sunda bercerita bahwa Prabu Siliwangi, raja Pajajaran yang agung, berusaha membangun istana megah di bukit ini hanya dalam waktu satu malam.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, panorama from the summit terrace across layered blue volcanic ridges and drifting clouds over West Java, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_007",
-   "media": "video",
-   "narration": "Para peneliti yang pertama kali memetakan situs ini menemukan sesuatu yang membingungkan, yaitu susunan batu yang terlalu rapi, terlalu berlapis, dan terlalu luas untuk dianggap sebagai bentukan alam yang kebetulan semata.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow push-in on tightly fitted polygonal stone columns in an old retaining wall, extreme close view of polygonal basalt-like columns fitted together without mortar on an ancient retaining wall, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, extreme close view of polygonal basalt-like columns fitted together without mortar on an ancient retaining wall, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_008",
-   "media": "image",
-   "narration": "Sebagian balok batu di permukaan tampak dipasang tanpa perekat apa pun, namun tetap saling mengunci selama ratusan bahkan ribuan tahun, menahan gempa, hujan tropis.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone circling a solitary menhir-like standing stone on the highest terrace against a dramatic orange dusk sky, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_009",
-   "media": "video",
-   "narration": "Di teras tertinggi, batu-batu tegak membentuk ruang-ruang terbuka yang diduga menjadi tempat upacara, tempat orang-orang kuno menghadap matahari terbit dan berbicara kepada langit yang mereka sembah.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow dolly-in on an elderly guide telling a legend amid incense smoke, an elderly local guide gesturing toward shadowed terraces while telling a legend, incense smoke curling in warm light, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an elderly local guide gesturing toward shadowed terraces while telling a legend, incense smoke curling in warm light, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_010",
-   "media": "image",
-   "narration": "Situs ini disebut sebagai kompleks megalitikum terbesar di Asia Tenggara, sebuah gelar yang besar untuk bukit yang selama ini hanya dikenal oleh warga desa dan segelintir peziarah yang datang dengan niat berdoa.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, night view of the stone terraces under a brilliant Milky Way, silhouetted columns against countless stars, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_011",
-   "media": "video",
-   "narration": "Namun ketenangan Gunung Padang mulai terusik ketika sekelompok peneliti datang membawa klaim yang luar biasa, klaim yang bila benar akan memaksa dunia menulis ulang seluruh buku sejarah peradaban manusia.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of rain tracing grooves on dark volcanic stone, rain droplets falling on dark volcanic stone, water tracing ancient carved grooves, lush green ferns at the edges, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, rain droplets falling on dark volcanic stone, water tracing ancient carved grooves, lush green ferns at the edges, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_012",
-   "media": "image",
-   "narration": "Mereka mengatakan bukit ini bukanlah bukit, melainkan piramida, dan bukan piramida sembarangan, melainkan piramida tertua di seluruh dunia, jauh lebih tua daripada piramida mana pun yang pernah dikenal manusia.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial sweep over dense tropical forest revealing the terraced hill emerging like a stepped pyramid from the canopy, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_013",
-   "media": "video",
-   "narration": "Menurut klaim itu, bagian terdalam Gunung Padang dibangun sekitar dua puluh lima ribu tahun yang lalu, pada zaman ketika nenek moyang manusia masih hidup berpindah-pindah sebagai pemburu dan pengumpul makanan.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow tracking shot of archaeologists measuring between standing stones, archaeologists in field hats walking the terraces with notebooks, measuring tapes stretched between standing stones, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, archaeologists in field hats walking the terraces with notebooks, measuring tapes stretched between standing stones, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_014",
-   "media": "image",
-   "narration": "Sebagai perbandingan, piramida bertingkat Djoser di Mesir yang selama ini diakui sebagai piramida tertua dunia usianya kurang dari lima ribu tahun, terpaut sangat jauh dari angka yang diajukan untuk Gunung Padang.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, golden sunrise breaking over the summit, long shadows of stone columns stretching across dew-covered terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_015",
-   "media": "video",
-   "narration": "Bahkan Gobekli Tepe di Turki, situs monumental tertua yang diakui ilmu pengetahuan dengan usia sekitar sebelas ribu tahun, akan terlihat muda bila klaim usia Gunung Padang itu benar-benar dapat dibuktikan.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow close dolly on a resonant stone being tapped gently by a researcher, close view of a stone believed to sound like a musical instrument, a researcher tapping it gently with a small hammer, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, close view of a stone believed to sound like a musical instrument, a researcher tapping it gently with a small hammer, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_016",
-   "media": "image",
-   "narration": "Klaim sebesar itu tentu tidak datang tanpa bukti yang diajukan, dan para pendukungnya menunjuk pada bor yang menembus perut bukit, pada radar yang menembus tanah, dan pada tanggal-tanggal karbon yang sangat tua.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone pulling back from the five terraces to reveal the whole hill shaped like a broad stepped pyramid above villages, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "duration_hint": 10,
-   "id": "shot_017",
-   "media": "video",
-   "narration": "Tetapi klaim sebesar itu juga tidak datang tanpa perlawanan, sebab para arkeolog arus utama di berbagai negara menilai buktinya rapuh dan menyimpulkan sebagian besar bukit itu adalah karya alam.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow pan across visitors listening on the terrace as the guide points downward, schoolchildren and visitors listening wide-eyed on the terrace as a guide points toward the buried depths below, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, schoolchildren and visitors listening wide-eyed on the terrace as a guide points toward the buried depths below, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 1,
-   "id": "shot_018",
-   "media": "image",
-   "narration": "Maka inilah kisahnya, sebuah bukit batu di Cianjur yang membuat dunia bertengkar, antara mereka yang melihat piramida zaman es dan mereka yang hanya melihat gunung berapi tua yang membatu dengan caranya sendiri.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, storm clouds gathering over the terraced hill, wind bending the surrounding forest, the stones dark and immovable, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_019",
-   "media": "video",
-   "narration": "Kisah klaim besar ini bermula ketika ahli geologi Danny Hilman Natawidjaja dari Lembaga Ilmu Pengetahuan Indonesia, kini Badan Riset dan Inovasi Nasional, mencurigai bentuk bukit yang tidak wajar itu.",
-   "shot_type": "DRONE",
-   "video_prompt": "Slow drone descent toward a research camp and drilling rig at dawn, aerial view of a research camp at the foot of the terraced hill, tents and equipment beside a drilling rig at first light, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of a research camp at the foot of the terraced hill, tents and equipment beside a drilling rig at first light, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_020",
-   "media": "image",
-   "narration": "Sebagai ahli gempa dan geologi, ia terbiasa membaca lapisan bumi seperti membaca halaman buku, dan menurutnya Gunung Padang menyimpan halaman-halaman yang tidak mungkin ditulis oleh proses alam semata di bagian dalamnya.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, geologist Danny Hilman Natawidjaja style researcher in a hard hat studying a geological map spread over a field table, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_021",
-   "media": "video",
-   "narration": "Bersama timnya, ia memulai penyelidikan dengan cara yang tidak biasa untuk situs arkeologi, bukan dengan cangkul terlebih dahulu, melainkan dengan gelombang radar, gelombang seismik.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a drill bit boring into dark volcanic earth, a rotating drill bit biting into dark volcanic soil beside the terraces, mud and stone fragments rising, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a rotating drill bit biting into dark volcanic soil beside the terraces, mud and stone fragments rising, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_022",
-   "media": "image",
-   "narration": "Radar penembus tanah dipasang menyapu teras demi teras, mengirimkan gelombang ke perut bukit dan menangkap pantulannya, hingga layar mereka dipenuhi garis-garis terang yang mereka tafsirkan sebagai struktur tersembunyi.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, scientists lowering a ground penetrating radar antenna across a grid marked with string on the terrace, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_023",
-   "media": "video",
-   "narration": "Tomografi seismik dan tomografi resistivitas listrik ikut dipasang, memetakan kecepatan gelombang dan hambatan listrik di bawah permukaan, seolah bukit ini sedang dirontgen lapis demi lapis tanpa harus dibongkar seluruhnya.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow push-in on a fresh core sample lifted from the drill barrel, gloved hands lifting a cylindrical core sample from a drill barrel, layered soil and stone visible in cross-section, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, gloved hands lifting a cylindrical core sample from a drill barrel, layered soil and stone visible in cross-section, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_024",
-   "media": "image",
-   "narration": "Lalu datanglah langkah yang paling menentukan, pengeboran inti, ketika mata bor menembus tanah dan batu hingga puluhan meter, mengangkat silinder-silinder sampel dari kedalaman yang belum pernah disentuh para arkeolog.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, researchers in a tent laboratory examining core samples under bright lamps, labels and calipers on the table, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_025",
-   "media": "video",
-   "narration": "Dari lubang-lubang bor itulah tim ini menyusun gambaran yang mengejutkan, bahwa di bawah teras yang terlihat mata terdapat lapisan-lapisan susunan batu lain yang bentuknya mirip konstruksi dan tersusun sangat berlapis.",
-   "shot_type": "AERIAL",
-   "video_prompt": "Slow aerial drift over borehole markers patterned around the terraces, aerial view of borehole markers dotting the hillside in a careful pattern around the five terraces, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of borehole markers dotting the hillside in a careful pattern around the five terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_026",
-   "media": "image",
-   "narration": "Mereka membagi bangunan tersembunyi itu ke dalam beberapa unit, dengan unit permukaan yang paling muda, unit di bawahnya yang lebih tua, dan unit terdalam yang mereka sebut sebagai inti piramida yang paling awal dibangun.",
-   "shot_type": "CLOSEUP",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a seismic tomography cable snaking across volcanic stone, sensors planted in a line down the slope, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_027",
-   "media": "video",
-   "narration": "Unit terdalam itu, kata mereka, bermula sebagai bukit lava alami yang kemudian dipahat dengan sangat teliti, lalu dibungkus dan dibangun kembali oleh generasi-generasi berikutnya selama ribuan tahun yang sangat panjang.",
-   "shot_type": "WIDE",
-   "video_prompt": "Slow push-in on scientists silhouetted before glowing subsurface profiles, night laboratory scene with scientists silhouetted against glowing screens showing layered underground profiles, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, night laboratory scene with scientists silhouetted against glowing screens showing layered underground profiles, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_028",
-   "media": "image",
-   "narration": "Penanggalan radiokarbon atas bahan organik dari tanah di dalam lubang bor menghasilkan angka yang membuat mereka tertegun, menunjuk ke masa belasan hingga dua puluhan ribu tahun lalu di lapisan terdalam.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a researcher holding a fragment of columnar stone up to the light, turning it to show a worked flat face, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_029",
-   "media": "video",
-   "narration": "Dari angka-angka itulah lahir kesimpulan yang menggemparkan, bahwa pembangunan paling awal di Gunung Padang dapat dirunut hingga sekitar dua puluh lima ribu tahun yang lalu, jauh sebelum pertanian dikenal manusia.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a soil sample being sealed into a laboratory vial, radiocarbon laboratory, a technician in gloves placing a tiny dark soil sample into a steel vial, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, radiocarbon laboratory, a technician in gloves placing a tiny dark soil sample into a steel vial, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_030",
-   "media": "image",
-   "narration": "Bila kesimpulan itu benar, maka para pembangunnya hidup pada akhir zaman es, ketika sebagian besar manusia masih berburu dengan tombak batu dan berlindung di dalam gua-gua yang dingin di berbagai belahan dunia.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone view straight down the stepped terraces with survey lines converging like rays toward the summit, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_031",
-   "media": "video",
-   "narration": "Itu berarti keterampilan memahat dan menyusun batu dalam skala monumental lahir jauh lebih awal daripada yang diajarkan selama ini, mendahului lahirnya kota, tulisan, dan roda di peradaban mana pun.",
-   "shot_type": "WIDE",
-   "video_prompt": "Slow vertical pan down an imagined cross-section of deep stacked stone layers, cross-section imagination of the hill interior with stacked stone layers descending deep below the visible terraces, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, cross-section imagination of the hill interior with stacked stone layers descending deep below the visible terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_032",
-   "media": "image",
-   "narration": "Tim ini menyebut temuan mereka sebagai bukti bahwa peradaban maju pernah tumbuh di kepulauan Nusantara pada masa yang sangat kuno, sebuah gagasan yang bagi banyak orang Indonesia terdengar membanggakan sekaligus menggoda.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, two researchers debating over a printed radargram, fingers tracing bright reflections deep below the surface, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_033",
-   "media": "video",
-   "narration": "Dukungan datang dari berbagai penjuru, termasuk penulis populer sejarah alternatif dari luar negeri yang sejak lama meyakini adanya peradaban zaman es yang hilang dan melihat Gunung Padang sebagai kepingan buktinya.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow push-in inside a dark trench where water seeps between buried columns, water seeping between deep buried columns inside a narrow excavation trench, headlamps cutting the darkness, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, water seeping between deep buried columns inside a narrow excavation trench, headlamps cutting the darkness, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_034",
-   "media": "image",
-   "narration": "Media massa di dalam dan luar negeri ikut menyambar kisah ini, menulis judul-judul besar tentang piramida Indonesia yang lebih tua dari Mesir, dan nama Gunung Padang pun mendadak mendunia dalam waktu yang singkat.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial orbit of the hill at golden hour while a drone-mounted scanner paints light across the terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "duration_hint": 10,
-   "id": "shot_035",
-   "media": "video",
-   "narration": "Pemerintah Indonesia bahkan membentuk tim penelitian khusus tingkat nasional, dan situs kecil di Cianjur ini menjadi panggung tempat sains, kebanggaan nasional, dan rasa penasaran publik bercampur jadi satu.",
-   "shot_type": "WIDE",
-   "video_prompt": "Slow push-in through press cameras toward researchers at the site gate, press cameras and microphones gathered at the site gate as researchers announce a sensational discovery, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, press cameras and microphones gathered at the site gate as researchers announce a sensational discovery, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 2,
-   "id": "shot_036",
-   "media": "image",
-   "narration": "Namun semakin besar sebuah klaim, semakin besar pula bukti yang dituntut ilmu pengetahuan, dan di titik inilah para penentang mulai mengangkat tangan, membawa daftar keberatan yang tidak kalah panjang dari daftar buktinya.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a world map in a dark studio with pins on Egypt and Turkey being overshadowed by a glowing pin on Java, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_037",
-   "media": "video",
-   "narration": "Suara penolakan paling keras datang dari para arkeolog, para ahli yang sehari-hari menggali situs kuno dan yang menilai bahwa klaim Gunung Padang melompat jauh melampaui apa yang sesungguhnya dapat ditunjukkan oleh datanya.",
-   "shot_type": "WIDE",
-   "video_prompt": "Slow push-in on a skeptical archaeologist lecturing before the terrace image, a university lecture hall where an archaeologist gestures skeptically at a projected image of the terraces, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a university lecture hall where an archaeologist gestures skeptically at a projected image of the terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_038",
-   "media": "image",
-   "narration": "Flint Dibble, arkeolog dari Universitas Cardiff, menyatakan terus terang bahwa tidak ada bukti jelas lapisan yang terkubur di bukit itu benar-benar dibangun tangan manusia pada masa yang sangat kuno.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a volcanologist standing before a columnar lava cliff, pointing at natural hexagonal fractures in the rock, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_039",
-   "media": "video",
-   "narration": "Menurutnya, batu yang menggelinding menuruni bukit secara alami akan menata dirinya sendiri mengikuti arah kemiringan, sehingga susunan yang tampak teratur belum tentu merupakan hasil rekayasa para pembangun kuno yang cermat.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro pan across natural columnar jointing in a lava flow, natural columnar jointing in a lava flow, perfect stone pillars formed by cooling rock with no human tool marks, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, natural columnar jointing in a lava flow, perfect stone pillars formed by cooling rock with no human tool marks, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_040",
-   "media": "image",
-   "narration": "Ia memberi perbandingan yang tajam, bahwa menanggalkan sebuah bangunan dari tanah di bawahnya sama kelirunya dengan mengambil tanah di bawah Menara Eiffel lalu menyimpulkan menara itu berusia belasan ribu tahun lamanya.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of an ancient volcanic neck, a bare rocky plug rising from eroded slopes in harsh light, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_041",
-   "media": "video",
-   "narration": "Sebab radiokarbon hanya memberi tahu kapan bahan organik dalam tanah itu hidup dan mati, bukan kapan manusia menyusun batu di atasnya, dan tanah tua dapat saja berada di bawah bangunan yang jauh lebih muda usianya.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow dolly-in on an archaeologist brushing soil from pottery fragments, an archaeologist kneeling in a shallow trench, brushing soil from small pottery fragments and simple artifacts, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an archaeologist kneeling in a shallow trench, brushing soil from small pottery fragments and simple artifacts, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_042",
-   "media": "image",
-   "narration": "Keberatan berikutnya menyentuh apa yang tidak ditemukan, karena di lapisan-lapisan dalam yang diklaim tertua itu tidak dijumpai arang pembakaran, serpihan tulang, perkakas.",
-   "shot_type": "CLOSEUP",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a handful of old soil held up beside a modern tower photograph in a conceptual comparison of dating errors, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_043",
-   "media": "video",
-   "narration": "Tanpa jejak semacam itu, kata para kritikus, yang tertanggal hanyalah tanahnya, bukan bangunannya, dan lompatan dari tanah yang tua menuju piramida yang tua tidak dapat dipertanggungjawabkan secara ilmiah.",
-   "shot_type": "WIDE",
-   "video_prompt": "Slow tracking shot of stones rolling downhill into ordered patterns, rolling stones tumbling slowly down a grassy volcanic slope and settling into deceptively ordered patterns, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, rolling stones tumbling slowly down a grassy volcanic slope and settling into deceptively ordered patterns, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_044",
-   "media": "image",
-   "narration": "Ahli vulkanologi Sutikno Bronto mengajukan penjelasan berbeda, bahwa Gunung Padang adalah leher gunung berapi purba, sisa saluran lava yang membatu dan tersingkap setelah lereng di sekitarnya terkikis.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, Cardiff university style scholar speaking to camera in a library, rows of archaeology books behind him, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_045",
-   "media": "video",
-   "narration": "Balok-balok memanjang yang tampak seperti dipahat itu, menurut para ahli geologi penentang, adalah hasil rekahan kolom alami ketika lava andesit mendingin dan menyusut.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow vertical pan down an empty trench wall of silent volcanic earth, an empty deep soil layer in a trench wall, no charcoal, no bone, no tools, only silent volcanic earth, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an empty deep soil layer in a trench wall, no charcoal, no bone, no tools, only silent volcanic earth, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_046",
-   "media": "image",
-   "narration": "Semen alami yang diklaim sebagai perekat buatan manusia di sela-sela batu itu pun dibantah, karena menurut para kritikus ia hanyalah hasil pelapukan mineral biasa yang terbentuk sendiri tanpa campur tangan siapa pun.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial comparison of the modest five terraces against the vast geometric plateau of an Egyptian pyramid site, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_047",
-   "media": "video",
-   "narration": "Sementara itu, penggalian arkeologi konvensional di permukaan situs menemukan gambaran yang jauh lebih sederhana, bahwa teras-teras yang terlihat mata dibangun jauh lebih muda.",
-   "shot_type": "WIDE",
-   "video_prompt": "Slow push-in on hunter-gatherers with bone tools around a cave fire, hunter-gatherer silhouettes with simple bone tools around a small fire in a cave mouth at dusk, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, hunter-gatherer silhouettes with simple bone tools around a small fire in a cave mouth at dusk, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_048",
-   "media": "image",
-   "narration": "Penanggalan yang terkait langsung dengan artefak dan lapisan budaya di permukaan menunjuk pada masa ketika masyarakat megalitikum di Nusantara memang aktif mendirikan punden berundak untuk memuja roh para leluhur mereka.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an archaeologist holding two stone columns, one naturally fractured and one clearly worked, comparing their faces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_049",
-   "media": "video",
-   "narration": "Para kritikus juga mengajukan pertanyaan yang sederhana namun menusuk, tentang bagaimana masyarakat pemburu yang perkakasnya masih sangat sederhana dapat memahat dan memindahkan balok-balok raksasa dalam skala sebesar itu.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of natural mineral crust being brushed between stones, weathered cement-like crust between stones dissolving under a geologist's brush, revealed as natural mineral deposit, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, weathered cement-like crust between stones dissolving under a geologist's brush, revealed as natural mineral deposit, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_050",
-   "media": "image",
-   "narration": "Di sebuah gua tidak jauh dari Cianjur, para arkeolog menemukan tulang dan perkakas tulang berusia sekitar sembilan ribu lima ratus tahun, bukti betapa sederhananya teknologi manusia di kawasan ini pada masa yang diklaim itu.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone shot of the terraces looking orderly from above yet dissolving into natural rocky slopes at their edges, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_051",
-   "media": "video",
-   "narration": "Sebagian arkeolog Indonesia sendiri sejak awal bersikap hati-hati, mengingatkan bahwa Gunung Padang memang situs yang penting dan besar, tetapi kepentingan itu tidak membutuhkan usia yang fantastis untuk tetap diakui dunia.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow pan across experts debating around a table of site photographs, a panel of experts debating around a conference table, papers and site photographs spread between them, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a panel of experts debating around a conference table, papers and site photographs spread between them, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_052",
-   "media": "image",
-   "narration": "Perdebatan pun membelah dua kubu dengan tajam, antara tim geologi yang percaya pada bacaan radar dan bor mereka, dan para arkeolog yang menuntut artefak, stratigrafi yang rapi.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a quiet museum gallery with a single Gunung Padang stone under a spotlight and an unanswered question on the wall, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "duration_hint": 10,
-   "id": "shot_053",
-   "media": "video",
-   "narration": "Di tengah pertengkaran para ahli itu, satu hal sering terlupakan, bahwa kedua kubu sebenarnya membaca bukit yang sama, hanya saja mereka tidak sepakat tentang siapa penulisnya.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a magnifying glass pausing over a dating chart, a magnifying glass moving over a published chart, pausing where deep dates rest on soil alone, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a magnifying glass moving over a published chart, pausing where deep dates rest on soil alone, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 3,
-   "id": "shot_054",
-   "media": "image",
-   "narration": "Pertengkaran akademik ini berjalan bertahun-tahun di konferensi, jurnal, dan media, hingga akhirnya sebuah makalah ilmiah terbit dan mengubah perdebatan lisan menjadi badai tertulis yang mengguncang reputasi banyak pihak.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of clouds casting moving shadows over the terraces, as if the hill itself were shrugging, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_055",
-   "media": "video",
-   "narration": "Pada bulan Oktober tahun dua ribu dua puluh tiga, Danny Hilman Natawidjaja dan rekan-rekannya menerbitkan klaim mereka secara resmi dalam jurnal ilmiah Archaeological Prospection yang diterbitkan oleh penerbit Wiley.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow push-in on a glowing screen announcing an ancient pyramid article, a glowing journal website on a screen in a dark office, a new article about an ancient pyramid appearing online, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a glowing journal website on a screen in a dark office, a new article about an ancient pyramid appearing online, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_056",
-   "media": "image",
-   "narration": "Makalah itu berjudul prospeksi geoarkeologi atas piramida prasejarah yang terkubur di Gunung Padang, dan di dalamnya usia pembangunan paling awal ditulis dapat mencapai sekitar dua puluh lima ribu tahun yang lalu.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, news headlines and television crews swirling around the terraced hill in a media frenzy montage feeling, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_057",
-   "media": "video",
-   "narration": "Terbitnya makalah itu menjadi berita dunia dalam hitungan hari, karena untuk pertama kalinya klaim piramida tertua di dunia tidak lagi sekadar beredar di buku populer.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro dolly along a journal page as a finger underlines a claim, a printed journal page with dense geophysics figures, a reader's finger underlining a claim of sculpted lava, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a printed journal page with dense geophysics figures, a reader's finger underlining a claim of sculpted lava, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_058",
-   "media": "image",
-   "narration": "Banyak pembaca awam menganggap persoalan selesai, beranggapan bahwa jurnal ilmiah tidak mungkin menerbitkan sesuatu yang keliru, padahal dalam dunia sains penerbitan hanyalah awal dari ujian.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone shot of readers around the world imagined as lights on a night globe converging on Indonesia, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_059",
-   "media": "video",
-   "narration": "Ujian itu datang sangat cepat, ketika para ahli geofisika, arkeologi, dan penanggalan radiokarbon dari berbagai negara menulis keberatan mereka dan mempertanyakan kesimpulan makalah itu secara resmi.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow dolly-in on an editor reading stacks of critical correspondence, an editor in a publisher's office reading critical letters, a concerned expression, stacks of correspondence, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an editor in a publisher's office reading critical letters, a concerned expression, stacks of correspondence, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_060",
-   "media": "image",
-   "narration": "Jurnal Nature, salah satu majalah sains paling bergengsi di dunia, ikut memberitakan kontroversi ini dan menyoroti betapa banyak pakar yang terkejut makalah semacam itu dapat terbit dalam bentuknya yang sekarang ini.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a virtual seminar room of international experts on many small screens, all debating one controversial paper, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_061",
-   "media": "video",
-   "narration": "Para editor jurnal dan penerbit Wiley lalu menyelidiki proses dan isi makalah tersebut, menimbang keberatan para pakar, dan memeriksa apakah kesimpulan besar itu benar-benar ditopang bukti yang disajikan.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow push-in as a journal volume is withdrawn from a shelf, a red retraction stamp metaphor, a document being withdrawn from a shelf of bound journal volumes, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a red retraction stamp metaphor, a document being withdrawn from a shelf of bound journal volumes, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_062",
-   "media": "image",
-   "narration": "Setelah proses yang berjalan berbulan-bulan, keputusan yang jarang dan berat akhirnya dijatuhkan, makalah itu dinyatakan mengandung kesalahan besar yang tidak terdeteksi selama proses penelaahan sejawat sebelum ia diterbitkan.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, the lead author speaking firmly at a press table, defending his data with core samples displayed before him, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_063",
-   "media": "video",
-   "narration": "Pada bulan Maret tahun dua ribu dua puluh empat, Archaeological Prospection secara resmi menarik kembali makalah tersebut, sebuah langkah yang dalam dunia akademik dikenal sebagai retraksi dan dianggap sangat serius akibatnya.",
-   "shot_type": "AERIAL",
-   "video_prompt": "Slow aerial drift over terraces as mist flows indifferently through stones, aerial view of the terraces indifferent to the storm of paper above them, morning mist flowing through stones, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of the terraces indifferent to the storm of paper above them, morning mist flowing through stones, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_064",
-   "media": "image",
-   "narration": "Alasan resminya tegas, bahwa penanggalan radiokarbon dalam makalah itu diterapkan pada sampel tanah yang tidak terkait artefak atau fitur apa pun yang dapat ditafsirkan sebagai buatan manusia.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a printing press of commentary, blogs and podcasts multiplying opinions faster than evidence can follow, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_065",
-   "media": "video",
-   "narration": "Karena itu, bunyi pemberitahuan retraksinya, penafsiran bahwa situs ini adalah piramida kuno yang dibangun sembilan ribu tahun atau lebih yang lalu adalah tidak benar.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow pan between two rival annotations of the same radar image, two versions of the same radar image side by side, one annotated as chambers, one as natural voids, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, two versions of the same radar image side by side, one annotated as chambers, one as natural voids, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_066",
-   "media": "image",
-   "narration": "Retraksi itu menjadi pukulan telak bagi klaim piramida tertua di dunia, sebab fondasi kronologinya runtuh di mata komunitas ilmiah, meskipun data geofisika dari radar dan bor itu sendiri tidak serta-merta dinyatakan palsu.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a young researcher reading the retraction notice alone at night, the site photograph pinned above her desk, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_067",
-   "media": "video",
-   "narration": "Para penulis makalah tidak menerima keputusan itu, mereka menyatakan penarikan tersebut tidak adil dan berpendapat bukti mereka telah disalahpahami oleh para editor serta pengkritik yang menilai karya mereka.",
-   "shot_type": "DRONE",
-   "video_prompt": "Slow drone descent as clouds part over the unchanged summit stones, drone descending toward the summit terrace as clouds part, revealing stones exactly as they were before the paper, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone descending toward the summit terrace as clouds part, revealing stones exactly as they were before the paper, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_068",
-   "media": "image",
-   "narration": "Mereka menulis tanggapan panjang yang antara lain dimuat di situs penulis sejarah alternatif Graham Hancock, tokoh yang selama ini dikenal sebagai pendukung vokal gagasan peradaban zaman es yang hilang dari sejarah resmi.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an empty conference stage with a single slide of the terraced hill, the audience seats dark and silent, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_069",
-   "media": "video",
-   "narration": "Sebagian pendukung klaim melihat retraksi ini sebagai bukti bahwa arus utama ilmu pengetahuan menolak gagasan yang menggoyang keyakinan lama, sementara pihak lain melihatnya sebagai bukti bahwa sistem koreksi diri sains bekerja.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a pen signing a formal retraction letter, a pen signing a formal retraction letter, wax-like gravity in the gesture, journal letterhead above, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a pen signing a formal retraction letter, wax-like gravity in the gesture, journal letterhead above, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_070",
-   "media": "image",
-   "narration": "Di luar gelanggang para ahli, publik menyaksikan peristiwa langka ini dengan bingung dan kecewa, bertanya makalah mana yang harus dipercaya, yang terbit gegap gempita atau yang ditarik dengan pemberitahuan singkat.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, supporters of the claim gathering online, streaming a passionate defense from a home studio, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "duration_hint": 10,
-   "id": "shot_071",
-   "media": "video",
-   "narration": "Yang jarang disadari, retraksi tidak menghapus Gunung Padang dari peta, ia hanya menghapus satu penafsiran ekstrem tentang usianya, sementara bukit itu tetap berdiri menunggu penelitian yang lebih hati-hati.",
-   "shot_type": "AERIAL",
-   "video_prompt": "Slow aerial pull-back from the hill into the vast archipelago, aerial pull-back from the hill into the vast Indonesian archipelago, one mystery among thousands of islands, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial pull-back from the hill into the vast Indonesian archipelago, one mystery among thousands of islands, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 4,
-   "id": "shot_072",
-   "media": "image",
-   "narration": "Maka setelah badai makalah dan retraksinya berlalu, pertanyaan yang tertinggal justru menjadi lebih jernih, bukan lagi sekadar berapa usia bukit ini, melainkan bukti seperti apa yang cukup kuat untuk menjawabnya dengan jujur.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, dusk settling on the terraces, a caretaker locking the site gate as the controversy fades into evening quiet, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_073",
-   "media": "video",
-   "narration": "Di luar pertengkaran, ada hal yang tidak dibantah kubu mana pun, bahwa Gunung Padang adalah situs megalitikum yang nyata, besar, dan penting, dengan lima teras batu yang jelas disusun manusia di permukaannya.",
-   "shot_type": "DRONE",
-   "video_prompt": "Slow serene drone push-in as sunrise washes over the five terraces, serene drone sunrise over the five terraces, soft gold light washing across ancient stones and green valleys, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, serene drone sunrise over the five terraces, soft gold light washing across ancient stones and green valleys, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_074",
-   "media": "image",
-   "narration": "Para penjaganya hingga hari ini merawat teras-teras itu dengan tangan mereka sendiri, menegakkan kembali balok yang roboh dan menyapu daun dari tangga batu, seolah menjaga amanah yang dititipkan oleh zaman yang sangat panjang.",
-   "shot_type": "MEDIUM",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, conservation workers carefully resetting a fallen column on the upper terrace, ropes and wooden levers in use, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_075",
-   "media": "video",
-   "narration": "Artefak yang ditemukan lewat penggalian hati-hati, seperti pecahan tembikar dan sisa kegiatan manusia, adalah bukti yang tidak terbantahkan, meskipun ia menunjuk pada usia yang jauh lebih muda dari legenda.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a pottery shard resting in an open palm, a small pottery shard resting in an archaeologist's palm, undeniably human, undeniably far younger than legend, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a small pottery shard resting in an archaeologist's palm, undeniably human, undeniably far younger than legend, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_076",
-   "media": "image",
-   "narration": "Bagi masyarakat Sunda di sekitarnya, Gunung Padang tidak pernah membutuhkan gelar piramida tertua di dunia untuk menjadi sakral, karena nilai tempat ini hidup dalam doa, dalam ziarah.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, school groups and families picnicking below the sacred hill, children pointing up at the terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_077",
-   "media": "video",
-   "narration": "Para peneliti dari berbagai kubu kini sebenarnya sepakat pada satu kebutuhan yang sama, yaitu penggalian terbuka yang lebih luas, data mentah yang dibagikan secara transparan.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow respectful dolly-in on an elder praying quietly at the summit, a Sundanese elder praying quietly at the summit shrine area, flowers and incense among the stones, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a Sundanese elder praying quietly at the summit shrine area, flowers and incense among the stones, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_078",
-   "media": "image",
-   "narration": "Penggalian perlahan, lapis demi lapis, dengan sekop kecil dan kuas halus, mungkin terdengar kurang spektakuler dibandingkan radar dan bor, tetapi dari kesabaran semacam itulah jawaban yang kokoh biasanya lahir.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of a fresh excavation grid opened carefully on one terrace, strings and markers in neat rows, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_079",
-   "media": "video",
-   "narration": "Sejumlah peneliti Indonesia terus bekerja di situs ini dengan klaim yang lebih terukur, mengusulkan pembangunan bertahap selama ribuan tahun, gagasan yang tetap menakjubkan tanpa angka yang paling fantastis.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a trowel scraping through layered soil strata, a trowel scraping gently through layered soil, each thin stratum a page of the hill's true diary, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a trowel scraping gently through layered soil, each thin stratum a page of the hill's true diary, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_080",
-   "media": "image",
-   "narration": "Pintu penelitian pun sebaiknya terbuka bagi tim mana pun dari negara mana pun, karena bukit yang diklaim tertua di dunia layak diperiksa oleh sebanyak mungkin mata terlatih dan metode yang tersedia.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, open data imagined as sunlight, laboratory doors opening wide to visiting international researchers, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_081",
-   "media": "video",
-   "narration": "Ada pelajaran besar yang dipetik dari seluruh kisah ini, bahwa ilmu pengetahuan bukanlah kitab yang selesai ditulis, melainkan percakapan panjang yang mengoreksi dirinya sendiri.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow tracking shot of scientists working side by side in a trench, Indonesian and foreign scientists working side by side in a trench, laughing over a shared discovery, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, Indonesian and foreign scientists working side by side in a trench, laughing over a shared discovery, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_082",
-   "media": "image",
-   "narration": "Ada pula pelajaran tentang kita sebagai penonton, betapa mudahnya judul sensasional mengalahkan kehati-hatian, dan betapa pembaca yang bijak sebaiknya selalu bertanya bukti apa yang menopang sebuah klaim.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone rising from the terraces toward the horizon where volcanic peaks line up like unanswered questions, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_083",
-   "media": "video",
-   "narration": "Gunung Padang sendiri tidak berubah oleh semua ini, batunya tetap batu yang sama, kabutnya tetap turun setiap pagi, dan terasnya tetap menaiki langit Cianjur seperti yang telah dilakukannya selama berabad-abad hingga kini.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow push-in on a stone column split by roots and rain, a single andesite column split by roots and rain, nature patiently reclaiming whatever humans may have built, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a single andesite column split by roots and rain, nature patiently reclaiming whatever humans may have built, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_084",
-   "media": "image",
-   "narration": "Mungkin suatu hari penggalian yang lebih dalam dan terbuka akan menemukan sesuatu yang mengubah pikiran semua orang, dan mungkin pula ia menegaskan keajaiban bukit ini terletak pada kesederhanaan usianya.",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a night sky time-lapse above the terraces, stars wheeling over stones that keep their secret a while longer, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_085",
-   "media": "video",
-   "narration": "Para pemandu di puncak bukit biasanya menutup tur mereka bukan dengan kesimpulan, melainkan ajakan untuk melihat dan menimbang sendiri, lalu membiarkan setiap pengunjung pulang membawa pendapatnya masing-masing.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow dolly-in on a guide turning to his group with an open gesture, a guide finishing his tour at the summit, turning to his group with an open-handed questioning gesture, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a guide finishing his tour at the summit, turning to his group with an open-handed questioning gesture, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_086",
-   "media": "image",
-   "narration": "Kami pun tidak akan menutup film ini dengan vonis, karena bukti yang tersedia hari ini memang belum cukup untuk memvonis, dan kejujuran menuntut kami mengakui batas dari apa yang benar-benar diketahui ilmu pengetahuan saat ini.",
-   "shot_type": "AERIAL",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial spiral upward from the highest terrace until the hill becomes one green island in a sea of mist, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_087",
-   "media": "video",
-   "narration": "Yang dapat kami katakan hanyalah ini, bahwa di sebuah bukit di Cianjur terdapat susunan batu yang membuat para profesor bertengkar, membuat sebuah jurnal besar menarik makalahnya.",
-   "shot_type": "CLOSEUP",
-   "video_prompt": "Slow macro shot of a hand hovering above an ancient stone, a visitor's hand hovering just above an ancient stone, not touching, in a moment of wonder and restraint, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a visitor's hand hovering just above an ancient stone, not touching, in a moment of wonder and restraint, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_088",
-   "media": "image",
-   "narration": "Sekarang giliran Anda yang menilai, apakah Gunung Padang adalah piramida tertua di dunia yang dibangun peradaban zaman es yang hilang, ataukah punden berundak megalitikum yang jauh lebih muda di atas bukit berapi yang alami?",
-   "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, golden afternoon crowds descending the stone steps, carrying the mystery home with them in conversation, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "duration_hint": 10,
-   "id": "shot_089",
-   "media": "video",
-   "narration": "Tulis pendapat Anda di kolom komentar dan ceritakan alasan yang paling meyakinkan bagi Anda, karena perdebatan tentang bukit ini belum selesai dan suara Anda adalah bagian dari bab berikutnya dalam kisahnya.",
-   "shot_type": "MEDIUM",
-   "video_prompt": "Slow push-in on a caretaker sweeping leaves from ancient steps at twilight, the terraces at twilight with a lone caretaker sweeping fallen leaves from the ancient steps, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, the terraces at twilight with a lone caretaker sweeping fallen leaves from the ancient steps, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  },
-  {
-   "chapter": 5,
-   "id": "shot_090",
-   "media": "image",
-   "narration": "Sebab pada akhirnya, misteri Gunung Padang bukan hanya tentang batu dan usia, melainkan tentang seberapa jauh kita berani bertanya, seberapa ketat kita menuntut bukti.",
-   "shot_type": "DRONE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, final majestic drone pull-back from Gunung Padang at sunset, five terraces glowing gold above a sea of clouds, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
-  }
- ]
+  "style": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, ancient stone terraces and deep time",
+  "description": "Storyboard 90 shot untuk dokumenter GUNUNG PADANG: Piramida Tertua di Dunia dari Cianjur — Klaim 25.000 Tahun yang Makalahnya Ditarik?. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar.",
+  "shots": [
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_001",
+      "media": "video",
+      "narration": "Di perbukitan hijau Kecamatan Campaka, Kabupaten Cianjur, sebuah bukit batu berdiri di atas awan, dan dari kejauhan susunan terasnya tampak seperti tangga raksasa yang sengaja dibangun menuju langit.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow cinematic drone push-in over misty green hills toward the terraced stone summit, aerial view of a green volcanic hill in West Java crowned with five dark stone terraces rising through morning mist, terraced rice fields far below, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of a green volcanic hill in West Java crowned with five dark stone terraces rising through morning mist, terraced rice fields far below, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_002",
+      "media": "image",
+      "narration": "Warga setempat menyebutnya Gunung Padang, gunung pencerahan, dan selama bergenerasi mereka menjaga batu-batu tegak di puncaknya sebagai tempat sakral yang tidak boleh diperlakukan sembarangan oleh siapa pun.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, wide view of massive columnar andesite stones standing upright across the lowest terrace of an ancient hilltop site, jungle valleys behind, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_003",
+      "media": "video",
+      "narration": "Lima teras batu membentang berundak dari kaki bukit hingga ke puncak tertingginya, disusun dari balok-balok andesit memanjang yang berdiri tegak seperti barisan penjaga yang membisu selama berabad-abad lamanya.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro dolly along the rough surface of an ancient andesite column, close view of a weathered five-sided andesite column with rough volcanic texture, moss in its cracks, a hand brushing its surface, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, close view of a weathered five-sided andesite column with rough volcanic texture, moss in its cracks, a hand brushing its surface, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_004",
+      "media": "image",
+      "narration": "Dari udara, bentuk bukit ini tampak terlalu teratur untuk sekadar bukit biasa, dengan sisi-sisi yang menurun berjenjang dan puncak datar yang seolah dipahat mengikuti rancangan arsitektur yang sangat kuno.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, top-down aerial of five stepped stone terraces climbing a forested hill like a giant staircase toward the sky, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_005",
+      "media": "video",
+      "narration": "Setiap pagi, kabut menuruni lembah di sekelilingnya dan para petani menaiki tangga batu yang sama seperti yang dinaiki orang-orang berabad-abad silam, membawa sesaji dan doa untuk para leluhur mereka.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow tracking shot following villagers climbing ancient stone steps at dawn, local Sundanese villagers in simple clothing climbing worn stone steps between terraces at dawn, carrying offerings, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, local Sundanese villagers in simple clothing climbing worn stone steps between terraces at dawn, carrying offerings, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_006",
+      "media": "image",
+      "narration": "Legenda yang hidup di tanah Sunda bercerita bahwa Prabu Siliwangi, raja Pajajaran yang agung, berusaha membangun istana megah di bukit ini hanya dalam waktu satu malam.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, panorama from the summit terrace across layered blue volcanic ridges and drifting clouds over West Java, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_007",
+      "media": "video",
+      "narration": "Para peneliti yang pertama kali memetakan situs ini menemukan sesuatu yang membingungkan, yaitu susunan batu yang terlalu rapi, terlalu berlapis, dan terlalu luas untuk dianggap sebagai bentukan alam yang kebetulan semata.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in on tightly fitted polygonal stone columns in an old retaining wall, extreme close view of polygonal basalt-like columns fitted together without mortar on an ancient retaining wall, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, extreme close view of polygonal basalt-like columns fitted together without mortar on an ancient retaining wall, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_008",
+      "media": "image",
+      "narration": "Sebagian balok batu di permukaan tampak dipasang tanpa perekat apa pun, namun tetap saling mengunci selama ratusan bahkan ribuan tahun, menahan gempa, hujan tropis.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone circling a solitary menhir-like standing stone on the highest terrace against a dramatic orange dusk sky, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_009",
+      "media": "video",
+      "narration": "Di teras tertinggi, batu-batu tegak membentuk ruang-ruang terbuka yang diduga menjadi tempat upacara, tempat orang-orang kuno menghadap matahari terbit dan berbicara kepada langit yang mereka sembah.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow dolly-in on an elderly guide telling a legend amid incense smoke, an elderly local guide gesturing toward shadowed terraces while telling a legend, incense smoke curling in warm light, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an elderly local guide gesturing toward shadowed terraces while telling a legend, incense smoke curling in warm light, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_010",
+      "media": "image",
+      "narration": "Situs ini disebut sebagai kompleks megalitikum terbesar di Asia Tenggara, sebuah gelar yang besar untuk bukit yang selama ini hanya dikenal oleh warga desa dan segelintir peziarah yang datang dengan niat berdoa.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, night view of the stone terraces under a brilliant Milky Way, silhouetted columns against countless stars, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_011",
+      "media": "video",
+      "narration": "Namun ketenangan Gunung Padang mulai terusik ketika sekelompok peneliti datang membawa klaim yang luar biasa, klaim yang bila benar akan memaksa dunia menulis ulang seluruh buku sejarah peradaban manusia.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of rain tracing grooves on dark volcanic stone, rain droplets falling on dark volcanic stone, water tracing ancient carved grooves, lush green ferns at the edges, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, rain droplets falling on dark volcanic stone, water tracing ancient carved grooves, lush green ferns at the edges, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_012",
+      "media": "image",
+      "narration": "Mereka mengatakan bukit ini bukanlah bukit, melainkan piramida, dan bukan piramida sembarangan, melainkan piramida tertua di seluruh dunia, jauh lebih tua daripada piramida mana pun yang pernah dikenal manusia.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial sweep over dense tropical forest revealing the terraced hill emerging like a stepped pyramid from the canopy, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_013",
+      "media": "video",
+      "narration": "Menurut klaim itu, bagian terdalam Gunung Padang dibangun sekitar dua puluh lima ribu tahun yang lalu, pada zaman ketika nenek moyang manusia masih hidup berpindah-pindah sebagai pemburu dan pengumpul makanan.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow tracking shot of archaeologists measuring between standing stones, archaeologists in field hats walking the terraces with notebooks, measuring tapes stretched between standing stones, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, archaeologists in field hats walking the terraces with notebooks, measuring tapes stretched between standing stones, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_014",
+      "media": "image",
+      "narration": "Sebagai perbandingan, piramida bertingkat Djoser di Mesir yang selama ini diakui sebagai piramida tertua dunia usianya kurang dari lima ribu tahun, terpaut sangat jauh dari angka yang diajukan untuk Gunung Padang.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, golden sunrise breaking over the summit, long shadows of stone columns stretching across dew-covered terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_015",
+      "media": "video",
+      "narration": "Bahkan Gobekli Tepe di Turki, situs monumental tertua yang diakui ilmu pengetahuan dengan usia sekitar sebelas ribu tahun, akan terlihat muda bila klaim usia Gunung Padang itu benar-benar dapat dibuktikan.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow close dolly on a resonant stone being tapped gently by a researcher, close view of a stone believed to sound like a musical instrument, a researcher tapping it gently with a small hammer, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, close view of a stone believed to sound like a musical instrument, a researcher tapping it gently with a small hammer, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_016",
+      "media": "image",
+      "narration": "Klaim sebesar itu tentu tidak datang tanpa bukti yang diajukan, dan para pendukungnya menunjuk pada bor yang menembus perut bukit, pada radar yang menembus tanah, dan pada tanggal-tanggal karbon yang sangat tua.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone pulling back from the five terraces to reveal the whole hill shaped like a broad stepped pyramid above villages, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_017",
+      "media": "video",
+      "narration": "Tetapi klaim sebesar itu juga tidak datang tanpa perlawanan, sebab para arkeolog arus utama di berbagai negara menilai buktinya rapuh dan menyimpulkan sebagian besar bukit itu adalah karya alam.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow pan across visitors listening on the terrace as the guide points downward, schoolchildren and visitors listening wide-eyed on the terrace as a guide points toward the buried depths below, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, schoolchildren and visitors listening wide-eyed on the terrace as a guide points toward the buried depths below, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_018",
+      "media": "image",
+      "narration": "Maka inilah kisahnya, sebuah bukit batu di Cianjur yang membuat dunia bertengkar, antara mereka yang melihat piramida zaman es dan mereka yang hanya melihat gunung berapi tua yang membatu dengan caranya sendiri. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, storm clouds gathering over the terraced hill, wind bending the surrounding forest, the stones dark and immovable, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_019",
+      "media": "video",
+      "narration": "Kisah klaim besar ini bermula ketika ahli geologi Danny Hilman Natawidjaja dari Lembaga Ilmu Pengetahuan Indonesia, kini Badan Riset dan Inovasi Nasional, mencurigai bentuk bukit yang tidak wajar itu.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow drone descent toward a research camp and drilling rig at dawn, aerial view of a research camp at the foot of the terraced hill, tents and equipment beside a drilling rig at first light, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of a research camp at the foot of the terraced hill, tents and equipment beside a drilling rig at first light, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_020",
+      "media": "image",
+      "narration": "Sebagai ahli gempa dan geologi, ia terbiasa membaca lapisan bumi seperti membaca halaman buku, dan menurutnya Gunung Padang menyimpan halaman-halaman yang tidak mungkin ditulis oleh proses alam semata di bagian dalamnya.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, geologist Danny Hilman Natawidjaja style researcher in a hard hat studying a geological map spread over a field table, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_021",
+      "media": "video",
+      "narration": "Bersama timnya, ia memulai penyelidikan dengan cara yang tidak biasa untuk situs arkeologi, bukan dengan cangkul terlebih dahulu, melainkan dengan gelombang radar, gelombang seismik.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a drill bit boring into dark volcanic earth, a rotating drill bit biting into dark volcanic soil beside the terraces, mud and stone fragments rising, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a rotating drill bit biting into dark volcanic soil beside the terraces, mud and stone fragments rising, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_022",
+      "media": "image",
+      "narration": "Radar penembus tanah dipasang menyapu teras demi teras, mengirimkan gelombang ke perut bukit dan menangkap pantulannya, hingga layar mereka dipenuhi garis-garis terang yang mereka tafsirkan sebagai struktur tersembunyi.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, scientists lowering a ground penetrating radar antenna across a grid marked with string on the terrace, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_023",
+      "media": "video",
+      "narration": "Tomografi seismik dan tomografi resistivitas listrik ikut dipasang, memetakan kecepatan gelombang dan hambatan listrik di bawah permukaan, seolah bukit ini sedang dirontgen lapis demi lapis tanpa harus dibongkar seluruhnya.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in on a fresh core sample lifted from the drill barrel, gloved hands lifting a cylindrical core sample from a drill barrel, layered soil and stone visible in cross-section, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, gloved hands lifting a cylindrical core sample from a drill barrel, layered soil and stone visible in cross-section, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_024",
+      "media": "image",
+      "narration": "Lalu datanglah langkah yang paling menentukan, pengeboran inti, ketika mata bor menembus tanah dan batu hingga puluhan meter, mengangkat silinder-silinder sampel dari kedalaman yang belum pernah disentuh para arkeolog.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, researchers in a tent laboratory examining core samples under bright lamps, labels and calipers on the table, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_025",
+      "media": "video",
+      "narration": "Dari lubang-lubang bor itulah tim ini menyusun gambaran yang mengejutkan, bahwa di bawah teras yang terlihat mata terdapat lapisan-lapisan susunan batu lain yang bentuknya mirip konstruksi dan tersusun sangat berlapis.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow aerial drift over borehole markers patterned around the terraces, aerial view of borehole markers dotting the hillside in a careful pattern around the five terraces, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of borehole markers dotting the hillside in a careful pattern around the five terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_026",
+      "media": "image",
+      "narration": "Mereka membagi bangunan tersembunyi itu ke dalam beberapa unit, dengan unit permukaan yang paling muda, unit di bawahnya yang lebih tua, dan unit terdalam yang mereka sebut sebagai inti piramida yang paling awal dibangun.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a seismic tomography cable snaking across volcanic stone, sensors planted in a line down the slope, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_027",
+      "media": "video",
+      "narration": "Unit terdalam itu, kata mereka, bermula sebagai bukit lava alami yang kemudian dipahat dengan sangat teliti, lalu dibungkus dan dibangun kembali oleh generasi-generasi berikutnya selama ribuan tahun yang sangat panjang.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow push-in on scientists silhouetted before glowing subsurface profiles, night laboratory scene with scientists silhouetted against glowing screens showing layered underground profiles, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, night laboratory scene with scientists silhouetted against glowing screens showing layered underground profiles, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_028",
+      "media": "image",
+      "narration": "Penanggalan radiokarbon atas bahan organik dari tanah di dalam lubang bor menghasilkan angka yang membuat mereka tertegun, menunjuk ke masa belasan hingga dua puluhan ribu tahun lalu di lapisan terdalam.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a researcher holding a fragment of columnar stone up to the light, turning it to show a worked flat face, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_029",
+      "media": "video",
+      "narration": "Dari angka-angka itulah lahir kesimpulan yang menggemparkan, bahwa pembangunan paling awal di Gunung Padang dapat dirunut hingga sekitar dua puluh lima ribu tahun yang lalu, jauh sebelum pertanian dikenal manusia.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a soil sample being sealed into a laboratory vial, radiocarbon laboratory, a technician in gloves placing a tiny dark soil sample into a steel vial, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, radiocarbon laboratory, a technician in gloves placing a tiny dark soil sample into a steel vial, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_030",
+      "media": "image",
+      "narration": "Bila kesimpulan itu benar, maka para pembangunnya hidup pada akhir zaman es, ketika sebagian besar manusia masih berburu dengan tombak batu dan berlindung di dalam gua-gua yang dingin di berbagai belahan dunia.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone view straight down the stepped terraces with survey lines converging like rays toward the summit, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_031",
+      "media": "video",
+      "narration": "Itu berarti keterampilan memahat dan menyusun batu dalam skala monumental lahir jauh lebih awal daripada yang diajarkan selama ini, mendahului lahirnya kota, tulisan, dan roda di peradaban mana pun.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow vertical pan down an imagined cross-section of deep stacked stone layers, cross-section imagination of the hill interior with stacked stone layers descending deep below the visible terraces, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, cross-section imagination of the hill interior with stacked stone layers descending deep below the visible terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_032",
+      "media": "image",
+      "narration": "Tim ini menyebut temuan mereka sebagai bukti bahwa peradaban maju pernah tumbuh di kepulauan Nusantara pada masa yang sangat kuno, sebuah gagasan yang bagi banyak orang Indonesia terdengar membanggakan sekaligus menggoda.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, two researchers debating over a printed radargram, fingers tracing bright reflections deep below the surface, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_033",
+      "media": "video",
+      "narration": "Dukungan datang dari berbagai penjuru, termasuk penulis populer sejarah alternatif dari luar negeri yang sejak lama meyakini adanya peradaban zaman es yang hilang dan melihat Gunung Padang sebagai kepingan buktinya.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in inside a dark trench where water seeps between buried columns, water seeping between deep buried columns inside a narrow excavation trench, headlamps cutting the darkness, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, water seeping between deep buried columns inside a narrow excavation trench, headlamps cutting the darkness, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_034",
+      "media": "image",
+      "narration": "Media massa di dalam dan luar negeri ikut menyambar kisah ini, menulis judul-judul besar tentang piramida Indonesia yang lebih tua dari Mesir, dan nama Gunung Padang pun mendadak mendunia dalam waktu yang singkat.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial orbit of the hill at golden hour while a drone-mounted scanner paints light across the terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_035",
+      "media": "video",
+      "narration": "Pemerintah Indonesia bahkan membentuk tim penelitian khusus tingkat nasional, dan situs kecil di Cianjur ini menjadi panggung tempat sains, kebanggaan nasional, dan rasa penasaran publik bercampur jadi satu.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow push-in through press cameras toward researchers at the site gate, press cameras and microphones gathered at the site gate as researchers announce a sensational discovery, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, press cameras and microphones gathered at the site gate as researchers announce a sensational discovery, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_036",
+      "media": "image",
+      "narration": "Namun semakin besar sebuah klaim, semakin besar pula bukti yang dituntut ilmu pengetahuan, dan di titik inilah para penentang mulai mengangkat tangan, membawa daftar keberatan yang tidak kalah panjang dari daftar buktinya. Man asyidi, issad asyida.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a world map in a dark studio with pins on Egypt and Turkey being overshadowed by a glowing pin on Java, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_037",
+      "media": "video",
+      "narration": "Suara penolakan paling keras datang dari para arkeolog, para ahli yang sehari-hari menggali situs kuno dan yang menilai bahwa klaim Gunung Padang melompat jauh melampaui apa yang sesungguhnya dapat ditunjukkan oleh datanya.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow push-in on a skeptical archaeologist lecturing before the terrace image, a university lecture hall where an archaeologist gestures skeptically at a projected image of the terraces, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a university lecture hall where an archaeologist gestures skeptically at a projected image of the terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_038",
+      "media": "image",
+      "narration": "Flint Dibble, arkeolog dari Universitas Cardiff, menyatakan terus terang bahwa tidak ada bukti jelas lapisan yang terkubur di bukit itu benar-benar dibangun tangan manusia pada masa yang sangat kuno.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a volcanologist standing before a columnar lava cliff, pointing at natural hexagonal fractures in the rock, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_039",
+      "media": "video",
+      "narration": "Menurutnya, batu yang menggelinding menuruni bukit secara alami akan menata dirinya sendiri mengikuti arah kemiringan, sehingga susunan yang tampak teratur belum tentu merupakan hasil rekayasa para pembangun kuno yang cermat.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro pan across natural columnar jointing in a lava flow, natural columnar jointing in a lava flow, perfect stone pillars formed by cooling rock with no human tool marks, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, natural columnar jointing in a lava flow, perfect stone pillars formed by cooling rock with no human tool marks, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_040",
+      "media": "image",
+      "narration": "Ia memberi perbandingan yang tajam, bahwa menanggalkan sebuah bangunan dari tanah di bawahnya sama kelirunya dengan mengambil tanah di bawah Menara Eiffel lalu menyimpulkan menara itu berusia belasan ribu tahun lamanya.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of an ancient volcanic neck, a bare rocky plug rising from eroded slopes in harsh light, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_041",
+      "media": "video",
+      "narration": "Sebab radiokarbon hanya memberi tahu kapan bahan organik dalam tanah itu hidup dan mati, bukan kapan manusia menyusun batu di atasnya, dan tanah tua dapat saja berada di bawah bangunan yang jauh lebih muda usianya.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow dolly-in on an archaeologist brushing soil from pottery fragments, an archaeologist kneeling in a shallow trench, brushing soil from small pottery fragments and simple artifacts, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an archaeologist kneeling in a shallow trench, brushing soil from small pottery fragments and simple artifacts, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_042",
+      "media": "image",
+      "narration": "Keberatan berikutnya menyentuh apa yang tidak ditemukan, karena di lapisan-lapisan dalam yang diklaim tertua itu tidak dijumpai arang pembakaran, serpihan tulang, perkakas.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a handful of old soil held up beside a modern tower photograph in a conceptual comparison of dating errors, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_043",
+      "media": "video",
+      "narration": "Tanpa jejak semacam itu, kata para kritikus, yang tertanggal hanyalah tanahnya, bukan bangunannya, dan lompatan dari tanah yang tua menuju piramida yang tua tidak dapat dipertanggungjawabkan secara ilmiah.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow tracking shot of stones rolling downhill into ordered patterns, rolling stones tumbling slowly down a grassy volcanic slope and settling into deceptively ordered patterns, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, rolling stones tumbling slowly down a grassy volcanic slope and settling into deceptively ordered patterns, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_044",
+      "media": "image",
+      "narration": "Ahli vulkanologi Sutikno Bronto mengajukan penjelasan berbeda, bahwa Gunung Padang adalah leher gunung berapi purba, sisa saluran lava yang membatu dan tersingkap setelah lereng di sekitarnya terkikis.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, Cardiff university style scholar speaking to camera in a library, rows of archaeology books behind him, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_045",
+      "media": "video",
+      "narration": "Balok-balok memanjang yang tampak seperti dipahat itu, menurut para ahli geologi penentang, adalah hasil rekahan kolom alami ketika lava andesit mendingin dan menyusut.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow vertical pan down an empty trench wall of silent volcanic earth, an empty deep soil layer in a trench wall, no charcoal, no bone, no tools, only silent volcanic earth, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an empty deep soil layer in a trench wall, no charcoal, no bone, no tools, only silent volcanic earth, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_046",
+      "media": "image",
+      "narration": "Semen alami yang diklaim sebagai perekat buatan manusia di sela-sela batu itu pun dibantah, karena menurut para kritikus ia hanyalah hasil pelapukan mineral biasa yang terbentuk sendiri tanpa campur tangan siapa pun.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial comparison of the modest five terraces against the vast geometric plateau of an Egyptian pyramid site, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_047",
+      "media": "video",
+      "narration": "Sementara itu, penggalian arkeologi konvensional di permukaan situs menemukan gambaran yang jauh lebih sederhana, bahwa teras-teras yang terlihat mata dibangun jauh lebih muda.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow push-in on hunter-gatherers with bone tools around a cave fire, hunter-gatherer silhouettes with simple bone tools around a small fire in a cave mouth at dusk, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, hunter-gatherer silhouettes with simple bone tools around a small fire in a cave mouth at dusk, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_048",
+      "media": "image",
+      "narration": "Penanggalan yang terkait langsung dengan artefak dan lapisan budaya di permukaan menunjuk pada masa ketika masyarakat megalitikum di Nusantara memang aktif mendirikan punden berundak untuk memuja roh para leluhur mereka.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an archaeologist holding two stone columns, one naturally fractured and one clearly worked, comparing their faces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_049",
+      "media": "video",
+      "narration": "Para kritikus juga mengajukan pertanyaan yang sederhana namun menusuk, tentang bagaimana masyarakat pemburu yang perkakasnya masih sangat sederhana dapat memahat dan memindahkan balok-balok raksasa dalam skala sebesar itu.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of natural mineral crust being brushed between stones, weathered cement-like crust between stones dissolving under a geologist's brush, revealed as natural mineral deposit, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, weathered cement-like crust between stones dissolving under a geologist's brush, revealed as natural mineral deposit, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_050",
+      "media": "image",
+      "narration": "Di sebuah gua tidak jauh dari Cianjur, para arkeolog menemukan tulang dan perkakas tulang berusia sekitar sembilan ribu lima ratus tahun, bukti betapa sederhananya teknologi manusia di kawasan ini pada masa yang diklaim itu.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone shot of the terraces looking orderly from above yet dissolving into natural rocky slopes at their edges, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_051",
+      "media": "video",
+      "narration": "Sebagian arkeolog Indonesia sendiri sejak awal bersikap hati-hati, mengingatkan bahwa Gunung Padang memang situs yang penting dan besar, tetapi kepentingan itu tidak membutuhkan usia yang fantastis untuk tetap diakui dunia.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow pan across experts debating around a table of site photographs, a panel of experts debating around a conference table, papers and site photographs spread between them, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a panel of experts debating around a conference table, papers and site photographs spread between them, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_052",
+      "media": "image",
+      "narration": "Perdebatan pun membelah dua kubu dengan tajam, antara tim geologi yang percaya pada bacaan radar dan bor mereka, dan para arkeolog yang menuntut artefak, stratigrafi yang rapi.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a quiet museum gallery with a single Gunung Padang stone under a spotlight and an unanswered question on the wall, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_053",
+      "media": "video",
+      "narration": "Di tengah pertengkaran para ahli itu, satu hal sering terlupakan, bahwa kedua kubu sebenarnya membaca bukit yang sama, hanya saja mereka tidak sepakat tentang siapa penulisnya.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a magnifying glass pausing over a dating chart, a magnifying glass moving over a published chart, pausing where deep dates rest on soil alone, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a magnifying glass moving over a published chart, pausing where deep dates rest on soil alone, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_054",
+      "media": "image",
+      "narration": "Pertengkaran akademik ini berjalan bertahun-tahun di konferensi, jurnal, dan media, hingga akhirnya sebuah makalah ilmiah terbit dan mengubah perdebatan lisan menjadi badai tertulis yang mengguncang reputasi banyak pihak.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of clouds casting moving shadows over the terraces, as if the hill itself were shrugging, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_055",
+      "media": "video",
+      "narration": "Pada bulan Oktober tahun dua ribu dua puluh tiga, Danny Hilman Natawidjaja dan rekan-rekannya menerbitkan klaim mereka secara resmi dalam jurnal ilmiah Archaeological Prospection yang diterbitkan oleh penerbit Wiley.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in on a glowing screen announcing an ancient pyramid article, a glowing journal website on a screen in a dark office, a new article about an ancient pyramid appearing online, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a glowing journal website on a screen in a dark office, a new article about an ancient pyramid appearing online, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_056",
+      "media": "image",
+      "narration": "Makalah itu berjudul prospeksi geoarkeologi atas piramida prasejarah yang terkubur di Gunung Padang, dan di dalamnya usia pembangunan paling awal ditulis dapat mencapai sekitar dua puluh lima ribu tahun yang lalu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, news headlines and television crews swirling around the terraced hill in a media frenzy montage feeling, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_057",
+      "media": "video",
+      "narration": "Terbitnya makalah itu menjadi berita dunia dalam hitungan hari, karena untuk pertama kalinya klaim piramida tertua di dunia tidak lagi sekadar beredar di buku populer.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro dolly along a journal page as a finger underlines a claim, a printed journal page with dense geophysics figures, a reader's finger underlining a claim of sculpted lava, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a printed journal page with dense geophysics figures, a reader's finger underlining a claim of sculpted lava, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_058",
+      "media": "image",
+      "narration": "Banyak pembaca awam menganggap persoalan selesai, beranggapan bahwa jurnal ilmiah tidak mungkin menerbitkan sesuatu yang keliru, padahal dalam dunia sains penerbitan hanyalah awal dari ujian.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone shot of readers around the world imagined as lights on a night globe converging on Indonesia, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_059",
+      "media": "video",
+      "narration": "Ujian itu datang sangat cepat, ketika para ahli geofisika, arkeologi, dan penanggalan radiokarbon dari berbagai negara menulis keberatan mereka dan mempertanyakan kesimpulan makalah itu secara resmi.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow dolly-in on an editor reading stacks of critical correspondence, an editor in a publisher's office reading critical letters, a concerned expression, stacks of correspondence, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an editor in a publisher's office reading critical letters, a concerned expression, stacks of correspondence, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_060",
+      "media": "image",
+      "narration": "Jurnal Nature, salah satu majalah sains paling bergengsi di dunia, ikut memberitakan kontroversi ini dan menyoroti betapa banyak pakar yang terkejut makalah semacam itu dapat terbit dalam bentuknya yang sekarang ini.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a virtual seminar room of international experts on many small screens, all debating one controversial paper, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_061",
+      "media": "video",
+      "narration": "Para editor jurnal dan penerbit Wiley lalu menyelidiki proses dan isi makalah tersebut, menimbang keberatan para pakar, dan memeriksa apakah kesimpulan besar itu benar-benar ditopang bukti yang disajikan.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in as a journal volume is withdrawn from a shelf, a red retraction stamp metaphor, a document being withdrawn from a shelf of bound journal volumes, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a red retraction stamp metaphor, a document being withdrawn from a shelf of bound journal volumes, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_062",
+      "media": "image",
+      "narration": "Setelah proses yang berjalan berbulan-bulan, keputusan yang jarang dan berat akhirnya dijatuhkan, makalah itu dinyatakan mengandung kesalahan besar yang tidak terdeteksi selama proses penelaahan sejawat sebelum ia diterbitkan.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, the lead author speaking firmly at a press table, defending his data with core samples displayed before him, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_063",
+      "media": "video",
+      "narration": "Pada bulan Maret tahun dua ribu dua puluh empat, Archaeological Prospection secara resmi menarik kembali makalah tersebut, sebuah langkah yang dalam dunia akademik dikenal sebagai retraksi dan dianggap sangat serius akibatnya.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow aerial drift over terraces as mist flows indifferently through stones, aerial view of the terraces indifferent to the storm of paper above them, morning mist flowing through stones, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of the terraces indifferent to the storm of paper above them, morning mist flowing through stones, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_064",
+      "media": "image",
+      "narration": "Alasan resminya tegas, bahwa penanggalan radiokarbon dalam makalah itu diterapkan pada sampel tanah yang tidak terkait artefak atau fitur apa pun yang dapat ditafsirkan sebagai buatan manusia.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a printing press of commentary, blogs and podcasts multiplying opinions faster than evidence can follow, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_065",
+      "media": "video",
+      "narration": "Karena itu, bunyi pemberitahuan retraksinya, penafsiran bahwa situs ini adalah piramida kuno yang dibangun sembilan ribu tahun atau lebih yang lalu adalah tidak benar.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow pan between two rival annotations of the same radar image, two versions of the same radar image side by side, one annotated as chambers, one as natural voids, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, two versions of the same radar image side by side, one annotated as chambers, one as natural voids, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_066",
+      "media": "image",
+      "narration": "Retraksi itu menjadi pukulan telak bagi klaim piramida tertua di dunia, sebab fondasi kronologinya runtuh di mata komunitas ilmiah, meskipun data geofisika dari radar dan bor itu sendiri tidak serta-merta dinyatakan palsu.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a young researcher reading the retraction notice alone at night, the site photograph pinned above her desk, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_067",
+      "media": "video",
+      "narration": "Para penulis makalah tidak menerima keputusan itu, mereka menyatakan penarikan tersebut tidak adil dan berpendapat bukti mereka telah disalahpahami oleh para editor serta pengkritik yang menilai karya mereka.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow drone descent as clouds part over the unchanged summit stones, drone descending toward the summit terrace as clouds part, revealing stones exactly as they were before the paper, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone descending toward the summit terrace as clouds part, revealing stones exactly as they were before the paper, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_068",
+      "media": "image",
+      "narration": "Mereka menulis tanggapan panjang yang antara lain dimuat di situs penulis sejarah alternatif Graham Hancock, tokoh yang selama ini dikenal sebagai pendukung vokal gagasan peradaban zaman es yang hilang dari sejarah resmi.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, an empty conference stage with a single slide of the terraced hill, the audience seats dark and silent, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_069",
+      "media": "video",
+      "narration": "Sebagian pendukung klaim melihat retraksi ini sebagai bukti bahwa arus utama ilmu pengetahuan menolak gagasan yang menggoyang keyakinan lama, sementara pihak lain melihatnya sebagai bukti bahwa sistem koreksi diri sains bekerja.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a pen signing a formal retraction letter, a pen signing a formal retraction letter, wax-like gravity in the gesture, journal letterhead above, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a pen signing a formal retraction letter, wax-like gravity in the gesture, journal letterhead above, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_070",
+      "media": "image",
+      "narration": "Di luar gelanggang para ahli, publik menyaksikan peristiwa langka ini dengan bingung dan kecewa, bertanya makalah mana yang harus dipercaya, yang terbit gegap gempita atau yang ditarik dengan pemberitahuan singkat.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, supporters of the claim gathering online, streaming a passionate defense from a home studio, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_071",
+      "media": "video",
+      "narration": "Yang jarang disadari, retraksi tidak menghapus Gunung Padang dari peta, ia hanya menghapus satu penafsiran ekstrem tentang usianya, sementara bukit itu tetap berdiri menunggu penelitian yang lebih hati-hati.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow aerial pull-back from the hill into the vast archipelago, aerial pull-back from the hill into the vast Indonesian archipelago, one mystery among thousands of islands, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial pull-back from the hill into the vast Indonesian archipelago, one mystery among thousands of islands, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_072",
+      "media": "image",
+      "narration": "Maka setelah badai makalah dan retraksinya berlalu, pertanyaan yang tertinggal justru menjadi lebih jernih, bukan lagi sekadar berapa usia bukit ini, melainkan bukti seperti apa yang cukup kuat untuk menjawabnya dengan jujur. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, dusk settling on the terraces, a caretaker locking the site gate as the controversy fades into evening quiet, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_073",
+      "media": "video",
+      "narration": "Di luar pertengkaran, ada hal yang tidak dibantah kubu mana pun, bahwa Gunung Padang adalah situs megalitikum yang nyata, besar, dan penting, dengan lima teras batu yang jelas disusun manusia di permukaannya.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow serene drone push-in as sunrise washes over the five terraces, serene drone sunrise over the five terraces, soft gold light washing across ancient stones and green valleys, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, serene drone sunrise over the five terraces, soft gold light washing across ancient stones and green valleys, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_074",
+      "media": "image",
+      "narration": "Para penjaganya hingga hari ini merawat teras-teras itu dengan tangan mereka sendiri, menegakkan kembali balok yang roboh dan menyapu daun dari tangga batu, seolah menjaga amanah yang dititipkan oleh zaman yang sangat panjang.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, conservation workers carefully resetting a fallen column on the upper terrace, ropes and wooden levers in use, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_075",
+      "media": "video",
+      "narration": "Artefak yang ditemukan lewat penggalian hati-hati, seperti pecahan tembikar dan sisa kegiatan manusia, adalah bukti yang tidak terbantahkan, meskipun ia menunjuk pada usia yang jauh lebih muda dari legenda.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a pottery shard resting in an open palm, a small pottery shard resting in an archaeologist's palm, undeniably human, undeniably far younger than legend, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a small pottery shard resting in an archaeologist's palm, undeniably human, undeniably far younger than legend, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_076",
+      "media": "image",
+      "narration": "Bagi masyarakat Sunda di sekitarnya, Gunung Padang tidak pernah membutuhkan gelar piramida tertua di dunia untuk menjadi sakral, karena nilai tempat ini hidup dalam doa, dalam ziarah.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, school groups and families picnicking below the sacred hill, children pointing up at the terraces, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_077",
+      "media": "video",
+      "narration": "Para peneliti dari berbagai kubu kini sebenarnya sepakat pada satu kebutuhan yang sama, yaitu penggalian terbuka yang lebih luas, data mentah yang dibagikan secara transparan.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow respectful dolly-in on an elder praying quietly at the summit, a Sundanese elder praying quietly at the summit shrine area, flowers and incense among the stones, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a Sundanese elder praying quietly at the summit shrine area, flowers and incense among the stones, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_078",
+      "media": "image",
+      "narration": "Penggalian perlahan, lapis demi lapis, dengan sekop kecil dan kuas halus, mungkin terdengar kurang spektakuler dibandingkan radar dan bor, tetapi dari kesabaran semacam itulah jawaban yang kokoh biasanya lahir.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial view of a fresh excavation grid opened carefully on one terrace, strings and markers in neat rows, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_079",
+      "media": "video",
+      "narration": "Sejumlah peneliti Indonesia terus bekerja di situs ini dengan klaim yang lebih terukur, mengusulkan pembangunan bertahap selama ribuan tahun, gagasan yang tetap menakjubkan tanpa angka yang paling fantastis.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a trowel scraping through layered soil strata, a trowel scraping gently through layered soil, each thin stratum a page of the hill's true diary, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a trowel scraping gently through layered soil, each thin stratum a page of the hill's true diary, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_080",
+      "media": "image",
+      "narration": "Pintu penelitian pun sebaiknya terbuka bagi tim mana pun dari negara mana pun, karena bukit yang diklaim tertua di dunia layak diperiksa oleh sebanyak mungkin mata terlatih dan metode yang tersedia.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, open data imagined as sunlight, laboratory doors opening wide to visiting international researchers, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_081",
+      "media": "video",
+      "narration": "Ada pelajaran besar yang dipetik dari seluruh kisah ini, bahwa ilmu pengetahuan bukanlah kitab yang selesai ditulis, melainkan percakapan panjang yang mengoreksi dirinya sendiri.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow tracking shot of scientists working side by side in a trench, Indonesian and foreign scientists working side by side in a trench, laughing over a shared discovery, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, Indonesian and foreign scientists working side by side in a trench, laughing over a shared discovery, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_082",
+      "media": "image",
+      "narration": "Ada pula pelajaran tentang kita sebagai penonton, betapa mudahnya judul sensasional mengalahkan kehati-hatian, dan betapa pembaca yang bijak sebaiknya selalu bertanya bukti apa yang menopang sebuah klaim.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, drone rising from the terraces toward the horizon where volcanic peaks line up like unanswered questions, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_083",
+      "media": "video",
+      "narration": "Gunung Padang sendiri tidak berubah oleh semua ini, batunya tetap batu yang sama, kabutnya tetap turun setiap pagi, dan terasnya tetap menaiki langit Cianjur seperti yang telah dilakukannya selama berabad-abad hingga kini.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in on a stone column split by roots and rain, a single andesite column split by roots and rain, nature patiently reclaiming whatever humans may have built, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a single andesite column split by roots and rain, nature patiently reclaiming whatever humans may have built, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_084",
+      "media": "image",
+      "narration": "Mungkin suatu hari penggalian yang lebih dalam dan terbuka akan menemukan sesuatu yang mengubah pikiran semua orang, dan mungkin pula ia menegaskan keajaiban bukit ini terletak pada kesederhanaan usianya.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a night sky time-lapse above the terraces, stars wheeling over stones that keep their secret a while longer, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_085",
+      "media": "video",
+      "narration": "Para pemandu di puncak bukit biasanya menutup tur mereka bukan dengan kesimpulan, melainkan ajakan untuk melihat dan menimbang sendiri, lalu membiarkan setiap pengunjung pulang membawa pendapatnya masing-masing.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow dolly-in on a guide turning to his group with an open gesture, a guide finishing his tour at the summit, turning to his group with an open-handed questioning gesture, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a guide finishing his tour at the summit, turning to his group with an open-handed questioning gesture, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_086",
+      "media": "image",
+      "narration": "Kami pun tidak akan menutup film ini dengan vonis, karena bukti yang tersedia hari ini memang belum cukup untuk memvonis, dan kejujuran menuntut kami mengakui batas dari apa yang benar-benar diketahui ilmu pengetahuan saat ini.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, aerial spiral upward from the highest terrace until the hill becomes one green island in a sea of mist, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_087",
+      "media": "video",
+      "narration": "Yang dapat kami katakan hanyalah ini, bahwa di sebuah bukit di Cianjur terdapat susunan batu yang membuat para profesor bertengkar, membuat sebuah jurnal besar menarik makalahnya.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow macro shot of a hand hovering above an ancient stone, a visitor's hand hovering just above an ancient stone, not touching, in a moment of wonder and restraint, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, a visitor's hand hovering just above an ancient stone, not touching, in a moment of wonder and restraint, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_088",
+      "media": "image",
+      "narration": "Sekarang giliran Anda yang menilai, apakah Gunung Padang adalah piramida tertua di dunia yang dibangun peradaban zaman es yang hilang, ataukah punden berundak megalitikum yang jauh lebih muda di atas bukit berapi yang alami?",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, golden afternoon crowds descending the stone steps, carrying the mystery home with them in conversation, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_089",
+      "media": "video",
+      "narration": "Tulis pendapat Anda di kolom komentar dan ceritakan alasan yang paling meyakinkan bagi Anda, karena perdebatan tentang bukit ini belum selesai dan suara Anda adalah bagian dari bab berikutnya dalam kisahnya.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in on a caretaker sweeping leaves from ancient steps at twilight, the terraces at twilight with a lone caretaker sweeping fallen leaves from the ancient steps, golden volcanic light, drifting mist, deep green and dark stone palette, cinematic chiaroscuro, 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, the terraces at twilight with a lone caretaker sweeping fallen leaves from the ancient steps, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_090",
+      "media": "image",
+      "narration": "Sebab pada akhirnya, misteri Gunung Padang bukan hanya tentang batu dan usia, melainkan tentang seberapa jauh kita berani bertanya, seberapa ketat kita menuntut bukti. Man asyidi, issad asyida.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Gunung Padang megalithic mystery documentary, final majestic drone pull-back from Gunung Padang at sunset, five terraces glowing gold above a sea of clouds, misty golden light, deep green jungle against dark andesite stone, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    }
+  ]
 }
