@@ -1,0 +1,546 @@
+{
+  "style": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, the lost continent beneath the Java Sea",
+  "description": "Storyboard 60 shot untuk dokumenter SUNDALAND: Atlantis-nya Indonesia yang Tenggelam di Bawah Laut Jawa — Benua Hilang atau Dongeng?. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar. Lima babak: daratan zaman es, tenggelamnya dalam tiga gelombang banjir, klaim peradaban Oppenheimer, klaim Atlantis Santos, dan sisi skeptis yang tetap membuka pertanyaan.",
+  "shots": [
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_001",
+      "media": "video",
+      "narration": "Dengarkan. Dulu, dari Sumatra ke Kalimantan itu jalan kaki. Tidak ada laut. Tidak ada kapal. Yang ada hanya daratan sejauh mata memandang. Peta dunia zaman itu beda total dengan peta sekarang.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow cinematic drone push-in, endless lowland savanna and braided rivers stretching to the horizon where the Java Sea now lies, herds of wild buffalo moving through morning mist, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, endless lowland savanna and braided rivers stretching to the horizon where the Java Sea now lies, herds of wild buffalo moving through morning mist, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_002",
+      "media": "image",
+      "narration": "Zaman es terakhir membuat muka laut surut seratus dua puluh meter. Sumatra, Jawa, Kalimantan, dan Semenanjung Malaya menyatu jadi satu benua raksasa. Luasnya hampir separuh India.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, one vast united continent joining Sumatra, Java, Borneo and the Malay Peninsula under low golden sun, shallow seas shrunk to thin blue ribbons at its edges, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_003",
+      "media": "video",
+      "narration": "Para ahli menamai daratan raksasa itu dengan satu kata. Kata ini sengaja jarang saya sebut, biar kalian penasaran. Namanya Sundaland. Sekali ini saja disebut di awal. Syududu.",
+      "shot_type": "WIDE",
+      "video_prompt": "Sweeping panoramic pan, panoramic ancient coastline with mangrove forests, woodsmoke from distant campfires and a huge pale sky over flat green lowlands, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, panoramic ancient coastline with mangrove forests, woodsmoke from distant campfires and a huge pale sky over flat green lowlands, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_004",
+      "media": "image",
+      "narration": "Di tengah benua itu mengalir sungai-sungai raksasa. Airnya turun dari pegunungan Sumatra dan Kalimantan, lalu bermuara jauh ke Laut Cina Selatan. Sekarang sungai-sungai itu tidur di dasar laut.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a giant winding paleo-river seen from a high drone, oxbow lakes and dense jungle banks fading into blue haze, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_005",
+      "media": "video",
+      "narration": "Buktinya bukan katanya. Ikan kurau air tawar di sungai Kapuas di Kalimantan ternyata saudara kandung ikan di Musi dan Batanghari di Sumatra. Padahal ikan air tawar tidak bisa menyeberangi laut asin.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Low gliding camera move, a freshwater threadfin fish leaping in a muddy tropical river at sunrise, droplets sparkling, jungle bank blurred behind, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a freshwater threadfin fish leaping in a muddy tropical river at sunrise, droplets sparkling, jungle bank blurred behind, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_006",
+      "media": "image",
+      "narration": "Artinya sederhana sekali. Dulu sungai-sungai itu menyambung jadi satu. Ikan yang sama berenang di aliran yang sama, sebelum laut datang memutusnya. Ikan tidak bisa berbohong. Syududu.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, two great rivers merging into one mighty channel through flat emerald lowlands, layers of dawn mist between the banks, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_007",
+      "media": "video",
+      "narration": "Di daratan itu hidup harimau, gajah, badak, dan manusia purba berdampingan. Mereka berjalan dari Malaya sampai Jawa tanpa menyeberang air setetes pun. Dunia saat itu luas, dingin, dan penuh makanan.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow descending drone shot, elephants and a rhinoceros crossing a shallow river plain while a tiger watches from tall golden grass, cold bright morning, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, elephants and a rhinoceros crossing a shallow river plain while a tiger watches from tall golden grass, cold bright morning, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_008",
+      "media": "image",
+      "narration": "Manusia sudah menghuni tepian benua itu sejak lima puluh ribu tahun lalu. Mereka berburu, melukis dinding gua, dan berkampung di tepi sungai. Bukan manusia bodoh. Manusia lengkap dengan budayanya.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a prehistoric human camp on a river bluff, stone tools, drying fish racks and children beside a small fire under a rock shelter, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_009",
+      "media": "video",
+      "narration": "Kata orang sekarang, ah itu cuma tanah kosong. Kosong matamu. Tanah itu subur, sungainya penuh ikan, hutannya penuh buah. Kalau ada surga pertanian zaman purba, di sinilah tempatnya. Syududu.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow push-in from wide, fertile floodplain of wild rice and banana groves stretching toward a volcanic horizon, farmers of the stone age as tiny figures in golden light, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, fertile floodplain of wild rice and banana groves stretching toward a volcanic horizon, farmers of the stone age as tiny figures in golden light, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_010",
+      "media": "image",
+      "narration": "Peta dasar Laut Jawa masih menyimpan parit-parit panjang bekas aliran sungai purba itu. Dari sonar kapal, alurnya terlihat jelas membelah lumpur. Alam tidak pernah menghapus tanda tangannya sendiri.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, ancient river channels carved into the dark seabed seen from directly above, blue-green sediment patterns like veins in stone, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_011",
+      "media": "video",
+      "narration": "Jadi sebelum ada Indonesia, sebelum ada Malaysia, ada satu negeri darat yang menyatukan semuanya. Negeri yang tidak tercatat di kitab sejarah mana pun. Karena sejarah ditulis sesudah ia tenggelam.",
+      "shot_type": "DRONE",
+      "video_prompt": "Rising crane-style reveal, a wide dawn vista over one united landmass, the highlands of three modern islands still joined, first light spilling across the plain, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a wide dawn vista over one united landmass, the highlands of three modern islands still joined, first light spilling across the plain, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 1,
+      "id": "shot_012",
+      "media": "image",
+      "narration": "Pertanyaannya bukan apakah benua itu ada. Geologi sudah menjawabnya tuntas. Pertanyaannya siapa yang tinggal di sana, dan apa yang mereka bangun sebelum air datang. Ma askoli inna kaliyamata inna asqoli.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a lone elder storyteller silhouette on a grassy hill above the great plain, storm clouds gathering far on the horizon, pale glacial dawn light, misty teal and bone-white palette, epic continental scale, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_013",
+      "media": "video",
+      "narration": "Lalu bumi menghangat. Es di kutub utara dan selatan mulai mencair perlahan. Air laut naik tahun demi tahun, seperti utang yang jatuh tempo. Dan utang alam tidak bisa ditagih balik oleh siapa pun.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow cinematic drone push-in, melting polar ice sheets with torrents of meltwater pouring into a rising grey ocean under a pale sun, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, melting polar ice sheets with torrents of meltwater pouring into a rising grey ocean under a pale sun, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_014",
+      "media": "image",
+      "narration": "Kenaikan itu tidak berjalan halus. Para peneliti mencatat tiga gelombang banjir besar. Gelombang pertama sekitar empat belas ribu tahun lalu. Pantai mundur berkilo-kilometer dalam satu generasi manusia.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a coastline flooding in slow catastrophe, forest canopy drowning as brown water creeps relentlessly inland, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_015",
+      "media": "video",
+      "narration": "Bayangkan jadi manusia saat itu. Kampungmu di tepi sungai. Setiap tahun air naik setinggi lutut anakmu. Tetua berkata pindah. Tahun berikutnya air datang lagi. Pindah lagi. Capek. Syududu.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Sweeping panoramic pan, a prehistoric family carrying baskets and children uphill as floodwater laps at the edge of their abandoned village, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a prehistoric family carrying baskets and children uphill as floodwater laps at the edge of their abandoned village, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_016",
+      "media": "image",
+      "narration": "Gelombang kedua menghantam sekitar sebelas ribu tahun lalu. Dataran rendah yang luas hilang dalam sekejap ukuran geologi. Yang kemarin hutan, hari ini laguna. Yang kemarin jalan setapak, hari ini selat.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a vast green lowland turning into a lagoon, treetops emerging from dark floodwater in long drowned lines, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_017",
+      "media": "video",
+      "narration": "Orang sekarang tertawa, masa air bisa naik seratus dua puluh meter. Tertawa silakan. Es zaman itu tebalnya berkilo-kilometer menutupi Amerika Utara dan Eropa. Mencair semua, ya segitulah jumlah airnya.",
+      "shot_type": "WIDE",
+      "video_prompt": "Low gliding camera move, towering ice cliffs calving into a stormy sea, meltwater falls pouring off a continental ice sheet, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, towering ice cliffs calving into a stormy sea, meltwater falls pouring off a continental ice sheet, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_018",
+      "media": "image",
+      "narration": "Gelombang ketiga sekitar delapan ribu tahun lalu menyapu sisa-sisanya. Laut Jawa lahir. Laut Cina Selatan terbentuk. Ribuan pulau muncul seperti punggung binatang raksasa yang tenggelam separuh.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an archipelago being born, new straits cutting between separating green highlands, churning currents in the gaps, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_019",
+      "media": "video",
+      "narration": "Sumatra berpisah dari Kalimantan. Jawa berdiri sendiri. Semenanjung Malaya putus dari segalanya. Satu benua berubah menjadi kepulauan paling rumit di muka bumi. Syududu, syalala.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow descending drone shot, islands drifting apart in an epic aerial view, Sumatra Java and Borneo as separate emerald silhouettes in a bright new sea, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, islands drifting apart in an epic aerial view, Sumatra Java and Borneo as separate emerald silhouettes in a bright new sea, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_020",
+      "media": "image",
+      "narration": "Penduduk pesisir tidak mati semua. Mereka naik ke perahu, pindah ke tanah tinggi, dan menyebar ke utara, ke timur, sampai Pasifik yang jauh. Membawa bahasa, benih, dan cerita tentang negeri yang hilang.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, outrigger refugee boats at dusk carrying families, seed baskets and clay pots across a calm glittering sea, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_021",
+      "media": "video",
+      "narration": "Cerita banjir besar itu ada di mana-mana. Di kitab suci, di dongeng suku pesisir, di legenda gunung dan danau. Mungkin semua cerita itu satu ingatan yang sama. Ingatan tentang air yang tidak pernah turun lagi.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow push-in from wide, elders telling flood stories around a fire inside a hut while children listen wide-eyed, rain streaking outside the doorway, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, elders telling flood stories around a fire inside a hut while children listen wide-eyed, rain streaking outside the doorway, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_022",
+      "media": "image",
+      "narration": "Perahu-perahu pengungsi itu tidak membawa emas. Mereka membawa sesuatu yang jauh lebih berat. Keterampilan bertani, berlayar, dan membaca bintang. Modal peradaban, dikemas rapi dalam ingatan. Syududu.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, weathered hands packing seeds, stone adzes and woven baskets into a dugout canoe at first light, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_023",
+      "media": "video",
+      "narration": "Dalam waktu tujuh ribu tahun, lebih dari separuh benua itu lenyap di bawah air. Daratan seluas India hilang dari peta dunia. Bukan karena perang. Bukan karena kutukan. Hanya karena es yang mencair.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Rising crane-style reveal, half a continent sliding beneath calm blue water, the last forested hilltops becoming small islands in an endless sea, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, half a continent sliding beneath calm blue water, the last forested hilltops becoming small islands in an endless sea, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 2,
+      "id": "shot_024",
+      "media": "image",
+      "narration": "Dan di sinilah cerita mulai tidak sopan. Kalau jutaan manusia pernah tinggal di sana selama puluhan ribu tahun, mereka pasti meninggalkan sesuatu. Sesuatu itu sekarang tidur di dasar laut. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a silent drowned river valley on the dark seabed in cold blue light, sediment drifting like slow snow, violent storm light, deep indigo and slate-grey palette, churning floodwater atmosphere, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_025",
+      "media": "video",
+      "narration": "Tahun sembilan belas sembilan puluh delapan, seorang dokter dari Oxford menerbitkan buku yang membuat para sejarawan panas dingin. Namanya Stephen Oppenheimer. Judul bukunya Eden in the East.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow cinematic drone push-in, a nineteen-nineties scholar's desk with maps of Southeast Asia, genetic charts and a thick manuscript under a brass lamp, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a nineteen-nineties scholar's desk with maps of Southeast Asia, genetic charts and a thick manuscript under a brass lamp, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_026",
+      "media": "image",
+      "narration": "Kata Oppenheimer, benua tenggelam itu bukan tanah kosong. Di sanalah salah satu peradaban tertua manusia berdenyut. Taman Eden dalam kitab-kitab tua, katanya, bukan di Mesopotamia. Di sini tempatnya.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a golden reconstruction of a thriving ancient coastal civilization, busy ports and farms at a wide river mouth at sunrise, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_027",
+      "media": "video",
+      "narration": "Ia meneliti DNA, bahasa, geologi, dan cerita rakyat sekaligus. Semua panahnya menunjuk satu arah. Orang-orang Asia Tenggara bukan pendatang kemarin sore. Mereka penduduk asli yang sangat tua.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Sweeping panoramic pan, a genetics laboratory in soft focus, sample tubes glowing faintly as a scientist silhouette passes behind glass, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a genetics laboratory in soft focus, sample tubes glowing faintly as a scientist silhouette passes behind glass, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_028",
+      "media": "image",
+      "narration": "Teori resmi selama ini berkata sebaliknya. Leluhur orang Nusantara dan Polinesia datang dari Taiwan sekitar empat ribu tahun lalu membawa padi dan bahasa. Teori itu dikenal sebagai Out of Taiwan.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, ancient canoes departing a misty northern coastline at dawn, sails of woven palm crossing grey-green water, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_029",
+      "media": "video",
+      "narration": "Oppenheimer membalik arahnya. Bukan dari Taiwan ke sini. Dari sini ke mana-mana. Banjirlah yang mengusir penduduk negeri tenggelam itu ke utara, sampai Taiwan, bahkan menyeberang ke Pasifik. Man asyidi issad asyida.",
+      "shot_type": "DRONE",
+      "video_prompt": "Low gliding camera move, a fleet of ancient outrigger canoes crossing open ocean swells toward a distant green island under huge clouds, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a fleet of ancient outrigger canoes crossing open ocean swells toward a distant green island under huge clouds, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_030",
+      "media": "image",
+      "narration": "Orang-orang pintar menertawakannya, tentu saja. Buku laris bukan bukti ilmiah, kata mereka. Betul juga. Tapi tertawa bukan bantahan. Bantahan harus memakai data. Dan datanya datang tahun dua ribu delapan.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a university lecture hall in debate mood, two camps of scholars facing each other across a long table, blurred boards behind, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_031",
+      "media": "video",
+      "narration": "Peneliti genetika dari Oxford dan Leeds memeriksa DNA mitokondria ribuan orang Asia Tenggara. Hasilnya terbit di jurnal bereputasi. Garis keturunan kepulauan ini jauh lebih tua daripada teori resmi.",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow descending drone shot, macro view of blood sample tubes and glowing DNA band patterns under laboratory light, precise and cold, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, macro view of blood sample tubes and glowing DNA band patterns under laboratory light, precise and cold, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_032",
+      "media": "image",
+      "narration": "Kesimpulan mereka mengguncang meja seminar. Manusia sudah menghuni pulau-pulau sisa benua itu sejak lima puluh ribu tahun lalu. Dan perpindahan besar terjadi justru ketika laut naik. Man asyidi issad asyida.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an excavation trench revealing ancient settlement layers, pottery shards and shell middens in warm afternoon light, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_033",
+      "media": "video",
+      "narration": "Artinya arah migrasi bisa jadi terbalik. Orang bergerak dari selatan ke utara, dari negeri yang tenggelam menuju Taiwan. Para petani dan pelaut pertama Asia mungkin lahir dari pengungsi banjir.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow push-in from wide, outrigger voyagers navigating by stars over dark Pacific swells, lantern light trembling on black water, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, outrigger voyagers navigating by stars over dark Pacific swells, lantern light trembling on black water, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_034",
+      "media": "image",
+      "narration": "Tentu pendukung teori lama tidak menyerah. Mereka menunjukkan tembikar, bahasa, dan pertanian padi yang memang kuat dari arah Taiwan. Perang data ini belum selesai sampai hari ini. Belum ada yang angkat bendera putih.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, two fleets of canoes passing in opposite directions on a misty strait between green islands at dawn, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_035",
+      "media": "video",
+      "narration": "Saya tidak memihak siapa pun. Saya hanya mencatat dengan jujur. Satu teori didukung universitas ternama dan jurnal genetika. Teori itu berkata, nenek moyang para pelaut ulung dunia bisa jadi orang negeri yang karam.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Rising crane-style reveal, a historian's hands turning the pages of a thick old book beside a globe turned toward Southeast Asia, candlelight, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a historian's hands turning the pages of a thick old book beside a globe turned toward Southeast Asia, candlelight, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 3,
+      "id": "shot_036",
+      "media": "image",
+      "narration": "Kalau benar separuhnya saja, buku sejarah Asia harus ditulis ulang dari halaman pertama. Dan pusat ceritanya bukan Beijing, bukan Delhi. Pusatnya di bawah Laut Jawa, tidur di lumpur yang dingin. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, deep seabed mud core samples raised onto a research vessel at dusk, scientists examining the layered cylinders, warm archival amber and parchment palette, scholarly expedition mood, soft window light through dust, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_037",
+      "media": "video",
+      "narration": "Kalau Oppenheimer berhenti di peradaban, profesor Brasil ini melompat jauh lebih nekat. Arysio Santos, ahli fisika, meneliti tiga puluh tahun penuh. Kesimpulannya satu kata yang membuat orang merinding. Atlantis.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow cinematic drone push-in, a Brazilian physicist's study with equation-covered boards blurred behind, a globe and old sea maps on the desk, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a Brazilian physicist's study with equation-covered boards blurred behind, a globe and old sea maps on the desk, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_038",
+      "media": "image",
+      "narration": "Tahun dua ribu lima bukunya terbit, Atlantis Benua Hilang Akhirnya Ditemukan. Isinya bukan ramalan dukun. Ia mencocokkan ciri-ciri Atlantis dari tulisan Plato satu per satu dengan peta benua tenggelam itu.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an old leather-bound book on a wooden lectern under a shaft of dramatic light, dust floating in library sunbeams, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_039",
+      "media": "video",
+      "narration": "Plato menulis Atlantis kaya logam, gading gajah, buah-buahan, dan kayu. Tanahnya subur, iklimnya hangat, pelabuhannya ramai. Santos berkata ciri-ciri itu tidak cocok untuk Mediterania. Cocoknya untuk tropis ini.",
+      "shot_type": "WIDE",
+      "video_prompt": "Sweeping panoramic pan, a tropical royal harbor of antiquity with warehouses of ivory, gold ingots and timber, elephants walking the docks, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a tropical royal harbor of antiquity with warehouses of ivory, gold ingots and timber, elephants walking the docks, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_040",
+      "media": "image",
+      "narration": "Plato menulis peradaban itu musnah oleh gempa dan banjir dalam sehari semalam. Santos menunjuk tiga gelombang banjir besar dan gempa-gempa cincin api di sini. Kecocokan yang membuat bulu kuduk berdiri. Syududu.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a ringed capital city of concentric canals and harbors in a lush tropical river delta, seen from high above, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_041",
+      "media": "video",
+      "narration": "Ia bahkan menghitung posisi ibu kota bercincin air itu di sekitar Laut Jawa dan Laut Cina Selatan. Koordinatnya ditulis terang-terangan di bukunya. Berani sekali orang ini. Salah atau benar, nyalinya jangan ditanya.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Low gliding camera move, a seismograph needle jumping violently while a volcanic arc erupts along a stormy horizon, ash columns rising, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a seismograph needle jumping violently while a volcanic arc erupts along a stormy horizon, ash columns rising, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_042",
+      "media": "image",
+      "narration": "Komunitas ilmiah menolaknya hampir serempak. Plato itu alegori, kata mereka. Dongeng moral tentang kesombongan raja, bukan laporan perjalanan. Mencari Atlantis di peta sama seperti mencari negeri dongeng anak-anak.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a skeptical academy hall with rows of professors shaking their heads, cold institutional light through tall windows, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_043",
+      "media": "video",
+      "narration": "Santos meninggal dua bulan sesudah bukunya terbit. Ia tidak sempat membela diri di seminar mana pun. Bukunya tinggal, pertanyaannya tinggal. Orang Brasil itu pergi, tetapi peta yang ia gambar tidak ikut mati.",
+      "shot_type": "WIDE",
+      "video_prompt": "Slow descending drone shot, an empty scholar's study at dusk, unfinished manuscripts and a great map left open on the desk, chair fallen silent, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an empty scholar's study at dusk, unfinished manuscripts and a great map left open on the desk, chair fallen silent, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_044",
+      "media": "image",
+      "narration": "Ada yang menyebutnya pemimpi. Ada yang menyebutnya perintis yang lahir terlalu cepat. Yang jelas ia mempertaruhkan tiga puluh tahun hidupnya untuk satu kalimat pendek. Atlantis itu ada di Indonesia. Syududu.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a lone researcher silhouette standing before a giant wall map of the drowned continent, arms folded, thinking, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_045",
+      "media": "video",
+      "narration": "Cocoklogi memang berbahaya. Angka dicocokkan, ciri dicocokkan, semua terasa pas dan masuk akal. Kepala yang dingin wajib bertanya, berapa ciri yang gagal dicocokkan tetapi tidak ditulis di buku itu?",
+      "shot_type": "CLOSEUP",
+      "video_prompt": "Slow push-in from wide, a magnifying glass hovering over an old checklist on parchment, some marks clear and some crossed out, candlelight, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a magnifying glass hovering over an old checklist on parchment, some marks clear and some crossed out, candlelight, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_046",
+      "media": "image",
+      "narration": "Tapi dengar baik-baik. Santos bukan dukun pinggir jalan. Ia profesor fisika yang menghitung lempeng bumi dan pola iklim purba. Ilmunya nyata. Lompatan kesimpulannya saja yang membuat banyak orang tidak nyaman.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a telescope on a Renaissance hill pointing at the stars with a defiant scholar silhouette beside it at twilight, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_047",
+      "media": "video",
+      "narration": "Ketidaknyamanan bukan bantahan. Galileo juga membuat orang tidak nyaman. Bedanya Galileo punya teleskop. Santos hanya punya peta dasar laut dan keyakinan. Apakah itu cukup? Belum. Apakah itu nol? Tidak juga.",
+      "shot_type": "DRONE",
+      "video_prompt": "Rising crane-style reveal, a physical relief model of the Java Sea floor sculpted in wet sand on a table, light raking across its channels, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a physical relief model of the Java Sea floor sculpted in wet sand on a table, light raking across its channels, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 4,
+      "id": "shot_048",
+      "media": "image",
+      "narration": "Jadi dua klaim besar bertumpuk di satu dasar laut yang sama. Peradaban tertua menurut dokter dari Oxford. Atlantis menurut profesor dari Brasil. Dua-duanya menunjuk air yang sama. Air Laut Jawa.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, two research ships at night sending beams of light that converge on the same dark patch of seabed far below, electric turquoise and antique gold palette, mythic cartographic mood, storm-lit tropical horizon, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_049",
+      "media": "video",
+      "narration": "Sekarang giliran suara dingin berbicara. Para arkeolog arus utama berkata pelan tapi tegas. Tunjukkan satu saja. Satu tembok, satu jalan, satu pelabuhan dari kota maju yang tenggelam itu. Satu pun belum ada.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Slow cinematic drone push-in, an archaeologist kneeling in an excavation trench holding a single stone tool, measuring grid strings around him, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an archaeologist kneeling in an excavation trench holding a single stone tool, measuring grid strings around him, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_050",
+      "media": "image",
+      "narration": "Situs-situs tertua yang berhasil digali di kawasan ini memang tua dan penting. Lukisan gua, alat batu, kuburan kuno. Tetapi kota bertingkat dengan kanal dan istana megah? Nol besar. Belum pernah ketemu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a cave wall with ancient ochre hand stencils and animal paintings lit by flickering torchlight in deep darkness, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_051",
+      "media": "video",
+      "narration": "Ilmu pengetahuan memang kejam soal yang satu ini. Klaim sebesar Atlantis wajib dibayar dengan bukti sebesar Atlantis juga. Tanpa bukti fisik, cerita sebesar apa pun tetap berstatus cerita. Keras, tapi adil.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Sweeping panoramic pan, an empty seminar room with vacant chairs facing a blurred blank board, one window of grey light, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an empty seminar room with vacant chairs facing a blurred blank board, one window of grey light, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_052",
+      "media": "image",
+      "narration": "Akan tetapi ada satu kalimat yang membuat para skeptis tidak bisa tidur terlalu nyenyak. Dasar Laut Jawa dan Laut Cina Selatan luasnya jutaan kilometer persegi. Yang sudah disurvei arkeologinya? Hampir nol. Syududu.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a vast dark seabed plain stretching to a black horizon, the tiny lights of a submersible far in the distance, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_053",
+      "media": "video",
+      "narration": "Arkeologi bawah laut itu mahal, lambat, dan selalu kalah prioritas dari minyak dan kabel laut. Kapal survei memang lewat, tetapi untuk mencari gas, bukan kota kuno. Yang tidak dicari, jangan heran tidak ketemu.",
+      "shot_type": "WIDE",
+      "video_prompt": "Low gliding camera move, an offshore survey vessel firing sonar pulses over a calm sea at dawn, hydrophone cables trailing behind, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an offshore survey vessel firing sonar pulses over a calm sea at dawn, hydrophone cables trailing behind, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_054",
+      "media": "image",
+      "narration": "Sesekali laut memberi bocoran kecil. Nelayan mengangkat gerabah, perunggu, dan benda asing dari dasar perairan dangkal. Sebagian diteliti, sebagian dijual, sebagian hilang begitu saja. Manusianya yang lambat.",
+      "shot_type": "MEDIUM",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a fisherman at sunrise hauling an ancient bronze artifact tangled in his torn net, staring at it in disbelief, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_055",
+      "media": "video",
+      "narration": "Bayangkan satu ekspedisi serius dengan sonar modern menyisir alur sungai purba itu meter demi meter. Jika ada sisa permukiman manusia, di tepi sungai itulah tempat paling masuk akal. Teknologi siap. Dananya belum datang.",
+      "shot_type": "DRONE",
+      "video_prompt": "Slow descending drone shot, a research ROV descending with bright floodlights over a paleo-river channel carved into the dark seabed, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a research ROV descending with bright floodlights over a paleo-river channel carved into the dark seabed, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_056",
+      "media": "image",
+      "narration": "Maka film ini tidak akan mengkhianati penonton dengan vonis murahan. Kami tidak berkata Atlantis itu pasti ada. Kami juga tidak berkata semua ini omong kosong. Kami berkata pertanyaannya masih terbuka lebar.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, calm sea surface above and a silent drowned valley below divided by one shaft of sunlight in blue water, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_057",
+      "media": "video",
+      "narration": "Yang pasti ada adalah benuanya. Yang pasti ada adalah banjirnya. Yang pasti ada adalah manusia-manusia yang lolos dan menyebar ke separuh dunia. Sisanya biar dasar laut yang menjawab, kalau kita berani bertanya.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Slow push-in from wide, sunrise over a Java Sea fishing fleet, hopeful golden light spreading across dozens of small working boats, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, sunrise over a Java Sea fishing fleet, hopeful golden light spreading across dozens of small working boats, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_058",
+      "media": "image",
+      "narration": "Kata orang bijak, laut tak pernah mengembalikan apa yang ditelannya utuh. Tetapi laut selalu meninggalkan remah. Remah itulah yang menunggu generasi yang cukup penasaran untuk membungkuk memungutnya. Syududu.",
+      "shot_type": "CLOSEUP",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, an old diver surfacing at dawn holding a pottery shard up toward the morning sun, water streaming off it, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_059",
+      "media": "video",
+      "narration": "Jadi menurut kalian, di bawah Laut Jawa itu hanya lumpur dan ikan? Atau ada kota yang menunggu disebut namanya lagi sesudah empat belas ribu tahun? Tulis pendapatmu. Yang sopan dibaca. Yang marah-marah juga dibaca.",
+      "shot_type": "MEDIUM",
+      "video_prompt": "Rising crane-style reveal, a single lantern boat drifting on a dark quiet sea at night, contemplative and still, stars overhead, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a single lantern boat drifting on a dark quiet sea at night, contemplative and still, stars overhead, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    },
+    {
+      "chapter": 5,
+      "id": "shot_060",
+      "media": "image",
+      "narration": "Benua itu sudah menunggu sejak es terakhir mencair, di dalam gelap dan dingin. Ia tidak buru-buru. Kitalah yang selalu buru-buru menghakimi. Ma askoli inna kaliyamata inna asqoli. Syududu.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Sundaland drowned continent documentary, a final epic aerial of the Java Sea at blue hour, islands glowing like embers above a sleeping continent, cold sonar-blue and steel palette, quiet abyssal darkness pierced by research lights, dramatic chiaroscuro, subtle 35mm film grain. No frame, no border, no collage, no text, no watermark."
+    }
+  ]
+}
