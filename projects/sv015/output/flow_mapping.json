@@ -1,0 +1,426 @@
+{
+  "title": "",
+  "total_shots": 60,
+  "records": [
+    {
+      "shot_id": "shot_001",
+      "chapter": 1,
+      "narration": "Dengarkan. Di perbatasan Yogya dan Jawa Tengah, ada gunung yang tidak pernah benar-benar tidur. Kawahnya berasap setiap hari. Lerengnya dihuni ribuan keluarga. Namanya pendek. Merapi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_001.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_002",
+      "chapter": 1,
+      "narration": "Warga Jawa menyebutnya gunung api sejati. Meletus kecil tiap dua sampai lima tahun. Meletus besar tiap berganti generasi. Siklusnya pendek. Marabahayanya panjang sekali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_002.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_003",
+      "chapter": 1,
+      "narration": "Catatan letusannya membentang berabad-abad. Tahun seribu delapan ratus tujuh puluh dua, ia mengamuk lima hari tanpa henti. Kolom letusannya menembus sepuluh kilometer langit.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_003.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_004",
+      "chapter": 1,
+      "narration": "Generasi berikutnya lebih pahit. Tahun seribu sembilan ratus tiga puluh, awan panasnya menewaskan seribu tiga ratus enam puluh sembilan jiwa. Tiga belas desa hilang dari peta.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_004.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_005",
+      "chapter": 1,
+      "narration": "Awan panas itu punya nama lokal. Wedhus gembel. Artinya kambing berbulu tebal yang berguling menuruni lereng. Terdengar lucu. Padahal suhunya ratusan derajat. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_005.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_006",
+      "chapter": 1,
+      "narration": "Di lereng selatan gunung ini, Keraton Yogyakarta memasang seorang penjaga. Bukan tentara. Bukan insinyur. Seorang abdi dalem tua dengan tugas yang terdengar mustahil.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_006.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_007",
+      "chapter": 1,
+      "narration": "Tugasnya menjaga gerbang gaib gunung. Memimpin labuhan, upacara sesaji tahunan ke puncak. Menjadi jembatan antara keraton, warga lereng, dan penunggu gunung. Man asyidi issad asyida.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_007.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_008",
+      "chapter": 1,
+      "narration": "Posisinya diwariskan turun-temurun. Ayah mengajari anak membaca tanda-tanda gunung. Dari getaran tanah. Dari perilaku satwa. Dari mimpi yang diceritakan turun-temurun pula.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_008.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_009",
+      "chapter": 1,
+      "narration": "Di sisi lain lereng, negara memasang penjaga berbeda. Pos pengamatan dengan seismograf dan kamera. Dua cara membaca gunung yang sama. Dua bahasa yang jarang bertemu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_009.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_010",
+      "chapter": 1,
+      "narration": "Keluarga lereng hidup di antara keduanya. Pagi mereka mendengar radio pemantau. Sore mereka menunggu kabar sang penjaga tua. Bila dua suara itu sepakat, barulah kaki melangkah turun.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_010.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_011",
+      "chapter": 1,
+      "narration": "Satu gunung dipeluk empat kabupaten. Sleman, Magelang, Klaten, dan Boyolali berbagi lerengnya. Jutaan orang hidup dari tanah subur pemberian abunya. Tanah yang membunuh, tanah pula yang menghidupi. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_011.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_012",
+      "chapter": 1,
+      "narration": "Dan di antara semua penjaga itu, satu nama paling dikenal seantero negeri. Lelaki kurus berblankon yang menolak turun gunung, bahkan ketika raja sendiri yang memintanya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_012.png",
+      "status": "ready"
+    },
+    {
+      "shot_id": "shot_013",
+      "chapter": 2,
+      "narration": "Namanya Mas Penewu Surakso Hargo. Dunia memanggilnya Mbah Maridjan. Ia lahir di Kinahrejo, lereng selatan, pada tahun seribu sembilan ratus dua puluh tujuh, di kaki gunung yang kelak ia jaga seumur hidupnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_013.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_014",
+      "chapter": 2,
+      "narration": "Ayahnya juru kunci sebelumnya. Tahun sembilan belas tujuh puluh, sang anak diangkat menjadi wakil ayahnya. Ia belajar sambil memikul sesaji mendaki ke puncak.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_014.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_015",
+      "chapter": 2,
+      "narration": "Sang ayah wafat, tongkat pun beralih. Tahun sembilan belas delapan puluh dua, ia resmi menyandang amanah dari Sri Sultan Hamengkubuwono Sembilan. Penjaga gunung, seumur hidup.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_015.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_016",
+      "chapter": 2,
+      "narration": "Upahnya simbolis, nyaris tak berarti. Tetapi ia menyebut tugasnya begini: membiarkan gunung bernapas, jangan sampai ia batuk. Kalimat sederhana. Isinya dalam sekali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_016.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_017",
+      "chapter": 2,
+      "narration": "Setiap tahun ia memimpin labuhan. Kain, kemenyan, dan bunga diarak dari keraton ke puncak. Doa dipanjatkan untuk penunggu gunung. Tradisi ratusan tahun berjalan di pundaknya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_017.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_018",
+      "chapter": 2,
+      "narration": "Warga menunggu aba-abanya. Bila sang kakek berkata aman, petani kembali ke ladang. Bila ia berkata waspada, kampung bersiap. Ucapannya lebih didengar daripada sirene. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_018.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_019",
+      "chapter": 2,
+      "narration": "Tahun dua ribu enam, gunung itu bergolak lagi. Sultan sendiri memintanya turun menyelamatkan diri. Jawabannya sopan, tetapi keras: amanah tidak bisa ditinggal. Ia tetap di rumahnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_019.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_020",
+      "chapter": 2,
+      "narration": "Penolakan itu mengangkat namanya ke layar kaca. Ia membintangi iklan minuman energi dengan satu kata andalan: roso. Seantero negeri hafal gaya bicaranya yang lugu dan tegas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_020.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_021",
+      "chapter": 2,
+      "narration": "Tetapi jangan salah. Ia bukan menolak sains. Ia hanya percaya urutan: selama gunung belum menyuruhnya pergi, ia tetap tinggal. Keyakinan itu utuh. Tak tergoyahkan. Man asyidi issad asyida.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_021.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_022",
+      "chapter": 2,
+      "narration": "Di rumah kayunya ia menerima tamu dari mana-mana. Pejabat, wartawan, mahasiswa, peziarah. Semua disuguhi cerita yang sama: hiduplah rukun dengan gunung, jangan menantangnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_022.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_023",
+      "chapter": 2,
+      "narration": "Sebagian orang memujanya sebagai orang sakti. Sebagian menyebutnya keras kepala. Ia sendiri hanya menjawab dengan senyum: saya ini cuma abdi, menjalankan perintah. Ma askoli inna kaliyamata inna asqoli.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_023.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_024",
+      "chapter": 2,
+      "narration": "Dua ribu sepuluh tiba. Gunung yang dijaganya mulai batuk lebih sering dari biasanya. Gempa-gempa kecil berdatangan. Dan kali ini, tanda-tandanya berbeda. Para pemantau mulai gelisah.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_024.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_025",
+      "chapter": 3,
+      "narration": "Para ahli membacanya dengan angka. Sejak akhir September dua ribu sepuluh, gempa vulkanik naik tajam. Kubah lava membengkak puluhan sentimeter per hari. Gunung ini menekan dari dalam.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_025.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_026",
+      "chapter": 3,
+      "narration": "Status pun dinaikkan bertahap. Waspada pada akhir September. Siaga pada dua puluh satu Oktober. Lalu awas, level tertinggi, pada dua puluh lima Oktober. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_026.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_027",
+      "chapter": 3,
+      "narration": "Zona bahaya diperluas berkali-kali. Sepuluh kilometer. Lalu lebih jauh lagi. Ratusan ribu warga diperintah mengungsi ke barak-barak di dataran rendah. Gunung terasa dekat sekali.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_027.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_028",
+      "chapter": 3,
+      "narration": "Ilmu pengetahuan berkata jujur: letusan besar sedang disiapkan, tetapi tak seorang pun bisa menyebut jamnya. Kepastian sains berhenti di kata waspada. Sisanya adalah keputusan manusia.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_028.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_029",
+      "chapter": 3,
+      "narration": "Petugas mendatangi Kinahrejo. Kampung itu hanya sekitar empat kilometer dari puncak. Jantung zona merah. Setiap penghuninya wajib turun sebelum malam tiba. Tak ada pengecualian, kata petugas.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_029.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_030",
+      "chapter": 3,
+      "narration": "Sebagian warga menurut dan mengungsi. Sebagian kembali diam-diam menjaga ternak. Dan sang penjaga tua membuat pilihan yang membelah pendapat bangsa sampai hari ini.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_030.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_031",
+      "chapter": 3,
+      "narration": "Ia menolak turun. Bukan karena tidak percaya data, katanya. Melainkan karena tugasnya memang di situ. Bila semua penjaga pergi, siapa menyampaikan kabar kepada warga? Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_031.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_032",
+      "chapter": 3,
+      "narration": "Di pos pengamatan, para ahli menatap grafik yang makin liar. Gempa ratusan kali sehari. Deformasi tak mau turun. Mereka tahu letusan tinggal menunggu hitungan jam. Man asyidi issad asyida.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_032.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_033",
+      "chapter": 3,
+      "narration": "Dua suara bertolak belakang. Satu dari data seismograf yang dingin. Satu dari keyakinan yang diwariskan seumur hidup. Keduanya memandang gunung yang sama, dengan kesimpulan berlawanan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_033.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_034",
+      "chapter": 3,
+      "narration": "Para penentang berkata: nyawa manusia di atas tradisi. Sekali ini saja, turunlah. Para pendukung menjawab: tanpa penjaga setia, lereng ini kehilangan kompasnya sejak lama.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_034.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_035",
+      "chapter": 3,
+      "narration": "Tak ada yang menang berdebat hari itu. Yang ada hanyalah senja yang turun lebih cepat. Awan menebal di atas puncak. Dan kampung-kampung lereng selatan menahan napas bersama-sama.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_035.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_036",
+      "chapter": 3,
+      "narration": "Dua puluh enam Oktober dua ribu sepuluh. Jam menunjukkan lewat pukul lima sore. Gunung yang dijaga puluhan tahun itu akhirnya berbicara dengan caranya sendiri. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_036.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_037",
+      "chapter": 4,
+      "narration": "Letusan pertama pecah sore itu. Kolom abu membumbung. Dentuman terdengar sampai jauh. Seismograf sampai tak sanggup mencatat getaran yang melampaui skala alatnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_037.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_038",
+      "chapter": 4,
+      "narration": "Lalu datanglah sang wedhus gembel. Awan panas berguling menuruni lereng selatan. Membakar apa saja yang dilewatinya dalam hitungan menit. Tak ada yang bisa berlari lebih cepat darinya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_038.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_039",
+      "chapter": 4,
+      "narration": "Kinahrejo berada tepat di jalur luncurannya. Rumah-rumah kayu, kebun salak, dan kandang ternak hilang dalam gelap panas. Kampung itu rata dengan abu berwarna kelabu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_039.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_040",
+      "chapter": 4,
+      "narration": "Telepon berdering di banyak tempat. Wartawan yang baru mewawancarainya siang tadi berusaha menghubunginya. Tak ada jawaban. Hanya nada sambung yang kosong. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_040.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_041",
+      "chapter": 4,
+      "narration": "Malam harinya tim penyelamat mendaki dengan senter seadanya. Mereka menyusuri kampung yang baru saja dilalui api langit. Memanggil nama-nama yang mereka kenal satu per satu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_041.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_042",
+      "chapter": 4,
+      "narration": "Pagi berikutnya kabar itu datang. Sang penjaga ditemukan di rumahnya, dalam posisi bersujud di dapurnya. Ia pergi sebagaimana ia hidup: tetap di posnya, sampai akhir.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_042.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_043",
+      "chapter": 4,
+      "narration": "Bersamanya, warga lain ikut berpulang. Total korban rangkaian letusan tahun itu mencapai tiga ratus lima puluh tiga jiwa. Angka resmi dari catatan kementerian kesehatan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_043.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_044",
+      "chapter": 4,
+      "narration": "Bangsa ini berduka sekaligus berdebat. Ada yang menyebutnya pengorbanan suci. Ada yang menyebutnya tragedi yang sebenarnya bisa dicegah sejak sore sebelumnya. Man asyidi issad asyida.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_044.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_045",
+      "chapter": 4,
+      "narration": "Belum selesai duka itu, gunung tersebut meletus lebih besar lagi pada lima November. Awan panas meluncur sampai lima belas kilometer. Letusan terbesar sejak abad sebelumnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_045.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_046",
+      "chapter": 4,
+      "narration": "Lebih dari tiga ratus ribu orang mengungsi. Kota Yogyakarta tertutup abu. Bandara ditutup. Selama berminggu-minggu langit Jawa Tengah berwarna kelabu pekat. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_046.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_047",
+      "chapter": 4,
+      "narration": "Jenazah Mbah Maridjan dimakamkan di Bendesari, tak jauh dari kampungnya. Ribuan pelayat datang. Bendera keraton mengantarnya seperti mengantar seorang prajurit pulang.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_047.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_048",
+      "chapter": 4,
+      "narration": "Pertanyaan menggantung sampai sekarang. Apakah ia korban keyakinannya sendiri, atau justru teladan kesetiaan terakhir di zaman yang serba menghitung selamat? Ma askoli inna kaliyamata inna asqoli.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_048.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_049",
+      "chapter": 5,
+      "narration": "Tongkat penjaga Gunung Merapi tidak dibiarkan kosong. April dua ribu sebelas, keraton mengangkat putranya sendiri, Asih, bergelar Surakso Hargo. Garis penjaga gunung berlanjut satu generasi lagi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_049.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_050",
+      "chapter": 5,
+      "narration": "Penjaga baru itu memilih jalan tengah. Ia tetap memimpin labuhan dan doa-doa leluhur. Tetapi kabar status dari para ahli kini ia teruskan kepada warga tanpa ditahan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_050.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_051",
+      "chapter": 5,
+      "narration": "Sistem peringatan pun berbenah. Pos pengamatan bertambah, kamera pengawas menyala siang malam. Jalur evakuasi diperlebar. Desa-desa lereng dilatih siaga setiap musim hujan abu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_051.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_052",
+      "chapter": 5,
+      "narration": "Gunung Merapi sendiri belum pensiun. Status siaga bertahan sejak dua ribu dua puluh satu. Guguran awan panas kecil masih turun berkala ke sungai-sungai di lereng barat daya. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_052.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_053",
+      "chapter": 5,
+      "narration": "Kinahrejo yang hangus perlahan bangkit. Rumah Mbah Maridjan kini menjadi petilasan yang diziarahi banyak orang. Batu-batu besar sisa luncuran dibiarkan sebagai pengingat abadi.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_053.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_054",
+      "chapter": 5,
+      "narration": "Setiap tahun, labuhan tetap digelar. Sesaji diarak seperti dulu, doa dipanjatkan seperti dulu. Bedanya, kini rombongan berhenti bila radio pemantau menyuruh berhenti.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_054.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_055",
+      "chapter": 5,
+      "narration": "Pelajaran terbesar tahun itu sederhana tetapi mahal. Data tanpa kearifan terasa dingin. Kearifan tanpa data bisa membahayakan. Lereng ini membutuhkan keduanya sekaligus. Man asyidi issad asyida.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_055.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_056",
+      "chapter": 5,
+      "narration": "Para ahli tidak lagi memandang penjaga sebagai penghalang. Para penjaga tidak lagi memandang ahli sebagai perusuh adat. Dua bahasa itu akhirnya belajar saling menerjemahkan.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_056.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_057",
+      "chapter": 5,
+      "narration": "Dan gunung itu tetap berdiri di sana. Berasap pelan di pagi hari. Menatap empat kabupaten yang hidup dari pemberiannya. Sabar menunggu generasi penjaga berikutnya. Syududu.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_057.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_058",
+      "chapter": 5,
+      "narration": "Namanya kini diabadikan di jalan, di buku pelajaran, dan di cerita orang tua kepada anaknya. Bukan karena ia menang melawan gunung. Melainkan karena ia menolak meninggalkan posnya.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_058.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_059",
+      "chapter": 5,
+      "narration": "Pada akhirnya, kisah ini bukan sekadar soal letusan. Ini soal apa yang membuat manusia bertahan: angka yang terukur, atau janji yang dipegang sampai napas terakhir?",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_059.png",
+      "status": "pending"
+    },
+    {
+      "shot_id": "shot_060",
+      "chapter": 5,
+      "narration": "Menurutmu, sang penjaga itu pahlawan kesetiaan, atau korban keyakinan yang terlalu keras? Tulis pendapatmu di kolom komentar, kami ingin tahu. Man asyidi issad asyida.",
+      "image_file": "/home/hatch/workspace/kontroversi-ijazah-gibran/projects/sv015/output/flow_images/shot_060.png",
+      "status": "pending"
+    }
+  ]
+}
