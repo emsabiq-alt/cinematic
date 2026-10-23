@@ -5,8 +5,10 @@
   "mode": "step",
   "pacing": "8-12s",
   "project_dir": "projects/sv016",
-  "status": "script_ready",
+  "status": "published",
   "title": "SUNDALAND: Atlantis-nya Indonesia yang Tenggelam di Bawah Laut Jawa — Benua Hilang atau Dongeng?",
   "total_shots": 60,
-  "voice": "mama-gufron-voice"
+  "voice": "mama-gufron-voice",
+  "youtube_url": "https://www.youtube.com/watch?v=65ZQiUoO_qE",
+  "render_run": 39847519598
 }
