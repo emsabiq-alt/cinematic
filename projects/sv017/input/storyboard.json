@@ -1,0 +1,546 @@
+{
+  "description": "Storyboard 60 shot untuk dokumenter GALUNGGUNG 1982: Gunung di Tasikmalaya yang Mematikan Empat Mesin Jumbo Jet di Langit Malam — dan Hampir Menguburnya di Samudra. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar. Lima babak: malam Speedbird 9 kehilangan empat mesin, gunung Galunggung dan sejarah erupsinya, sains abu vulkanik, kegagalan sistem peringatan 1982, dan warisannya bagi aviasi dunia.",
+  "shots": [
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_001",
+      "media": "video",
+      "narration": "Malam itu langit di atas Samudra Hindia tenang saja. Jumbo jet raksasa melintas di ketinggian tiga puluh tujuh ribu kaki, membawa dua ratus enam puluh tiga manusia. Tidak ada yang tahu, langit akan berubah.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in toward a lone Boeing 747 cruising above a dark ocean at night, cabin windows glowing in a line, moonlit cloud deck far below, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a lone Boeing 747 jumbo jet cruising high above a dark ocean at night, tiny cabin windows glowing in a line, moonlit cloud deck far below, vast empty sky, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_002",
+      "media": "image",
+      "narration": "Tiba-tiba kaca kokpit menyala biru, seperti dilukis api listrik yang menari liar. Bau belerang menyusup masuk ke kabin. Lalu mesin pertama batuk. Mesin kedua. Mesin ketiga. Mesin keempat. Sunyi.",
+      "shot_type": "COCKPIT",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, extreme close view of a cockpit windshield covered in dancing electric blue St Elmo fire filaments, pilot silhouettes frozen behind the glowing glass, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_003",
+      "media": "video",
+      "narration": "Empat mesin jet paling perkasa di zamannya mati semua dalam hitungan menit! Pesawat sebesar itu kini meluncur jatuh perlahan dalam gelap pekat. Tak ada tenaga. Tak ada jalan pulang cepat.",
+      "shot_type": "WIDE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow descending crane shot over four silent jet engines under a huge wing as the airliner glides powerlessly above black clouds at night, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, four jet engines under a huge wing gone completely silent in darkness, no exhaust glow, the aircraft gliding powerlessly above black clouds, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_004",
+      "media": "image",
+      "narration": "Di kabin, suara kapten terdengar tenang, terlalu tenang. Ia mengumumkan ada masalah kecil: keempat mesin berhenti. Masalah kecil, katanya. Ratusan nyawa menggantung pada kalimat itu!",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a dim passenger cabin at night, rows of frightened passengers holding hands and praying, one calm captain silhouette standing in the aisle doorway, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_005",
+      "media": "video",
+      "narration": "Pesawat kehilangan ketinggian dengan cepat, menukik perlahan tanpa daya. Di bawah sana samudra hitam menunggu tanpa lampu, tanpa daratan darurat. Setiap detik adalah hutang nyawa yang harus dibayar dengan ketenangan.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow pull-back revealing the giant airliner descending slowly toward an endless black ocean with no land in sight under thin moonlight, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the giant airliner descending slowly toward an endless black ocean, no land in sight, altimeter mood of falling, thin moonlight on the fuselage, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_006",
+      "media": "image",
+      "narration": "Coba hitung. Empat mesin mati. Lebih dari dua ratus nyawa. Satu gunung jauh di bawah sana yang bahkan tidak mereka lihat. Angkanya dingin. Tapi malam itu angka-angka itu berdenyut seperti jantung.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the dark volcano silhouette far below on Java island seen from high altitude, a thin ash column rising from its crater into the night sky, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_007",
+      "media": "video",
+      "narration": "Penumpang berpelukan dalam gelap. Ada yang berdoa keras, ada yang diam membeku. Bau belerang makin tajam menusuk hidung. Di jendela, percikan api listrik menari-nari seperti kembang api kematian.",
+      "shot_type": "CLOSE-UP",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbital move around blue electrical sparks dancing across an airplane window while sulfur haze drifts through the tense cabin, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, close view through an airplane window of blue electrical sparks dancing across the glass, sulfur haze drifting inside the cabin, tense faces lit blue, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_008",
+      "media": "image",
+      "narration": "Perhatikan angka ketinggiannya: runtuh terus, dari sebelas kilometer menuju kurang dari empat kilometer. Kru mencoba menyalakan mesin lagi dan lagi, gagal dan gagal. Sampai akhirnya pesawat keluar dari awan maut itu.",
+      "shot_type": "COCKPIT",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a cockpit altimeter and instrument panel glowing amber in darkness, needles dropping, three tense pilots working checklists under red light, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_009",
+      "media": "video",
+      "narration": "Lalu terdengar bunyi yang lebih indah dari musik surga: dengung mesin pertama menyala! Disusul mesin kedua! Lalu ketiga! Pesawat raksasa itu menolak mati. Kokpit bersorak seperti stadion yang meledak gol!",
+      "shot_type": "DETAIL",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, rising aerial crane shot above a jet engine intake spinning back to life with a faint orange glow as clouds break apart below the wing, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a jet engine intake spinning back to life with a faint orange glow, dawn of hope on the wing, clouds breaking apart below the aircraft, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_010",
+      "media": "image",
+      "narration": "Tapi jangan senang dulu. Mesin nomor dua bergetar hebat seperti mau copot dari sayap, terpaksa dimatikan lagi. Dengan tiga mesin pincang, pesawat berbelok menuju Jakarta, mengejar landasan terdekat.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, one vibrating jet engine shut down on the wing while three others burn steady, the airliner banking gently toward distant city lights, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "duration_hint": 10,
+      "id": "shot_011",
+      "media": "video",
+      "narration": "Bandara Halim Perdanakusuma muncul dalam pandangan yang nyaris buta, kaca depan terkikis abu sampai buram. Roda menyentuh aspal. Pesawat berhenti. Dua ratus enam puluh tiga orang selamat. Nol korban. Nol!",
+      "shot_type": "WIDE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, wide slow pan across the jumbo jet touching down on a wet Jakarta runway at night, landing lights reflecting on the tarmac, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the jumbo jet touching down on a wet runway at night in Jakarta, landing lights reflecting on tarmac, fire trucks waiting with lights on, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_012",
+      "media": "image",
+      "narration": "Malam itu dunia menyaksikan keajaiban lalu pulang tidur. Tapi saya tanya: siapa yang melempar abu ke langit sebelas kilometer, lalu membiarkan pesawat sebesar itu menelannya bulat-bulat? Syududu.",
+      "shot_type": "DRONE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the parked airliner at dawn on the apron, its nose and windshield sandblasted matte grey by ash, ground crew staring up in disbelief, midnight indigo and black palette, electric blue static glow, warm amber cabin light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_013",
+      "media": "video",
+      "narration": "Jawabannya berdiri diam di Tasikmalaya, Jawa Barat. Tingginya dua ribu seratus enam puluh delapan meter di atas laut. Hijau, rimbun, tampak jinak seperti bukit wisata. Namanya Galunggung.",
+      "shot_type": "LANDSCAPE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in toward a lush green stratovolcano above Tasikmalaya rice terraces in golden morning light, villages at its foot, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a lush green stratovolcano rising above Tasikmalaya rice terraces in golden morning light, small villages scattered peacefully at its foot, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_014",
+      "media": "image",
+      "narration": "Di kakinya terbentang Sepuluh Ribu Bukit Tasikmalaya, gumuk-gumuk kecil berserakan seperti kerikil raksasa. Itu bukan hiasan alam. Itu puing longsoran maha besar dari keruntuhan gunung ini empat ribu dua ratus tahun lalu.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a plain dotted with thousands of small green hills stretching to the horizon, ancient debris avalanche hummocks under soft morning mist, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_015",
+      "media": "video",
+      "narration": "Jangan tertipu hijaunya! Gunung ini menyimpan amarah tua yang tidak pernah benar-benar padam. Inna rahmatan maqolli fimma allah. Siapa yang paham bahasa gunung, dia tidak akan berani meremehkannya.",
+      "shot_type": "WIDE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow descending crane shot over a thin white vapor wisp curling from the summit crater of a deceptively calm green volcano, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the volcano green slopes in deceptive calm, a thin white vapor wisp curling from the summit crater, dramatic sky gathering behind it, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_016",
+      "media": "image",
+      "narration": "Catatan sejarahnya dibuka dengan darah. Pada tahun seribu delapan ratus dua puluh dua, letusan pertamanya menghantam tanpa ampun: awan panas meluncur, lahar menelan kampung-kampung di lereng tenggara.",
+      "shot_type": "ARCHIVE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a violent pyroclastic flow racing down the volcano southeast slope in an old eruption, villages fleeing along dirt roads, sepia archival tone, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_017",
+      "media": "video",
+      "narration": "Hitung korbannya dan merindinglah: empat ribu sebelas jiwa hilang, seratus empat belas desa musnah dari peta. Satu generasi di tanah Tasikmalaya lenyap dalam hitungan hari. Dan itu baru pembuka dari gunung ini.",
+      "shot_type": "ARCHIVE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow pull-back revealing a devastated grey ash valley with destroyed village ruins and leafless trees standing like skeletons, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a devastated valley of grey ash and destroyed village ruins after the great eruption, leafless trees standing like skeletons, archival mood, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_018",
+      "media": "image",
+      "narration": "Catat ini. Gunung itu tidak berhenti di situ. Tahun seribu delapan ratus sembilan puluh empat ia meletus lagi, lalu diam lagi, pura-pura tidur lagi. Polanya selalu sama: diam lama, lalu menghantam tanpa aba-aba panjang.",
+      "shot_type": "LANDSCAPE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, fine grey ash falling like snow over a village at night in lamplight, rooftops turning white, elders watching the sky from a porch, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_019",
+      "media": "video",
+      "narration": "Orang tua dulu membaca langit seperti membaca surat. Hujan abu tipis mereka sebut bahasa hujan: langit sedang berbisik. Pada sembilan belas delapan belas, bisikan itu menjelma kubah lava setinggi delapan puluh lima meter.",
+      "shot_type": "WIDE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbital move around a green lava dome steaming inside a crater lake surrounded by steep forested crater walls, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a green lava dome rising inside a crater lake, steam curling off the water, steep crater walls covered in tropical forest, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_020",
+      "media": "image",
+      "narration": "Warga tetap tinggal di kakinya, bertani di tanah yang subur oleh abu leluhurnya sendiri. Kata orang tua di sana, gunung memberi makan sekaligus mengancam. Dua-duanya diterima dengan lapang dada. Hidup memang begitu.",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, farmers planting rice in dark fertile volcanic soil at the volcano foot, lush green paddies mirroring the cone, morning gold light, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_021",
+      "media": "video",
+      "narration": "Tanah bekas abu itu subur luar biasa! Padinya menghijau, sayurnya besar, pasirnya diburu pembangun jalan sampai ke Jakarta. Gunung yang pernah membunuh ribuan orang, kini menghidupi ratusan ribu orang. Aneh? Memang!",
+      "shot_type": "LANDSCAPE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, rising aerial crane shot above sand miners loading trucks with grey volcanic sand beside a river on the volcano slope, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, terraced fields glowing emerald on the volcano slopes, sand miners loading trucks with grey volcanic sand beside a river, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_022",
+      "media": "image",
+      "narration": "Malam sebelum dentuman besar, kata warga, semut-semut di lereng sudah pindah berbaris tanpa komando. Mereka bicara lebih dulu. Dengar: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Masa manusia tidak?",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a long line of ants marching in single file across a forest path on the volcano slope at dusk, villagers watching silently, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "duration_hint": 10,
+      "id": "shot_023",
+      "media": "video",
+      "narration": "Lima April sembilan belas delapan puluh dua, pukul dua dini hari, dentuman pertama memecah tidur Tasikmalaya dan Garut. Alat pengamat nyaris tidak menangkap tanda berarti sebelumnya. Gunung ini menyerang dari senyap!",
+      "shot_type": "CLOSE-UP",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, wide slow pan across the volcano erupting at two in the morning, incandescent column and volcanic lightning tearing the sky, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the volcano erupting at two in the morning, incandescent column and volcanic lightning tearing the night sky above sleeping towns, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_024",
+      "media": "image",
+      "narration": "Dan letusan itu tidak berhenti seminggu, tidak berhenti sebulan. Sembilan bulan penuh ia meraung, enam puluh satu kali letusan tercatat oleh para pengamat. Langit Jawa Barat berubah jadi langit perang. Syalala.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a towering ash column mushrooming twenty kilometers into a storm sky, ash rain sweeping over towns, lightning inside the plume, lush emerald jungle greens and golden daylight palette, warm archival sepia undertones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_025",
+      "media": "video",
+      "narration": "Sekarang saya bongkar musuhnya. Abu vulkanik itu bukan debu dapur, bukan pasir pantai. Ia adalah batuan yang dihancurkan ledakan menjadi serpihan kaca tajam bermata mikroskopis. Ringan, melayang tinggi, dan kejam.",
+      "shot_type": "MACRO",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in toward jagged volcanic ash glass shards drifting in dark air, macro view with razor edges glowing, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, macro photograph of volcanic ash grains under magnification, jagged glass shards with razor edges glowing against black background, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_026",
+      "media": "image",
+      "narration": "Asykoli inna yama kalima. Ilmu manusia boleh sombong, tapi malam itu ilmu itu berlutut di depan serpihan batu. Dengarkan baik-baik cara abu sekecil itu membunuh mesin terbesar buatan manusia.",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, an open book of aviation engineering beside a jet engine cutaway model in a hangar, engineers studying the ash problem under lamps, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_027",
+      "media": "video",
+      "narration": "Di dalam mesin jet, suhu ruang bakar menembus seribu empat ratus derajat. Abu silika yang terhisap masuk langsung meleleh menjadi kaca cair, menempel lengket di bilah turbin seperti permen yang tidak mau lepas.",
+      "shot_type": "MACRO",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow descending crane shot over molten glass droplets splashing and sticking onto spinning turbine blades inside a burning engine core, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, inside a jet engine combustion chamber at extreme temperature, molten glass droplets splashing and sticking onto turbine blades, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_028",
+      "media": "image",
+      "narration": "Begitu aliran udara berubah, kaca cair itu membeku dan menyumbat jalur udara mesin. Mesin kehabisan napas. Satu per satu, empat raksasa baja itu padam di langit, dikalahkan benda yang lebih halus dari tepung.",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, turbine blades coated in a frozen glass crust choking the airflow path, a stalled engine core in cold hangar light, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_029",
+      "media": "video",
+      "narration": "Kenapa kru tidak menghindar? Karena radar cuaca pesawat buta terhadap abu kering! Radar hanya pandai melihat butir air. Malam gelap menelan sisa pandangan mereka. Mereka terbang masuk perangkap yang tak terlihat alat apa pun.",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow pull-back revealing a weather radar screen glowing green in a dark room with a huge blank where the ash cloud hides, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, an air traffic weather radar screen glowing green in a dark room, a huge blank where the ash cloud hides, operators puzzled, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_030",
+      "media": "image",
+      "narration": "Coba hitung hurufnya. SPEEDBIRD: sembilan huruf. Nomor penerbangannya pun berakhir sembilan. Dan dari semua nyawa di pesawat malam itu, yang hilang nol. Nol! Kebetulan memang pandai sekali berdandan.",
+      "shot_type": "DETAIL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the call sign board and flight documents of a night flight on a briefing table, maps of Java routes under a desk lamp, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_031",
+      "media": "video",
+      "narration": "Jangan kabur dulu. Api biru yang menari di kaca kokpit itu bernama api Santo Elmo: listrik statis dari gesekan jutaan serpih abu. Indah seperti aurora, tapi itu tanda pesawat sedang digerus hidup-hidup dari luar.",
+      "shot_type": "COCKPIT",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbital move around blue St Elmo fire crawling across the nose and windshield of an airliner inside a dark ash cloud, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, blue St Elmo fire crawling across the nose and windshield of an airliner in a dark ash cloud, sparks streaming along the fuselage, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_032",
+      "media": "image",
+      "narration": "Bayangkan kaca depan pesawat diamplas oleh badai kaca selama belasan menit tanpa henti. Hasilnya: kaca buram nyaris tak tembus pandang. Kapten mendaratkan raksasa itu dengan pandangan sisa-sisa, seperti mengintip dari celah pintu.",
+      "shot_type": "COCKPIT",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a sandblasted cockpit windshield seen from inside, nearly opaque frosted glass, only a small clear patch wiped by the wiper, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_033",
+      "media": "video",
+      "narration": "Jangan kira mesin jet zaman sekarang sudah kebal! Prinsipnya sama: udara masuk, abu ikut terhisap, kaca meleleh di dalam. Yang berubah hanya peringatannya. Musuhnya sama, tua, dan sabar menunggu di tiap kawah aktif.",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, rising aerial crane shot above technicians inspecting a modern jet engine intake in a bright hangar, ash warning posters on the wall, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a modern passenger jet engine intake in a bright hangar, technicians inspecting fan blades, warning posters about ash on the wall, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_034",
+      "media": "image",
+      "narration": "Kata orang-orang tua di kaki gunung, jin penunggu kawah sudah memperingatkan lewat mimpi dan gelagat hewan yang gelisah. Ilmu tertawa mendengarnya. Tapi malam itu, yang tertawa terakhir justru bukan manusia. Pikirkan itu.",
+      "shot_type": "LANDSCAPE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, misty crater rim at dawn where elders believe a guardian spirit dwells, offerings of flowers on a rock, fog swallowing the view, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "duration_hint": 10,
+      "id": "shot_035",
+      "media": "video",
+      "narration": "Empat mesin! Ratusan ton baja! Teknologi tertinggi manusia! Semua bertekuk lutut di depan debu dari perut bumi! Kalau ini bukan teguran, lalu apa namanya? Alam tidak pernah kalah. Manusia saja yang sering lupa diri.",
+      "shot_type": "WIDE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, wide slow pan across a giant jet engine in the foreground facing a towering ash plume erupting behind it, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a giant jet engine dwarfed by a towering ash plume behind it, man-made machine facing the raw column of the erupting volcano, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_036",
+      "media": "image",
+      "narration": "Jadi abu itu bukan main-main. Pertanyaannya berbalik ke manusia: kalau bahayanya sebesar ini, kenapa malam itu pesawat masih dibiarkan terbang menembus langit yang sedang sakit itu? Syududu.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the airliner silhouette turning away from a dark ash wall in the sky, a single sunbeam breaking through the edge of the cloud, industrial steel grey and molten orange palette, harsh laboratory and hangar light, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_037",
+      "media": "video",
+      "narration": "Ini babak yang paling tidak enak didengar. Pada masa itu, dunia penerbangan belum punya sistem peringatan abu vulkanik global. Tidak ada peta sebaran abu. Tidak ada pusat pemantau langit. Nol besar.",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in toward an empty early eighties control room with paper charts and rotary phones, no satellite screens, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, an empty old air traffic control room of the early eighties, paper charts and rotary phones, no satellite screens anywhere, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_038",
+      "media": "image",
+      "narration": "Sang pengirim abu sudah meletus sejak April. Awan abunya melayang berminggu-minggu di jalur udara tersibuk Asia Tenggara. Tapi rute tetap dibuka seperti biasa. Pesawat tetap lewat. Jadwal tetap jalan. Semua pura-pura normal.",
+      "shot_type": "DETAIL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a busy Southeast Asia air route map with red lines passing straight over an erupting volcano symbol, flights continuing as usual, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_039",
+      "media": "video",
+      "narration": "Saya ulangi pelan-pelan: gunungnya sudah meraung dua bulan, dan pesawat penumpang tetap disuruh lewat di langitnya! Ini bukan takdir semata. Ini manusia yang menunda belajar sampai nyawa menjadi taruhannya!",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow descending crane shot over a scientist writing eruption reports by hand at a wooden desk while ash falls outside the window, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a volcano observatory scientist writing eruption reports by hand at a wooden desk, radio crackling, ash falling outside the window, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_040",
+      "media": "image",
+      "narration": "Tapi adil lah kita menilai. Zaman itu memang belum ada yang tahu abu bisa mematikan mesin jet dari dalam. Belum ada presedennya. Belum ada korbannya. Ilmu kadang memang harus dibayar mahal dulu sebelum ia mau lahir.",
+      "shot_type": "ARCHIVE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a thick stack of typed eruption reports gathering dust in a government archive shelf, never forwarded, grey bureaucratic light, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_041",
+      "media": "video",
+      "narration": "Pos pengamat gunung bekerja. Laporan letusan ditulis, ketinggian abu dicatat. Tapi laporan itu berhenti di meja birokrasi, tidak pernah sampai ke menara pengatur lalu lintas udara. Dua dunia yang tidak saling bicara!",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow pull-back revealing typewriter and telex machines in a dim office, urgent messages unsent, ceiling fans turning, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, typewriter and telex machines in a dim office, urgent messages unsent, clerks working slowly under ceiling fans, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_042",
+      "media": "image",
+      "narration": "Sekarang dengar tanggal ini: tiga belas Juli, tahun yang sama. Sebuah pesawat Singapore Airlines menelan abu yang sama dan kehilangan mesinnya juga! Dua kali langit memberi peringatan. Dua kali dengan cara yang hampir sama persis.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a second airliner climbing through a grey ash haze above Java, one engine trailing smoke, morning light turning grim, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_043",
+      "media": "video",
+      "narration": "Satu kali bisa disebut nasib buruk. Dua kali? Itu pola. Itu manusia yang lambat belajar! Untungnya dua-duanya selamat mendarat. Langit seperti berkata: kesempatan ketiga tidak akan saya beri. Dengar itu baik-baik.",
+      "shot_type": "ARCHIVE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbital move around newspaper front pages with airliner near-disaster headlines moving through a printing press, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, two newspaper front pages side by side with airliner near-disaster headlines, printing press ink mood, archive grey tones, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_044",
+      "media": "image",
+      "narration": "Coba hitung luncurannya. Dari tiga puluh tujuh ribu kaki ke dua belas ribu kaki: dua puluh lima ribu kaki meluncur tanpa satu pun mesin menyala. Setiap kakinya doa. Setiap meternya pinjaman waktu.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a gliding airliner losing altitude over black ocean at night replayed as a diagram-like cinematic wide shot, tiny against the sky, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_045",
+      "media": "video",
+      "narration": "Konon malam itu malaikat Izrail sudah menunggu di atas samudra yang hitam, siap menjemput ratusan nama. Tapi ia pulang dengan tangan kosong. Belum waktunya, kata langit. Belum waktunya.",
+      "shot_type": "WIDE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, rising aerial crane shot above a dark empty ocean surface at night seen from above, one faint moon path on the waves, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a dark ocean surface at night seen from above, empty and waiting, a single faint moon path on the waves, mournful stillness, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_046",
+      "media": "image",
+      "narration": "Barulah sesudah insiden kedua itu dunia bergerak! Kawasan udara di sekitar gunung ditutup. Para ahli dipanggil berkumpul. Meja-meja rapat dipenuhi peta sebaran abu. Kenapa harus menunggu dua kali nyaris mati? Kenapa?",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, an emergency meeting room with aviation officials around a table covered in ash maps, pointing at the closed airspace zone, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "duration_hint": 10,
+      "id": "shot_047",
+      "media": "video",
+      "narration": "Dari langit Tasikmalaya itulah lahir kesadaran baru: abu harus dipetakan, dipantau dari satelit, dan diteriakkan ke semua kokpit di bumi. Ma askoli inna kaliyamata inna asqoli. Kadang ilmu lahir dari hampir celaka.",
+      "shot_type": "ORBITAL",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, wide slow pan across an ash plume spreading over Java seen from orbit, swirling grey patterns over the ocean, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, satellite view style image of an ash plume spreading over Java and the ocean, swirling grey patterns seen from orbit, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_048",
+      "media": "image",
+      "narration": "Aturan-aturan keselamatan yang hari ini kalian anggap biasa, sebagian ditulis dari malam gelap itu. Ditulis bukan dengan tinta. Ditulis dengan keringat dingin ratusan orang di atas samudra. Syalala.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, an old runway at dawn with the rescued airliner parked safely, crew members embracing on the tarmac, a new day beginning, muted bureaucratic slate blue and grey palette, stormy overcast light, faded archive tones, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_049",
+      "media": "video",
+      "narration": "Hari ini dunia punya pusat peringatan abu vulkanik yang mengawasi langit siang dan malam, memetakan sebaran abu dari satelit, dan menutup jalur sebelum pesawat masuk. Semua itu berutang pada satu malam di atas Jawa.",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in toward huge screens in a modern ash advisory center showing satellite ash maps of the whole world, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a modern volcanic ash advisory center with huge screens showing satellite ash maps of the world, operators watching day and night, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_050",
+      "media": "image",
+      "narration": "Dan semut-semut di lereng itu? Mereka sudah lama pulang kampung, berbaris tenang di tanah yang subur. Man asyidi issad asyida. Bahasa semut untuk berkata: gunung sedang tidur, jangan diganggu. Mereka belum pernah salah besar.",
+      "shot_type": "LANDSCAPE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a peaceful crater lake of turquoise green water inside the volcano, forest fully recovered on the crater walls, morning calm, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_051",
+      "media": "video",
+      "narration": "Cacing-cacing di tanah bekas abu pun berbisik dengan caranya: tanah ini kini menghidupi petani, penambang pasir, dan anak-anak yang bermain di tepi danau hijau. Dari abu pembunuh, lahir ladang kehidupan. Siklusnya kejam tapi adil.",
+      "shot_type": "MACRO",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow descending crane shot over ants marching calmly across a sunlit forest floor near the crater trail, dew on the leaves, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, ants marching calmly across a sunlit forest floor near the crater trail, macro view, dew drops shining on leaves, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_052",
+      "media": "image",
+      "narration": "Sembilan bulan erupsi memaksa puluhan ribu warga mengungsi dan dua puluh dua desa dikosongkan. Delapan April, awan panas menghantam kampung yang sudah kosong. Karena evakuasi cepat, tak satu pun korban jatuh di sana.",
+      "shot_type": "LANDSCAPE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, refugee camps of white tents on a football field in Tasikmalaya during the long eruption, families cooking together, archival warmth, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_053",
+      "media": "video",
+      "narration": "Maqoli inna rahmatan. Sejak malam itu, nama Galunggung masuk pelajaran wajib awak pesawat di seluruh dunia: abu sekecil apa pun tidak boleh diremehkan. Gunung dari Tasikmalaya itu mengajari planet ini cara terbang.",
+      "shot_type": "ARCHIVE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow pull-back revealing young pilots taking notes in a training classroom, the volcano name on the whiteboard lesson, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a pilot training classroom where the volcano name is written on a whiteboard lesson about ash, young pilots taking notes, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_054",
+      "media": "image",
+      "narration": "Dengar ini baik-baik. Hari ini kawahnya berisi danau hijau toska, dikelilingi hutan yang pulih. Wisatawan naik turun ratusan anak tangga sambil tertawa. Sulit percaya tempat secantik ini pernah menghitamkan langit Jawa.",
+      "shot_type": "ARCHIVE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, tourists climbing hundreds of stone steps to the crater rim, laughing, cameras in hand, the green lake shining below, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_055",
+      "media": "video",
+      "narration": "Galunggung tidur sejak letusan kecil tahun delapan puluh empat. Tahun dua ribu dua belas statusnya sempat naik waspada, lalu turun normal lagi. Ia diam. Tapi gunung yang diam bukan gunung yang mati. Ingat itu.",
+      "shot_type": "INTERIOR",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbital move around the sleeping volcano under a starry sky, one observatory light blinking quietly on its slope, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the sleeping volcano under a starry night sky, status normal, a small observatory light blinking quietly on its slope, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_056",
+      "media": "image",
+      "narration": "Coba hitung tahunnya. Letusan pembunuh pertama: seribu delapan ratus dua puluh dua. Letusan pengganggu langit: sembilan belas delapan puluh dua. Jaraknya seratus enam puluh tahun. Ujungnya sama: delapan dua. Sama persis!",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, an old eruption photograph of the ash column beside a modern satellite image of the same mountain, past and present together, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_057",
+      "media": "video",
+      "narration": "Kebetulan? Mungkin. Tapi pola adalah cara alam mengingatkan manusia yang pelupa. Generasi berganti, pejabat berganti, pilot berganti. Gunungnya tetap di sana, mencatat dengan caranya sendiri, sabar seperti batu.",
+      "shot_type": "LANDSCAPE",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, rising aerial crane shot above a village street buried in grey ash with emptied houses and rescue trucks passing through, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a village street buried in grey ash with houses already emptied, rescue trucks passing, nobody left behind in the danger zone, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_058",
+      "media": "image",
+      "narration": "Sekarang langit di atas sana jauh lebih ramai daripada tahun delapan dua! Ribuan pesawat melintas setiap hari di atas ratusan gunung aktif negeri ini. Satu malam buruk saja cukup untuk mengulang pelajaran mahal itu!",
+      "shot_type": "ARCHIVE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a sky crowded with airliner contrails above a chain of green Indonesian volcanoes at golden hour, beauty and risk in one frame, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "duration_hint": 10,
+      "id": "shot_059",
+      "media": "video",
+      "narration": "Buktinya berkata: sistem hari ini canggih, satelit mengawasi, aturan ketat menjaga. Sejarahnya berkata lain: Galunggung pernah menyerang dari senyap, tanpa tanda yang dibaca siapa pun. Dua-duanya benar. Dua-duanya harus didengar.",
+      "shot_type": "AERIAL",
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, wide slow pan across the turquoise crater lake at sunrise from the rim, mist lifting off the silent mountain, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, the turquoise crater lake at sunrise seen from the rim, mist lifting, the mountain silent and majestic above Tasikmalaya, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_060",
+      "media": "image",
+      "narration": "Jadi saya kembalikan ke kalian. Kalau malam nanti sebuah pesawat melintas di atas gunung yang sedang tidur, siapa yang sedang berjaga: satelitnya, aturannya, atau gunungnya yang sedang berbaik hati? Tulis di komentar.",
+      "shot_type": "LANDSCAPE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 ash plume aviation documentary, a single airliner crossing a moonlit sky above the sleeping volcano, cabin lights warm, the mountain dark and patient below, turquoise crater lake and fresh green palette, hopeful golden dawn light, clear morning air, dramatic chiaroscuro, subtle 35mm film grain"
+    }
+  ],
+  "style": "Cinematic 35mm film still, 16:9 full-bleed Galunggung 1982 volcanic ash aviation documentary, the night four engines died above Java"
+}
