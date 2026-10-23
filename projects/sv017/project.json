@@ -5,10 +5,11 @@
   "mode": "step",
   "pacing": "8-12s",
   "project_dir": "projects/sv017",
-  "status": "rendering",
+  "status": "published",
   "title": "GALUNGGUNG 1982: Gunung di Tasikmalaya yang Mematikan Empat Mesin Jumbo Jet di Langit Malam — dan Hampir Menguburnya di Samudra",
   "total_shots": 60,
   "voice": "mama-gufron-voice",
   "render_run": "40034047751",
-  "privacy": "public"
+  "privacy": "public",
+  "youtube_url": "https://www.youtube.com/watch?v=TTSpc7IKTUU"
 }
