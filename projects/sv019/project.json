@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-10-25",
+  "duration": "12-15 min",
+  "id": "sv019",
+  "mode": "step",
+  "pacing": "8-12s",
+  "project_dir": "projects/sv019",
+  "status": "script_ready",
+  "title": "HANTU SULUH: Obor yang Berjalan Sendiri",
+  "total_shots": 60,
+  "voice": "user-clone-voice"
+}
