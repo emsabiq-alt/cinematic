@@ -1,0 +1,545 @@
+{
+  "description": "Storyboard 60 shot untuk dokumenter ALAS ROBAN: Jalur Tengkorak Pantura yang Dibangun di Atas Ribuan Nyawa — Angker Beneran, atau Sejarah yang Menolak Dilupakan?. Format hybrid 50/50: shot ganjil = video sinematik, shot genap = gambar. Lima babak: reputasi Jalur Tengkorak hari ini, pembukaan hutan oleh Ki Bahurekso tahun seribu enam ratus dua, pembangunan Jalan Raya Pos oleh Daendels dengan kerja rodi, abad gelap Petrus dan kecelakaan massal, dan tiga jalur masa kini beserta hidupnya kembali legenda ini di layar lebar.",
+  "shots": [
+    {
+      "chapter": 1,
+      "id": "shot_001",
+      "media": "video",
+      "narration": "Tengah malam di jalur Pantura, sebuah truk menuruni tanjakan curam di tengah kabut pekat. Kanan dan kirinya hanya hutan jati yang gelap. Inilah Alas Roban, lintasan yang namanya saja membuat sopir berpengalaman menelan ludah.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an old cargo truck descending a steep foggy highway at midnight through dark teak forest, headlight beams cutting thick mist, driver gripping the wheel, wet asphalt shining under the wheels, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, an old cargo truck descending a steep foggy highway at midnight through dark teak forest, headlight beams cutting thick mist, driver gripping the wheel, wet asphalt shining under the wheels, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_002",
+      "media": "image",
+      "narration": "Orang-orang menyebutnya jalur tengkorak. Bukan karena ada tengkorak berserakan di aspal, melainkan karena terlalu banyak nyawa melayang di tikungan-tikungannya, terutama pada era delapan puluhan dan sembilan puluhan.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a winding mountain highway seen from high above at night, red tail lights snaking through sharp S-curves, a weathered warning sign at the roadside, darkness swallowing the forest beyond, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_003",
+      "media": "video",
+      "narration": "Lihatlah bentuk jalannya: tanjakan curam yang panjang, lalu tikungan tajam meliuk seperti huruf S, sempit, dan minim lampu. Kendaraan berat yang memaksa turun di sini sedang bertaruh dengan remnya sendiri.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, the brutal geometry of a steep narrow incline with sharp switchback bends, sparse dim lamps, painted road markings worn and faded, an empty lane dropping toward a black valley, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow descending crane move, the brutal geometry of a steep narrow incline with sharp switchback bends, sparse dim lamps, painted road markings worn and faded, an empty lane dropping toward a black valley, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_004",
+      "media": "image",
+      "narration": "Sopir truk paham betul hitungannya. Rem yang dipaksa bekerja terus di turunan panjang akan panas, lalu blong. Begitu rem blong di lintasan ini, yang menunggu di bawah hanya jurang, pohon, atau truk lain.",
+      "shot_type": "CLOSE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a glowing hot truck brake drum on a long descent, a driver's boot pressing the pedal, heat shimmer rising, dashboard warning light glowing in the dark cab, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_005",
+      "media": "video",
+      "narration": "Dengar baik-baik. Hampir semua sopir Pantura punya ritual sebelum memasuki kawasan ini: menurunkan kecepatan, menyalakan lampu, dan berdoa dalam hati. Bukan lebay. Itu tanda mereka tahu sedang lewat di mana.",
+      "shot_type": "CLOSE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of a truck driver's hands folded in prayer over the steering wheel before a dark forest road, rosary hanging from the rear mirror, breath fogging the windshield, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, close view of a truck driver's hands folded in prayer over the steering wheel before a dark forest road, rosary hanging from the rear mirror, breath fogging the windshield, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_006",
+      "media": "image",
+      "narration": "Coba hitung huruf namanya: R, O, B, A, N. Lima huruf saja. Tapi lima pula yang dihitung sopir sebelum masuk: gigi persneling, rem, lampu, nyali, dan doa. Kurang satu saja, jangan harap keluar dengan tenang!",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a truck cab interior at night, gear lever and worn dashboard gauges lit by a single dome light, a map of the northern Java coast route taped beside the wheel, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_007",
+      "media": "video",
+      "narration": "Kabut di hutan jati ini bisa turun sewaktu-waktu, tebal seperti susu. Jarak pandang tinggal hitungan meter. Ditambah badan yang lelah sesudah ratusan kilometer, satu kedipan saja bisa jadi kedipan terakhir.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, milk-white fog rolling over a forest highway until the road vanishes a few meters ahead, a lone headlight glowing weakly inside the white wall, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow forward tracking move, milk-white fog rolling over a forest highway until the road vanishes a few meters ahead, a lone headlight glowing weakly inside the white wall, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_008",
+      "media": "image",
+      "narration": "Dan ada cerita yang lebih dingin dari kabutnya. Banyak pengendara bersumpah pernah melihat sosok menyeberang mendadak di tengah jalan gelap. Refleks membanting setir. Di situlah celaka sering bermula, kata mereka.",
+      "shot_type": "ACTION",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a dark human silhouette suddenly crossing the road inside a headlight beam, a truck swerving hard, tires screaming on wet asphalt at midnight, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_009",
+      "media": "video",
+      "narration": "Ada pula kisah warung makan yang terang benderang di pinggir hutan pada tengah malam. Sopir mampir, makan kenyang, lalu pergi. Esoknya ia kembali mencari warung itu. Yang ditemukan hanya rumpun pohon dan sunyi.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a brightly lit small food stall standing alone at the edge of a pitch black forest at midnight, steam rising from cooking pots, one parked truck, no other building anywhere, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbit move, a brightly lit small food stall standing alone at the edge of a pitch black forest at midnight, steam rising from cooking pots, one parked truck, no other building anywhere, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_010",
+      "media": "image",
+      "narration": "Jangan buru-buru tertawa dan bilang ini cuma mitos orang kampung! Kalian yang menertawakan belum pernah menuruni tanjakan itu pada jam dua pagi dengan rem berdecit dan kabut menelan lampu. Rasakan dulu, baru komentar!",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an empty forest highway at two in the morning, a stopped truck with steaming brakes, the driver standing outside staring into the darkness between the trees, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_011",
+      "media": "video",
+      "narration": "Di jalur lama berdiri sebatang pohon ringin putih yang disegani warga. Katanya, di bawah akarnya yang menjuntai ada pasar yang tidak terlihat mata biasa. Pasar gaib. Buka setiap malam, tutup sebelum fajar menyingsing.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a giant white banyan tree beside the old road, long aerial roots hanging like curtains, small offerings at its base, moonlight silvering the leaves, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, a giant white banyan tree beside the old road, long aerial roots hanging like curtains, small offerings at its base, moonlight silvering the leaves, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 1,
+      "id": "shot_012",
+      "media": "image",
+      "narration": "Jadi pertanyaannya sederhana tapi menusuk: jalur ini angker karena memang ada penunggunya, atau angker karena sejarahnya terlalu berdarah untuk dilupakan? Tahan dulu jawabannya. Kita mundur ke awal. Syududu.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial night view of a single winding road threading through an endless dark teak forest, one pair of headlights crawling along the curves far below, night Pantura highway, sodium amber headlights in thick fog, black teal shadows, wet asphalt reflections, ominous mood, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_013",
+      "media": "video",
+      "narration": "Kita mundur ke tahun seribu enam ratus dua. Waktu itu Alas Roban belum punya jalan sama sekali. Yang ada hanya rimba jati raksasa di pesisir utara Jawa, gelap di siang hari, dan ditakuti siapa pun yang mendekat.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a pristine primeval teak forest in the year sixteen hundred two, giant trunks and thick undergrowth, no road anywhere, morning mist drifting between the trees, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow aerial push-in, a pristine primeval teak forest in the year sixteen hundred two, giant trunks and thick undergrowth, no road anywhere, morning mist drifting between the trees, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_014",
+      "media": "image",
+      "narration": "Di keraton Mataram, Sultan Agung sedang menyiapkan rencana besar: menyerang Batavia, markas VOC Belanda. Pasukan sebesar itu butuh makan. Butuh lumbung. Dan lumbung itu harus dibangun di dekat pantai utara.",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a seventeenth century Mataram royal court, nobles and war advisors gathered around a map of Java's north coast, torches burning, a great campaign being planned, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_015",
+      "media": "video",
+      "narration": "Maka diutuslah Ki Bahurekso, orang kepercayaan Sultan, untuk membuka hutan belantara itu. Tugasnya jelas: bangun pos logistik, buka lahan tanam, siapkan bekal perang. Kedengarannya sederhana. Kenyataannya tidak.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a royal envoy on horseback at the edge of a dark giant forest, spear bearers behind him, looking up at trees taller than any palace wall, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, a royal envoy on horseback at the edge of a dark giant forest, spear bearers behind him, looking up at trees taller than any palace wall, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_016",
+      "media": "image",
+      "narration": "Cerita tutur warga berkata lain. Hutan itu, kata mereka, sudah berpenghuni jauh sebelum manusia datang. Ada penunggu di pohon-pohon besar, di rawa, di akar-akar jati. Dan penunggu itu tidak suka diganggu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, deep inside an ancient forest, colossal roots and fallen trunks covered in moss, a thin shaft of light falling on a still black swamp pool, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_017",
+      "media": "video",
+      "narration": "Konon, pada malam pertama perkemahan dibuka, terdengar suara dari dalam rimba, datar dan dingin: tanah ini bukan tanah kosong, pulanglah selagi bisa. Ki Bahurekso tidak pulang. Ia justru melangkah masuk.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a small expedition camp in the forest at night, one lantern burning, tents among giant roots, long shadows moving at the edge of the light, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbit move, a small expedition camp in the forest at night, one lantern burning, tents among giant roots, long shadows moving at the edge of the light, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_018",
+      "media": "image",
+      "narration": "Orang-orang tua di Gringsing masih menceritakan perlawanan para penunggu itu dengan suara pelan, seolah takut didengar. Hutan melawan dengan caranya sendiri, bisik mereka. Asykoli inna yama kalima.",
+      "shot_type": "CLOSE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an elderly Javanese villager telling a story by firelight, weathered hands gesturing, younger listeners leaning in from the darkness around the fire, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_019",
+      "media": "video",
+      "narration": "Catat ini. Terlepas dari cerita gaibnya, pos logistik itu akhirnya berdiri dan lahan tanam berhasil dibuka. Rencana besar Mataram menggempur Batavia bertahun-tahun kemudian berpijak juga dari persiapan di pesisir ini.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, freshly cleared forest land near the coast in the sixteen hundreds, new rice fields and wooden granaries, workers planting under a wide morning sky, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow aerial drift, freshly cleared forest land near the coast in the sixteen hundreds, new rice fields and wooden granaries, workers planting under a wide morning sky, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_020",
+      "media": "image",
+      "narration": "Coba hitung tahunnya: seribu enam ratus dua. Satu tambah enam tambah nol tambah dua, hasilnya sembilan. Sembilan, kata orang tua di sana, adalah angka penjaga: tidak kurang, tidak lebih, pas untuk menahan yang jahat.",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a macro view of a long trail of forest ants marching across the leaf covered ground, carrying green leaf fragments between giant roots, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_021",
+      "media": "video",
+      "narration": "Dan kata warga, bukan cuma jin yang diajak bicara di hutan itu. Semut-semut hutan pun didengar suaranya oleh orang-orang berilmu tinggi. Kecil-kecil begitu, mereka penjaga akar dan tanah, laporannya selalu jujur.",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a macro view of ants streaming along a massive teak root, dappled light falling through the canopy, the forest floor alive with tiny movement, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow macro dolly move, a macro view of ants streaming along a massive teak root, dappled light falling through the canopy, the forest floor alive with tiny movement, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_022",
+      "media": "image",
+      "narration": "Itu bahasa semut. Semut pun paham tanah ini milik siapa. Man asyidi issad asyida. Kalian boleh tersenyum, tapi orang yang hidup berdampingan dengan rimba tidak pernah menganggap remeh suara sekecil apa pun.",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a forest floor alive with ants streaming beneath giant teak roots, mystical shafts of light falling through the canopy, fallen leaves trembling with tiny movement, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_023",
+      "media": "video",
+      "narration": "Nama Roban sendiri, kata orang pesisir, berasal dari kata rob: air pasang yang naik menelan daratan. Di Kecamatan Subah ada Kampung Roban, kampung yang legendanya dipenuhi manusia sakti yang bisa berubah menjadi buaya.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a coastal fishing village at high tide, mangrove roots in rising water, the dark silhouette of a crocodile gliding silently through the shallows, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, a coastal fishing village at high tide, mangrove roots in rising water, the dark silhouette of a crocodile gliding silently through the shallows, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 2,
+      "id": "shot_024",
+      "media": "image",
+      "narration": "Begitulah fondasi legendanya diletakkan: hutan yang melawan, utusan raja yang keras kepala, dan nama yang lahir dari air pasang. Tapi cerita paling gelapnya belum dimulai. Ia menunggu dua abad lagi. Syalala.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a vast teak forest canopy at dusk seen from above, the light dying gold over an ocean of treetops, the mood of two centuries about to pass, misty ancient teak forest, Mataram era Java, emerald and mist gold palette, god light through giant trees, humid haze, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_025",
+      "media": "video",
+      "narration": "Tahun seribu delapan ratus delapan, datanglah Herman Willem Daendels, Gubernur Jenderal baru yang kejam dan tergesa. Alas Roban yang dulu ditakuti penunggu, kini akan ditembus paksa oleh ambisi manusia.",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a stern Dutch colonial governor in eighteen hundred eight studying a huge map of Java in a candlelit office, pointing at the northern coastline, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, a stern Dutch colonial governor in eighteen hundred eight studying a huge map of Java in a candlelit office, pointing at the northern coastline, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_026",
+      "media": "image",
+      "narration": "Daendels memerintahkan jalan raya membelah Jawa dari Anyer sampai Panarukan, panjangnya sekitar seribu kilometer. Jalan Raya Pos namanya. Lewat jalan itulah pos, pasukan, dan perintah bisa bergerak cepat.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, colonial surveyors in white uniforms driving marker stakes in a straight line through dense jungle, chains and measuring poles, soldiers standing guard, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_027",
+      "media": "video",
+      "narration": "Tapi siapa yang membangunnya? Bukan mesin. Bukan tentara. Ribuan pekerja pribumi dikerahkan dengan sistem kerja rodi: dipaksa membabat hutan, memecah batu, dan menimbun rawa, sering tanpa upah yang layak.",
+      "shot_type": "ACTION",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, forced laborers felling a giant teak tree with hand axes, ropes and sweat, dust and chips flying in brutal tropical sunlight, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, forced laborers felling a giant teak tree with hand axes, ropes and sweat, dust and chips flying in brutal tropical sunlight, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_028",
+      "media": "image",
+      "narration": "Warga percaya para penunggu hutan hanya bisa menyaksikan dari balik kabut. Kata jin tertua di rimba itu, katanya: manusia yang ini jauh lebih menakutkan dari kami. Dan untuk sekali itu, jin tidak mengada-ada.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a labor camp at dawn wrapped in fog, rows of exhausted workers silhouetted against a pale sky, smoke from cooking fires hanging low, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_029",
+      "media": "video",
+      "narration": "Pekerja tumbang satu per satu karena kelelahan, kelaparan, dan malaria. Jumlah yang tewas di sepanjang proyek ini diperkirakan mencapai ribuan jiwa. Banyak jasad dikubur massal, sebagian dibiarkan begitu saja di hutan.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, exhausted laborers carrying baskets of stone on their shoulders up a raw road cut, unmarked burial mounds visible in a clearing at the forest edge, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow crane rise, exhausted laborers carrying baskets of stone on their shoulders up a raw road cut, unmarked burial mounds visible in a clearing at the forest edge, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_030",
+      "media": "image",
+      "narration": "Di titik inilah, kata warga, aura hutan itu berubah selamanya. Tanah yang menelan ribuan nyawa tanpa upacara dan tanpa nama tidak akan pernah benar-benar diam. Maqoli inna rahmatan.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a quiet forest clearing with long unmarked earthen mounds, wind moving the leaves, a single bird crossing the grey sky above, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_031",
+      "media": "video",
+      "narration": "Jalan itu akhirnya selesai sekitar tahun seribu delapan ratus sebelas dan menjadi urat nadi Jawa sampai hari ini. Setiap kilometernya indah di peta, rapi di laporan, dan mahal sekali harga aslinya: nyawa manusia.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a finished dirt postal road running straight through the forest, a horse drawn mail carriage rolling fast, dust rising behind the wheels, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow aerial drift, a finished dirt postal road running straight through the forest, a horse drawn mail carriage rolling fast, dust rising behind the wheels, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_032",
+      "media": "image",
+      "narration": "Orang boleh berdebat soal angka korbannya sampai pagi. Tapi satu hal yang sulit dibantah: hampir semua kisah angker di jalur ini selalu bermula dari masa pembangunan jalan itu. Selalu. Tanpa kecuali.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, villagers gathered at the forest edge at dusk telling stories, children listening wide eyed, the dark tree line looming behind them, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_033",
+      "media": "video",
+      "narration": "Jangan kabur dulu, dengarkan sisi dinginnya. Sejarawan bisa menjelaskan semua ini tanpa jin satu pun: kerja paksa memang membunuh ribuan orang, dan ingatan kolektif sebuah bangsa tidak pernah benar-benar sembuh.",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a historian's desk covered with old Dutch colonial maps of Java, a magnifying glass over the northern coast road, faded ink and yellowed paper, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, a historian's desk covered with old Dutch colonial maps of Java, a magnifying glass over the northern coast road, faded ink and yellowed paper, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_034",
+      "media": "image",
+      "narration": "Ada yang bercanda pahit: jalan ini dibangun oleh setan. Salah! Setan saja tidak tega menyuruh manusia bekerja sampai mati tanpa makan. Ini karya manusia, ditandatangani manusia, dan dibayar dengan nyawa manusia.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, the long shadow of a colonial overseer falling across a road work gang, whips and tools implied in silhouette against a merciless noon sun, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_035",
+      "media": "video",
+      "narration": "Seribu kilometer dalam waktu sekitar tiga tahun! Di zaman tanpa buldoser, tanpa ekskavator, hanya cangkul, tangan, dan cambuk pengawas! Kalau itu bukan keajaiban, maka itu adalah kekejaman yang sangat terorganisir!",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a sweeping aerial of the great postal road crossing the whole landscape of Java, rivers and volcanoes in the distance, a ribbon of dust colored earth, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow lateral move, a sweeping aerial of the great postal road crossing the whole landscape of Java, rivers and volcanoes in the distance, a ribbon of dust colored earth, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 3,
+      "id": "shot_036",
+      "media": "image",
+      "narration": "Maka sejak zaman itu, hutan jati ini tidak lagi sekadar hutan. Ia menjadi kuburan panjang tanpa nisan, yang di atasnya kelak aspal digelar dan roda-roda berputar. Ingat itu baik-baik sebelum kita maju lagi. Syududu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, fresh black asphalt being rolled over an old colonial road, modern truck wheels passing over the seam between two centuries, colonial Java of eighteen hundred eight, archival sepia and dust gold palette, brutal tropical sun, grey dust in the air, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_037",
+      "media": "video",
+      "narration": "Memasuki abad kedua puluh, Alas Roban menjadi nadi utama Pantura: semua kendaraan dari Jakarta menuju Semarang lewat sini. Dan di situlah babak paling gelapnya di zaman modern mulai dibuka, satu per satu.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, nineteen seventies trucks and buses queuing on the old north coast road through the forest, exhaust smoke, canvas tarps and wooden crates, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, nineteen seventies trucks and buses queuing on the old north coast road through the forest, exhaust smoke, canvas tarps and wooden crates, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_038",
+      "media": "image",
+      "narration": "Pada era delapan puluhan, kawasan ini dikabarkan menjadi salah satu tempat pembuangan korban Petrus, penembakan misterius yang menghantui negeri ini. Mayat-mayat ditemukan di kawasan hutan, jauh dari keramaian.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a dark forest clearing at night in the nineteen eighties, flashlight beams sweeping the undergrowth, an abandoned pair of sandals at the roadside, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_039",
+      "media": "video",
+      "narration": "Bayangkan kekejamannya! Orang dibuang di hutan seperti sampah, tanpa nama, tanpa proses, tanpa kubur yang layak! Hutan yang dulu menelan pekerja rodi, kini dipaksa menelan korban zaman yang mengaku sudah merdeka!",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a small roadside memorial at night, candles and flowers at the base of a tree beside a sharp curve, a passing truck slowing down in respect, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow handheld drift, a small roadside memorial at night, candles and flowers at the base of a tree beside a sharp curve, a passing truck slowing down in respect, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_040",
+      "media": "image",
+      "narration": "Di saat yang sama, kecelakaan demi kecelakaan merenggut nyawa di tanjakan dan tikungan jalurnya. Truk rem blong, bus terguling, mobil hancur di tikungan huruf S. Korban berjatuhan hampir seperti rutinitas.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a wrecked truck resting against a guardrail on a steep curve at dawn, emergency lights flashing, rescuers working in the mist, no visible victims, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_041",
+      "media": "video",
+      "narration": "Para ahli jalan memberi penjelasan yang dingin dan masuk akal: geometri tanjakan yang curam, tikungan tajam, jalan sempit, penerangan minim, kendaraan kelebihan muatan, dan sopir yang kelelahan. Titik. Tanpa hantu.",
+      "shot_type": "DAY",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a road engineer in daylight measuring the incline of the old road with survey instruments, charts in hand, traffic passing slowly behind, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow dolly-in, a road engineer in daylight measuring the incline of the old road with survey instruments, charts in hand, traffic passing slowly behind, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_042",
+      "media": "image",
+      "narration": "Tapi penjelasan teknis tidak pernah berhasil mengusir rasa takut orang. Selama puluhan tahun, cerita dari mulut ke mulut tumbuh lebih cepat daripada rambu peringatan mana pun di jalur ini. Maqoli inna rahmatan.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a humble roadside coffee stall at night full of truck drivers talking in low voices, cigarette smoke and steam rising under a single bulb, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_043",
+      "media": "video",
+      "narration": "Perhatikan baik-baik cerita warung gaib tadi. Polanya selalu sama: sopir lelah, berhenti di tempat asing tengah malam, lalu pulang membawa kisah yang tak bisa dibuktikan. Kebetulan? Atau memang ada yang berjualan?",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a tired driver asleep in his truck cab at midnight, a bright food stall glowing far behind him through the rear window, forest darkness all around, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbit move, a tired driver asleep in his truck cab at midnight, a bright food stall glowing far behind him through the rear window, forest darkness all around, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_044",
+      "media": "image",
+      "narration": "Pohon Ringin Putih di jalur lama disebut warga sebagai pintu pasar gaib itu. Menjelang tengah malam, kata mereka, terdengar sayup-sayup suara gamelan dan tawar-menawar dari tempat yang seharusnya kosong melompong.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, the giant white banyan at midnight, faint offerings and incense smoke at its roots, the old road empty and silent in front of it, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_045",
+      "media": "video",
+      "narration": "Kuntilanak di tikungan, pocong di bahu jalan, genderuwo sebesar pohon di kabut tebal. Semua itu klaim warga dan pengendara, diceritakan turun-temurun. Kami sampaikan apa adanya: sebagai klaim, bukan vonis.",
+      "shot_type": "INTERIOR",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a sharp foggy curve seen from inside a truck cab, prayer beads swinging on the mirror, a faded roadside shrine passing in the headlight beam, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, a sharp foggy curve seen from inside a truck cab, prayer beads swinging on the mirror, a faded roadside shrine passing in the headlight beam, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_046",
+      "media": "image",
+      "narration": "Kata hujan yang turun membasahi hutan itu pada malam-malam tertentu, menurut cerita orang tua di Subah, bunyinya bukan sekadar air. Ada irama, ada jeda, seperti ada yang sedang membacakan nama-nama lama satu per satu.",
+      "shot_type": "MACRO",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, heavy night rain falling through a teak canopy onto a forest highway, puddles reflecting headlights, wipers fighting the downpour, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_047",
+      "media": "video",
+      "narration": "Itu bahasa semut yang merayap di akar ringin, katanya, sedang mengingatkan siapa saja yang berani menebang sembarangan. Man asyidi issad asyida. Kecil suaranya. Tapi yang kecil itu paling lama tinggal di tanah ini.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a trail of ants moving along a wet banyan root after rain, a single shaft of moonlight breaking through the leaves onto the root, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow crane rise, a trail of ants moving along a wet banyan root after rain, a single shaft of moonlight breaking through the leaves onto the root, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 4,
+      "id": "shot_048",
+      "media": "image",
+      "narration": "Puluhan tahun jalur ini hidup dengan dua wajah: statistik kecelakaan di atas kertas, dan kisah-kisah tak kasatmata di warung kopi. Dua-duanya nyata bagi yang mengalaminya. Lalu zaman pun berubah arah. Syalala.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, the old road at dawn as mist lifts from the asphalt, the forest turning gold at the edges, a new day beginning over the curves, grainy nineteen eighties night highway, dim red tail lights, rain slick asphalt, fog and darkness, faded film stock look, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_049",
+      "media": "video",
+      "narration": "Hari ini Alas Roban tidak lagi sendiri. Ada tiga jalur melintasi kawasan ini: jalur lama dengan tanjakan aslinya, Jalur Lingkar Selatan yang lebih lebar dan landai, dan Tol Trans Jawa yang mulus membelah perbukitan.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a sweeping aerial of three routes crossing one forest: the old winding road, the wider southern ring road, and a modern toll highway on viaducts, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, a sweeping aerial of three routes crossing one forest: the old winding road, the wider southern ring road, and a modern toll highway on viaducts, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_050",
+      "media": "image",
+      "narration": "Jalur lama kini jauh lebih sepi. Truk-truk besar sudah jarang memanjatnya. Di titik yang dulu paling rawan, berdiri tugu keselamatan, pengingat bisu bagi siapa pun yang masih nekat lewat dengan kecepatan tinggi.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, the quiet old road in morning light, a small safety monument at the sharpest curve, wild flowers growing along the empty shoulder, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_051",
+      "media": "video",
+      "narration": "Di sekitar kawasan ini pula warga berziarah ke makam petilasan Syekh Jangkung, ulama yang dihormati di tanah Batang. Orang datang berdoa, mencari berkah, dan menenangkan hati sebelum melanjutkan perjalanan jauh.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, pilgrims in white caps praying at an old forest tomb shrine, incense smoke, carved stone gate, teak trees towering above the small clearing, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, pilgrims in white caps praying at an old forest tomb shrine, incense smoke, carved stone gate, teak trees towering above the small clearing, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_052",
+      "media": "image",
+      "narration": "Generasi sopir muda yang lewat tol mungkin tertawa mendengar semua cerita ini. Wajar. Mereka tidak pernah menginjakkan roda di tanjakan lamanya. Yang tidak pernah merasakan memang selalu paling berani berkomentar.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a young truck driver laughing with friends at a bright modern toll rest area, huge LED lights, rows of new trucks parked in order, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_053",
+      "media": "video",
+      "narration": "Dan lihatlah, legenda ini justru hidup lagi di layar lebar: film horor berjudul sama tayang pada akhir tahun lalu dan serial televisinya sedang tayang tahun ini. Nama kawasan ini kembali dibicarakan satu negeri.",
+      "shot_type": "ACTION",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a film set inside the forest at night, a camera crane and floodlights among the trees, actors in period costume waiting between takes, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow orbit move, a film set inside the forest at night, a camera crane and floodlights among the trees, actors in period costume waiting between takes, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_054",
+      "media": "image",
+      "narration": "Kenapa legenda ini menolak mati? Karena ia tidak berdiri di atas dongeng kosong. Di bawahnya ada ribuan nyawa kerja rodi dan sejarah yang belum selesai diceritakan. Ma askoli inna kaliyamata inna asqoli.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a vast teak canopy in golden hour, the whole forest calm and glowing, a hawk circling slowly above the treetops, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_055",
+      "media": "video",
+      "narration": "Adilnya begini: sampai hari ini tidak ada satu pun bukti ilmiah bahwa jalur ini berhantu. Yang terbukti justru sebaliknya: perbaiki geometri jalan, tambah penerangan, kurangi beban, dan angka kecelakaan ikut turun.",
+      "shot_type": "DAY",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, the modernized old road with new guardrails and bright lamps, traffic flowing safely through the curve in early evening light, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, the modernized old road with new guardrails and bright lamps, traffic flowing safely through the curve in early evening light, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_056",
+      "media": "image",
+      "narration": "Coba hitung jalurnya sekarang: tiga. Dulu cuma satu, dan satu-satunya itu menelan ribuan nyawa untuk dibangun dan entah berapa lagi sesudahnya. Tiga jalur, tiga zaman, tapi hutannya tetap satu dan tetap diam.",
+      "shot_type": "AERIAL",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an aerial view of three roads of three eras converging near one dark forest, morning mist threading between them, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_057",
+      "media": "video",
+      "narration": "Simak ini sebelum kita tutup. Mungkin yang disebut orang angker itu bukan hantu yang menunggu di tikungan. Mungkin itu rasa bersalah sebuah bangsa yang membangun jalannya di atas kuburan tanpa nisan.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a lone car driving the old road at dusk, headlights on, the forest silent and watchful on both sides of the empty lane, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow push-in, a lone car driving the old road at dusk, headlights on, the forest silent and watchful on both sides of the empty lane, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_058",
+      "media": "image",
+      "narration": "Alas Roban tidak menuntut ditakuti. Ia hanya menolak dilupakan. Setiap roda yang melintas di atasnya sedang melintasi halaman sejarah yang ditulis dengan keringat, darah, dan nyawa orang-orang tak bernama.",
+      "shot_type": "CLOSE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an extreme close view of truck wheels rolling slowly over cracked old asphalt, fallen teak leaves scattering in the slipstream, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_059",
+      "media": "video",
+      "narration": "Angker? Mungkin. Berhantu? Entahlah. Yang jelas, tanah itu berdarah. Dan darah yang tidak pernah diakui selalu punya cara sendiri untuk menagih ingatan, pelan-pelan, dari satu generasi ke generasi berikutnya.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an empty night curve on the old road, one distant headlight approaching very slowly through the fog, nothing else moving, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain",
+      "duration_hint": 10,
+      "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow tracking move, an empty night curve on the old road, one distant headlight approaching very slowly through the fog, nothing else moving, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain, 10 seconds"
+    },
+    {
+      "chapter": 5,
+      "id": "shot_060",
+      "media": "image",
+      "narration": "Jadi sekarang saya kembalikan ke kalian yang menonton: jalur ini menakutkan karena penunggunya, atau karena kita tahu persis apa yang pernah terjadi di sana? Tulis di komentar. Tanpa vonis dari saya malam ini.",
+      "shot_type": "WIDE",
+      "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, sunrise breaking over the teak forest and the winding road below, gold light flooding the mist, the forest and the road at peace at last, modern Central Java at blue hour dawn, toll road beside a quiet old road, gold and deep teal palette, morning mist, dramatic chiaroscuro, subtle 35mm film grain"
+    }
+  ]
+}
