@@ -1,0 +1,544 @@
+{
+ "shots": [
+  {
+   "chapter": 1,
+   "id": "shot_001",
+   "media": "video",
+   "narration": "Film \"Saranjana: Kota Ghaib\" tayang di bioskop, mulai dua puluh empat Oktober dua ribu dua puluh enam, dan penonton langsung penasaran dengan cerita kota gaib di baliknya.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a crowded cinema facade at dusk with a glowing marquee and excited moviegoers queuing below, warm tungsten light against deep blue twilight, handheld documentary energy, shallow depth, festive viral buzz in the evening air, with rich film grain, deep blue shadows, and golden highlights holding the crowd in glow.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, a crowded cinema facade at dusk with a glowing marquee and excited moviegoers queuing below, warm tungsten light against deep blue twilight, handheld documentary energy, shallow depth, festive viral buzz in the evening air, with rich film grain, deep blue shadows, and golden highlights holding the crowd in glow, camera gliding slowly forward through the crowd toward the marquee.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 1,
+   "id": "shot_002",
+   "media": "image",
+   "narration": "Investigasi TikTok soal kota itu mendadak viral, karena belasan saksi mengaku pernah melihat gerbangnya, bahkan ada yang mengaku sempat masuk ke dalamnya dan pulang membawa kisah aneh.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of hands holding a glowing phone playing a viral investigation clip, faces lit by screen light in a dim room at dusk, curious onlookers leaning in, soft bokeh crowd behind, tense and curious documentary mood, with soft film grain, cool screen glow, and warm skin tones balancing curiosity and doubt."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_003",
+   "media": "video",
+   "narration": "Cerita ini bukan barang baru, sebab warga Kotabaru sudah bercerita turun-temurun, dari kakek ke cucu, jauh sebelum kamera bioskop merekamnya untuk penonton masa kini yang penasaran.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, village elders telling stories on a wooden porch at dusk, children listening in a wide circle, warm lantern glow, coastal rooftops behind, golden hour haze, timeless oral tradition atmosphere, rich cinematic texture, with rich film grain, honeyed lantern light, and soft evening haze wrapping the listeners.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, village elders telling stories on a wooden porch at dusk, children listening in a wide circle, warm lantern glow, coastal rooftops behind, golden hour haze, timeless oral tradition atmosphere, rich cinematic texture, with rich film grain, honeyed lantern light, and soft evening haze wrapping the listeners, camera drifting gently around the listening circle.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 1,
+   "id": "shot_004",
+   "media": "image",
+   "narration": "Lokasi cerita ini jelas sekali, yaitu Kotabaru di Kalimantan Selatan, tepatnya Kecamatan Pulau Laut Kepulauan, dan lucunya petanya ada tapi kotanya entah ke mana perginya.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, sweeping aerial over a green coastal regency town at dusk, winding shoreline, fishing boats and clustered rooftops, soft violet sky, a paper map motif in foreground light, documentary grandeur, calm and grounded mood, with gentle film grain, violet dusk gradients, and crisp coastal detail stretching to the horizon."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_005",
+   "media": "video",
+   "narration": "Kota itu ramai dibicarakan, karena katanya megah luar biasa, jalannya lebar dan bangunannya berkilau, tapi anehnya tak ada di peta umum mana pun walau dicari berulang kali.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, an old paper map spread on a table under cinema lobby light at dusk, a magnifying glass over an empty coastline, puzzled crowd silhouettes behind, warm amber glow, mystery of a grand city missing from every public map, with warm film grain, amber lamp light, and crisp paper texture deepening the quiet mystery.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, an old paper map spread on a table under cinema lobby light at dusk, a magnifying glass over an empty coastline, puzzled crowd silhouettes behind, warm amber glow, mystery of a grand city missing from every public map, with warm film grain, amber lamp light, and crisp paper texture deepening the quiet mystery, camera gliding slowly over the map toward the empty coastline.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 1,
+   "id": "shot_006",
+   "media": "image",
+   "narration": "Kisah ini jauh lebih tua dari filmnya, sebab film bioskop itu hanya meminjam kisah lama warga, dan kisah itu sudah hidup lama sekali sebelum layar lebar. Maqoli inna rahmatan.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close portrait of an elderly storyteller speaking with conviction in warm dusk light, weathered face half lit by a lamp, listeners blurred behind, cinema poster glow faint in background, reverent and timeless documentary mood, with fine film grain, warm lamp modelling, and deep shadows honouring an old voice."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_007",
+   "media": "video",
+   "narration": "Bedakan dengan tegas, film bioskop itu adalah fiksi hiburan, sementara cerita asli warga adalah kisah lisan yang diwariskan, jadi keduanya tidak boleh dicampur begitu saja.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, a dark cinema auditorium with a bright screen glowing before a seated audience at dusk, red seats and soft projector beam, contrast between fiction on screen and real village life outside, thoughtful cinematic atmosphere, with soft film grain, cool projector beam, and warm seat rows framing thoughtful silence.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, a dark cinema auditorium with a bright screen glowing before a seated audience at dusk, red seats and soft projector beam, contrast between fiction on screen and real village life outside, thoughtful cinematic atmosphere, with soft film grain, cool projector beam, and warm seat rows framing thoughtful silence, camera rising slowly over the seated audience toward the bright screen.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 1,
+   "id": "shot_008",
+   "media": "image",
+   "narration": "Coba hitung huruf nama kota gaib itu, jumlahnya sembilan huruf, dan angka itu diyakini warga sebagai petunjuk, bahwa namanya memang sudah ditakdirkan istimewa sejak awal.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of fingers counting glowing letter tiles on a wooden table at dusk, warm candlelight, a notebook and curious faces leaning in, cinema crowd bokeh behind, playful yet certain mood of folk numerology unfolding, with warm film grain, flickering candle glow, and sharp wooden texture under curious hands."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_009",
+   "media": "video",
+   "narration": "Pertanyaannya sederhana tapi menohok, kalau kotanya memang tak ada, kenapa begitu banyak orang mengaku melihatnya, bahkan bersaksi dengan wajah serius dan lantang di depan kamera?",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close portrait of a witness speaking earnestly to a phone camera at dusk, street crowd gathering behind, warm stall lights and deep shadows, sincere expression, documentary tension between doubt and testimony in the evening air, with natural film grain, warm stall light, and deep street shadows sharpening honest testimony.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, close portrait of a witness speaking earnestly to a phone camera at dusk, street crowd gathering behind, warm stall lights and deep shadows, sincere expression, documentary tension between doubt and testimony in the evening air, with natural film grain, warm stall light, and deep street shadows sharpening honest testimony, camera pushing slowly closer to the witness as the crowd gathers.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 1,
+   "id": "shot_010",
+   "media": "image",
+   "narration": "Catat ini. Filmnya nyata tayang di bioskop, ceritanya viral dan nyata dibicarakan, tapi keberadaan kotanya masih tanda tanya yang besar yang belum terjawab sampai sekarang.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a buzzing cinema lobby crowd at dusk, people debating under glowing posters, warm tungsten light and blue twilight through glass doors, question marks in the air, energetic recap mood closing the first chapter, with lively film grain, warm lobby glow, and cool twilight glass framing the buzzing debate."
+  },
+  {
+   "chapter": 1,
+   "id": "shot_011",
+   "media": "video",
+   "narration": "Cerita itu menyebar seperti gema di lembah sunyi, dari mulut ke mulut, dari desa ke kota, sampai akhirnya layar bioskop ikut mengangkatnya ke hadapan penonton luas di seluruh negeri.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, sound waves rippling over a dusky valley village as voices pass house to house, warm window lights, mist in the low hills, a lone cinema screen glowing far away, poetic echo mood carrying one story across the whole town, with delicate film grain, layered mist, and warm window lights carrying the echo onward.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, sound waves rippling over a dusky valley village as voices pass house to house, warm window lights, mist in the low hills, a lone cinema screen glowing far away, poetic echo mood carrying one story across the whole town, with delicate film grain, layered mist, and warm window lights carrying the echo onward, camera floating slowly above the valley as the echo travels on.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 1,
+   "id": "shot_012",
+   "media": "image",
+   "narration": "Untuk paham cerita ini, dengar dulu cerita warga yang merawatnya turun-temurun, karena dari mulut merekalah babak berikutnya akan diceritakan dengan lengkap dan runtut. Syududu.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of a young listener at a wooden doorway at dusk, warm light from inside, village street and cinema glow behind, hand cupped to ear, quiet anticipation, a gentle transition toward the voices of the townspeople ahead, with tender film grain, warm doorway light, and soft dusk bokeh promising stories ahead."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_013",
+   "media": "video",
+   "narration": "Gambaran warga menyebut Saranjana sebagai kota megah yang rapi, jalannya lebar dan bersih, dan bangunannya tersusun teratur dalam barisan rapi yang dirancang matang dan terencana.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of the mythical city at mystical night, grand orderly boulevards and gleaming rooftops, warm torch light lining wide clean streets, soft mist, villagers silhouetted at the edge, awe and wonder in a dreamlike glow, with luminous film grain, golden torch flares, and soft mist veiling the grand boulevards.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, wide view of the mythical city at mystical night, grand orderly boulevards and gleaming rooftops, warm torch light lining wide clean streets, soft mist, villagers silhouetted at the edge, awe and wonder in a dreamlike glow, with luminous film grain, golden torch flares, and soft mist veiling the grand boulevards, camera sweeping slowly down the grand boulevard between torch lines.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 2,
+   "id": "shot_014",
+   "media": "image",
+   "narration": "Menurut cerita, rumah-rumah di tempat ini mewah dan berpagar tinggi, dindingnya berkilau diterpa cahaya, sehingga siapa pun yang melihatnya langsung terpana dan sulit berpaling.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of a luxurious tall-gated mansion of the hidden city at mystical night, ornate fence gleaming under warm torch light, manicured garden, soft mist, a villager watching in awe, rich and mysterious nocturnal atmosphere, with polished film grain, warm torch reflections, and gentle mist around the gleaming fence."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_015",
+   "media": "video",
+   "narration": "Penduduk negeri cerita itu, menurut gambaran yang dicatat kalangan akademik, hidup bertani dan bekerja di ladang, dengan sawah dan kebun yang subur dan terawat rapi setiap musim.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of terraced fields and farmers working at mystical night edge, warm torch light on tidy crops, village houses glowing softly behind, gentle mist over the valley, peaceful agrarian rhythm in a dreamlike rural glow, with calm film grain, warm torch glow, and layered mist settling over the tidy fields.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, wide view of terraced fields and farmers working at mystical night edge, warm torch light on tidy crops, village houses glowing softly behind, gentle mist over the valley, peaceful agrarian rhythm in a dreamlike rural glow, with calm film grain, warm torch glow, and layered mist settling over the tidy fields, camera tracking slowly alongside farmers through the torch-lit fields.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 2,
+   "id": "shot_016",
+   "media": "image",
+   "narration": "Kabarnya, banyak penduduk kota gaib itu naik haji ke tanah suci, dan kabar itu membuat warga makin yakin, bahwa penduduk tempat ini hidup makmur dan sangat taat beribadah.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of white-clad travellers walking a torch-lit road at mystical night, warm flames flickering, village rooftops behind, soft mist and starlight, solemn pilgrimage mood, hopeful faces moving together through the dark, with solemn film grain, dancing torch flames, and cool starlight above the quiet road."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_017",
+   "media": "video",
+   "narration": "Konon kota itu hanya tampak bagi yang diizinkan, sebab gerbangnya tidak terbuka untuk semua orang sama sekali, dan hanya tamu terpilih yang boleh melihat wujudnya yang tersembunyi.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view of a mist-shrouded forest gate at mystical night, warm torch light flickering through fog, a narrow path vanishing into glow, village lights far below, eerie threshold mood between the seen and unseen world, with eerie film grain, drifting fog, and warm torch sparks marking the hidden threshold.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, aerial view of a mist-shrouded forest gate at mystical night, warm torch light flickering through fog, a narrow path vanishing into glow, village lights far below, eerie threshold mood between the seen and unseen world, with eerie film grain, drifting fog, and warm torch sparks marking the hidden threshold, camera descending slowly through mist toward the hidden gate.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 2,
+   "id": "shot_018",
+   "media": "image",
+   "narration": "Kata jin setempat, kota ini dijaga ketat siang dan malam setiap hari, dan penjaganya memberi izin hanya kepada orang tertentu, sehingga tamu lain hanya melihat hutan dan laut biasa.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of a tall guardian silhouette holding a torch at mystical night, warm flame light on a stern calm face, mist curling around a hidden gate, village darkness behind, quiet authority and watchful nocturnal tension, with tense film grain, warm flame modelling, and curling mist around the silent gate."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_019",
+   "media": "video",
+   "narration": "Klaimnya besar dan disampaikan mantap, kota yang diceritakan warga itu dijaga rapat, bukan sembarang orang bisa masuk, dan penjaganya tidak pernah lengah sedetik pun. Asykoli inna yama kalima.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a heavily guarded gate of the mythical city at mystical night, rows of warm torches, vigilant figures standing still, thick mist, village path below, imposing and solemn mood of a place closed to strangers, with solemn film grain, rows of torch flames, and thick mist guarding the closed gate.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, wide view of a heavily guarded gate of the mythical city at mystical night, rows of warm torches, vigilant figures standing still, thick mist, village path below, imposing and solemn mood of a place closed to strangers, with solemn film grain, rows of torch flames, and thick mist guarding the closed gate, camera advancing slowly toward the guarded gate through thick mist.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 2,
+   "id": "shot_020",
+   "media": "image",
+   "narration": "Katanya ada orang tersesat yang masuk ke kota gaib itu, lalu kembali membawa cerita, dan kesaksiannya diceritakan warga sampai sekarang tanpa pernah bisa dibuktikan kebenarannya.",
+   "shot_type": "ACTION",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, action view of a lost traveller stepping out of glowing mist at mystical night, warm torch light ahead, dishevelled clothes, forest and village lights behind, bewildered relief, dramatic return from the unseen world at last, with dramatic film grain, warm torch glow, and swirling mist framing the bewildered return."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_021",
+   "media": "video",
+   "narration": "Man asyidi issad asyida. Itu bahasa semut. Menurut cerita yang beredar di kalangan warga, semut pun paham jalan menuju kota gaib itu, katanya, dan kisah itu dituturkan turun-temurun dengan penuh keyakinan.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, extreme close-up of ants marching in a line across damp forest soil at night, a small torch glowing beside the trail, flickering torchlight, drifting mist, deep night shadows, humid air, tense mystical atmosphere, muted greens with warm amber highlights, shallow depth of field, fine film grain, rich soil texture.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera glides low over ants marching across damp forest soil at night, torch flame flickering beside the trail, drifting mist, deep shadows, humid air, tense mystical atmosphere, muted greens with warm amber highlights, fine film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 2,
+   "id": "shot_022",
+   "media": "image",
+   "narration": "Dengar baik-baik. Ada warga yang mengaku pernah diantar pulang dari kota itu, katanya, setelah tersesat di jalan setapak dekat Kotabaru pada malam yang sunyi dan gelap pekat.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide night view of a lone villager walking a narrow dirt path home through dark forest near a coastal town, a distant torch flame, flickering torchlight, drifting mist, towering trees, deep shadows, quiet mystical night atmosphere, cool blacks and amber glow, shallow depth of field, fine film grain, faint moonlight glow."
+  },
+  {
+   "chapter": 2,
+   "id": "shot_023",
+   "media": "video",
+   "narration": "Gambaran kota itu selalu makmur dalam cerita warga, karena kisah itu memberi harapan, bagi pendengar di Kalimantan Selatan, yang merindukan kehidupan yang lebih teratur dan tenang.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide night view of a prosperous hidden city skyline with neat rows of glowing houses and orderly streets, warm windows, flickering torchlight along the road, drifting mist, calm mystical night atmosphere, rich amber light against deep blue darkness, shallow depth of field, fine film grain, orderly glowing rooftops.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera drifts forward above neat rows of glowing houses in a prosperous hidden city at night, warm windows, torchlight along orderly streets, drifting mist, calm mystical night atmosphere, rich amber light against deep blue darkness, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 2,
+   "id": "shot_024",
+   "media": "image",
+   "narration": "Cerita ini terus beredar karena diceritakan ulang dari mulut ke mulut, dari satu generasi ke generasi berikutnya di Pulau Laut Kepulauan, tanpa pernah berhenti dibicarakan warga. Syalala.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of elders gathered around a small fire at night telling stories, faces lit by flame, listeners leaning in closely, flickering torchlight, drifting smoke and mist, deep night shadows, warm intimate mystical atmosphere, amber skin tones and dark background, shallow depth of field, fine film grain, warm firelit faces."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_025",
+   "media": "video",
+   "narration": "Peta Jerman tahun delapan belas empat puluh lima memuat nama Tanjung Selanjana di kawasan itu, dan nama itu disandingkan warga dengan Saranjana, kota gaib yang diceritakan dalam kisah di Kalimantan Selatan.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of an aged German map spread on a wooden library table, faded ink coastlines and old place names, cold library light from a tall window, dust in the air, sea charts beside it, quiet archival atmosphere, muted parchment tones and cool blue shadows, shallow depth of field, fine film grain, crisp ink details.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera moves slowly across an aged German map on a wooden library table, faded ink coastlines and old place names passing beneath the lens, cold library light, dust in the air, sea charts beside it, quiet archival atmosphere, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 3,
+   "id": "shot_026",
+   "media": "image",
+   "narration": "Nama mirip belum tentu sama, jadi menyamakan Selanjana dengan kota gaib itu perlu hati-hati, karena kemiripan bunyi saja tidak cukup menjadi bukti bahwa keduanya merujuk pada tempat yang sama.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a library table holding two old maps side by side for careful comparison, a magnifier and notes nearby, cold library light, tall shelves behind, faint sea light through a window, calm scholarly atmosphere, parchment tones and cool shadows, shallow depth of field, fine film grain, careful scholarly mood."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_027",
+   "media": "video",
+   "narration": "Legenda menyebut Pangeran Sambu Ranjana, putra Raja Pakurindang, membangun kota itu sebagai pusat kehidupan yang teratur, dan kisah itu diwariskan lewat tutur yang dijaga masyarakat di sekitar Kotabaru.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view of a legendary palace courtyard at dusk beside a calm sea, banners and orderly gardens, royal pavilions with warm lamps, cold sea light mixing with dusk glow, drifting mist, majestic archival atmosphere, muted gold and deep blue tones, shallow depth of field, fine film grain, regal dusk colors.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera descends gently toward a legendary palace courtyard at dusk beside a calm sea, banners and orderly gardens coming into view, warm lamps, cold sea light mixing with dusk glow, drifting mist, majestic archival atmosphere, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 3,
+   "id": "shot_028",
+   "media": "image",
+   "narration": "Kerajaan Pulau Halimun dalam legenda menjadi tempat asal kisah ini, sebuah wilayah cerita tempat nama dan tokoh saling terkait, dan ingatan tentang wilayah itu terus disampaikan dalam tuturan warga setempat.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view of a misty island kingdom with dense forest, winding rivers and small coastal settlements, cold morning sea light, drifting fog over the water, quiet legendary atmosphere, deep greens, pale mist and cool blue shadows across the island, shallow depth of field, fine film grain, layered misty ridges."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_029",
+   "media": "video",
+   "narration": "Teori sejarawan ULM Mansyur menyebut kota gaib itu sebagai memori kolektif masyarakat, sebuah ingatan bersama yang terbentuk dari cerita lama, pengalaman bersama, dan harapan yang diwariskan antar generasi.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of a historian studying old documents at a library desk, glasses and careful hands over faded pages, cold library light, tall shelves, a sea map pinned nearby, focused scholarly atmosphere, muted browns, parchment tones and cool shadows, shallow depth of field, fine film grain, quiet focused study.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera approaches a historian studying old documents at a library desk, careful hands turning faded pages, cold library light, tall shelves, a sea map pinned nearby, focused scholarly atmosphere, muted browns and cool shadows, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 3,
+   "id": "shot_030",
+   "media": "image",
+   "narration": "Jangan kabur dulu. Teori itu menyebut cerita Dayak Samihim sebagai salah satu akarnya, karena kisah dari komunitas itu ikut membentuk gambaran tentang kota yang diceritakan warga hingga kini.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of community elders in discussion inside a wooden house, warm lamp light on thoughtful faces, woven mats and old objects around them, cold evening light through a window, respectful calm atmosphere, warm skin tones and cool blue shadows, shallow depth of field, fine film grain, gentle respectful mood."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_031",
+   "media": "video",
+   "narration": "Coba hitung, nama Selanjana dan nama kota gaib itu sama-sama sembilan huruf, dan kesamaan jumlah itu diyakini sungguh oleh sebagian penutur, seolah angka itu sendiri sudah cukup menjadi tanda keterkaitan.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of a hand counting letters of an old place name written on aged paper, ink annotations and a ruler on the map, cold library light, dust motes in the air, sea chart edges visible, tense scholarly atmosphere, parchment tones and cool shadows, shallow depth of field, fine film grain, precise ink lettering.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera tracks a hand counting letters of an old place name written on aged paper, ink annotations and a ruler sliding into frame, cold library light, dust motes, sea chart edges visible, tense scholarly atmosphere, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 3,
+   "id": "shot_032",
+   "media": "image",
+   "narration": "Namun, peta hanya membuktikan adanya nama tempat di kawasan itu, bukan membuktikan adanya kota gaib, karena dokumen lama mencatat penanda geografis, bukan kehidupan tersembunyi yang diceritakan dalam mitos.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of an empty archive room with a large old map on the wall and bare shelves, a single desk lamp glowing, cold library light, faint sea light from a high window, quiet skeptical atmosphere, muted parchment tones and deep cool shadows, shallow depth of field, fine film grain, stark empty shelves."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_033",
+   "media": "video",
+   "narration": "Saya kesal pada yang langsung percaya mentah-mentah, atau langsung mengejek tanpa membaca jejaknya, karena sikap tergesa itu membuat diskusi sulit, padahal jejaknya layak diperiksa dengan sabar dan teliti.",
+   "shot_type": "ACTION",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, action view of a researcher gesturing firmly over scattered old maps and books on a library table, papers slightly lifted, intense expression, cold library light, sea map behind, charged scholarly atmosphere, warm lamp accents and cool blue shadows, shallow depth of field, fine film grain, tense emphatic gesture.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera moves toward a researcher gesturing firmly over scattered old maps and books, papers shifting slightly, intense expression, cold library light, sea map behind, charged scholarly atmosphere, warm lamp accents and cool blue shadows, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 3,
+   "id": "shot_034",
+   "media": "image",
+   "narration": "Maqoli inna rahmatan. Klaim besar ini tetap disampaikan dengan hati-hati, karena jejak tertulis itu nyata adanya, sementara tafsir atas jejak itu masih diperdebatkan oleh para pembaca dan penelitinya.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of a sealed old document and faded map held carefully above a library desk, wax seal and aged ink details, cold library light, dust in the beam, sea chart beside it, solemn archival atmosphere, parchment tones and cool shadows, shallow depth of field, fine film grain, solemn sealed paper."
+  },
+  {
+   "chapter": 3,
+   "id": "shot_035",
+   "media": "video",
+   "narration": "Arsip peta dan catatan akademik adalah hal yang bisa dicek langsung, seperti lampu kecil di ruang gelap yang membantu pembaca melihat jejak, tanpa perlu menerima tafsir gaib yang belum terbukti kebenarannya.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of tall archive shelves with labelled boxes and old maps, a small lamp glowing at the end of the aisle, cold library light, faint sea light through a window, quiet orderly atmosphere, muted browns, parchment tones and cool blue shadows, shallow depth of field, fine film grain, orderly labelled boxes.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera travels slowly down a tall archive aisle toward a small glowing lamp, labelled boxes and old maps passing by, cold library light, faint sea light through a window, quiet orderly atmosphere, muted browns and cool shadows, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 3,
+   "id": "shot_036",
+   "media": "image",
+   "narration": "Jadi, jejak namanya ada, kota gaibnya belum terbukti, dan itu bukan alasan berhenti bercerita, melainkan alasan untuk terus mencari sambil tertawa kecil, karena misteri yang rapi memang enak dibahas santai.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of relaxed storytellers smiling over tea in a bright library corner, old maps folded on the table, easy warm laughter, cold daylight from a window mixed with lamp glow, light airy atmosphere, warm tones and soft cool shadows, shallow depth of field, fine film grain, easy relaxed smiles."
+  },
+  {
+   "chapter": 4,
+   "id": "shot_037",
+   "media": "video",
+   "narration": "Kisah viral menyebut pesanan alat berat datang dari Saranjana, kota gaib yang diceritakan warga, dengan kisah pengiriman yang ramai dibicarakan di media sosial dan warung kopi di Kotabaru.",
+   "shot_type": "ACTION",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, action view of heavy machinery being unloaded at a night harbor, cranes and trucks under bright lamps, workers guiding a large vehicle, night market stalls glowing nearby, wet asphalt reflections, busy nocturnal atmosphere, amber lamps and deep blue night, shallow depth of field, fine film grain, bright harbor lamps.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera advances through a night harbor as heavy machinery is unloaded, cranes swinging and trucks rolling under bright lamps, workers guiding a large vehicle, night market stalls glowing nearby, wet asphalt reflections, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 4,
+   "id": "shot_038",
+   "media": "image",
+   "narration": "Mobil mewah dipesan dari tempat ini, dibayar lunas, katanya, tanpa ada yang melihat proses serah terima, dan cerita itu menyebar cepat karena nilainya terasa jauh dari kehidupan sehari-hari warga biasa.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide night view of a luxury car parked beside a glowing night market, chrome reflecting colorful lamps, curious onlookers at a distance, harbor lights behind, vehicles passing slowly, glamorous nocturnal atmosphere, vivid lamp colors and deep shadows, shallow depth of field, fine film grain, gleaming chrome details."
+  },
+  {
+   "chapter": 4,
+   "id": "shot_039",
+   "media": "video",
+   "narration": "Siapa yang membayar pesanan itu, dan uangnya berasal dari mana, adalah pertanyaan yang tak terjawab dalam cerita, karena penuturnya tidak pernah menyebut nama, alamat, atau bukti pembayaran yang ditelusuri.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close view of an empty payment desk at a night port office, an unsigned receipt and untouched cash tray, a single lamp glowing, harbor lights through the window, vehicles waiting outside, puzzling nocturnal atmosphere, amber light and deep shadows, shallow depth of field, fine film grain, puzzling empty desk.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera creeps toward an empty payment desk at a night port office, an unsigned receipt and untouched tray in focus, a single lamp glowing, harbor lights through the window, vehicles waiting outside, puzzling nocturnal atmosphere, film grain.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 4,
+   "id": "shot_040",
+   "media": "image",
+   "narration": "Barang pesanannya katanya nyata dan bisa dilihat, tetapi pembayarnya tak pernah terlihat, sehingga yang diketahui hanya barangnya saja, tanpa pernah sampai pada sosok yang berdiri di balik pembayaran.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide night view of delivered goods stacked at a harbor beside an empty chair, no payer in sight, market lamps glowing, trucks parked nearby, quiet eerie nocturnal atmosphere, warm lamp reflections on wet ground and deep blue night shadows, shallow depth of field, fine film grain, lonely empty chair."
+  },
+  {
+   "chapter": 4,
+   "id": "shot_041",
+   "media": "video",
+   "narration": "Kata cacing, tanah Kotabaru menyimpan cerita yang tak tertulis, dan katanya warga, ingatan itu diwariskan dari generasi ke generasi selama puluhan tahun, tanpa pernah putus di Kalimantan Selatan.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of rich dark soil in Kotabaru at night, a small earthworm trail curling through damp earth, faint lantern light from a nearby market stall, deep shadows and humid air, muted greens with warm amber tones, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera gliding slowly forward over dark soil at night toward a curling earthworm trail, lantern light flickering from the nearby market, humid night air, gentle forward dolly movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 4,
+   "id": "shot_042",
+   "media": "image",
+   "narration": "Ma askoli inna kaliyamata inna asqoli. Pesanan yang lunas itu, menurut yang percaya, menjadi tanda bahwa kota itu sungguh ada dan sungguh kaya, di balik cerita yang tak kunjung sirna.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a busy night market stall in Kotabaru, crates and heavy goods stacked beside a trader counting payment, warm hanging lamps, curious onlookers in soft shadow, rich amber and teal tones, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets."
+  },
+  {
+   "chapter": 4,
+   "id": "shot_043",
+   "media": "video",
+   "narration": "Coba hitung... Sa-ran-ja-na dan Ko-ta-ba-ru sama-sama empat ketukan, jadi cocoklogi ini terasa meyakinkan bagi yang percaya dan sulit dibantah begitu saja, dan hitungan itu dipegang dengan yakin.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of weathered hands counting slowly on fingers above a wooden market table at night, a worn notebook and scattered coins in warm lamplight, shallow depth of field, deep blue shadows, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera pushing slowly toward weathered hands counting on fingers above a wooden table, coins and notebook in warm lamplight, shallow focus shifting gently, slow forward dolly movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 4,
+   "id": "shot_044",
+   "media": "image",
+   "narration": "Simak ini. Pesanan lunas bisa dijelaskan banyak cara, mulai dari salah paham, promosi yang kebablasan, atau cerita yang membesar setiap kali diceritakan ulang, atau sekadar kabar yang salah dengar di pasar.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of skeptical market traders talking in a circle under hanging lamps at night, one man shaking his head, steam rising from tea cups nearby, stalls and crates behind them, cool shadows with warm lamp glow, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets."
+  },
+  {
+   "chapter": 4,
+   "id": "shot_045",
+   "media": "video",
+   "narration": "Kalau kota gaib itu sekaya yang diceritakan, kenapa pesanannya masih lewat perantara, bukan diantar langsung ke depan rumah dengan truk penuh barang, lengkap dengan pengawalan dan surat resmi.",
+   "shot_type": "ACTION",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, action shot of a courier carrying a heavy parcel through a crowded night market in Kotabaru, weaving between stalls and shoppers, motion blur on passing figures, warm lamps and cool shadows, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera tracking alongside a courier carrying a heavy parcel through the crowded night market, weaving between stalls, motion flowing past the lens, steady tracking movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 4,
+   "id": "shot_046",
+   "media": "image",
+   "narration": "Sebagian warga percaya penuh pada cerita itu, sebagian lagi curiga dan menertawakannya, tetapi keduanya sama-sama warga Kotabaru yang hidup berdampingan setiap hari tanpa saling bermusuhan.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of two groups of residents facing each other across a night market lane in Kotabaru, some nodding in belief and others frowning in doubt, hanging lamps above, warm and cool tones, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets."
+  },
+  {
+   "chapter": 4,
+   "id": "shot_047",
+   "media": "video",
+   "narration": "Kabar pesanan itu menyebar cepat dari warung ke pelabuhan, seperti desas-desus yang berlari tanpa henti, dan setiap warga yang mendengarnya ikut menambah bumbu cerita dengan versinya sendiri.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view over a night market and small harbor in Kotabaru, rumors spreading from stall to stall along glowing lanes, boats and lamps reflected on dark water, deep blue night tones, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera drifting slowly forward above glowing market lanes toward the harbor, lamps and reflections passing below, smooth aerial push-in movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 4,
+   "id": "shot_048",
+   "media": "image",
+   "narration": "Pesanan lunas tetap menjadi cerita yang hidup di mulut warga Kotabaru, bukan bukti yang bisa dipegang, dan tidak berubah menjadi fakta hanya karena sering diulang! Syududu.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a quiet night market lane closing down in Kotabaru, traders packing crates under dimming lamps, a lone cat crossing the lane, empty stalls and wet pavement reflecting light, somber calm mood, night market lamps glowing over the harbor, vehicles passing with headlights on wet streets."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_049",
+   "media": "video",
+   "narration": "Filmnya tayang di bioskop, cerita Saranjana viral di media sosial, namanya tercatat di peta lama, dan teori akademik ikut menjelaskan kenapa kisah ini begitu melekat di Kalimantan Selatan.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a small cinema front at dawn in Kotabaru, a faded film poster glowing softly with edges curling slightly, early visitors gathering on quiet steps, pale golden light over calm streets, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera pushing slowly toward a small cinema front at dawn, early visitors gathering on quiet steps, pale golden light widening, gentle forward dolly movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 5,
+   "id": "shot_050",
+   "media": "image",
+   "narration": "Kota gaib itu sendiri, sampai hari ini, belum punya bukti yang bisa dipegang, belum bisa dikunjungi, dan belum bisa diuji dengan standar tempat biasa yang ada di peta Kotabaru.",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view over an empty coastline and calm sea near Kotabaru at dawn, no buildings on the horizon, where the hidden city is said to lie, fishing boats resting far offshore, soft mist above gentle waves, pale gold and grey tones, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_051",
+   "media": "video",
+   "narration": "Yang masih mengganjal adalah kenapa cerita ini awet puluhan tahun, terus diceritakan dari generasi ke generasi, dan tetap hidup di ingatan warga Kotabaru sampai sekarang.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of an elderly resident telling a story on a wooden porch at dawn, listeners leaning in softly, woven mats and warm tea cups beside them, warm first light on weathered faces, quiet village background, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera moving slowly toward an elderly storyteller on a wooden porch at dawn, listeners leaning in, warm first light growing, slow forward dolly movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 5,
+   "id": "shot_052",
+   "media": "image",
+   "narration": "Asykoli inna yama kalima. Cerita ini awet, katanya, karena ada yang menjaganya dengan setia, entah manusia yang merawat ingatan atau bukan, dan penjaga itu tak pernah menampakkan diri!",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a misty forest edge near Kotabaru at dawn, where the hidden city is said to hide, a lone unseen presence suggested only by shifting fog and still trees, birdsong faint in the still air, soft golden light breaking through, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_053",
+   "media": "video",
+   "narration": "Andai kota gaib itu benar-benar ada, antrean masuknya pasti lebih panjang dari antrean bioskop, dan loketnya mungkin perlu dibuka sejak subuh sampai larut malam, di gerbang kota yang ramai.",
+   "shot_type": "ACTION",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, action shot of a long cheerful queue outside a small cinema at dawn in Kotabaru, colorful banners above the entrance, people chatting and holding tickets, soft morning light on faces, calm street behind them, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera tracking slowly along a cheerful cinema queue at dawn, faces and tickets passing in soft morning light, steady lateral tracking movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 5,
+   "id": "shot_054",
+   "media": "image",
+   "narration": "Di balik cerita makmur itu, harapan warga sebenarnya sederhana, yaitu hidup rapi, cukup untuk keluarga besar mereka, dan dihormati tetangga tanpa harus merantau jauh dari Kotabaru.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of a tidy family home porch at dawn in Kotabaru, a family sharing breakfast in soft golden light, neat garden and calm street, laundry swaying gently on a line, warm hopeful mood, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_055",
+   "media": "video",
+   "narration": "Kata hujan, hujan yang turun di Kotabaru seolah ikut menyimpan rahasia, dan katanya warga, setiap rintiknya membawa bisik lama yang sunyi dan tak pernah selesai diceritakan warga.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of gentle rain falling on rooftops in Kotabaru at dawn, droplets sliding over tiles and leaves, mist rising slowly from the wet ground, soft grey-gold light, quiet streets below, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera pushing slowly toward rain falling on rooftops at dawn, droplets sliding over tiles, mist rising, gentle forward movement through soft light, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 5,
+   "id": "shot_056",
+   "media": "image",
+   "narration": "Perhatikan ini. Cerita viral apa pun perlu diuji dengan tiga pertanyaan, yaitu kapan ceritanya muncul, di mana tepatnya kejadiannya, dan siapa sumber pertama yang menceritakannya.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of residents gathered in a calm dawn courtyard in Kotabaru, one person raising three fingers while asking questions, others listening thoughtfully, notebooks open on their laps, soft morning light, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_057",
+   "media": "video",
+   "narration": "Man asyidi issad asyida. Itu bahasa semut. Semut pun ikut menjaga cerita ini, katanya, berjalan beriringan di tanah Kotabaru tanpa pernah berhenti merawat kisah yang sama.",
+   "shot_type": "CLOSE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, close-up of a line of ants marching across damp soil at dawn in Kotabaru, tiny bodies catching soft golden light, leaves and earth in sharp detail, dewdrops sparkling on nearby leaves, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera gliding slowly down toward a line of ants marching across damp soil at dawn, tiny bodies catching golden light, slow descending push-in movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 5,
+   "id": "shot_058",
+   "media": "image",
+   "narration": "Kalau suatu hari kota gaib itu benar-benar ditemukan, apa yang berubah dari cerita ini, dari rasa penasaran warga, dan dari cara kita mendengar kisah lama yang terus diceritakan?",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view over a calm coastline and horizon near Kotabaru at dawn, beyond which the hidden city is only imagined, golden light spreading slowly over still water, a small boat far below, vast quiet sky, soft clouds tinted pink and gold, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution."
+  },
+  {
+   "chapter": 5,
+   "id": "shot_059",
+   "media": "video",
+   "narration": "Cerita ini seperti api kecil yang tak padam, tetap menyala di obrolan warga Kotabaru, dijaga ingatan bersama, dan diteruskan dari satu generasi ke generasi berikutnya tanpa putus.",
+   "shot_type": "WIDE",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, wide view of a small oil lamp flame burning steadily on a porch at dawn in Kotabaru, its warm glow held against cool morning blue, its flame steady despite a light breeze, quiet houses behind, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution.",
+   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, camera pushing slowly toward a small oil lamp flame on a porch at dawn, warm glow steady against cool morning blue, gentle forward dolly movement, a tale of the hidden city.",
+   "duration_hint": 10
+  },
+  {
+   "chapter": 5,
+   "id": "shot_060",
+   "media": "image",
+   "narration": "Syalala. Menurut kalian, Saranjana itu nyata, kenangan, atau cermin harapan yang hidup di Kotabaru, dan jawaban kalian mungkin lebih penting daripada kepastian yang tak kunjung datang?",
+   "shot_type": "AERIAL",
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, aerial view over a harbor and calm sea near Kotabaru at sunrise, beyond which the hidden city is only imagined, golden light opening over quiet water, boats resting and streets waking softly, early fishermen preparing nets on the pier, calm dawn light, soft golden morning glow over quiet water, a sense of peaceful resolution."
+  }
+ ]
+}
