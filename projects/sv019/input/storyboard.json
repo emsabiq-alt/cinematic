@@ -274,12 +274,11 @@
   {
    "chapter": 3,
    "id": "shot_031",
-   "media": "video",
+   "media": "image",
    "narration": "Di Jawa ada pula Welthok, kepala menyala yang mencari ikan dan udang. Ia melayang di atas parit dan sawah, mendekati air yang tenang. Nelayan kecil yang melihatnya memilih pulang dan tidak mengusiknya.",
    "shot_type": "WIDE",
-   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, A glowing severed head floating over a calm Javanese ditch at night, searching the water, a small fisherman retreating quietly, eerie folklore scene, expansive wide composition with layered depth, wet ground reflections shimmering below, archipelago night folklore, glowing fire orbs over wetlands, misty, subtle 35mm film grain",
-   "duration_hint": 10,
-   "video_prompt": "Cinematic 35mm video, 16:9 full-bleed, slow cinematic push-in, A glowing severed head floating over a calm Javanese ditch at night, searching the water, a small fisherman retreating quietly, eerie folklore scene, expansive wide composition with layered depth, wet ground reflections shimmering below, archipelago night folklore, glowing fire orbs over wetlands, misty, subtle 35mm film grain"
+   "visual_prompt": "Cinematic 35mm film still, 16:9 full-bleed, A glowing orb floating over a calm Javanese ditch at night, searching the water, a small fisherman retreating quietly, eerie folklore scene, expansive wide composition with layered depth, wet ground reflections shimmering below, archipelago night folklore, glowing fire orbs over wetlands, misty, subtle 35mm film grain",
+   "duration_hint": null
   },
   {
    "chapter": 3,
