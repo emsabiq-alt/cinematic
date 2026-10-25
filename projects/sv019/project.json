@@ -5,8 +5,9 @@
   "mode": "step",
   "pacing": "8-12s",
   "project_dir": "projects/sv019",
-  "status": "script_ready",
+  "status": "published",
   "title": "HANTU SULUH: Obor yang Berjalan Sendiri",
   "total_shots": 60,
-  "voice": "user-clone-voice"
+  "voice": "user-clone-voice",
+  "youtube_url": "https://www.youtube.com/watch?v=h2nTtwlkawg"
 }
