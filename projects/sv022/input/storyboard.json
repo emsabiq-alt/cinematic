@@ -1,0 +1,482 @@
+[
+  {
+    "shot": 1,
+    "babak": 1,
+    "media": "video",
+    "narration": "Di utara Pulau Jawa terbentang laut yang ditakuti pelaut. Tiga titik di peta ditarik menjadi satu bentuk, Bawean, Majene, dan kepulauan dan dari situlah cerita seram ini bermula.",
+    "visual_prompt": "Kapal nelayan kecil melintasi laut utara Jawa yang gelap menjelang fajar, ombak bergulung pelan dan kabut tipis menggantung di cakrawala, mercusuar jauh berkedip samar di ujung pandangan, dengan palet teal kelabu yang dingin, cahaya bulan pucat, kabut tipis, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic drone shot over dark northern Java sea at dawn, waves rolling, thin fog, distant lighthouse blinking, moody teal-grey grade.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 2,
+    "babak": 1,
+    "media": "image",
+    "narration": "Orang menyebut kawasan itu Segitiga Masalembo, nama yang melekat di peta. Kapal lewat sini harus waspada, karena laut ini tidak pernah memberi ampun pada yang lengah.",
+    "visual_prompt": "Peta laut tua terbentang di atas meja kayu pelabuhan, tiga titik ditandai tinta merah dan dihubungkan garis lurus, kompas kuningan dan lentera minyak menemani di sampingnya, dengan palet biru kelabu yang suram, cahaya rembulan redup, kabut laut, dan tekstur film dokumenter yang dingin, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 3,
+    "babak": 1,
+    "media": "video",
+    "narration": "Nelayan di Bawean bercerita tentang ombak yang tiba-tiba meninggi tanpa angin. Air yang tadi tenang bisa berubah dalam sekejap, dan perahu kecil pun hilang dari pandangan sebelum sempat berteriak.",
+    "visual_prompt": "Perahu nelayan Bawean terombang-ambing saat ombak tiba-tiba meninggi, jaring basah berkibar dan langit mendung menekan ke bawah, wajah nelayan tegang memegang tali dengan erat, dengan palet hijau laut gelap, cahaya bulan yang tertutup awan, kabut tipis, dan nuansa sinematik yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Close-up cinematic shot of an old sea chart on a wooden harbour table, camera slowly pushing in on three red-marked points connected by lines.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 4,
+    "babak": 1,
+    "media": "image",
+    "narration": "Ada pula kisah lampu yang berjalan sendiri di tengah laut pada malam gelap. Bukan kapal, bukan mercusuar, tapi cahaya yang melayang pelan lalu lenyap, meninggalkan para saksi dengan bulu kuduk berdiri.",
+    "visual_prompt": "Cahaya misterius melayang pelan di atas permukaan laut malam, tidak berbentuk kapal maupun mercusuar, pantulannya bergetar di air hitam dan membuat siluet perahu di dekatnya tampak kaku, dengan palet teal kelabu yang dingin, cahaya bulan pucat, kabut tipis, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 5,
+    "babak": 1,
+    "media": "video",
+    "narration": "Catat ini. Para pelaut lama tidak menyebut tempat ini sekadar jalur biasa. Mereka menyebutnya gerbang, tempat arus bertemu dan cuaca berubah seenaknya, seolah laut ini punya kehendak sendiri.",
+    "visual_prompt": "Pelaut tua duduk di warung pelabuhan sambil menunjuk peta di dinding, cangkir kopi mengepul dan mata mereka serius, anak muda mendengarkan dengan tubuh condong ke depan, dengan palet biru kelabu yang suram, cahaya rembulan redup, kabut laut, dan tekstur film dokumenter yang dingin, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Handheld cinematic shot of a small fishing boat rocking as waves suddenly rise, wet nets flapping, tense fisherman gripping a rope, overcast sky.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 6,
+    "babak": 1,
+    "media": "image",
+    "narration": "Peta boleh terlihat sederhana, tiga garis lurus. Namun di bawah garis itu ada palung, arus silang, dan pusaran yang tidak terlihat, menunggu kapal yang berani melintas tanpa perhitungan matang.",
+    "visual_prompt": "Palung laut dalam digambarkan lewat potongan melintang air biru gelap, arus silang berputar seperti pusaran samar dan bangkai kapal kecil terlihat jauh di dasar yang sunyi, dengan palet hijau laut gelap, cahaya bulan yang tertutup awan, kabut tipis, dan nuansa sinematik yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 7,
+    "babak": 1,
+    "media": "video",
+    "narration": "Pada momen klaim besar, penutur berseru dengan yakin tentang gerbang gaib itu. Maqoli inna rahmatan. Begitulah katanya, gerbang itu terbuka saat badai datang, dan apa pun yang lewat di ambang itu akan ditelan.",
+    "visual_prompt": "Gerbang kabut raksasa membentang di tengah laut saat badai mendekat, petir menyambar jauh dan ombak menghantam, sosok kapal kecil tampak rapuh di ambang kabut itu, dengan palet teal kelabu yang dingin, cahaya bulan pucat, kabut tipis, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic tracking shot of a mysterious light gliding over black night sea, reflection trembling, silhouette of a boat frozen nearby.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 8,
+    "babak": 1,
+    "media": "image",
+    "narration": "Coba hitung huruf pada nama segitiga ini, lalu bagi dengan jumlah titiknya yang tiga. Hasilnya selalu mengarah pada angka yang sama, dan para penggemar cocoklogi pun bersorak, seolah laut ini sengaja memberi kode.",
+    "visual_prompt": "Angka dan huruf terukir di pasir pantai yang basah, ombak menghapusnya perlahan, seorang pria menghitung dengan jari sambil menatap laut yang bergolak di belakangnya, dengan palet biru kelabu yang suram, cahaya rembulan redup, kabut laut, dan tekstur film dokumenter yang dingin, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 9,
+    "babak": 1,
+    "media": "video",
+    "narration": "Kata jin lautnya begini, kawasan ini adalah halaman rumah mereka yang tidak boleh diganggu sembarangan. Kalau ada kapal melintas sambil berteriak sombong, halaman itu akan marah dan menutup pintunya rapat-rapat.",
+    "visual_prompt": "Sosok bayangan jin laut digambarkan samar di balik tirai hujan, mata menyala redup dan tangan menunjuk ke arah kapal, air di sekelilingnya berputar seperti halaman yang dijaga, dengan palet hijau laut gelap, cahaya bulan yang tertutup awan, kabut tipis, dan nuansa sinematik yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic push-in on old sailors at a harbour stall pointing at a wall map, coffee steaming, young listener leaning forward attentively.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 10,
+    "babak": 1,
+    "media": "image",
+    "narration": "Cerita warga dan catatan pelayaran berdampingan di sini, kadang sejalan, kadang bertolak belakang. Yang satu bicara soal makhluk dan gerbang, yang lain bicara soal angin dan arus, penontonlah yang menimbang sendiri.",
+    "visual_prompt": "Ruang arsip pelayaran dengan tumpukan laporan dan peta, dua pria berdebat pelan, satu menunjuk data cuaca dan satu lagi menunjuk cerita warga yang ditempel di papan, dengan palet teal kelabu yang dingin, cahaya bulan pucat, kabut tipis, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 11,
+    "babak": 1,
+    "media": "video",
+    "narration": "Dari Bawean sampai Majene, kabar tentang Segitiga Masalembo menyebar lewat radio kapal. Setiap kapal hilang menambah satu bab baru, dan setiap bab baru membuat nama itu semakin sulit dilupakan.",
+    "visual_prompt": "Radio kapal tua menyala di ruang kemudi, suara kabar hilang terdengar samar, kru saling pandang dan peta di dinding dipenuhi penanda merah di sepanjang jalur utara, dengan palet biru kelabu yang suram, cahaya rembulan redup, kabut laut, dan tekstur film dokumenter yang dingin, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Underwater cinematic shot descending through dark blue water, cross currents swirling faintly, small wreck visible far below in silence.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 12,
+    "babak": 1,
+    "media": "image",
+    "narration": "Malam turun, ombak menampar lambung kapal, dan cerita pun ditutup dengan satu kata yang diucapkan pelan. Syududu. Laut diam sejenak, seolah mendengar, lalu kembali bergemuruh.",
+    "visual_prompt": "Malam laut yang bergemuruh, ombak menampar lambung kapal baja dan bulan tertutup awan tebal, seorang pelaut berdiri di dek sambil menggenggam pagar dengan erat, dengan palet hijau laut gelap, cahaya bulan yang tertutup awan, kabut tipis, dan nuansa sinematik yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 13,
+    "babak": 2,
+    "media": "video",
+    "narration": "Kita mundur ke tahun sembilan belas delapan puluh satu, saat sebuah kapal bernama Tampomas Dua berlayar membawa ratusan jiwa. Tak ada yang menyangka pelayaran itu jadi tragedi yang dikenang puluhan tahun.",
+    "visual_prompt": "Kapal penumpang besar berlayar tenang di pagi hari, penumpang di dek menikmati angin laut dan asap tipis dari cerobong mengepul, laut biru membentang tanpa tanda bahaya, dengan palet jingga api dan hitam asap, cahaya api yang berdenyut, asap tebal, dan butir film kasar yang dramatis, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Wide cinematic shot of a giant fog gate over stormy sea, lightning far away, small ship fragile at the fog threshold, waves crashing.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 14,
+    "babak": 2,
+    "media": "image",
+    "narration": "Api pertama muncul di dalam kapal dan menyebar cepat, memakan lorong demi lorong dengan asap pekat. Awak berusaha memadamkan, penumpang berdesakan mencari udara, dan kepanikan jadi musuh kedua.",
+    "visual_prompt": "Api kecil menyala di lorong kapal yang sempit, asap mulai merayap di langit-langit dan lampu darurat berkedip merah, awak berlari membawa alat pemadam dengan panik, dengan palet oranye membara dan abu gelap, cahaya api dari bawah, asap pekat, dan tekstur film yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 15,
+    "babak": 2,
+    "media": "video",
+    "narration": "Kapal itu terbakar berhari-hari di tengah laut, menjadi tontonan mengerikan. Asap hitam menjulang ke langit, sekoci diturunkan dan pertolongan datang terlambat untuk banyak orang yang sudah terjebak.",
+    "visual_prompt": "Asap hitam pekat menjulang dari kapal yang terbakar di tengah laut, sekoci diturunkan miring dan penumpang berdesakan di tepi dek, kapal penyelamat tampak kecil di kejauhan, dengan palet merah api dan kelabu asap, cahaya darurat yang berkedip, asap pekat, dan nuansa dokumenter yang suram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic shot of letters and numbers carved in wet beach sand, waves erasing them slowly, man counting on fingers facing the sea.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 16,
+    "babak": 2,
+    "media": "image",
+    "narration": "Seorang penyintas pernah bercerita tentang suara ledakan kecil yang beruntun dari bawah dek. Ia berpegangan pada pagar besi menyaksikan teman-temannya menghilang satu per satu di balik asap.",
+    "visual_prompt": "Penyintas berpegangan pada pagar besi kapal yang miring, asap mengepul di belakangnya dan air laut naik mendekati dek, wajahnya pucat namun matanya tetap menatap ke depan, dengan palet jingga api dan hitam asap, cahaya api yang berdenyut, asap tebal, dan butir film kasar yang dramatis, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 17,
+    "babak": 2,
+    "media": "video",
+    "narration": "Dengar baik-baik. Pada dua puluh tujuh Januari sembilan belas delapan puluh satu, kapal itu menyerah pada api dan air. Ia tenggelam membawa kisah yang masih diceritakan dengan suara bergetar di pelabuhan.",
+    "visual_prompt": "Pelabuhan yang sunyi saat kabar tenggelam tiba, keluarga berkumpul dengan wajah cemas dan spanduk nama kapal tergantung, laut di belakang dermaga tampak muram dan dingin, dengan palet oranye membara dan abu gelap, cahaya api dari bawah, asap pekat, dan tekstur film yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot through rain veil of a shadowy sea-spirit figure, dim glowing eyes, hand pointing at a ship, water swirling around.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 18,
+    "babak": 2,
+    "media": "image",
+    "narration": "Versi resmi bicara kebakaran, kerusakan, dan upaya penyelamatan yang terkendala jarak serta cuaca. Versi warga menambahkan, api itu bukan api biasa, melainkan pertanda gerbang laut sedang terbuka.",
+    "visual_prompt": "Ruang sidang penyelidik dengan foto kapal dan diagram kebakaran di layar, para ahli berdiskusi serius sambil menunjuk jalur api yang menyebar di denah kapal, dengan palet merah api dan kelabu asap, cahaya darurat yang berkedip, asap pekat, dan nuansa dokumenter yang suram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 19,
+    "babak": 2,
+    "media": "video",
+    "narration": "Di tengah duka itu, penutur mengutip dalil dengan suara mantap. Asykoli inna yama kalima. Katanya, air dan api pernah berjanji untuk tidak bertemu, tapi di kapal itu janji itu dilanggar.",
+    "visual_prompt": "Penutur berdiri di tepi dermaga saat senja, tangan terangkat mantap dan suara lantang, nelayan di sekitarnya diam mendengarkan sementara ombak kecil memecah di batu karang, dengan palet jingga api dan hitam asap, cahaya api yang berdenyut, asap tebal, dan butir film kasar yang dramatis, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic pan across a shipping archive room, reports and maps stacked, two men debating quietly over weather data and folk tales.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 20,
+    "babak": 2,
+    "media": "image",
+    "narration": "Para keluarga menunggu di pelabuhan dengan kabar sepotong-sepotong, antara harap dan putus asa. Nama-nama dibacakan, tangis pecah, dan laut yang menelan kapal itu tetap diam, dingin tanpa jawaban.",
+    "visual_prompt": "Keluarga menunggu di ruang tunggu pelabuhan, seorang ibu memeluk anaknya dan petugas membacakan daftar nama dengan suara pelan, air mata dan doa lirih memenuhi ruangan, dengan palet oranye membara dan abu gelap, cahaya api dari bawah, asap pekat, dan tekstur film yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 21,
+    "babak": 2,
+    "media": "video",
+    "narration": "Tampomas Dua menjadi pelajaran pahit tentang keselamatan pelayaran. Sejak itu aturan diperketat, sekoci diperiksa, dan setiap api kecil di kapal tidak lagi dianggap sepele.",
+    "visual_prompt": "Galangan dan ruang pelatihan keselamatan kapal, awak muda berlatih memakai pelampung dan menurunkan sekoci, instruktur menunjuk prosedur darurat di papan tulis besar, dengan palet merah api dan kelabu asap, cahaya darurat yang berkedip, asap pekat, dan nuansa dokumenter yang suram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic close-up of an old ship radio glowing in a wheelhouse, crew exchanging glances, red markers covering a wall map.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 22,
+    "babak": 2,
+    "media": "image",
+    "narration": "Coba hitung selisih antara tahun kapal itu tenggelam lalu bagi dengan angka keramat. Hasilnya memang bisa dipas-paskan ke banyak hal, dan di situlah cocoklogi bekerja, merangkai angka jadi pertanda.",
+    "visual_prompt": "Seorang pria menghitung di atas kertas di tepi pantai, angka-angka ditulis kapur di batu dan ombak menghapusnya, kapal-kapal kecil bersandar di latar yang muram, dengan palet jingga api dan hitam asap, cahaya api yang berdenyut, asap tebal, dan butir film kasar yang dramatis, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 23,
+    "babak": 2,
+    "media": "video",
+    "narration": "Jangan salah paham! Tragedi ini bukan dongeng. Ini kisah nyata tentang ratusan keluarga yang kehilangan, dan setiap lelucon tentangnya harus berhenti di depan nama para korban.",
+    "visual_prompt": "Monumen kecil untuk korban tragedi laut di tepi pelabuhan, bunga segar diletakkan dan nama-nama terukir di batu, pengunjung berdiri diam dengan kepala tertunduk hormat, dengan palet oranye membara dan abu gelap, cahaya api dari bawah, asap pekat, dan tekstur film yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Wide cinematic shot of night sea pounding a steel hull, moon hidden by thick clouds, sailor gripping the rail on deck.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 24,
+    "babak": 2,
+    "media": "image",
+    "narration": "Kapal itu kini tidur di dasar laut, menjadi rumah bagi ikan. Cerita tentangnya pun ditutup dengan satu kata pendek yang diucapkan pelan. Syalala. Api padam, air tenang, dan kenangan tetap menyala di darat.",
+    "visual_prompt": "Bangkai kapal di dasar laut yang tenang, karang dan ikan berenang di antara besi berkarat, cahaya matahari menembus air hijau dan menciptakan suasana hening yang sakral, dengan palet merah api dan kelabu asap, cahaya darurat yang berkedip, asap pekat, dan nuansa dokumenter yang suram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 25,
+    "babak": 3,
+    "media": "video",
+    "narration": "Dua puluh lima tahun kemudian, rangkaian musibah kembali menghantam perairan yang sama. Desember dua ribu enam membuka pintunya, tahun dua ribu tujuh menyusul dengan kabar kelam.",
+    "visual_prompt": "Kalender tua menunjukkan pergantian musim barat, angin menerbangkan kertas dan peta laut bergetar di dinding, kapal-kapal di pelabuhan bersiap menghadapi musim badai, dengan palet biru badai yang gelap, cahaya kilat sesekali, hujan deras, dan butir film basah yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic aerial shot of a large passenger ship sailing calmly in morning light, passengers on deck, thin smoke from the funnel.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 26,
+    "babak": 3,
+    "media": "image",
+    "narration": "Kapal Senopati Nusantara berlayar di musim barat yang ganas, membawa ratusan orang. Ia dikaitkan dengan Segitiga Masalembo oleh banyak cerita, meski letak pastinya masih diperdebatkan, bukan titik mutlak.",
+    "visual_prompt": "Kapal feri besar Senopati Nusantara berlayar di tengah gelombang tinggi musim barat, air menyapu dek dan langit kelabu menekan, kru di anjungan menatap radar dengan tegang, dengan palet kelabu badai dan biru laut pekat, cahaya petir jauh, hujan lebat, dan tekstur film yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 27,
+    "babak": 3,
+    "media": "video",
+    "narration": "Jurnal mencatat kapal itu memuat enam ratus, dua puluh delapan orang, terdiri atas lima ratus, empat puluh dua penumpang, lima puluh tujuh awak, dan dua puluh sembilan sopir. Angka itu besar.",
+    "visual_prompt": "Ruang arsip jurnal pelayaran dengan halaman data penumpang terbuka, angka-angka tertulis rapi dan foto kapal ditempel di sampingnya, lampu meja kuning menyoroti dokumen, dengan palet hijau badai dan hitam pekat, cahaya kilat yang menyambar, hujan deras, dan nuansa sinematik yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Handheld cinematic shot inside a narrow ship corridor, small fire flaring, smoke creeping along the ceiling, red emergency lights flashing.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 28,
+    "babak": 3,
+    "media": "image",
+    "narration": "Itu bahasa semut. Semut pun paham. Man asyidi issad asyida. Begitu kata penutur saat mendengar kabar kapal itu, seolah semut di darat sudah memberi isyarat sebelum ombak menghantam lambung kapal.",
+    "visual_prompt": "Semut berbaris di atas kayu dermaga yang basah, kamera makro menangkap gerakannya yang teratur, laut bergolak di latar kabur dan seorang pria mengamati dari dekat, dengan palet biru badai yang gelap, cahaya kilat sesekali, hujan deras, dan butir film basah yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 29,
+    "babak": 3,
+    "media": "video",
+    "narration": "Jangan kabur dulu. Pada dua puluh sembilan sampai tiga puluh Desember dua ribu enam, kapal itu hilang ditelan badai. Penyelidik menduga cuaca buruk, sementara warga bicara gerbang yang kembali terbuka.",
+    "visual_prompt": "Badai besar menghantam kapal feri di malam gelap, gelombang setinggi dinding menampar lambung dan hujan deras menutupi pandangan, lampu kapal berkelip di tengah kekacauan, dengan palet kelabu badai dan biru laut pekat, cahaya petir jauh, hujan lebat, dan tekstur film yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Wide cinematic shot of thick black smoke towering from a burning ship at sea, lifeboats lowered crookedly, rescue ship tiny in distance.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 30,
+    "babak": 3,
+    "media": "image",
+    "narration": "Sehari setelah pergantian tahun, tepatnya satu Januari dua ribu tujuh, sebuah pesawat bernama Adam Air penerbangan lima tujuh empat hilang dari radar. Seratus, dua orang di dalamnya tidak pernah sampai tujuan.",
+    "visual_prompt": "Pesawat penumpang lepas landas di pagi yang berawan, sayap menembus awan kelabu dan kota di bawahnya mengecil, suasana kabin tenang sebelum kabar hilang menyebar, dengan palet hijau badai dan hitam pekat, cahaya kilat yang menyambar, hujan deras, dan nuansa sinematik yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 31,
+    "babak": 3,
+    "media": "video",
+    "narration": "Di tengah kabar pesawat itu, penutur mengutip dalil panjang dengan nada yakin. Ma askoli inna kaliyamata inna asqoli. Katanya, langit dan laut pernah bersepakat, tapi kesepakatan itu retak.",
+    "visual_prompt": "Langit dan laut bertemu di cakrawala saat badai pergantian tahun, kilat menyambar dan ombak bergulung, penutur berdiri di pantai dengan tangan terangkat yakin, dengan palet biru badai yang gelap, cahaya kilat sesekali, hujan deras, dan butir film basah yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of a survivor gripping a tilted ship rail, smoke behind, seawater rising toward the deck, pale face staring forward.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 32,
+    "babak": 3,
+    "media": "image",
+    "narration": "Kotak hitam pesawat itu baru ditemukan pada dua puluh delapan Agustus dua ribu tujuh, di kedalaman dua ribu meter. Penemuan itu menjawab teka-teki, namun tidak menghapus duka maupun cerita mistis.",
+    "visual_prompt": "Kapal riset menurunkan peralatan sonar ke laut dalam, kabel panjang menghilang ke air biru gelap dan layar monitor menampilkan titik samar di kedalaman yang sunyi, dengan palet kelabu badai dan biru laut pekat, cahaya petir jauh, hujan lebat, dan tekstur film yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 33,
+    "babak": 3,
+    "media": "video",
+    "narration": "Kata hujan dan badai di kawasan itu begini, kami hanya menjalankan tugas musim barat. Kami tidak memilih korban, kata mereka, kami hanya datang saat manusia memaksa berlayar melawan peringatan.",
+    "visual_prompt": "Hujan badai mengguyur laut utara dengan deras, kilat menyambar di kejauhan dan ombak menghantam karang, seorang nelayan tua menatap langit sambil memegang topi, dengan palet hijau badai dan hitam pekat, cahaya kilat yang menyambar, hujan deras, dan nuansa sinematik yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic shot of a silent harbour as sinking news arrives, anxious families gathered, ship name banner hanging, gloomy sea behind.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 34,
+    "babak": 3,
+    "media": "image",
+    "narration": "Coba hitung dan samakan tanggal-tanggal itu, akhir Desember, awal Januari, dan pertengahan Juli. Polanya tampak berulang, pencari pertanda mengaitkannya dengan gerbang yang membuka di pergantian musim barat.",
+    "visual_prompt": "Tanggal-tanggal di kalender dilingkari tinta merah, akhir Desember, awal Januari, dan pertengahan Juli, tangan menunjuk pola itu di atas meja yang dipenuhi peta, dengan palet biru badai yang gelap, cahaya kilat sesekali, hujan deras, dan butir film basah yang mencekam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 35,
+    "babak": 3,
+    "media": "video",
+    "narration": "Pada sembilan belas Juli dua ribu tujuh, kapal Mutiara Indah tenggelam, lalu pada dua puluh tujuh Juli dua ribu tujuh, kapal Fajar Mas menyusul. Dua kabar membuat warga semakin yakin ada yang tidak beres.",
+    "visual_prompt": "Dua kapal berbeda tenggelam digambarkan dalam dua panel laut yang bergolak, satu di bawah hujan Juli dan satu lagi di bawah langit mendung, pelampung mengapung di permukaan, dengan palet kelabu badai dan biru laut pekat, cahaya petir jauh, hujan lebat, dan tekstur film yang muram, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of an inquiry room, ship photo and fire diagram on screen, experts discussing the fire path on a ship plan.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 36,
+    "babak": 3,
+    "media": "image",
+    "narration": "Tiga kapal dan satu pesawat dalam rentang sempit, rangkaian itu membuat nama kawasan ini semakin seram. Cerita babak ini ditutup dengan kata diucapkan singkat. Syududu. Laut diam, menunggu musim berikutnya.",
+    "visual_prompt": "Malam laut yang kembali diam setelah rangkaian badai, bulan muncul di balik awan dan kapal kecil melintas pelan, permukaan air berkilau seperti kaca yang retak, dengan palet hijau badai dan hitam pekat, cahaya kilat yang menyambar, hujan deras, dan nuansa sinematik yang tegang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 37,
+    "babak": 4,
+    "media": "video",
+    "narration": "Sekarang kita berhenti sejenak dari cerita seram dan memeriksa yang bisa dibuktikan. Cuaca, arus, dan kesalahan manusia adalah tiga tersangka utama yang selalu muncul dalam laporan resmi musibah laut ini.",
+    "visual_prompt": "Meja kerja penyelidik dipenuhi laporan cuaca, grafik gelombang, dan foto kapal, seorang ahli menunjuk data angin dengan serius sementara jendela menampilkan laut yang tenang, dengan palet siang yang jernih dan natural, cahaya matahari netral, warna apa adanya, dan tekstur film dokumenter yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of a storyteller on a jetty at dusk, hand raised firmly, fishermen listening silently, small waves breaking on rocks.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 38,
+    "babak": 4,
+    "media": "image",
+    "narration": "Para ahli menjelaskan bahwa Segitiga Masalembo dilalui jalur padat pada musim barat. Gelombang tinggi, angin kencang, dan arus silang bertemu, menciptakan kondisi yang sulit dilawan tanpa perhitungan matang.",
+    "visual_prompt": "Peta jalur pelayaran padat di musim barat, garis-garis merah saling bersilangan di atas laut biru gelap dan penanda badai tersebar, kapal-kapal kecil bergerak di antaranya, dengan palet siang terang yang realistis, cahaya matahari yang jelas, warna natural, dan butir film halus yang lugas, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 39,
+    "babak": 4,
+    "media": "video",
+    "narration": "Komite penyelidik kecelakaan menduga cuaca buruk dalam kasus kapal hilang akhir dua ribu enam. Dugaan itu didukung data angin dan gelombang, bukan cerita gerbang, inilah batas bukti dan dugaan yang harus dijaga.",
+    "visual_prompt": "Ruang rapat komite penyelidik dengan layar data angin dan gelombang, para anggota berdiskusi dan mencatat, berkas tebal bertumpuk di atas meja panjang, dengan palet siang yang bersih dan terang, cahaya netral yang merata, warna dokumenter yang jujur, dan tekstur yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic shot of a harbour waiting room, mother hugging a child, officer reading names softly, tears and quiet prayers filling the room.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 40,
+    "babak": 4,
+    "media": "image",
+    "narration": "Kelelahan awak, muatan berlebih, jadwal yang dipaksakan, dan alat keselamatan, semuanya pernah tercatat dalam tragedi laut negeri ini. Faktor manusia lebih mematikan daripada ombak, karena ia bisa dicegah.",
+    "visual_prompt": "Awak kapal yang kelelahan tertidur di ruang istirahat sempit, jadwal padat ditempel di dinding dan alat keselamatan tergantung, suasana muram menekankan tekanan kerja, dengan palet siang yang jernih dan natural, cahaya matahari netral, warna apa adanya, dan tekstur film dokumenter yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 41,
+    "babak": 4,
+    "media": "video",
+    "narration": "Catat ini. Jangan bodoh! Kalau peringatan cuaca tapi kapal tetap berlayar, jangan salahkan jin atau gerbang. Salahkan keputusan manusia yang menganggap peringatan sekadar hiasan di papan pengumuman.",
+    "visual_prompt": "Papan pengumuman cuaca di pelabuhan menampilkan peringatan merah yang jelas, nahkoda dan awak berdebat di depannya, sebagian hendak berlayar dan sebagian menahan diri, dengan palet siang terang yang realistis, cahaya matahari yang jelas, warna natural, dan butir film halus yang lugas, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of a ship safety training room, young crew practising lifejackets and lowering a lifeboat, instructor pointing at a procedure board.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 42,
+    "babak": 4,
+    "media": "image",
+    "narration": "Cerita gaib memang menarik, tapi tidak ada bukti terukur tentang kerajaan jin laut atau gerbang tak kasatmata. Tidak ada foto, tidak ada rekaman sonar, tidak ada data yang bisa diuji peneliti mana pun.",
+    "visual_prompt": "Ruang laboratorium dengan rekaman sonar dan foto dasar laut yang kosong dari bukti gaib, peneliti menunjuk layar datar sambil menggeleng pelan dan mencatat hasil, dengan palet siang yang bersih dan terang, cahaya netral yang merata, warna dokumenter yang jujur, dan tekstur yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 43,
+    "babak": 4,
+    "media": "video",
+    "narration": "Meski begitu, penutur mengutip dalilnya di tengah perdebatan. Maqoli inna rahmatan. Katanya, bukti yang belum ditemukan bukan berarti tidak ada, laut dalam menyimpan rahasia daripada laporan resmi.",
+    "visual_prompt": "Penutur berdebat dengan lantang di tengah warung pelabuhan, tangan mengepal dan suara meninggi, pendengar terdiam sementara ombak terdengar dari luar jendela, dengan palet siang yang jernih dan natural, cahaya matahari netral, warna apa adanya, dan tekstur film dokumenter yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of a man counting on paper at a beach edge, chalk numbers on stone, waves erasing them, small boats moored behind.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 44,
+    "babak": 4,
+    "media": "image",
+    "narration": "Kata malaikat begitu penutur mengutip, setiap jiwa punya waktunya sendiri dan laut hanyalah perantara. Ucapan itu disampaikan bukan sebagai vonis, sebagai pengingat hidup di laut selalu berhadapan dengan risiko.",
+    "visual_prompt": "Malaikat digambarkan samar dalam cahaya lembut di atas laut senja, sayapnya terbentang tenang dan kapal kecil melintas di bawahnya, suasana hening penuh perenungan, dengan palet siang terang yang realistis, cahaya matahari yang jelas, warna natural, dan butir film halus yang lugas, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 45,
+    "babak": 4,
+    "media": "video",
+    "narration": "Konyol sekali! Ada yang lebih percaya pada cocoklogi daripada pada ramalan cuaca. Ramalan bisa dibaca, gelombang bisa diukur, tapi mitos dipeluk erat karena lebih seram dan mudah diceritakan ulang.",
+    "visual_prompt": "Seorang pria tertawa sinis sambil menunjuk ramalan cuaca di telepon genggam, temannya menggeleng dan peta gelombang terbuka di meja, hujan rintik di luar warung, dengan palet siang yang bersih dan terang, cahaya netral yang merata, warna dokumenter yang jujur, dan tekstur yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Slow cinematic shot of a small memorial for sea victims at a harbour edge, fresh flowers, names carved in stone, visitors standing in silence.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 46,
+    "babak": 4,
+    "media": "image",
+    "narration": "Coba hitung jumlah huruf pada nama kapal yang hilang itu, lalu bandingkan. Anda akan menemukan kesamaan apa pun kalau sengaja dicari, dan itulah jebakan cocoklogi, ia selalu menemukan pola setelah kejadian.",
+    "visual_prompt": "Tangan menulis nama-nama kapal di papan tulis dan menghitung hurufnya satu per satu, kapur berdebu dan laut terlihat dari jendela kelas yang sederhana, dengan palet siang yang jernih dan natural, cahaya matahari netral, warna apa adanya, dan tekstur film dokumenter yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 47,
+    "babak": 4,
+    "media": "video",
+    "narration": "Skeptis bukan berarti tidak menghormati korban,. Menghormati korban berarti mencari penyebab yang benar agar tragedi sama tidak terulang pada keluarga lain yang berlayar esok pagi.",
+    "visual_prompt": "Keluarga korban berkumpul di acara doa bersama di tepi pantai, lilin menyala dan bunga ditaburkan ke laut, anak-anak berdiri diam di samping orang tuanya, dengan palet siang terang yang realistis, cahaya matahari yang jelas, warna natural, dan butir film halus yang lugas, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Underwater cinematic shot of a shipwreck resting quietly, coral and fish among rusted steel, sunlight piercing green water serenely.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 48,
+    "babak": 4,
+    "media": "image",
+    "narration": "Babak ini ditutup dengan pengakuan jujur, bahwa sains menjelaskan banyak hal tapi tidak segalanya. Masih ada ruang gelap di dasar laut. Syalala. Ruang itu kita datangi pada babak terakhir, dengan hati-hati.",
+    "visual_prompt": "Ruang gelap dasar laut yang digambarkan lewat sonar, palung dalam membentang sunyi dan titik-titik samar berkelip, cahaya kapal riset menembus air dari atas, dengan palet siang yang bersih dan terang, cahaya netral yang merata, warna dokumenter yang jujur, dan tekstur yang tajam, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 49,
+    "babak": 5,
+    "media": "video",
+    "narration": "Hari ini, Segitiga Masalembo dilalui kapal-kapal modern dengan radar, radio, dan ramalan cuaca. Para pelaut muda tidak berlayar buta, mereka membaca peta cuaca sebelum memutuskan berangkat atau menunggu.",
+    "visual_prompt": "Kapal modern dengan radar berputar melintasi laut utara yang cerah, awak di anjungan memantau layar cuaca dan jalur hijau tampak jelas di monitor navigasi, dengan palet fajar emas yang hangat, cahaya matahari terbit yang lembut, langit jingga muda, dan butir film halus yang penuh harap, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of an old calendar marking the monsoon change, wind blowing papers, sea chart trembling on a wall, harbour preparing for storms.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 50,
+    "babak": 5,
+    "media": "image",
+    "narration": "Kata jin lautnya lagi, begitu penutur menambahkan santai, kami sudah pindah halaman sejak mercusuar dibangun. Ucapan itu membuat awak tertawa, karena takut lama bisa luntur oleh lampu dan teknologi.",
+    "visual_prompt": "Mercusuar tinggi menyala terang di tebing pantai saat senja, cahayanya menyapu laut dan kapal-kapal kecil melintas dengan tenang, jin digambarkan samar menjauh dari cahaya, dengan palet emas senja yang hangat, cahaya terbit yang lembut, langit keemasan, dan nuansa sinematik yang menenangkan, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 51,
+    "babak": 5,
+    "media": "video",
+    "narration": "Nelayan kini memakai telepon genggam untuk memeriksa prakiraan gelombang. Kalau peringatan berwarna merah, mereka menunda, memperbaiki jaring di darat, dan menunggu laut kembali bersahabat.",
+    "visual_prompt": "Nelayan memeriksa prakiraan gelombang di telepon genggam di atas perahu, layar menampilkan grafik ombak dan langit pagi cerah, jaring tersusun rapi di sampingnya, dengan palet kuning fajar dan biru lembut, cahaya pagi yang hangat, langit cerah, dan tekstur film yang lapang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Wide cinematic shot of a large ferry battling high monsoon waves, water washing the deck, grey sky pressing down, crew watching radar tensely.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 52,
+    "babak": 5,
+    "media": "image",
+    "narration": "Ada pelaut yang bercanda, katanya ia lebih takut tagihan solar daripada gerbang gaib. Candaan itu disambut tawa, karena humor cara paling manusiawi menjinakkan takut yang diwariskan turun-temurun.",
+    "visual_prompt": "Warung pelabuhan yang ramai dan penuh tawa, pelaut bercanda sambil menyeruput kopi dan menunjuk tagihan di kertas, laut tenang terlihat dari pintu yang terbuka, dengan palet fajar emas yang hangat, cahaya matahari terbit yang lembut, langit jingga muda, dan butir film halus yang penuh harap, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 53,
+    "babak": 5,
+    "media": "video",
+    "narration": "Dengar baik-baik. Teknologi boleh maju, tapi laut tetap laut, luas, dalam, dan tidak bisa dinegosiasi. Kapal secanggih apa pun tetap harus menghormati musim, nahkoda bijak tahu kapan berhenti dan kapan boleh jalan.",
+    "visual_prompt": "Nahkoda bijak berdiri di anjungan kapal modern, tangan memegang kemudi dan mata menatap peta cuaca, awak menunggu perintah dengan sikap siaga dan tenang, dengan palet emas senja yang hangat, cahaya terbit yang lembut, langit keemasan, dan nuansa sinematik yang menenangkan, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic close-up of a shipping journal archive page, passenger data neatly written, ship photo pinned beside, warm desk lamp glowing.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 54,
+    "babak": 5,
+    "media": "image",
+    "narration": "Coba hitung kedalaman tempat kotak hitam ditemukan, lalu bagi dengan angka keramat yang dipercaya warga. Hasilnya lagi-lagi bisa dipas-paskan, dan penonton yang jeli pasti tahu, angka memang penurut yang baik.",
+    "visual_prompt": "Kotak hitam pesawat diangkat dari laut dalam oleh tim riset, air menetes dan kabel melilit, layar kapal menampilkan kedalaman yang sangat gelap di bawahnya, dengan palet kuning fajar dan biru lembut, cahaya pagi yang hangat, langit cerah, dan tekstur film yang lapang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 55,
+    "babak": 5,
+    "media": "video",
+    "narration": "penutur mengutip dalilnya dengan suara mantap. Asykoli inna yama kalima. Katanya, laut tidak pernah berjanji untuk selalu tenang, manusia yang berlayar harus membawa hormat, bukan sekadar keberanian kosong.",
+    "visual_prompt": "Penutur berdiri di pantai saat matahari terbit, tangan terangkat mantap dan nelayan muda mendengarkan, ombak kecil memecah lembut di pasir yang berkilau, dengan palet fajar emas yang hangat, cahaya matahari terbit yang lembut, langit jingga muda, dan butir film halus yang penuh harap, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Macro cinematic shot of ants marching in order across wet jetty wood, turbulent sea blurred behind, a man observing closely.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 56,
+    "babak": 5,
+    "media": "image",
+    "narration": "Apa yang sebenarnya tidur di bawah laut itu, bangkai kapal, pesawat, atau yang belum bernama. Sonar modern mulai memetakan dasarnya, tapi sebagian besar palung masih gelap dan belum tersentuh cahaya manusia.",
+    "visual_prompt": "Sonar kapal riset memindai palung laut yang gelap, garis-garis hijau bergerak di layar dan bangkai samar muncul, awak menahan napas menatap monitor, dengan palet emas senja yang hangat, cahaya terbit yang lembut, langit keemasan, dan nuansa sinematik yang menenangkan, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 57,
+    "babak": 5,
+    "media": "video",
+    "narration": "Kalau gerbang gaib itu memang ada, mungkin ia sedang antre izin berlayar. Candaan itu mengundang tawa, tapi di baliknya ada pertanyaan serius, mengapa kita lebih mudah percaya gerbang daripada data yang tersedia.",
+    "visual_prompt": "Warung pelabuhan dipenuhi tawa saat seorang pelaut bercanda tentang antre izin berlayar, cangkir kopi mengepul dan laut sore yang tenang terlihat dari jendela, dengan palet kuning fajar dan biru lembut, cahaya pagi yang hangat, langit cerah, dan tekstur film yang lapang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Wide cinematic night shot of a huge storm hammering a ferry, wall-high waves striking the hull, heavy rain hiding view, ship lights flickering.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 58,
+    "babak": 5,
+    "media": "image",
+    "narration": "Itu bahasa semut. Semut pun paham. Man asyidi issad asyida. Penutur mengucapkannya untuk kedua kalinya sebagai penanda, bahwa pesan makhluk kecil bisa jadi pengingat besar bagi manusia yang merasa paling tahu.",
+    "visual_prompt": "Semut berbaris teratur di atas batu karang tepi laut, kamera makro menangkap detailnya dan ombak kecil memecah di latar, seorang anak mengamati dengan kagum, dengan palet fajar emas yang hangat, cahaya matahari terbit yang lembut, langit jingga muda, dan butir film halus yang penuh harap, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  },
+  {
+    "shot": 59,
+    "babak": 5,
+    "media": "video",
+    "narration": "Pada akhirnya, Segitiga Masalembo bukan sekadar nama di peta, melainkan cermin cara kita menghadapi laut. Kita bisa takut, kita bisa tertawa, tapi kita belajar dari setiap kapal yang tidak pernah kembali.",
+    "visual_prompt": "Kapal-kapal berlayar tenang di bawah langit senja keemasan, burung camar beterbangan dan permukaan laut berkilau, suasana haru menyelimuti dermaga yang ramai, dengan palet emas senja yang hangat, cahaya terbit yang lembut, langit keemasan, dan nuansa sinematik yang menenangkan, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya.",
+    "video_prompt": "Cinematic shot of a passenger plane taking off into cloudy morning, wings piercing grey clouds, city shrinking below, calm cabin mood.",
+    "duration_hint": 10
+  },
+  {
+    "shot": 60,
+    "babak": 5,
+    "media": "image",
+    "narration": "Jadi, menurut Anda, apakah semua ini hanya cuaca dan kesalahan manusia, atau ada yang disembunyikan laut utara Jawa. Jawab di kepala Anda, lalu berlayarlah dengan hati-hati. Laut menunggu.",
+    "visual_prompt": "Permukaan laut utara Jawa yang luas di bawah langit malam berbintang, satu kapal kecil melintas pelan dengan lampu menyala, penonton diajak merenung dalam diam, dengan palet kuning fajar dan biru lembut, cahaya pagi yang hangat, langit cerah, dan tekstur film yang lapang, komposisi berlapis, latar depan tajam, latar memudar lembut, dan detail tekstur yang kaya."
+  }
+]
