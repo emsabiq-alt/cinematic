@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "shot": 1,
+      "babak": 1,
+      "media": "video",
+      "narration": "Dari udara, tanggul raksasa itu tampak seperti benteng tanah yang membelah sawah Sidoarjo. Di baliknya terhampar kolam lumpur seluas mata memandang, diam, kelabu, dan masih mendesis pelan.",
+      "visual_prompt": "Pemandangan udara atas tanggul tanah raksasa yang membelah sawah Sidoarjo, kolam lumpur kelabu membentang luas di baliknya, permukaan yang mendesis dengan gelembung kecil, dan desa di kejauhan yang tampak mungil, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow cinematic aerial drone shot over a massive earthen embankment cutting through rice fields, grey mud pond stretching to the horizon, hissing surface, moody morning light.",
+      "duration_hint": 10,
+      "id": "shot_001",
+      "chapter": 1
+    },
+    {
+      "shot": 2,
+      "babak": 1,
+      "media": "image",
+      "narration": "Sudah belasan tahun berlalu, tapi lumpur itu belum juga berhenti. Setiap hari ia naik sedikit demi sedikit, seolah bumi di bawah Porong ini tidak pernah benar-benar tidur. Syududu.",
+      "visual_prompt": "Permukaan kolam lumpur kelabu yang mendesis pelan di pagi hari, gelembung besar pecah satu per satu, riak melingkar menyebar, dan asap tipis naik dari tanah yang retak-retak, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_002",
+      "chapter": 1
+    },
+    {
+      "shot": 3,
+      "babak": 1,
+      "media": "video",
+      "narration": "Warga yang tinggal di tepinya sudah hafal bunyinya. Desis tipis saat fajar, gelembung yang pecah di permukaan, dan bau belerang yang datang bersama angin sore.",
+      "visual_prompt": "Seorang warga tua berdiri di tepi tanggul saat fajar, mendengarkan desis lumpur, memegang cangkir kopi, dengan wajah tenang yang sudah hafal bunyi kolam itu setiap pagi, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on a villager standing at the embankment edge at dawn, listening to the hissing mud, holding a coffee cup, camera drifting closer to his weathered face.",
+      "duration_hint": 10,
+      "id": "shot_003",
+      "chapter": 1
+    },
+    {
+      "shot": 4,
+      "babak": 1,
+      "media": "image",
+      "narration": "Ada yang berjualan di pinggir tanggul, ada yang memancing di saluran, ada pula yang sekadar duduk menatap kolam itu. Hidup berjalan, berdampingan dengan bencana yang tidak pergi.",
+      "visual_prompt": "Warung kecil di pinggir tanggul dengan penjual dan pembeli, saluran air keruh di sampingnya, anak memancing di tepi saluran, dan kolam lumpur membentang di latar belakang, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_004",
+      "chapter": 1
+    },
+    {
+      "shot": 5,
+      "babak": 1,
+      "media": "video",
+      "narration": "Catat ini. Tempat yang dulu sawah dan kampung ini sekarang jadi danau lumpur buatan manusia. Bukan danau air, tapi lautan lumpur panas yang menelan belasan desa.",
+      "visual_prompt": "Papan penanda dan patok batas di atas tanggul, hamparan lumpur kelabu sejauh mata memandang, sisa fondasi rumah yang menyembul, dan langit mendung yang berat, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Steady tracking shot along the embankment crest past marker posts and ruined house foundations, grey mud flat extending endlessly, overcast sky, documentary realism.",
+      "duration_hint": 10,
+      "id": "shot_005",
+      "chapter": 1
+    },
+    {
+      "shot": 6,
+      "babak": 1,
+      "media": "image",
+      "narration": "Jangan heran kalau pemandangan ini terasa seperti negeri lain. Tanah retak, tiang listrik miring, dan rumah yang tinggal atapnya, semua dibungkus warna kelabu yang sama.",
+      "visual_prompt": "Tanah retak parah dengan tiang listrik miring dan atap rumah yang tinggal separuh, semuanya tertutup lumpur kering berwarna kelabu, dan jalan setapak yang putus di ujungnya, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_006",
+      "chapter": 1
+    },
+    {
+      "shot": 7,
+      "babak": 1,
+      "media": "video",
+      "narration": "Kata orang tua di sini, lumpur ini tidak bisa ditawar. Syalala. Begitu saja, singkat, seolah bumi sudah memutuskan sendiri dan manusia hanya bisa menonton.",
+      "visual_prompt": "Seorang tetua kampung duduk bersila di atas tanggul menghadap kolam lumpur, tangan terangkat seperti sedang bercerita, dengan warga muda mendengarkan di sekelilingnya, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow orbit around an elderly storyteller sitting cross-legged on the embankment facing the mud pond, young villagers listening around him, camera circling gently.",
+      "duration_hint": 10,
+      "id": "shot_007",
+      "chapter": 1
+    },
+    {
+      "shot": 8,
+      "babak": 1,
+      "media": "image",
+      "narration": "Para pengunjung datang dari jauh, berfoto di atas tanggul, lalu pulang membawa cerita. Mereka melihat pemandangan, tapi warga melihat halaman rumahnya yang hilang.",
+      "visual_prompt": "Pengunjung dengan kamera berdiri di atas tanggul berfoto menghadap kolam lumpur, sementara seorang warga lokal lewat membawa belanjaan, kontras antara wisata dan kehidupan sehari-hari, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_008",
+      "chapter": 1
+    },
+    {
+      "shot": 9,
+      "babak": 1,
+      "media": "video",
+      "narration": "Di malam hari, lampu-lampu tanggul menyala berbaris. Dari kejauhan tampak seperti kota kecil, padahal di bawahnya tidak ada rumah, hanya lumpur yang menunggu giliran.",
+      "visual_prompt": "Barisan lampu tanggul menyala di malam hari memantul di permukaan lumpur yang basah, siluet petugas patroli berjalan jauh, dan langit malam yang gelap tanpa bintang, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow night dolly along a row of embankment lamps reflecting on wet mud, a patrol officer silhouetted in the distance, dark starless sky, cinematic night grade.",
+      "duration_hint": 10,
+      "id": "shot_009",
+      "chapter": 1
+    },
+    {
+      "shot": 10,
+      "babak": 1,
+      "media": "image",
+      "narration": "Lumpur ini bukan dongeng dari zaman dulu. Ia nyata, ia panas, dan ia masih di sini, tepat di tengah Jawa Timur yang ramai dan padat penduduk.",
+      "visual_prompt": "Jalan raya ramai di Jawa Timur dengan kendaraan melintas, di kejauhan tampak tanggul raksasa dan kolam lumpur, kontras antara kehidupan kota dan bencana yang diam, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_010",
+      "chapter": 1
+    },
+    {
+      "shot": 11,
+      "babak": 1,
+      "media": "video",
+      "narration": "Coba hitung: nama Porong lima huruf, dan lumpur ini muncul di bulan kelima, Mei. Kebetulan? Bisa jadi. Tapi warga mencatatnya dengan serius. Maqoli inna rahmatan.",
+      "visual_prompt": "Tangan menulis angka di buku catatan kecil di atas tanggul, latar kolam lumpur kelabu, dengan kalender robek dan peta desa yang sudah menguning di sampingnya, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Close-up tracking shot of a hand writing numbers in a small notebook on the embankment, mud pond blurred behind, torn calendar and yellowed village map beside it.",
+      "duration_hint": 10,
+      "id": "shot_011",
+      "chapter": 1
+    },
+    {
+      "shot": 12,
+      "babak": 1,
+      "media": "image",
+      "narration": "Babak ini baru pembuka, dan pertanyaan terbesarnya belum dijawab. Mengapa tanah di sini mendadak muntah lumpur, dan siapa yang harus bertanggung jawab atas semua ini?",
+      "visual_prompt": "Seorang pemuda berdiri di ujung tanggul menatap kolam lumpur dengan tanda tanya di wajahnya, angin menggerakkan jaketnya, dan hamparan kelabu membentang tanpa ujung, dengan palet kelabu kehijauan yang suram, cahaya pagi pucat yang datar, kabut tipis yang menggantung, dan butir film halus yang muram, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_012",
+      "chapter": 1
+    },
+    {
+      "shot": 13,
+      "babak": 2,
+      "media": "video",
+      "narration": "Subuh itu, tanah di Dusun Balongnongo mulai bergetar halus. Bukan gempa besar, hanya desis dari dalam tanah, seperti ketel raksasa yang baru saja dinyalakan.",
+      "visual_prompt": "Dusun kecil yang masih gelap menjelang subuh, lampu rumah menyala satu per satu, tanah bergetar halus, dan uap tipis naik dari celah tanah di pekarangan, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow dawn dolly through a dark village lane, house lamps flickering on one by one, thin vapor rising from cracks in the ground, tense quiet atmosphere.",
+      "duration_hint": 10,
+      "id": "shot_013",
+      "chapter": 2
+    },
+    {
+      "shot": 14,
+      "babak": 2,
+      "media": "image",
+      "narration": "Pekerja di lokasi pengeboran sumur gas Banjar Panji Satu milik Lapindo melihat lumpur pengeboran mereka hilang ditelan bumi. Tekanan naik turun tidak karuan, dan semua orang tahu ada yang tidak beres.",
+      "visual_prompt": "Menara pengeboran gas di pagi buta dengan pekerja berseragam dan helm, lumpur pengeboran meluap dari lubang bor, tekanan yang tidak stabil, dan kepanikan di wajah para pekerja, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_014",
+      "chapter": 2
+    },
+    {
+      "shot": 15,
+      "babak": 2,
+      "media": "video",
+      "narration": "Lalu tanah merekah. Semburan lumpur panas menyembul dari celah, mula-mula kecil, lalu membesar, menggenangi jalan setapak dan pekarangan warga yang masih terlelap.",
+      "visual_prompt": "Tanah merekah dan semburan lumpur panas menyembul dari celah, mula-mula kecil lalu membesar, menggenangi jalan setapak dan pekarangan rumah warga yang masih sepi, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Low-angle slow push-in as hot mud bursts from a crack in the earth, growing from a trickle to a flood, engulfing a footpath and a quiet house yard.",
+      "duration_hint": 10,
+      "id": "shot_015",
+      "chapter": 2
+    },
+    {
+      "shot": 16,
+      "babak": 2,
+      "media": "image",
+      "narration": "Panik pecah secepat air bah. Warga mengangkat kasur, televisi, dan surat-surat penting, berlari menjauhi semburan yang baunya menyengat dan suhunya membakar kaki.",
+      "visual_prompt": "Warga panik mengangkat kasur, televisi, dan kardus berisi surat penting, berlari menjauhi semburan lumpur yang baunya menyengat, dengan anak kecil digandeng ibunya, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_016",
+      "chapter": 2
+    },
+    {
+      "shot": 17,
+      "babak": 2,
+      "media": "video",
+      "narration": "Maqoli inna rahmatan. Begitu gumam seorang kakek sambil menggendong cucunya menjauh, yakin bahwa di balik musibah ini ada pesan yang tidak bisa dibaca dengan mata biasa.",
+      "visual_prompt": "Seorang kakek menggendong cucunya menjauhi semburan lumpur, menoleh ke belakang dengan wajah pasrah namun tenang, dan asap tipis mengepul dari tanah di belakang mereka, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Emotional handheld follow shot of an old man carrying his grandchild away from the mud eruption, glancing back with calm resignation, thin smoke behind them.",
+      "duration_hint": 10,
+      "id": "shot_017",
+      "chapter": 2
+    },
+    {
+      "shot": 18,
+      "babak": 2,
+      "media": "image",
+      "narration": "Dalam hitungan hari, semburan itu membesar hingga sekitar seratus delapan puluh ribu meter kubik setiap hari. Angka itu sulit dibayangkan, sampai kau melihat sawah berubah jadi kolam dalam semalam.",
+      "visual_prompt": "Sawah yang berubah menjadi kolam lumpur dalam semalam, batang padi menyembul dari permukaan kelabu, dan aliran lumpur deras yang terus mengalir dari pusat semburan, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_018",
+      "chapter": 2
+    },
+    {
+      "shot": 19,
+      "babak": 2,
+      "media": "video",
+      "narration": "Suhu lumpur itu mencapai puluhan hingga sekitar seratus derajat, cukup untuk melukai kulit dan mematikan tanaman. Gasnya membuat napas sesak, dan pengungsi mulai batuk-batuk di tenda.",
+      "visual_prompt": "Tenda pengungsian dengan warga yang batuk-batuk dan memakai masker, anak-anak duduk di tikar, petugas membagikan air bersih, dan bau belerang terasa dari kejauhan, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow pan across a refugee tent camp, residents coughing behind masks, children on mats, aid workers handing out clean water, sulfur haze in the distance.",
+      "duration_hint": 10,
+      "id": "shot_019",
+      "chapter": 2
+    },
+    {
+      "shot": 20,
+      "babak": 2,
+      "media": "image",
+      "narration": "Desa pertama tenggelam, lalu desa berikutnya. Renokenongo, Jatirejo, dan tetangganya satu per satu ditinggalkan, atap rumah menyembul dari lumpur seperti perahu karam.",
+      "visual_prompt": "Atap-atap rumah menyembul dari lumpur seperti perahu karam, menara masjid kecil yang miring, dan perahu kayu yang terdampar di atas genangan lumpur kering, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_020",
+      "chapter": 2
+    },
+    {
+      "shot": 21,
+      "babak": 2,
+      "media": "video",
+      "narration": "Jalan raya terputus, rel kereta terendam, listrik dan telepon padam. Porong yang dulu jalur ramai Surabaya-Malang mendadak lumpuh, dan ribuan orang mengungsi tanpa tahu kapan pulang.",
+      "visual_prompt": "Jalan raya yang terputus oleh lumpur dengan rel kereta yang terendam, tiang listrik roboh, dan antrean kendaraan yang berhenti di ujung jalan yang buntu, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow crane shot over a road severed by mud, submerged railway tracks, toppled power poles, and a long queue of vehicles halted at the dead end.",
+      "duration_hint": 10,
+      "id": "shot_021",
+      "chapter": 2
+    },
+    {
+      "shot": 22,
+      "babak": 2,
+      "media": "image",
+      "narration": "Tanggul darurat dibangun tergesa-gesa, karung demi karung, alat berat bekerja siang malam. Tapi pada dua belas Juli, tanggul di Jatirejo jebol, dan lumpur kembali menyerbu permukiman.",
+      "visual_prompt": "Alat berat dan pekerja membangun tanggul darurat dari karung-karung tanah, siang dan malam, dengan lumpur yang merembes di sela karung dan air keruh yang meluap, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_022",
+      "chapter": 2
+    },
+    {
+      "shot": 23,
+      "babak": 2,
+      "media": "video",
+      "narration": "Di tengah kepanikan itu, seorang ibu berkata lirih bahwa hujan semalam seolah berbisik. Kata hujan, begitu ceritanya, tanah ini sudah lama menahan beban yang terlalu berat.",
+      "visual_prompt": "Seorang ibu berdiri di depan tenda pengungsian menatap langit hujan yang turun rintik-rintik, wajahnya lirih, dan genangan lumpur memantulkan cahaya redup di sekelilingnya, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on a mother standing before a refugee tent in drizzling rain, sorrowful face, mud puddles reflecting dim light around her.",
+      "duration_hint": 10,
+      "id": "shot_023",
+      "chapter": 2
+    },
+    {
+      "shot": 24,
+      "babak": 2,
+      "media": "image",
+      "narration": "Dua puluh sembilan Mei dua ribu enam pun tercatat sebagai hari ketika peta Sidoarjo berubah selamanya. Bukan karena perang, bukan karena gempa di sini, tapi karena tanah yang mendadak muntah.",
+      "visual_prompt": "Peta Sidoarjo yang robek dan bernoda lumpur di atas meja, dengan wilayah Porong yang dilingkari tinta merah, dan tangan menunjuk tanggal yang dicatat di pinggir peta, dengan palet cokelat kelabu yang tegang, cahaya subuh kekuningan yang gelisah, asap tipis yang mengepul, dan tekstur dokumenter yang kasar, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_024",
+      "chapter": 2
+    },
+    {
+      "shot": 25,
+      "babak": 3,
+      "media": "video",
+      "narration": "Begitu lumpur meluas, satu pertanyaan membelah semua orang. Apakah ini ulah pengeboran yang salah langkah, atau gempa Jogja dua hari sebelumnya yang membuka rekahan di bawah tanah?",
+      "visual_prompt": "Dua kelompok orang berdebat sengit di balai warga, satu menunjuk foto menara bor, satu lagi menunjuk peta gempa, dengan warga lain mendengarkan tegang di sekeliling mereka, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow circling shot inside a village hall where two groups argue fiercely, one pointing at a drilling rig photo, the other at an earthquake map, tense onlookers.",
+      "duration_hint": 10,
+      "id": "shot_025",
+      "chapter": 3
+    },
+    {
+      "shot": 26,
+      "babak": 3,
+      "media": "image",
+      "narration": "Dua hari sebelum semburan, gempa mengguncang Yogyakarta dan menewaskan hampir enam ribu orang. Jaraknya sekitar dua ratus empat puluh kilometer dari Porong, jauh, tapi bagi sebagian ahli, cukup dekat untuk menggoyang perut bumi.",
+      "visual_prompt": "Kota Yogyakarta yang porak-poranda sesudah gempa, bangunan roboh dan warga mengungsi di lapangan, dengan debu tebal yang masih menggantung di udara pagi, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_026",
+      "chapter": 3
+    },
+    {
+      "shot": 27,
+      "babak": 3,
+      "media": "video",
+      "narration": "Kubu pertama menuding pengeboran. Lumpur pengeboran hilang ke dalam formasi, tekanan tidak terkendali, dan casing pelindung bawah sumur tidak pernah dipasang. Tiga kesalahan itu, kata mereka, cukup untuk meledakkan sumur.",
+      "visual_prompt": "Penampang bawah tanah bergaya diagram yang menunjukkan lubang bor tanpa casing pelindung bawah, lumpur pengeboran yang hilang ke formasi, dan tekanan yang lepas kendali, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Animated underground cross-section shot, camera descending along a borehole missing its lower protective casing, drilling mud vanishing into rock formations.",
+      "duration_hint": 10,
+      "id": "shot_027",
+      "chapter": 3
+    },
+    {
+      "shot": 28,
+      "babak": 3,
+      "media": "image",
+      "narration": "Audit Badan Pemeriksa Keuangan pada dua puluh sembilan Mei dua ribu tujuh menemukan kesalahan teknis dalam pengeboran itu. Laporan resmi negara, bukan gosip warung, dan kubu pertama pun merasa menang.",
+      "visual_prompt": "Dokumen audit resmi yang tebal di atas meja dengan stempel dan tanda tangan, tangan pemeriksa menunjuk halaman temuan teknis, dan suasana kantor yang serius, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_028",
+      "chapter": 3
+    },
+    {
+      "shot": 29,
+      "babak": 3,
+      "media": "video",
+      "narration": "Asykoli inna yama kalima. Begitu ujar penutur lama saat membaca laporan itu, seolah kalimat gaib itu menegaskan bahwa manusia memang sering lalai menjaga amanah yang dititipkan padanya.",
+      "visual_prompt": "Seorang penutur tua membaca laporan audit di beranda rumah, kacamata di ujung hidung, dengan warga yang duduk melingkar mendengarkan dan lumpur di kejauhan, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on an old storyteller reading an audit report on a house porch, glasses low on his nose, villagers seated in a circle listening intently.",
+      "duration_hint": 10,
+      "id": "shot_029",
+      "chapter": 3
+    },
+    {
+      "shot": 30,
+      "babak": 3,
+      "media": "image",
+      "narration": "Tapi kubu kedua tidak diam. Insinyur Dusseault dan Singh, juga insinyur Ralph Adams, berpendapat gempa membuka rekahan bawah tanah yang membuat lumpur dalam menerobos naik ke permukaan.",
+      "visual_prompt": "Dua insinyur berdiskusi di depan papan tulis penuh diagram rekahan bawah tanah, satu menunjuk garis patahan gempa, satu lagi mengangguk sambil mencatat, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_030",
+      "chapter": 3
+    },
+    {
+      "shot": 31,
+      "babak": 3,
+      "media": "video",
+      "narration": "Bayangkan dua jarum jam yang berdetak bersamaan. Gempa mengguncang, sumur goyah, dan lumpur pun menemukan jalan keluar. Teori ini terdengar masuk akal, terutama bagi yang tidak percaya pada kebetulan.",
+      "visual_prompt": "Ilustrasi dua jarum jam raksasa yang berdetak bersamaan di atas peta Jawa Timur, satu menunjuk gempa, satu menunjuk semburan, dengan garis merah yang menghubungkan keduanya, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow overhead shot of two giant clock hands ticking together over a map of East Java, one marking the quake, one marking the eruption, connected by a red line.",
+      "duration_hint": 10,
+      "id": "shot_031",
+      "chapter": 3
+    },
+    {
+      "shot": 32,
+      "babak": 3,
+      "media": "image",
+      "narration": "Coba hitung dengan cara lain: bagi jarak gempa ke Porong dengan hari jedanya. Dua ratus empat puluh kilometer dibagi dua hari, hasilnya seratus dua puluh. Angka yang bulat, kata sebagian orang, tidak mungkin sekadar kebetulan.",
+      "visual_prompt": "Tangan menghitung dengan jari di atas peta yang menunjukkan jarak gempa ke Porong, angka-angka coretan di kertas, dan wajah serius orang yang sedang menghitung, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_032",
+      "chapter": 3
+    },
+    {
+      "shot": 33,
+      "babak": 3,
+      "media": "video",
+      "narration": "Jangan kabur dulu. Ada pula yang bilang keduanya benar sekaligus: gempa memicu, pengeboran memperparah. Kombinasi, bukan satu penyebab tunggal, dan itulah jawaban yang paling sulit dibantah.",
+      "visual_prompt": "Tangan dua orang yang berjabat di tengah perdebatan, simbol gabungan dua teori, dengan warga yang mengangguk lega dan suasana balai yang mulai mencair, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on two hands shaking in the middle of a debate, symbolizing the combined theory, villagers nodding in relief as the hall atmosphere softens.",
+      "duration_hint": 10,
+      "id": "shot_033",
+      "chapter": 3
+    },
+    {
+      "shot": 34,
+      "babak": 3,
+      "media": "image",
+      "narration": "Namun di balik perdebatan itu, ada satu hal yang tidak diperdebatkan siapa pun. Lumpur terus menyembur, desa terus tenggelam, dan warga tidak peduli teori mana yang menang, mereka hanya ingin pulang.",
+      "visual_prompt": "Warga pengungsi duduk di tepi tanggul menatap kolam lumpur dengan wajah lelah, anak bermain di tanah kering, dan rumah-rumah yang hilang hanya tinggal kenangan, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_034",
+      "chapter": 3
+    },
+    {
+      "shot": 35,
+      "babak": 3,
+      "media": "video",
+      "narration": "Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Begitu kata penutur sambil menunjuk tanah, seolah makhluk terkecil sekalipun tahu bahwa bumi ini sudah memberi peringatan sejak lama.",
+      "visual_prompt": "Semut-semut berbaris di atas tanah retak dekat kolam lumpur, seorang penutur menunjuk ke arah mereka dengan jari, dan cahaya matahari menyorot barisan kecil itu, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Extreme close-up tracking shot of ants marching across cracked earth near the mud pond, a storyteller pointing at them, sunlight highlighting the tiny column.",
+      "duration_hint": 10,
+      "id": "shot_035",
+      "chapter": 3
+    },
+    {
+      "shot": 36,
+      "babak": 3,
+      "media": "image",
+      "narration": "Babak ini ditutup tanpa pemenang. Bor atau gempa, dua cerita berdiri sama tegak, dan penontonlah yang nanti menimbang mana yang lebih masuk akal di kepala masing-masing.",
+      "visual_prompt": "Timbangan keadilan bergaya simbolik di tengah balai warga, dua sisi yang sama berat, dengan penonton yang menatap dan suasana hening yang menggantung, dengan palet biru baja yang dingin, cahaya ruang rapat yang keras dan kontras, bayangan tegas yang tajam, dan butir film yang tegas, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_036",
+      "chapter": 3
+    },
+    {
+      "shot": 37,
+      "babak": 4,
+      "media": "video",
+      "narration": "Para ahli akhirnya dikumpulkan dalam satu forum besar di Amerika pada dua ribu delapan. Mereka diminta berpendapat, dan hasilnya mengejutkan banyak orang yang mengira perdebatan sudah selesai.",
+      "visual_prompt": "Ruang konferensi besar di Amerika dengan para ahli berkumpul, layar presentasi menampilkan peta semburan lumpur, dan peserta yang mengangkat tangan untuk berpendapat, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Wide slow pan across a large conference hall in America, experts gathered, a presentation screen showing the mud eruption map, hands raised to speak.",
+      "duration_hint": 10,
+      "id": "shot_037",
+      "chapter": 4
+    },
+    {
+      "shot": 38,
+      "babak": 4,
+      "media": "image",
+      "narration": "Empat puluh dua ahli menyatakan pengeboran sebagai penyebabnya. Tiga ahli mendukung teori gempa, tiga belas memilih kombinasi, dan enam belas belum beropini. Suara terbanyak jelas, tapi suara lain tidak hilang.",
+      "visual_prompt": "Papan hitung suara dengan angka-angka pendapat ahli yang ditulis kapur, sebagian besar di satu kolom, sisanya tersebar di kolom lain, dan suasana sidang yang serius, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_038",
+      "chapter": 4
+    },
+    {
+      "shot": 39,
+      "babak": 4,
+      "media": "video",
+      "narration": "Dengar baik-baik. Inilah batas bukti yang harus jujur diakui: tidak ada kamera di dalam perut bumi. Semua kesimpulan dibaca dari data, bukan dari mata yang melihat langsung kejadiannya.",
+      "visual_prompt": "Kamera yang diarahkan ke dalam lubang gelap tanpa dasar, simbol batas bukti, dengan senter yang cahayanya tidak mencapai ujung, dan tangan yang memegang kamera dengan ragu, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow descent of a camera toward a dark bottomless hole, flashlight beam failing to reach the end, a hesitant hand holding the camera, symbolizing the limits of proof.",
+      "duration_hint": 10,
+      "id": "shot_039",
+      "chapter": 4
+    },
+    {
+      "shot": 40,
+      "babak": 4,
+      "media": "image",
+      "narration": "Dan di sinilah penutur mulai naik darah! Bertahun-tahun saling lempar tanggung jawab, sementara warga menunggu ganti rugi yang tidak kunjung tuntas. Memalukan! Itu bukan musibah lagi, itu kelalaian yang dipelihara!",
+      "visual_prompt": "Seorang penutur berdiri dengan tangan mengepal dan wajah memerah karena marah, menunjuk ke arah tumpukan berkas ganti rugi, dengan warga yang mendengarkan tegang, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_040",
+      "chapter": 4
+    },
+    {
+      "shot": 41,
+      "babak": 4,
+      "media": "video",
+      "narration": "Marah kedua diarahkan pada mereka yang mengabaikan peringatan. Tanda-tanda sudah ada, tekanan sudah aneh, tapi pekerjaan jalan terus seolah bumi bisa diajak bercanda. Bumi tidak bisa diajak bercanda!",
+      "visual_prompt": "Pekerja pengeboran yang mengabaikan alarm peringatan di panel kontrol, lampu merah berkedip, dan rekan yang menoleh khawatir, dengan suasana tegang di dalam ruangan, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Tense slow push-in on drilling workers ignoring a blinking red alarm on a control panel, a worried colleague turning to look, pressure building in the room.",
+      "duration_hint": 10,
+      "id": "shot_041",
+      "chapter": 4
+    },
+    {
+      "shot": 42,
+      "babak": 4,
+      "media": "image",
+      "narration": "Ma askoli inna kaliyamata inna asqoli. Begitu gumam penutur di tengah omelannya, kalimat panjang yang seolah mengingatkan bahwa kesombongan manusia selalu dibayar mahal oleh tanah yang dipijaknya.",
+      "visual_prompt": "Penutur tua yang mengomel dengan tangan terangkat di tengah warga, kalimat panjang yang diucapkan dengan mantap, dan wajah-wajah yang mengangguk mendengarkan, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_042",
+      "chapter": 4
+    },
+    {
+      "shot": 43,
+      "babak": 4,
+      "media": "video",
+      "narration": "Tapi marah ini punya batas. Korban tetap dihormati, duka warga tidak dijadikan bahan tertawaan. Yang disemprot adalah kelalaian, bukan orang yang kehilangan rumahnya.",
+      "visual_prompt": "Warga korban yang duduk tenang dengan foto keluarga di pangkuan, bunga layu di sampingnya, dan suasana hormat yang hening di dalam tenda pengungsian, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow respectful dolly toward a victim seated with a family photo on his lap, a wilted flower beside him, quiet solemn atmosphere inside a refugee tent.",
+      "duration_hint": 10,
+      "id": "shot_043",
+      "chapter": 4
+    },
+    {
+      "shot": 44,
+      "babak": 4,
+      "media": "image",
+      "narration": "Cacing di tanah itu berbisik, begitu kata seorang petani tua, bahwa tanah yang dikeruk tanpa izin akan membalas dengan caranya sendiri. Bukan sains, tapi peringatan yang diwariskan dari mulut ke mulut.",
+      "visual_prompt": "Seorang petani tua berjongkok memegang segenggam tanah yang basah oleh lumpur, cacing tanah terlihat di sela jarinya, dan sawah yang mati membentang di belakangnya, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_044",
+      "chapter": 4
+    },
+    {
+      "shot": 45,
+      "babak": 4,
+      "media": "video",
+      "narration": "Skeptis yang sehat bertanya begini: kalau gempa penyebabnya, mengapa hanya satu titik yang menyembur? Kalau bor penyebabnya, mengapa semburan tidak berhenti setelah sumur ditutup? Dua pertanyaan, belum ada jawaban final.",
+      "visual_prompt": "Seorang skeptis muda berdiri di depan papan tulis dengan dua pertanyaan besar yang ditulis kapur, satu tentang gempa, satu tentang bor, dan penonton yang berpikir, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on a young skeptic standing before a blackboard with two big chalk questions, one about the quake, one about the drill, audience deep in thought.",
+      "duration_hint": 10,
+      "id": "shot_045",
+      "chapter": 4
+    },
+    {
+      "shot": 46,
+      "babak": 4,
+      "media": "image",
+      "narration": "Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Begitu kata penutur menutup babak ini, seolah makhluk terkecil sekalipun sudah bosan mendengar manusia saling menyalahkan tanpa henti.",
+      "visual_prompt": "Semut-semut yang berbaris pergi menjauhi kerumunan manusia yang berdebat, penutur menunjuk mereka sambil tersenyum getir, dan lumpur yang mendesis di latar belakang, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_046",
+      "chapter": 4
+    },
+    {
+      "shot": 47,
+      "babak": 4,
+      "media": "video",
+      "narration": "Kerugian ditaksir lebih dari empat puluh lima triliun rupiah, dan dua puluh orang dilaporkan meninggal dunia akibat musibah ini. Dua puluh nama, bukan sekadar angka di berita.",
+      "visual_prompt": "Tumpukan berkas ganti rugi dan kalkulator di atas meja, dengan foto keluarga korban yang dibingkai, dan suasana kantor yang muram dan penuh penantian, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow pan across a desk piled with compensation files and a calculator, a framed family photo of a victim, gloomy office mood full of waiting.",
+      "duration_hint": 10,
+      "id": "shot_047",
+      "chapter": 4
+    },
+    {
+      "shot": 48,
+      "babak": 4,
+      "media": "image",
+      "narration": "Sepuluh ribu, empat ratus dua puluh enam rumah dan tujuh puluh tujuh rumah ibadah terendam. Setiap angka itu adalah dapur, kamar tidur, dan tempat sembahyang yang tidak pernah kembali seperti semula.",
+      "visual_prompt": "Barisan rumah yang terendam lumpur hingga atap, menara rumah ibadah yang miring di kejauhan, dan perahu kayu yang mengapung di atas genangan kelabu, dengan palet merah bata yang membara, cahaya senja yang keras dan menyorot, debu beterbangan di udara, dan tekstur film yang tajam, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_048",
+      "chapter": 4
+    },
+    {
+      "shot": 49,
+      "babak": 5,
+      "media": "video",
+      "narration": "Hari ini, kawasan itu dijaga seperti monumen. Tanggul raksasa mengelilingi kolam lumpur, petugas berpatroli, dan papan peringatan melarang siapa pun mendekat terlalu jauh.",
+      "visual_prompt": "Tanggul raksasa yang dijaga petugas patroli dengan papan peringatan, pagar kawat di sekeliling kolam lumpur, dan bendera kecil yang berkibar di pos jaga, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Steady tracking shot along the guarded mega embankment, patrol officers and warning signs, wire fence around the mud pond, small flag fluttering at the guard post.",
+      "duration_hint": 10,
+      "id": "shot_049",
+      "chapter": 5
+    },
+    {
+      "shot": 50,
+      "babak": 5,
+      "media": "image",
+      "narration": "Sebagian warga menerima ganti rugi lewat PT Minarak Lapindo Jaya, perusahaan yang dibentuk khusus untuk itu. Sebagian lagi menunggu bertahun-tahun, mengurus berkas yang berpindah meja, berharap namanya tidak hilang dari daftar.",
+      "visual_prompt": "Kantor pelayanan ganti rugi dengan antrean warga membawa map berkas, petugas yang memeriksa dokumen, dan papan daftar nama yang ditempel di dinding, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_050",
+      "chapter": 5
+    },
+    {
+      "shot": 51,
+      "babak": 5,
+      "media": "video",
+      "narration": "Jangan heran kalau ada yang tertawa getir mendengar kata ganti rugi. Baginya, uang tidak mengembalikan sawah, tidak mengembalikan tetangga, dan tidak mengembalikan kampung yang sudah jadi kolam.",
+      "visual_prompt": "Seorang warga tua tertawa getir sambil memegang amplop ganti rugi yang tipis, duduk di depan rumah kontrakan sederhana, dengan mata yang berkaca-kaca, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on an elderly resident laughing bitterly while holding a thin compensation envelope, seated before a simple rented house, eyes glistening.",
+      "duration_hint": 10,
+      "id": "shot_051",
+      "chapter": 5
+    },
+    {
+      "shot": 52,
+      "babak": 5,
+      "media": "image",
+      "narration": "Tapi hidup terus berjalan dengan caranya yang keras kepala. Warung buka lagi, anak-anak sekolah lagi, dan di pinggir tanggul, penjual suvenir menawarkan miniatur lumpur kepada pengunjung. Syududu.",
+      "visual_prompt": "Warung suvenir di pinggir tanggul yang menjual miniatur lumpur dalam botol kaca, pengunjung yang memilih-milih, dan anak penjual yang tersenyum ramah, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_052",
+      "chapter": 5
+    },
+    {
+      "shot": 53,
+      "babak": 5,
+      "media": "video",
+      "narration": "Coba hitung dengan tanggalnya: semburan muncul tanggal dua puluh sembilan, gempa terjadi tanggal dua puluh tujuh, selisihnya dua hari. Dua hari yang mengubah nasib belasan desa untuk selamanya.",
+      "visual_prompt": "Kalender dinding dengan dua tanggal yang dilingkari tinta merah, tangan yang menghitung selisih hari dengan jari, dan foto semburan lumpur yang ditempel di sampingnya, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Close-up tracking shot of a wall calendar with two dates circled in red ink, a hand counting the day difference on fingers, an eruption photo pinned beside it.",
+      "duration_hint": 10,
+      "id": "shot_053",
+      "chapter": 5
+    },
+    {
+      "shot": 54,
+      "babak": 5,
+      "media": "image",
+      "narration": "Kata jin penjaga tanah, begitu cerita yang beredar di warung kopi, lumpur ini akan berhenti saat manusia berhenti berebut siapa yang salah. Cerita rakyat, tentu saja, tapi didengar dengan wajah serius.",
+      "visual_prompt": "Warung kopi sederhana dengan para lelaki tua yang bercerita sambil menyeruput kopi, asap rokok mengepul tipis, dan kolam lumpur yang tampak dari jendela warung, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_054",
+      "chapter": 5
+    },
+    {
+      "shot": 55,
+      "babak": 5,
+      "media": "video",
+      "narration": "Syalala. Begitu penutur menutup cerita warung itu, singkat, seolah berkata bahwa perdebatan manusia memang sering berakhir dengan satu kata yang tidak menyelesaikan apa-apa.",
+      "visual_prompt": "Penutur tua yang menutup cerita dengan satu kata singkat, tangan terangkat, dan pendengar yang tertawa kecil sambil mengangguk di warung kopi yang hangat, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow orbit around an old storyteller closing his tale with a single short word, hand raised, listeners chuckling and nodding in a warm coffee stall.",
+      "duration_hint": 10,
+      "id": "shot_055",
+      "chapter": 5
+    },
+    {
+      "shot": 56,
+      "babak": 5,
+      "media": "image",
+      "narration": "Semburan diperkirakan bisa berlangsung puluhan tahun lagi. Anak yang lahir saat lumpur pertama muncul kini sudah remaja, dan mungkin anaknya kelak masih melihat lumpur yang sama.",
+      "visual_prompt": "Anak remaja yang lahir pada tahun semburan kini berdiri di atas tanggul menatap kolam lumpur, seragam sekolahnya berkibar tertiup angin, dan masa depan yang menggantung, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_056",
+      "chapter": 5
+    },
+    {
+      "shot": 57,
+      "babak": 5,
+      "media": "video",
+      "narration": "Para ilmuwan terus memantau dari kejauhan, mengukur volume, suhu, dan pergerakan tanah. Data bertambah setiap tahun, tapi jawaban final tentang kapan ia berhenti masih belum ada.",
+      "visual_prompt": "Para ilmuwan dengan alat ukur dan tripod di atas tanggul, mencatat volume dan suhu lumpur, dengan laptop dan grafik yang terbuka di atas meja lipat, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow tracking shot of scientists with measuring instruments and a tripod on the embankment, recording mud volume and temperature, laptop and charts on a folding table.",
+      "duration_hint": 10,
+      "id": "shot_057",
+      "chapter": 5
+    },
+    {
+      "shot": 58,
+      "babak": 5,
+      "media": "image",
+      "narration": "Kata malaikat pencatat, begitu ujar penutur dengan nada datar, setiap rumah yang tenggelam tercatat rapi, lengkap dengan nama pemiliknya dan tahun ia dibangun. Laporan biasa, katanya, bukan dongeng.",
+      "visual_prompt": "Buku catatan besar yang terbuka dengan daftar nama pemilik rumah yang ditulis rapi, tangan yang menulis dengan pena, dan cahaya lampu yang hangat di atas meja, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_058",
+      "chapter": 5
+    },
+    {
+      "shot": 59,
+      "babak": 5,
+      "media": "video",
+      "narration": "Jadi, inilah pertanyaan yang ditinggalkan film ini untukmu. Apakah ini murni kesalahan manusia, murni gempa, atau gabungan keduanya yang tidak mau diakui siapa pun?",
+      "visual_prompt": "Seorang pemuda menatap kamera dengan pertanyaan di wajahnya, kolam lumpur membentang di belakangnya, dan suasana hening yang menunggu jawaban penonton, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "video_prompt": "Slow push-in on a young man looking into the camera with a question on his face, the mud pond stretching behind him, silence waiting for the audience's answer.",
+      "duration_hint": 10,
+      "id": "shot_059",
+      "chapter": 5
+    },
+    {
+      "shot": 60,
+      "babak": 5,
+      "media": "image",
+      "narration": "Lumpur masih mendesis di Porong sampai hari ini. Kalau kau berdiri di atas tanggul itu, dengarkan baik-baik, lalu jawab sendiri: siapa yang harus bertanggung jawab, dan sampai kapan kita menunggu?",
+      "visual_prompt": "Seorang pengunjung berdiri sendirian di atas tanggul saat senja menatap kolam lumpur yang mendesis, angin menggerakkan bajunya, dan matahari tenggelam di balik tanggul, dengan palet hijau kelabu yang tenang, cahaya sore yang hangat dan melankolis, udara jernih yang lapang, dan butir film lembut yang sendu, komposisi berlapis, latar depan tajam, dan detail tekstur yang kaya.",
+      "id": "shot_060",
+      "chapter": 5
+    }
+  ]
+}
