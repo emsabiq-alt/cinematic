@@ -1,0 +1,604 @@
+{
+ "shots": [
+  {
+   "shot": 1,
+   "babak": 1,
+   "media": "video",
+   "narration": "Di Pelabuhan Ratu ada kamar hotel yang tak pernah dibuka untuk tamu biasa. Kamar tiga ratus delapan, rumah penguasa laut selatan. Pintunya selalu terkunci, tapi penghuninya tak pernah pergi. Seram? Masuk saja.",
+   "visual_prompt": "Kamera meluncur lambat menyusuri koridor hotel tua di tepi pantai saat senja, dinding kusam dan lampu gantung temaram. Di ujung lorong, pintu kayu berukir ombak bernomor tiga ratus delapan berdiri setengah terbuka. Gorden hijau bergerak pelan tertiup angin laut, debu melayang dalam sorot cahaya, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "video_prompt": "Slow dolly shot gliding down a dim vintage hotel corridor at dusk, ending at a carved wooden door numbered 308; green curtains sway in sea breeze, dust particles float in shafts of light, mysterious and tense atmosphere, cinematic lighting, 35mm film look",
+   "duration_hint": 10,
+   "id": "shot_001",
+   "chapter": 1
+  },
+  {
+   "shot": 2,
+   "babak": 1,
+   "media": "image",
+   "narration": "Begitu pintu dibuka, yang menyambut bukan resepsionis melainkan semburan hijau dari segala arah. Sprei hijau, bantal hijau, dinding hijau, kursi pun hijau. Seolah ruangan ini tenggelam di dasar samudra.",
+   "visual_prompt": "Potret interior kamar serba hijau dari sudut rendah, sprei dan bantal hijau zamrud di ranjang kayu ukir, dinding hijau tua berbingkai emas, kursi beludru hijau di dekat jendela. Cahaya sore masuk lewat tirai tipis membentuk garis lembut di lantai kayu. Suasana hening, megah, dan sedikit menekan, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "id": "shot_002",
+   "chapter": 1
+  },
+  {
+   "shot": 3,
+   "babak": 1,
+   "media": "video",
+   "narration": "Perhatikan lukisan di dinding utama. Karya Basoeki Abdullah, perempuan cantik bergaun hijau menatap ke pintu. Kata juru kunci kamar itu, tatapannya mengikuti siapa pun yang menatap balik. Jangan menantangnya.",
+   "visual_prompt": "Close-up perlahan mendekati lukisan besar bergaya Basoeki Abdullah di dinding utama, perempuan cantik bergaun hijau bertatapan tajam menembus bingkai emas. Kamera berputar halus mengelilingi bingkai, bayangan lilin menari di kanvas. Sorot mata lukisan seolah mengikuti lensa ke mana pun bergerak, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "video_prompt": "Slow push-in and orbital movement around a large oil painting of a beautiful woman in a green gown, candlelight flickering across the canvas, her painted eyes seeming to follow the camera, baroque horror mood, shallow depth of field, cinematic",
+   "duration_hint": 10,
+   "id": "shot_003",
+   "chapter": 1
+  },
+  {
+   "shot": 4,
+   "babak": 1,
+   "media": "image",
+   "narration": "Di sudut ruangan ada kotak kaca berisi kebaya hijau dan perhiasan berkilau. Persembahan petapa yang katanya doanya dikabulkan. Bayarannya lunas, bungkusnya rapi. Sang ratu tak pernah berutang pada siapa pun.",
+   "visual_prompt": "Komposisi simetris kotak kaca di atas meja kayu jati, di dalamnya kebaya hijau bordir emas terlipat rapi di samping untaian perhiasan berkilau. Pantulan cahaya lilin berpendar di permukaan kaca, latar dinding hijau gelap dengan bayangan samar. Kesan persembahan sakral yang terjaga rapi, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "id": "shot_004",
+   "chapter": 1
+  },
+  {
+   "shot": 5,
+   "babak": 1,
+   "media": "video",
+   "narration": "Kata jin penjaga lorong hotel itu, dia pernah berbisik begini pada malam Jumat. Sirruna makhfi, gerbang laut tidak pernah ditutup katanya. Bisikan itu didengar tiga orang sekaligus. Merinding? Wajar.",
+   "visual_prompt": "Handheld tracking shot menyusuri lorong hotel yang gelap pada malam hari, hanya diterangi lilin di dinding. Kamera bergetar halus melewati deretan pintu kayu tua, bayangan panjang menari di lantai. Di ujung lorong, sosok kabur bergaun hijau melintas sekilas lalu lenyap di balik tikungan, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "video_prompt": "Handheld tracking shot through a dark hotel corridor at night lit only by wall candles, camera trembling past old wooden doors, long dancing shadows; at the far end a blurred figure in a green gown vanishes around the corner, found-footage tension, cinematic",
+   "duration_hint": 10,
+   "id": "shot_005",
+   "chapter": 1
+  },
+  {
+   "shot": 6,
+   "babak": 1,
+   "media": "image",
+   "narration": "Setiap hari sesaji diletakkan di kamar itu, bunga, kembang setaman, dan dupa yang asapnya tak pernah padam. Para pelayan melakukannya tanpa tanya. Aturan mainnya sederhana. Jadwal kamar ini tak boleh diganggu.",
+   "visual_prompt": "Still life sesaji di atas nampan anyaman di lantai kamar, bunga melati dan mawar bertumpuk rapi, dupa mengepulkan asap tipis yang meliuk ke atas. Di belakangnya terlihat kaki ranjang hijau dan kaki meja ukir. Cahaya lilin dari sisi kiri menciptakan kontras dramatis antara terang dan gelap, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "id": "shot_006",
+   "chapter": 1
+  },
+  {
+   "shot": 7,
+   "babak": 1,
+   "media": "video",
+   "narration": "Catat ini. Nama penghuni kamar itu adalah Roro Kidul, ratu yang disebut-sebut menikahi para raja Jawa berabad-abad silam. Bukan dongeng pengantar tidur. Ini protokol istana yang masih berjalan sampai detik ini.",
+   "visual_prompt": "Crane shot megah turun dari langit-langit menuju ranjang hijau yang kosong di tengah kamar, tirai hijau berkibar pelan seperti ditiup napas tak terlihat. Kamera push-in perlahan ke bantal yang tampak seperti baru saja diduduki. Petir jauh menyambar di balik jendela, guntur menggelegar pelan, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "video_prompt": "Majestic crane shot descending from the ceiling toward an empty green bed in the middle of the room, green curtains billowing as if breathed upon; slow push-in on a pillow that looks freshly sat upon, distant lightning flashing outside the window, epic mysterious mood, cinematic",
+   "duration_hint": 10,
+   "id": "shot_007",
+   "chapter": 1
+  },
+  {
+   "shot": 8,
+   "babak": 1,
+   "media": "image",
+   "narration": "Ada satu larangan keras di ambang pintu. Wanita yang sedang haid dilarang masuk. Bukan soal sopan santun, ini soal frekuensi energi yang bentrok. Sang ratu pemilih soal siapa yang boleh menginjak lantainya.",
+   "visual_prompt": "Bidikan dari ambang pintu kamar yang setengah terbuka, terlihat papan larangan kecil tergantung di kusen kayu. Di dalam, siluet ranjang hijau dan lukisan perempuan bergaun hijau samar di dinding. Cahaya koridor yang hangat beradu dengan kegelapan hijau di dalam kamar, menciptakan garis batas tegas, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "id": "shot_008",
+   "chapter": 1
+  },
+  {
+   "shot": 9,
+   "babak": 1,
+   "media": "video",
+   "narration": "Maqoli inna rahmatan. Kamar ini disebut pintu antara dunia manusia dan kerajaan bawah laut. Sang ratu menerima tamu gaibnya di sini. Klaimnya besar, tapi juru kunci menyampaikannya sambil tersenyum tenang.",
+   "visual_prompt": "Aerial drone shot malam hari di atas ombak Pantai Selatan yang bergulung ganas, bulan purnama memantulkan cahaya perak di permukaan air. Kamera menukik perlahan menuju pusaran ombak yang membentuk lingkaran sempurna, seolah gerbang terbuka di tengah laut. Angin kencang, buih beterbangan, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "video_prompt": "Aerial drone shot at night over violent South Coast waves under a full moon, silver reflections on water; camera dives slowly toward a perfect circular whirlpool like a gate opening in the sea, spray flying, wind howling, epic supernatural cinematic",
+   "duration_hint": 10,
+   "id": "shot_009",
+   "chapter": 1
+  },
+  {
+   "shot": 10,
+   "babak": 1,
+   "media": "image",
+   "narration": "Coba hitung: tiga tambah nol tambah delapan sama dengan sebelas, angka ganjil yang tak bisa dibagi rata. Kata para sesepuh, itu tanda kamar ini menolak keseimbangan dunia manusia. Angka tak pernah bohong.",
+   "visual_prompt": "Close-up artistik angka tiga ratus delapan dari kuningan tua di pintu kayu berukir, permukaan logam memantulkan cahaya lilin dengan kilau hangat. Latar buram koridor hijau gelap di belakangnya. Komposisi simetris penuh, detail ukiran ombak di sekeliling angka terlihat jelas dan misterius, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "id": "shot_010",
+   "chapter": 1
+  },
+  {
+   "shot": 11,
+   "babak": 1,
+   "media": "video",
+   "narration": "Kalau dipikir-pikir, sang ratu ini tamu hotel paling tertib. Tak pernah check out, tak pernah komplain soal AC, bayarannya selalu lunas lewat doa yang dikabulkan. Hotel mana pun berebut penghuni seperti dia.",
+   "visual_prompt": "Slow dolly mengelilingi ranjang hijau yang tertata sangat rapi, bantal tersusun sempurna seperti kamar hotel bintang lima yang menunggu tamu. Kamera berhenti di meja kecil berisi buku tamu kosong dan pulpen berdebu. Lilin berkedip pelan, tirai bergoyang, tidak ada siapa-siapa, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "video_prompt": "Slow dolly orbiting a perfectly made green bed, pillows arranged flawlessly like a five-star hotel awaiting a guest; camera stops at a small table with an empty guest book and a dusty pen, candles flickering, curtains swaying, nobody there, deadpan eerie comedy, cinematic",
+   "duration_hint": 10,
+   "id": "shot_011",
+   "chapter": 1
+  },
+  {
+   "shot": 12,
+   "babak": 1,
+   "media": "image",
+   "narration": "Sebelum babak berikut membawa kita ke kisah para raja, ingat satu hal. Kamar tiga ratus delapan itu nyata dan bisa dikunjungi. Yang tak terjelaskan hanya satu. Siapa yang tidur di ranjang hijau itu. Syalala.",
+   "visual_prompt": "Wide shot seluruh kamar hijau yang kosong melompong dari sudut pintu, ranjang, kursi, dan lukisan tersusun dalam ketenangan yang ganjil. Satu lilin di meja berpendar terakhir sebelum padam, asapnya naik lurus ke langit-langit. Kesan ditinggalkan namun tetap berpenghuni, palet hijau zamrud pekat, cahaya lilin hangat yang berkedip, butir film halus",
+   "id": "shot_012",
+   "chapter": 1
+  },
+  {
+   "shot": 13,
+   "babak": 2,
+   "media": "video",
+   "narration": "Babak dua dibuka dengan darah keraton! Dewi Kadita, putri Prabu Siliwangi dari Pakuan Pajajaran, parasnya begitu memikat hingga ibu tiri yang cemburu buta nekat memasang guna-guna paling kejam.",
+   "visual_prompt": "Keraton Pakuan Pajajaran yang megah dengan pilar ukiran emas, Dewi Kadita berbusana putri keraton melangkah anggun di pendopo luas, ibu tiri menatap iri dari balik pilar gelap, asap dupa berputar di udara, bayangan jin berwajah menyeramkan merayap di dinding bata tua, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "video_prompt": "Slow dolly through a torch-lit Javanese royal hall with golden carved pillars, a beautiful princess in royal attire walking gracefully across the pendopo, a jealous stepmother glaring from dark pillars, incense smoke curling in the air, ominous spirits creeping along ancient brick walls, cinematic documentary style.",
+   "duration_hint": 10,
+   "id": "shot_013",
+   "chapter": 2
+  },
+  {
+   "shot": 14,
+   "babak": 2,
+   "media": "image",
+   "narration": "Guna-guna itu menancap dalam. Kulit sang putri dipenuhi kudis bernanah, tubuhnya layu perlahan, dan istana yang dulu memujanya kini membuangnya tanpa belas kasihan. Ini bukan kisah dongeng biasa!",
+   "visual_prompt": "Close-up dramatis wajah putri keraton dengan kulit dipenuhi luka dan kudis bernanah, gaun keratonnya yang robek dan kotor, para dayang menjauh ketakutan di latar pendopo, sorot cahaya obor menyorot wajahnya yang menderita, suasana mencekam penuh kutukan, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "id": "shot_014",
+   "chapter": 2
+  },
+  {
+   "shot": 15,
+   "babak": 2,
+   "media": "video",
+   "narration": "Kadita pun diusir dan berjalan kaki ke arah selatan tanpa bekal dan tanpa pengawal. Di tengah perjalanan yang menyayat itu, ibu kandungnya meninggal dunia. Hatinya hancur berkeping-keping.",
+   "visual_prompt": "Perempuan muda berbusana compang-camping berjalan kaki sendirian menyusuri jalan setapak menuju selatan, hutan belantara dan perbukitan gelap membentang, tubuhnya lelah tertatih memapah ibu kandungnya yang terbaring lemah, langit senja kemerahan, burung gagak beterbangan, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "video_prompt": "Handheld tracking shot following an exhausted young woman in torn garments walking a dirt path south through dark jungle and hills, carrying her weakened dying mother, murky crimson dusk sky, crows scattering overhead, emotional cinematic documentary realism.",
+   "duration_hint": 10,
+   "id": "shot_015",
+   "chapter": 2
+  },
+  {
+   "shot": 16,
+   "babak": 2,
+   "media": "image",
+   "narration": "Langkah kakinya yang luka akhirnya tiba di Karang Hawu, teluk sunyi di kawasan Pelabuhan Ratu. Di tebing karang itu ia menatap samudra lepas, lalu mengangkat sumpah yang mengguncang langit dan laut.",
+   "visual_prompt": "Tebing karang Karang Hawu yang menjulang di tepi samudra selatan, perempuan berbusana lusuh berdiri di ujung tebing menatap ombak raksasa yang menghantam karang, langit mendung bergulung gelap, percikan ombak raksasa menyembur ke udara, suasana magis penuh janji sakral, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "id": "shot_016",
+   "chapter": 2
+  },
+  {
+   "shot": 17,
+   "babak": 2,
+   "media": "video",
+   "narration": "Ia bersumpah menyerahkan seluruh hidupnya kepada lautan. Asykoli inna yama kalima. Artinya: janji yang tak bisa ditarik kembali. Itu dalilnya. Datar. Pasti. Alam pun mencatatnya.",
+   "visual_prompt": "Perempuan berdiri di tebing Karang Hawu dengan tangan terangkat tinggi ke langit saat badai bergulung, petir menyambar di kejauhan, ombak raksasa bergulung di bawahnya, gaunnya berkibar liar tertiup angin, aura energi gaib berpendar di sekeliling tubuhnya, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "video_prompt": "Crane shot rising over a cliff as a woman raises her arms to a stormy sky, lightning striking the horizon, giant waves surging below, her garments whipping in violent wind, glowing supernatural energy swirling around her body, epic cinematic documentary.",
+   "duration_hint": 10,
+   "id": "shot_017",
+   "chapter": 2
+  },
+  {
+   "shot": 18,
+   "babak": 2,
+   "media": "image",
+   "narration": "Kata jin penjaga Karang Hawu, ombak berhenti sejenak saat tubuhnya mencebur ke laut, lalu menyambutnya dengan lembut — seolah samudra menyambut seorang ratu yang pulang ke singgasananya.",
+   "visual_prompt": "Tubuh perempuan melompat dari tebing Karang Hawu ke dalam lautan biru kelam, ombak seolah berhenti membeku sesaat, makhluk halus berjubah gelap melayang di antara karang menyaksikan, cahaya kehijauan misterius memancar dari permukaan laut, suasana sunyi yang sakral, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "id": "shot_018",
+   "chapter": 2
+  },
+  {
+   "shot": 19,
+   "babak": 2,
+   "media": "video",
+   "narration": "Dan lihat keajaibannya! Penyakitnya luruh seketika, kudisnya lenyap tanpa bekas, dan ia muncul kembali dengan paras yang jauh lebih cantik dari sebelumnya. Laut selatan telah memilihnya!",
+   "visual_prompt": "Perempuan muncul dari permukaan laut dengan kulit mulus bercahaya keemasan, tetesan air berkilau di udara dalam gerak lambat, luka dan kudisnya menghilang dalam cahaya hijau mistis, ombak berpendar mengelilinginya seperti mahkota, wajahnya cantik luar biasa penuh wibawa, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "video_prompt": "Slow-motion push-in as a woman rises from dark ocean waters, glowing golden skin, water droplets sparkling in the air, green mystical light dissolving her wounds, luminous waves crowning her head, her face stunning and commanding, breathtaking cinematic fantasy documentary.",
+   "duration_hint": 10,
+   "id": "shot_019",
+   "chapter": 2
+  },
+  {
+   "shot": 20,
+   "babak": 2,
+   "media": "image",
+   "narration": "Sejak detik itu Kadita bukan lagi putri buangan — ia adalah Roro Kidul, penguasa abadi Samudra Selatan yang seluruh jin dan ombaknya tunduk patuh di bawah titahnya yang mutlak.",
+   "visual_prompt": "Perempuan bergaun hijau zamrud berdiri megah di atas ombak raksasa dengan mahkota emas bercahaya, ribuan prajurit gaib berbaris di dalam gelombang di belakangnya, petir dan cahaya ilahi membelah langit gelap, seluruh samudra selatan bersujud di hadapannya, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "id": "shot_020",
+   "chapter": 2
+  },
+  {
+   "shot": 21,
+   "babak": 2,
+   "media": "video",
+   "narration": "Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Artinya: yang dibuang akan dimuliakan. Buktinya terpampang jelas — dari putri tersisih menjadi ratu lautan. Siapa berani membantah?",
+   "visual_prompt": "Ratu bergaun hijau zamrud duduk di singgasana karang raksasa di tengah pusaran samudra, makhluk laut dan jin berbaris memberi hormat, kolom cahaya hijau keemasan menembus permukaan air, semut-semut raksasa simbolis merayap di tebing karang, wibawa mutlak terpancar, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "video_prompt": "Aerial drone shot circling a queen in emerald gown seated on a giant coral throne within a swirling ocean vortex, sea creatures and spirits bowing in ranks, golden-green light columns piercing the water, symbolic giant ants on the cliffs, majestic supernatural power, cinematic documentary.",
+   "duration_hint": 10,
+   "id": "shot_021",
+   "chapter": 2
+  },
+  {
+   "shot": 22,
+   "babak": 2,
+   "media": "image",
+   "narration": "Dengar baik-baik. Dia tidak mati di laut itu, dia justru dikukuhkan. Sang Ratu memerintah dengan wibawa mutlak, dan setiap gelombang adalah pasukannya yang setia hingga akhir zaman.",
+   "visual_prompt": "Ratu bergaun hijau zamrud mengangkat tangan memerintah, gelombang raksasa membentuk barisan prajurit air yang tegak, langit malam bergemuruh dengan awan berputar, kilat menyambar di kejauhan, kapal-kapal kecil di cakrawala tunduk pada kuasanya, suasana epik penuh kekuasaan, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "id": "shot_022",
+   "chapter": 2
+  },
+  {
+   "shot": 23,
+   "babak": 2,
+   "media": "video",
+   "narration": "Coba hitung huruf nama Kadita — enam huruf! Enam adalah angka kesempurnaan kuasa, dan enam pula jumlah babak film ini yang semuanya mengabdi pada satu singgasana. Pas. Sempurna.",
+   "visual_prompt": "Huruf-huruf kuno berpendar membentuk nama Kadita di langit malam di atas samudra selatan, enam simbol cahaya berputar membentuk lingkaran sempurna, ratu bergaun hijau berdiri di tengah lingkaran cahaya dengan tangan terentang, energi mistis mengalir deras di sekelilingnya, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "video_prompt": "Slow dolly-in toward glowing ancient letters forming a name in the night sky above the southern ocean, six radiant symbols rotating in a perfect circle, a queen in green gown standing at its center with arms outstretched, mystical energy flowing, powerful cinematic fantasy.",
+   "duration_hint": 10,
+   "id": "shot_023",
+   "chapter": 2
+  },
+  {
+   "shot": 24,
+   "babak": 2,
+   "media": "image",
+   "narration": "Maka catat baik-baik: dari luka ia bangkit, dari buangan ia berkuasa, dan samudra selatan menjadi miliknya untuk selama-lamanya. Tak terbantahkan. Tak tergoyahkan. Syududu.",
+   "visual_prompt": "Ratu bergaun hijau zamrud berdiri di puncak ombak tertinggi dengan mahkota bercahaya, matahari terbit keemasan membelah cakrawala samudra selatan, seluruh lautan berkilau emas kemerahan, bayangan prajurit gaib memberi hormat di kejauhan, penutup babak yang megah, palet emas-merah keraton yang megah lalu rimba selatan yang liar, cahaya obor dramatis, kabut tipis",
+   "id": "shot_024",
+   "chapter": 2
+  },
+  {
+   "shot": 25,
+   "babak": 3,
+   "media": "video",
+   "narration": "Abad ke enam belas, Panembahan Senopati pendiri Mataram Islam berjalan menuju Pantai Parangkusumo. Ia duduk bersila di atas batu karang dan bertapa hingga lautan menahan napas. Bertapa! Sampai langit luluh!",
+   "visual_prompt": "Wide shot dramatis Pantai Parangkusumo malam hari, lelaki bersila di puncak batu karang hitam, ombak raksasa pecah mengelilingi karang, bulan purnama rendah di cakrawala, kabut tipis di permukaan air, siluet tebing karst kejauhan, buih ombak membeku di udara, kontras tinggi, suasana mistis mencekam, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "video_prompt": "Slow dolly-in across a moonlit beach toward a lone man meditating on a black rock, massive waves crashing around him, full moon low on the horizon, mist drifting over dark water, cinematic teal-blue grade, dramatic high contrast, 24fps.",
+   "duration_hint": 10,
+   "id": "shot_025",
+   "chapter": 3
+  },
+  {
+   "shot": 26,
+   "babak": 3,
+   "media": "image",
+   "narration": "Dari buih ombak yang pecah di karang, sosok itu muncul. Perempuan bergaun hijau, mahkota berkilau diterpa bulan, menatap lelaki yang bertapa itu lama sekali. Lalu dia jatuh cinta. Seketika. Tanpa aba-aba.",
+   "visual_prompt": "Close-up sinematik perempuan bergaun hijau zamrud muncul dari buih ombak, mahkota emas berkilau diterpa cahaya bulan, rambut panjang basah berkibar, tatapan tajam menembus kamera, tetesan air membeku di udara, latar ombak raksasa bergulung, komposisi simetris megah, detail kain berkilau, suasana gaib memikat, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "id": "shot_026",
+   "chapter": 3
+  },
+  {
+   "shot": 27,
+   "babak": 3,
+   "media": "video",
+   "narration": "Ma askoli inna kaliyamata inna asqoli. Begitu ucapannya, datar dan mantap. Sang Ratu berjanji pada Senopati: aku membantumu melawan Pajang, kemenangan Mataram lahir dari tanganku. Janji ratu tidak main-main!",
+   "visual_prompt": "Adegan dialog gaib di tepi karang, perempuan bergaun hijau berhadapan dengan lelaki bertapa, tangan sang Ratu terangkat memberi janji, cahaya bulan purnama membelah awan, ombak tenang seolah mendengar, komposisi two-shot profil berhadapan, atmosfer sakral menegangkan, detail cahaya rim di siluet keduanya, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "video_prompt": "Slow push-in two-shot of a woman in an emerald gown facing a meditating man on coastal rocks, moonlight breaking through clouds, waves calming around them, ethereal rim light on both silhouettes, mystical tension, cinematic teal grade.",
+   "duration_hint": 10,
+   "id": "shot_027",
+   "chapter": 3
+  },
+  {
+   "shot": 28,
+   "babak": 3,
+   "media": "image",
+   "narration": "Sejak malam itu dia bukan lagi sekadar penguasa laut selatan. Dia menjadi istri spiritual Senopati, lalu istri spiritual raja-raja Mataram penerusnya. Satu per satu. Turun-temurun. Pernikahan gaib yang abadi.",
+   "visual_prompt": "Prosesi gaib pernikahan spiritual, perempuan bergaun hijau di singgasana karang dikelilingi ombak, deretan siluet raja Jawa berlutut memberi hormat, obor menyala di antara kabut, bulan purnama sebagai saksi, komposisi low angle megah, kain gaun berkibar tertiup angin laut, suasana agung penuh wibawa, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "id": "shot_028",
+   "chapter": 3
+  },
+  {
+   "shot": 29,
+   "babak": 3,
+   "media": "video",
+   "narration": "Kisah ini tidak datang dari angin lalu. Naskah tertua yang menuliskannya adalah Babad Tanah Jawi, dari abad ke sembilan belas. Pujangga kraton mencatatnya rapi dan resmi, seolah peristiwa biasa. Catatan resmi!",
+   "visual_prompt": "Ruang naskah kuno kraton diterangi lilin, tangan menulis aksara Jawa di atas daun lontar, tumpukan manuskrip Babad Tanah Jawi, debu melayang di berkas cahaya, rak kayu ukiran di latar, komposisi macro detail tulisan, suasana hening penuh rahasia, bayangan lilin menari di dinding, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "video_prompt": "Macro slow tracking shot of a hand writing Javanese script on palm-leaf manuscript by candlelight, dust particles floating in light beams, ancient royal archive shelves, shallow depth of field, mysterious reverent atmosphere.",
+   "duration_hint": 10,
+   "id": "shot_029",
+   "chapter": 3
+  },
+  {
+   "shot": 30,
+   "babak": 3,
+   "media": "image",
+   "narration": "Jangan kabur dulu. Di kraton Surakarta ada Tari Bedaya Ketawang, dipentaskan tiap tahun sebagai persembahan untuk sang Ratu. Sunan duduk di samping sebuah kursi kosong. Kursi itu untuk dia. Bukan untuk manusia.",
+   "visual_prompt": "Pendopo kraton Surakarta malam hari, sembilan penari Bedaya Ketawang berbusana adat dalam formasi simetris, Sunan duduk di singgasana, kursi kosong berhias kain hijau di sampingnya, cahaya bulan masuk dari sela saka, lantai marmer memantulkan bayangan, komposisi simetris sakral, suasana khidmat mencekam, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "id": "shot_030",
+   "chapter": 3
+  },
+  {
+   "shot": 31,
+   "babak": 3,
+   "media": "video",
+   "narration": "Kraton masih mengirim sesaji ke Pantai Parangkusuma dan Paranggupita. Di Panggung Sanggabuwana, Sunan dipercaya bercengkerama dengan sang Ratu. Rutin. Khidmat. Tamu agung yang tak pernah pulang.",
+   "visual_prompt": "Upacara sesaji di tepi Pantai Parangkusuma, sesajen bunga dan kain hijau di atas batu karang, abdi dalem berbusana adat membungkuk khidmat, ombak besar pecah di belakang mereka, siluet Panggung Sanggabuwana di kejauhan, bulan purnama menerangi prosesi, komposisi wide shot ritual, suasana magis penuh hormat, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "video_prompt": "Slow crane shot descending over a ritual offering ceremony on a rocky shore, courtiers in traditional Javanese attire placing flower offerings, huge waves crashing behind them, full moon illuminating the rite, sacred solemn mood.",
+   "duration_hint": 10,
+   "id": "shot_031",
+   "chapter": 3
+  },
+  {
+   "shot": 32,
+   "babak": 3,
+   "media": "image",
+   "narration": "Roro Kidul. Itu namanya, jangan pernah menyebutnya main-main. Kata semutnya begini, sang Ratu berkata aku memilih Senopati karena hatinya sekeras karang dan sejernih air laut. Semut tidak pernah bohong!",
+   "visual_prompt": "Potret megah perempuan bergaun hijau di singgasana karang tengah lautan, mahkota emas menjulang, ombak raksasa membeku di kanan kiri seperti tirai, cahaya bulan purnama di belakang kepalanya membentuk halo, tatapan lurus menembus penonton, detail sulaman gaun berkilau, komposisi frontal simetris penuh kuasa, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "id": "shot_032",
+   "chapter": 3
+  },
+  {
+   "shot": 33,
+   "babak": 3,
+   "media": "video",
+   "narration": "Coba hitung. Nama Senopati dieja S-e-n-o-p-a-t-i: delapan huruf. Delapan itu keseimbangan langit dan bumi, Senopati menggandeng penguasa laut selatan saat Mataram butuh delapan penjuru dukungan. Hitungan pas!",
+   "visual_prompt": "Visualisasi angka mistis, delapan huruf nama Senopati terukir dari cahaya di atas laut bergelombang, tiap huruf menyala biru elektrik, bulan purnama memantul di air, ombak berbusa mengelilingi huruf-huruf itu, komposisi top-down aerial dramatis, partikel cahaya beterbangan, suasana magis penuh teka-teki, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "video_prompt": "Aerial drone top-down shot of eight glowing letters floating above rolling ocean waves, electric-blue light reflections on water, full moon mirrored on the sea, swirling light particles, magical enigmatic mood.",
+   "duration_hint": 10,
+   "id": "shot_033",
+   "chapter": 3
+  },
+  {
+   "shot": 34,
+   "babak": 3,
+   "media": "image",
+   "narration": "Tapi dengar sisi lain. Pramoedya Ananta Toer berpendapat mitos ini diciptakan tahun lima belas delapan puluh tujuh, saat Mataram berdiri di bawah Senopati, untuk legitimasi Mataram atas lautan. Itu kata beliau.",
+   "visual_prompt": "Ruang kerja sejarawan tempo dulu, meja kayu penuh buku dan naskah terbuka, pena dan tinta, peta Mataram kuno terbentang, jendela menampilkan laut selatan bergelora di kejauhan, cahaya bulan purnama masuk menyorot peta, komposisi over-shoulder ke arah peta, debu melayang di udara, suasana kontemplatif kritis, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "id": "shot_034",
+   "chapter": 3
+  },
+  {
+   "shot": 35,
+   "babak": 3,
+   "media": "video",
+   "narration": "Dua versi berhadapan. Satu bilang cinta gaib yang nyata, satu bilang strategi politik yang cerdik. Keduanya punya bukti, keduanya punya lubang. Di tengahnya ombak selatan bergulung. Tidak peduli siapa benar!",
+   "visual_prompt": "Dua kekuatan berhadapan di tengah badai laut, siluet perempuan bergaun hijau di kiri dan siluet raja bertapa di kanan, petir membelah langit di antara mereka, ombak raksasa menjulang tinggi, bulan purnama tertutup awan tebal, komposisi split dramatis, percikan air membeku, suasana klimaks mencekam, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "video_prompt": "Handheld tracking through a sea storm, silhouette of an emerald-gowned woman on the left and a meditating king on the right, lightning splitting the sky between them, towering waves frozen mid-crash, climactic tension, cinematic.",
+   "duration_hint": 10,
+   "id": "shot_035",
+   "chapter": 3
+  },
+  {
+   "shot": 36,
+   "babak": 3,
+   "media": "image",
+   "narration": "Jadi pertanyaannya tinggal satu dan jawab jujur: kalau kursi kosong di samping Sunan itu memang untuk sang Ratu, beranikah kamu duduk di sebelahnya malam ini? Berani? Atau kabur?",
+   "visual_prompt": "Kursi kosong berhias kain hijau di tepi karang Pantai Parangkusumo, ombak raksasa siap menerjang di belakangnya, bulan purnama menggantung di atas kursi, tidak ada manusia di bingkai, kain hijau berkibar liar, komposisi wide shot minimalis mencekam, bayangan panjang di atas batu, suasana tegang menunggu, palet biru laut dalam yang kelam, cahaya bulan purnama, ombak berbusa",
+   "id": "shot_036",
+   "chapter": 3
+  },
+  {
+   "shot": 37,
+   "babak": 4,
+   "media": "video",
+   "narration": "Dengarkan baik-baik. Jangan pernah memakai baju hijau di pantai selatan. Bukan soal gaya. Konon, yang berbaju hijau akan diambil menjadi pelayan sang Ratu. Masuk akal. Menakutkan. Nyata.",
+   "visual_prompt": "Tepi pantai selatan Jawa berpasir hitam, ombak raksasa bergulung-gulung menghantam karang dengan buih putih, seorang pria ragu memegang kaus berwarna hijau di garis pantai, kain berkibar kencang tertiup angin laut, langit berawan kelabu dramatis, suasana tegang penuh peringatan, komposisi sinematik dokumenter, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "video_prompt": "Slow dolly shot along a stormy southern Java beach with black volcanic sand, massive turquoise waves crashing against dark rocks, a hesitant man holding a green shirt at the shoreline as the fabric whips in strong sea wind, dramatic overcast sky, tense ominous documentary atmosphere, cinematic realism.",
+   "duration_hint": 10,
+   "id": "shot_037",
+   "chapter": 4
+  },
+  {
+   "shot": 38,
+   "babak": 4,
+   "media": "image",
+   "narration": "Para ahli bilang ini cuma mitos. Air laut selatan memang kehijauan, jadi korban berbaju hijau susah ditemukan. Ombak besar dan arus balik menelan korban. Masuk akal. Tapi kenapa hanya baju hijau?",
+   "visual_prompt": "Air laut kehijauan bergradasi di lepas pantai selatan, arus balik berputar membentuk pusaran buih di antara ombak besar, pandangan dari atas tebing karang yang curam, garis pantai berpasir gelap membentang jauh, cahaya matahari menembus awan tipis, suasana ilmiah namun mencekam, detail tekstur air yang hidup, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "id": "shot_038",
+   "chapter": 4
+  },
+  {
+   "shot": 39,
+   "babak": 4,
+   "media": "video",
+   "narration": "Jangan main-main dengan nama Roro Kidul. Kalian yang tertawa, pernah berenang di pantai selatan?! Para nelayan saja hormat, kalian malah mengejek dari kursi empuk. Kualat. Diam. Serius!",
+   "visual_prompt": "Wajah pria paruh baya nelayan menatap tajam ke kamera dengan raut marah dan tegas, latar belakang perahu nelayan di pantai selatan berombak, angin mengibaskan rambut dan pakaiannya, cahaya matahari siang menyorot wajahnya yang berkerut, suasana konfrontatif penuh emosi, komposisi close-up dramatis dokumenter, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "video_prompt": "Handheld close-up tracking shot of a middle-aged fisherman's angry weathered face staring directly into the lens, fishing boats and pounding surf behind him, sea wind whipping his hair, harsh midday sun sculpting deep wrinkles, confrontational emotional documentary energy, cinematic realism.",
+   "duration_hint": 10,
+   "id": "shot_039",
+   "chapter": 4
+  },
+  {
+   "shot": 40,
+   "babak": 4,
+   "media": "image",
+   "narration": "Hotel Grand Bali Beach terbakar besar pada sembilan belas sembilan puluh tiga. Anehnya, kamar tiga ratus dua puluh tujuh sama sekali tidak terbakar. Satu-satunya yang utuh. Kebetulan? Tidak percaya kebetulan.",
+   "visual_prompt": "Gedung hotel tua bergaya tropis pasca kebakaran dengan dinding menghitam dan jendela pecah, satu pintu kamar bernomor utuh berdiri mencolok di tengah reruntuhan, asap tipis masih mengepul, cahaya siang menyorot kontras antara kehancuran dan keutuhan, suasana misterius dokumenter investigasi, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "id": "shot_040",
+   "chapter": 4
+  },
+  {
+   "shot": 41,
+   "babak": 4,
+   "media": "video",
+   "narration": "Kamar tiga ratus dua puluh tujuh dan kamar dua ribu empat ratus satu kini dirawat khusus. Dihias serba hijau. Diberi sesaji setiap hari. Tidak disewakan untuk tamu. Untuk siapa? Untuk sang Ratu. Jelas.",
+   "visual_prompt": "Interior kamar hotel mewah bernuansa serba hijau zamrud, tirai dan seprai hijau berkilau, meja rias dengan sesaji bunga dan dupa yang asapnya mengepul tipis, cermin besar memantulkan cahaya siang dari jendela, suasana sakral yang terawat rapi, detail ornamen klasik yang megah, komposisi interior sinematik, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "video_prompt": "Slow push-in shot through a luxurious emerald-green hotel room interior, shimmering green curtains and bedspread, a vanity table with flower offerings and thin curling incense smoke, a large mirror catching bright daylight from the window, sacred well-kept atmosphere, cinematic interior documentary style.",
+   "duration_hint": 10,
+   "id": "shot_041",
+   "chapter": 4
+  },
+  {
+   "shot": 42,
+   "babak": 4,
+   "media": "image",
+   "narration": "Dekat Parangtritis berdiri Hotel Queen of the South. Kamar tiga puluh tiga dikhususkan untuk sang Ratu. Selalu kosong untuk tamu biasa. Selalu siap untuk dia. Paham maksudnya? Paham.",
+   "visual_prompt": "Fasad hotel bergaya kolonial di tepi pantai Parangtritis dengan papan nama klasik, koridor panjang menuju pintu kamar bernuansa hijau yang tertutup rapat, lampu gantung temaram di lorong, karpet merah membentang, suasana sunyi penuh rahasia, arsitektur megah era lama, komposisi simetris sinematik, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "id": "shot_042",
+   "chapter": 4
+  },
+  {
+   "shot": 43,
+   "babak": 4,
+   "media": "video",
+   "narration": "Maqoli inna rahmatan. Petapa yang doanya terkabul membawa pulang perhiasan hijau dari pantai itu. Fakta ganjil yang tidak bisa dijelaskan. Terima saja. Jangan banyak tanya.",
+   "visual_prompt": "Seorang petapa tua bersila di atas batu karang menghadap laut selatan yang bergelora, tangannya menengadah memegang perhiasan hijau berkilau, kabut tipis laut menyelimuti, ombak besar pecah di belakangnya, cahaya siang menembus kabut menciptakan siluet dramatis, suasana spiritual, komposisi epik dokumenter, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "video_prompt": "Crane shot descending toward an old ascetic meditating on a sea rock facing the raging southern ocean, his raised hands holding a gleaming green jewel, thin sea mist swirling, huge waves exploding behind him, daylight piercing the mist into dramatic silhouette, solemn spiritual documentary mood.",
+   "duration_hint": 10,
+   "id": "shot_043",
+   "chapter": 4
+  },
+  {
+   "shot": 44,
+   "babak": 4,
+   "media": "image",
+   "narration": "Dengarkan sampai habis. Konon Bung Karno punya hubungan khusus dengan sang Ratu. Sering datang ke Pelabuhan Ratu, ke Citepus. Presiden pertama republik ini. Bukan orang sembarangan. Pikir sendiri.",
+   "visual_prompt": "Pelabuhan Ratu dengan teluk Citepus yang tenang, perahu nelayan berjajar di bibir pantai, patung dan gapura bergaya lama di tepi jalan, bukit hijau mengelilingi teluk, aktivitas nelayan menurunkan jaring di siang hari, suasana historis penuh nostalgia, komposisi lanskap sinematik yang luas, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "id": "shot_044",
+   "chapter": 4
+  },
+  {
+   "shot": 45,
+   "babak": 4,
+   "media": "video",
+   "narration": "Coba hitung. Tiga tambah dua tambah tujuh sama dengan dua belas. Dua belas, angka keramat. Bukan kebetulan kamar itu selamat dari api. Angka tidak berbohong. Dengar baik-baik.",
+   "visual_prompt": "Tangan menulis angka-angka di atas pasir pantai dengan ranting kayu, perhitungan sederhana terukir jelas, ombak kecil mendekat di tepi bingkai, jejak kaki di pasir hitam, cahaya siang memantulkan kilau basah pasir, suasana kontemplatif penuh teka-teki, komposisi makro detail yang tajam, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "video_prompt": "Aerial drone shot slowly descending over black volcanic sand where a hand writes simple numbers with a wooden stick, small waves approaching at frame edge, footprints trailing across wet glistening sand, bright daylight reflections, contemplative puzzling atmosphere, cinematic documentary realism.",
+   "duration_hint": 10,
+   "id": "shot_045",
+   "chapter": 4
+  },
+  {
+   "shot": 46,
+   "babak": 4,
+   "media": "image",
+   "narration": "Hujan semalam berbisik, kamar itu tidak pernah benar-benar kosong. Saya sampaikan apa adanya, sebagai laporan biasa. Bukan karangan. Percaya atau tidak, itu urusan kalian.",
+   "visual_prompt": "Jendela kamar hotel basah oleh sisa hujan semalam, tetesan air berkilau di kaca, tirai hijau bergoyang pelan tertiup angin pagi, lorong hotel yang sunyi di balik pintu, suasana sendu penuh bisikan misteri, detail tetesan air yang tajam, komposisi intim sinematik, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "id": "shot_046",
+   "chapter": 4
+  },
+  {
+   "shot": 47,
+   "babak": 4,
+   "media": "video",
+   "narration": "Cukup! Kalian meremehkan terus! Pernah ke pantai selatan?! Pernah melihat sendiri dengan mata kepala?! Diam! Hormat sedikit! Jangan asal bicara dari jauh! Malu! Sungguh memalukan!",
+   "visual_prompt": "Pria paruh baya berteriak dengan ekspresi marah menggelegar di tepi pantai selatan berombak besar, tangannya menunjuk tegas ke arah kamera, buih ombak beterbangan tertiup angin kencang, langit dramatis berawan gelap, suasana konfrontasi emosional yang meledak, komposisi close-up dinamis dokumenter, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "video_prompt": "Handheld tracking shot circling a furious middle-aged man shouting at the southern beach, his arm pointing hard at the camera, sea spray flying in fierce wind, dark dramatic clouds above, explosive emotional confrontation, raw documentary energy, cinematic realism.",
+   "duration_hint": 10,
+   "id": "shot_047",
+   "chapter": 4
+  },
+  {
+   "shot": 48,
+   "babak": 4,
+   "media": "image",
+   "narration": "Babak ini selesai. Data sudah disajikan dua arah, skeptis boleh, menghina jangan. Yang gaib tetap gaib, yang nyata tetap nyata. Hormati yang tidak kalian pahami. Syalala.",
+   "visual_prompt": "Panorama pantai selatan dari udara dengan garis ombak putih memanjang, tebing karang hijau di kejauhan, langit biru cerah berawan tipis, perahu kecil melintasi perairan tenang di sisi teluk, suasana megah dan menenangkan sebagai penutup, komposisi lanskap epik sinematik, palet terang natural yang jernih, cahaya siang tajam, kontras tinggi",
+   "id": "shot_048",
+   "chapter": 4
+  },
+  {
+   "shot": 49,
+   "babak": 5,
+   "media": "video",
+   "narration": "Pintu kamar itu kini dibuka untuk pengunjung. Ziarah boleh, berdoa boleh, berfoto boleh. Asal jangan bawa pulang gulingnya. Penjaganya manusia biasa, bukan penjaga gaib. Sopan saja.",
+   "visual_prompt": "Interior kamar hotel bernuansa hijau zamrud dengan pintu kayu terbuka, pengunjung berziarah berdoa di depan ranjang batik, dupa mengepul tipis tertiup angin, cahaya lampu hangat memantul di cermin tua berbingkai ukiran, bayangan perempuan bergaun hijau samar di kaca jendela, debu melayang dalam berkas cahaya, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "video_prompt": "Slow dolly forward through a green-themed hotel room interior, incense smoke drifting in the air, warm lamplight flickering on an old carved mirror, visitors silhouetted in prayer, a faint female silhouette in green reflected in the window glass, dust particles floating in light beams, mystical cinematic atmosphere.",
+   "duration_hint": 10,
+   "id": "shot_049",
+   "chapter": 5
+  },
+  {
+   "shot": 50,
+   "babak": 5,
+   "media": "image",
+   "narration": "Tiap tahun kraton menggelar labuhan. Kain, makanan, dan bunga dilempar ke laut. Persembahan untuk sang Ratu. Konon beliau suka wewangian. Wajar, ratu juga perempuan. Kita terima parsel, beliau terima ombak.",
+   "visual_prompt": "Pantai selatan dengan ombak besar bergulung, para abdi dalem kraton berbusana adat melempar sesaji kain batik, tumpeng makanan, dan taburan bunga ke laut, kelopak bunga melayang tertiup angin, buih putih memecah di karang hitam, langit dramatis berawan tebal, lentera kecil berderet di bibir pantai, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "id": "shot_050",
+   "chapter": 5
+  },
+  {
+   "shot": 51,
+   "babak": 5,
+   "media": "video",
+   "narration": "Ini yang paling bikin merinding. Konon Roro Kidul tampil muda dan cantik dari bulan muda sampai purnama. Begitu bulan menuju mati, wajahnya ikut menua dan memburuk. Bulan gelap, ratu pun gelap. Seram? Jelas.",
+   "visual_prompt": "Langit malam di atas laut selatan dengan bulan sabit yang membesar menjadi purnama, cahaya perak menyiram permukaan ombak, siluet perempuan bergaun hijau berdiri di atas karang memandang bulan, rambut panjangnya berkibar tertiup angin, kabut tipis menyelimuti tebing, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "video_prompt": "Crane shot rising over the southern sea at night as the crescent moon swells into a perfect full moon, silver light washing over rolling waves, a woman in a flowing green gown standing on a cliff rock gazing upward, hair whipping in the wind, moonlight shimmering on water, thin mist over cliffs, cinematic.",
+   "duration_hint": 10,
+   "id": "shot_051",
+   "chapter": 5
+  },
+  {
+   "shot": 52,
+   "babak": 5,
+   "media": "image",
+   "narration": "Wajah sang Ratu mengikuti bulan, bukan kebetulan. Asykoli inna yama kalima. Bulan muda wajahnya bersinar, purnama pesonanya penuh, bulan mati wajahnya redup. Langit dan ratu satu irama. Takdirnya begitu.",
+   "visual_prompt": "Komposisi surealis wajah perempuan cantik muda di sisi kiri berpadu wajah tua keriput di sisi kanan, di atasnya deretan fase bulan dari sabit hingga purnama lalu menggelap, rambut hitam panjang menyatu dengan gelombang laut, cahaya bulan menyorot separuh wajah, latar samudra bergolak, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "id": "shot_052",
+   "chapter": 5
+  },
+  {
+   "shot": 53,
+   "babak": 5,
+   "media": "video",
+   "narration": "Coba hitung... bulan muda ke purnama empat belas malam. Beliau bersinar makin terang selama itu. Empat belas malam setelahnya beliau meredup. Dua kali empat belas, dua puluh delapan. Satu putaran bulan. Pas.",
+   "visual_prompt": "Kalender bulan raksasa terukir di dinding gua karang diterangi obor, empat belas tanda garis menyala berurutan dari bulan sabit ke purnama, tetesan air jatuh berkilau, sosok berjubah memperhatikan hitungan dengan jari, lingkaran cahaya bulan menembus celah gua, suasana ritual kuno penuh teka-teki, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "video_prompt": "Handheld tracking shot moving along a giant moon calendar carved into a torch-lit coral cave wall, fourteen glowing tally marks leading from crescent to full moon, wave shadows dancing on stone, water droplets glistening, a robed figure counting with fingers, a moonbeam piercing a crevice, ancient ritual mood.",
+   "duration_hint": 10,
+   "id": "shot_053",
+   "chapter": 5
+  },
+  {
+   "shot": 54,
+   "babak": 5,
+   "media": "image",
+   "narration": "Cacing di tanah itu berbisik, katanya sang Ratu sedang berdandan saat bulan separuh. Bedak ombak, lipstik karang. Saya cuma menyampaikan, jangan protes ke saya. Protesnya ke cacingnya sana.",
+   "visual_prompt": "Bidang makro tanah pantai berpasir dengan cacing-cacing tanah melata di antara butir pasir berkilau, tetesan embun memantulkan cahaya, latar kabur ombak malam dan bulan separuh di langit, lumut hijau fosfor berpendar redup, tekstur tanah dramatis bagai lanskap alien, detail sinematik makro memukau, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "id": "shot_054",
+   "chapter": 5
+  },
+  {
+   "shot": 55,
+   "babak": 5,
+   "media": "video",
+   "narration": "Semut-semut di karang itu juga tahu. Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Kata mereka, sang Ratu tidak pernah benar-benar pergi. Beliau cuma berganti bulan. Percaya atau tidak, terserah.",
+   "visual_prompt": "Bidang makro barisan semut hitam berarak di atas karang bertekstur kasar diterangi cahaya temaram, butiran pasir dan garam laut berkilau seperti permata, di latar kabur ombak besar menghantam tebing, seekor semut berhenti seolah menatap kamera, kedalaman fokus dangkal sinematik, dunia kecil yang agung, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "video_prompt": "Extreme macro slow push-in on a column of black ants marching across rough coral rock, grains of sand and sea salt glittering like jewels, massive waves crashing on cliffs in a soft-focus background, one ant pausing as if staring into the lens, shallow depth of field, a majestic miniature world.",
+   "duration_hint": 10,
+   "id": "shot_055",
+   "chapter": 5
+  },
+  {
+   "shot": 56,
+   "babak": 5,
+   "media": "image",
+   "narration": "Oh ya, satu pesan sponsor. Jangan pakai baju hijau ke pantai selatan. Itu warna kesukaan beliau. Nanti dikira mau melamar jadi pendamping. Kecuali memang niat. Ya silakan.",
+   "visual_prompt": "Pantai selatan berombak besar dengan papan peringatan kayu tua bertuliskan larangan, seorang pria ragu-ragu memegang kaus hijau di depan dadanya, angin kencang mengibarkan pakaiannya, ombak raksasa pecah di karang hitam di belakangnya, langit mendung dramatis, komedi visual yang jenaka, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "id": "shot_056",
+   "chapter": 5
+  },
+  {
+   "shot": 57,
+   "babak": 5,
+   "media": "video",
+   "narration": "Jangan ke mana-mana. Cerita belum selesai. Kamar sudah dibuka, sesaji sudah dilempar, bulan sudah dihitung. Tapi satu pertanyaan masih menggantung di udara asin ini. Dan jawabannya... bukan urusan saya.",
+   "visual_prompt": "Seorang pembawa acara berdiri di tepi tebing karang menghadap kamera dengan laut selatan bergolak di belakangnya, angin kencang mengibarkan jaketnya, ombak raksasa meledak menjadi buih putih, tangannya terangkat menahan penonton, rambut berkibar liar, langit senja berawan tebal, ketegangan menjelang penutup, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "video_prompt": "Slow push-in on a host standing at the edge of a rocky cliff facing the camera, the churning southern sea exploding into white foam behind him, his jacket whipping in strong wind, hand raised to hold the audience, dramatic side lighting, hair flying wildly, tense pre-finale energy, cinematic dusk.",
+   "duration_hint": 10,
+   "id": "shot_057",
+   "chapter": 5
+  },
+  {
+   "shot": 58,
+   "babak": 5,
+   "media": "image",
+   "narration": "Kalau kamar itu cuma kamar biasa, kenapa antreannya tidak pernah sepi? Kalau labuhan cuma buang-buang makanan, kenapa kraton masih melakukannya? Kalau beliau cuma dongeng, kenapa takutnya nyata?",
+   "visual_prompt": "Antrean panjang peziarah berbusana gelap membawa lentera di koridor hotel tua menuju sebuah pintu kamar bernomor samar, cahaya lentera berpendar di wajah-wajah penasaran, dupa mengepul dari sudut ruangan, suasana hening penuh tanya, jendela terbuka menampakkan laut malam berombak, misteri yang menggantung, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "id": "shot_058",
+   "chapter": 5
+  },
+  {
+   "shot": 59,
+   "babak": 5,
+   "media": "video",
+   "narration": "Atau mungkin pertanyaannya terbalik. Bukan apakah beliau nyata, tapi kenapa kita butuh beliau nyata? Penjaga tahta butuh restu. Nelayan butuh harapan. Kita semua butuh sesuatu yang lebih besar dari ombak.",
+   "visual_prompt": "Transisi sinematik dari singgasana emas kraton yang megah berukir naga perlahan larut menjadi gelombang samudra selatan yang bergulung dahsyat, mahkota tergeletak di pasir basah tersapu buih, kain batik berkibar ditarik ombak, cahaya dramatis membelah dua dunia, batas antara kuasa dan alam melebur, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "video_prompt": "Aerial drone shot transitioning from a majestic golden palace throne dissolving into the mighty rolling waves of the southern ocean, a crown lying on wet sand washed by foam, batik cloth pulled by the surf, dramatic light splitting two worlds, gold dust and sea spray flying, power and nature merging.",
+   "duration_hint": 10,
+   "id": "shot_059",
+   "chapter": 5
+  },
+  {
+   "shot": 60,
+   "babak": 5,
+   "media": "image",
+   "narration": "Jadi, penjaga tahta atau penjaga laut? Ratu yang menikahi raja-raja, atau laut yang menikahi imajinasi kita? Saya tidak akan menjawab. Ombak tidak pernah menjawab. Ia hanya terus datang.",
+   "visual_prompt": "Samudra selatan tanpa tepi dengan ombak raksasa bergulung tanpa henti menuju pantai berbatu, siluet perempuan bergaun hijau berdiri jauh di ujung karang memunggungi kamera, gaunnya berkibar liar tertiup badai, langit senja ungu keemasan berawan dramatis, buih putih meledak tinggi, keabadian yang tak terjawab, palet senja ungu keemasan, cahaya lentera lembut, suasana magis.",
+   "id": "shot_060",
+   "chapter": 5
+  }
+ ]
+}
