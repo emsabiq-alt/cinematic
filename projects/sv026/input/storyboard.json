@@ -1,0 +1,604 @@
+{
+ "shots": [
+  {
+   "id": "shot_001",
+   "shot": 1,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Dari kabut fajar Laut Jawa muncullah bahtera besi raksasa, kapal uap paling gagah milik Belanda, yang dinamai dari seorang Gubernur Jenderal bernama Carel Herman Aart van der Wijck.",
+   "visual_prompt": "Wide establishing shot of a majestic 1920s Dutch steamship emerging from thick dawn fog over the Java Sea, cold blue-grey palette, dim sunrise light barely piercing the mist, massive black hull with twin funnels looming silently, gentle ocean swell, seabirds circling, cinematic anamorphic composition, volumetric fog, film grain, desaturated melancholic tones.",
+   "video_prompt": "Slow aerial push-in through thick dawn fog revealing a massive 1920s steamship, cold blue-grey palette, camera glides forward as the black hull and twin funnels emerge from the mist, volumetric light rays, gentle ocean swell, epic and mysterious.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_002",
+   "shot": 2,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Kapal itu lahir jauh di Rotterdam, di galangan raksasa bernama Fijenoord, pada tahun sembilan belas dua puluh satu, ketika mesin uap masih menjadi raja seluruh lautan Nusantara yang luas.",
+   "visual_prompt": "Sepia-tinged archival photograph style of the Fijenoord shipyard in Rotterdam in the early nineteen twenties, a giant steamship hull under construction on wooden scaffolding, workers like ants on steel ribs, rivets and cranes silhouetted against a pale grey sky, cold industrial dawn light, drifting smoke, muted blue-grey grade, fine grain texture, monumental and historic mood."
+  },
+  {
+   "id": "shot_003",
+   "shot": 3,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Bayangkan besarnya! Panjangnya sembilan puluh tujuh koma lima meter, lebar tiga belas koma empat meter, tingginya delapan koma lima meter, dengan bobot sekitar dua ribu lima ratus ton besi!",
+   "visual_prompt": "Aerial view along the full length of an enormous black-hulled ocean liner at dawn, tiny crew figures on deck for scale, cold steel-blue morning light, thin mist curling over calm grey water, twin red-and-black funnels trailing faint smoke, desaturated cinematic grade, subtle film grain, epic maritime grandeur, imposing symmetry of riveted steel.",
+   "video_prompt": "Aerial drone shot gliding slowly along the full length of an enormous black-hulled ocean liner, tiny crew figures on deck for scale, camera moves bow to stern in one smooth pass, cold steel-blue morning light, thin mist over calm water, twin funnels trailing faint smoke, majestic and imposing, desaturated cinematic grade.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_004",
+   "shot": 4,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Kelas satu memuat enam puluh penumpang, kelas dua tiga puluh empat, dan geladaknya sanggup menampung sembilan ratus sembilan puluh sembilan jiwa manusia sekaligus! Sebuah kota kecil mengapung di atas ombak.",
+   "visual_prompt": "Busy upper deck of a colonial-era steamship in cold overcast daylight, first-class passengers strolling near polished brass railings while deck-class travelers crowd the lower decks, striped canvas awnings, wooden lifeboats on davits, soft grey-blue tones with faint sea mist, layered documentary depth, archival cinematic realism with gentle grain."
+  },
+  {
+   "id": "shot_005",
+   "shot": 5,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Para pelaut menjulukinya De Meeuw, artinya Burung Camar, karena lincah membelah ombak seperti camar menari. Dengar baik-baik. Camar itu kelak pulang tanpa pernah kembali lagi.",
+   "visual_prompt": "A lone seagull gliding beside the towering bow of a moving steamship at dawn, wings outstretched in silver rim light, mist swirling over dark blue-grey waves, white wake foaming below the black hull, poetic melancholic composition, desaturated cool palette with soft cinematic haze, quiet foreboding beneath the beauty, fine grain texture.",
+   "video_prompt": "Slow-motion tracking shot of a seagull gliding gracefully past the bow of a moving steamship, camera follows the bird then tilts up to the towering bow, cold dawn light rimming feathers in silver, mist over dark blue-grey waves, white wake churning, poetic and melancholic, desaturated cool palette.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_006",
+   "shot": 6,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Dua tokoh besar bangsa pernah menaiki kapal nahas ini sebagai tahanan politik: Mohammad Hatta dan Sutan Sjahrir, saat dibuang jauh ke Boven Digoel di pedalaman Papua yang sunyi.",
+   "visual_prompt": "Two dignified Indonesian nationalist figures in colonial-era clothing climbing a steamship gangway under armed Dutch guard, heavy chains of exile implied, somber grey morning light, fog clinging to the harbor, onlookers lost in shadow, desaturated blue-grey cinematic grade, quiet dignity and sorrow, archival film grain, emotional historical weight."
+  },
+  {
+   "id": "shot_007",
+   "shot": 7,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Milik perusahaan KPM, cikal bakal PELNI, Van der Wijck adalah kapal paling gagah di jalurnya. Ma askoli inna kaliyamata inna asqoli. Kabar itu beredar di setiap pelabuhan Nusantara.",
+   "visual_prompt": "Grand steamship at full steam seen from a low heroic angle, KPM house flag snapping in the wind atop the mast, bow spray glittering in cold morning light, blue-grey swells rolling past the black hull, triumphant maritime energy, crisp steel tones, thin fog on the horizon, anamorphic lens flare, epic and proud, subtle film grain.",
+   "video_prompt": "Low-angle hero shot of a grand steamship at full steam, KPM house flag snapping atop the mast, camera orbits slowly around the bow as the vessel powers through blue-grey swells, bow spray glittering in cold morning light, triumphant maritime energy, crisp steel tones, light fog, anamorphic lens flare.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_008",
+   "shot": 8,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Lima belas tahun ia mengabdi tanpa lelah, mengangkut ratusan ribu penumpang melintasi ombak Nusantara. Raksasa lautan itu tak pernah mengecewakan siapa pun. Sampai suatu malam yang gelap.",
+   "visual_prompt": "Nostalgic view of a packed steamship deck at departure in fading daylight, hundreds of passengers waving white handkerchiefs, children on shoulders, mooring ropes being cast off, mixed warm and cold light over a blue-grey sea, distant Javanese coastline fading into mist, emotional farewell atmosphere, archival cinematic composition, soft grain, bittersweet documentary mood."
+  },
+  {
+   "id": "shot_009",
+   "shot": 9,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Malam itu laut terlalu tenang, kata para pelaut tua. Terlalu tenang untuk ukuran Oktober. Alam seolah menahan napas, menunggu sesuatu yang mengerikan terjadi di kegelapan.",
+   "visual_prompt": "Eerily still ocean surface at dusk, mirror-calm water reflecting a pale grey sky, a lone steamship silhouette small on the horizon, no wind, no birds, cold desaturated blue-grey palette, heavy low fog creeping across the water, oppressive visualized silence, foreboding cinematic dread, fine grain, vast and uneasy emptiness.",
+   "video_prompt": "Slow push-in over an eerily still ocean at dusk, mirror-calm water reflecting a pale grey sky, lone steamship silhouette on the horizon, camera creeps forward building unease, cold desaturated blue-grey palette, heavy low fog across the water, oppressive silence, foreboding cinematic dread.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_010",
+   "shot": 10,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Coba hitung... Satu tambah sembilan tambah tiga tambah enam sama dengan sembilan belas. Sama persis dengan tanggal keberangkatan kapal itu: sembilan belas Oktober. Kebetulan? Saya tidak percaya kebetulan!",
+   "visual_prompt": "Extreme close-up of a weathered 1936 wall calendar page showing October with the nineteenth circled in red ink, a quill pen lying beside it, dim oil-lamp light pooling over the paper, deep shadows around, cold blue-grey ambient tones against warm lamp glow, floating dust particles, mysterious conspiratorial mood, macro cinematic detail, film grain, vintage texture."
+  },
+  {
+   "id": "shot_011",
+   "shot": 11,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Kapal nahas itu bersandar gagah di pelabuhan, cerobongnya mengepul, lampunya benderang. Tak seorang pun menduga, malam itu adalah malam terakhir ia mengapung di permukaan laut.",
+   "visual_prompt": "Magnificent steamship docked at a colonial harbor at night, rows of warm portholes glowing against the dark hull, steam curling from twin funnels under sodium lamps, reflections shimmering on black water, cold blue night grade with golden light accents, romantic yet ominous mood, cinematic depth, gentle grain, quiet before the storm.",
+   "video_prompt": "Night shot of a magnificent steamship docked at a colonial harbor, slow lateral camera glide along the pier, rows of warm portholes glowing against the dark hull, steam curling from funnels under sodium lamps, reflections shimmering on black water, cold blue night grade with golden accents, romantic yet ominous.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_012",
+   "shot": 12,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Dan firasat itu benar adanya. Bahtera besi itu melaju menuju takdirnya yang kelam di dasar Laut Jawa. Syududu. Camar yang gagah itu sebentar lagi tenggelam selamanya tanpa ampun.",
+   "visual_prompt": "A great steamship sailing away into a wall of cold grey fog at twilight, its stern light the last glowing point before vanishing, dark churning wake trailing behind, desaturated blue-grey palette, heavy atmospheric mist, melancholic finality, minimalist composition with vast empty sea, archival cinematic mood, soft film grain, haunting and inevitable."
+  },
+  {
+   "id": "shot_013",
+   "shot": 13,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Sembilan belas Oktober sembilan belas tiga puluh enam, si Burung Camar tiba dari Bali dan singgah di Surabaya. Pelabuhan Tanjung Perak menyambutnya dengan riuh penumpang dan peti kemas.",
+   "visual_prompt": "Night aerial view of a large steamship approaching Tanjung Perak harbor, searchlights sweeping across black water, city lights glittering along the docks, deep navy-black palette with warm harbor glow and cool moonlight, thin haze over the sea, bustling maritime energy, cinematic night grade, subtle grain, arrival full of promise.",
+   "video_prompt": "Night aerial shot of a large steamship approaching the brightly lit Tanjung Perak harbor, camera descends slowly toward the vessel, searchlights sweeping, city lights glittering on black water, deep navy-black palette with warm harbor glow and cool moonlight, light haze, bustling maritime energy.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_014",
+   "shot": 14,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Jadwalnya berangkat pukul enam sore, tapi muatan terlalu penuh hingga keberangkatan mundur ke pukul sembilan malam. Catat ini. Keterlambatan tiga jam itu ternyata menentukan segalanya.",
+   "visual_prompt": "Night scene of a crowded steamship gangway at Tanjung Perak, porters hauling crates and sacks under harsh dock floodlights, long passenger queues stretching through deep shadows, ship clock showing the late hour, stark white floodlight pools against pitch black, humid night atmosphere, tense anticipation, cinematic chiaroscuro, fine grain."
+  },
+  {
+   "id": "shot_015",
+   "shot": 15,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Dua ratus enam puluh penumpang dan awak berdesakan di dalamnya, menuju Semarang, lalu Tanjung Priok di Batavia, dan akhirnya Palembang. Semua ceria. Semua tidak tahu apa-apa.",
+   "visual_prompt": "Lively night deck crowded with cheerful passengers, families laughing under warm string lights, children peering over railings at the dark sea, deep blue-black night pressing around the ship, golden highlights on smiling faces, joyful oblivious energy, cinematic intimacy, soft bokeh, gentle grain, happiness unaware of fate.",
+   "video_prompt": "Slow tracking shot weaving through a lively night deck crowd, families laughing, children peering over railings at the dark sea, string lights glowing warm above, camera drifts among cheerful passengers, deep blue-black night surrounding the ship, warm golden highlights on faces, joyful oblivious energy, soft bokeh.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_016",
+   "shot": 16,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Kapal uap Belanda itu melaju membelah Laut Jawa yang malam itu sangat gelap. Gelap total! Tanpa bulan, tanpa bintang terlihat, hanya suara mesin dan deru ombak yang mencekam.",
+   "visual_prompt": "Pitch-black open sea at night, a lone steamship's faint navigation lights the only points of light in overwhelming darkness, no moon, no stars, inky waves barely visible, suffocating void of black with tiny white and red signal dots, minimalist terrifying composition, cold desaturated grade, heavy grain, existential dread, nature at its most indifferent."
+  },
+  {
+   "id": "shot_017",
+   "shot": 17,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Menjelang pukul satu dini hari tanggal dua puluh Oktober, sinyal SOS meraung memecah malam. Kapal itu miring! Miring ekstrem, dan air laut mulai menyerbu masuk dari sisi lambung.",
+   "visual_prompt": "Steamship listing heavily to port at night, brilliant white distress flares bursting and arcing over the tilting deck, blinding signal light stabbing through total darkness, black sea churning below, desperate chaos of white light against the void, high contrast cold blue-black palette, urgent terrifying energy, cinematic realism, heavy grain.",
+   "video_prompt": "Dramatic night shot of a steamship listing heavily to port, bright white distress flares bursting and arcing over the deck, blinding signal light cutting through total darkness, camera shakes subtly with the rolling ship, desperate chaos of light against black sea, high contrast, cold blue-black palette, urgent terrifying energy.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_018",
+   "shot": 18,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Di atas geladak yang miring, seorang awak berseru dalam bahasa yang aneh. Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Artinya: lari! Selamatkan diri kalian sekarang juga!",
+   "visual_prompt": "Tilted deck of a sinking steamship at night, passengers sliding and clinging to railings, a crewman shouting with mouth wide open, deck at a terrifying diagonal angle, single swinging lamp casting wild shadows, stark white emergency light against pitch black, frozen moment of panic, extreme diagonal composition, cinematic horror realism, heavy grain."
+  },
+  {
+   "id": "shot_019",
+   "shot": 19,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Kepanikan meledak di mana-mana! Tangisan, teriakan, orang berlarian dalam gelap. Dan hanya dalam enam menit, enam menit saja, seluruh badan kapal lenyap ditelan laut selamanya!",
+   "visual_prompt": "Great ocean liner sinking bow-first into black night water, masts and funnels sliding beneath the waves, swirling foam and floating debris, last white deck lights flickering out one by one, deep black-blue palette, devastating finality as the sea closes overhead, haunting and irreversible, grainy archival feel, silence after chaos.",
+   "video_prompt": "Time-lapse style sequence of a great ship sinking bow-first into black night water, masts and funnels sliding under the waves in minutes, swirling foam and debris, last white lights flickering out one by one, camera pulls back slowly as the sea swallows everything, devastating finality, deep black-blue palette, haunting.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_020",
+   "shot": 20,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Konon kata malaikat maut, malam itu ia lembur. Daftarnya panjang, ratusan nama harus dijemput sekaligus dari satu kapal. Ia bekerja tanpa suara, tanpa ampun, di tengah gelap.",
+   "visual_prompt": "Surreal dark tableau of a vast black sea under a moonless sky, a shadowy winged silhouette hovering silently above the waves where a ship's lights are fading, faint white foam patterns drifting, deep blacks with cold silver highlights, quiet ominous stillness, mythic and somber, painterly cinematic composition, desaturated night grade, fine grain."
+  },
+  {
+   "id": "shot_021",
+   "shot": 21,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Lokasinya sekitar dua belas sampai lima belas mil dari Pantai Brondong, Lamongan. Versi lain menyebut enam puluh empat kilometer barat daya Surabaya. Laut Jawa menyimpan bangkainya rapat-rapat.",
+   "visual_prompt": "Aerial night view drifting over dark coastline near Brondong, faint fishing village lights scattered along the shore, black open sea stretching to the horizon where a white flare once burned, deep navy palette with tiny warm coastal dots, lonely vastness, melancholic mystery, cinematic night grade, fine grain, the sea keeping its secret.",
+   "video_prompt": "Aerial night shot gliding over dark coastline near Brondong, faint fishing village lights along the shore, camera drifts slowly over empty black waves toward the open sea where a distant flare once burned, deep navy palette with scattered warm coastal dots, lonely vastness, melancholic mystery.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_022",
+   "shot": 22,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Pagi harinya laut kembali tenang, seolah tidak pernah terjadi apa-apa di sana. Hanya puing kayu dan pelampung yang tersisa, terapung-apung menjadi saksi diam tragedi yang mengerikan.",
+   "visual_prompt": "Cold grey dawn over a calm sea littered with floating wooden debris and a single empty life ring, no ship anywhere in sight, pale light filtering through thin clouds, desaturated blue-grey palette, heartbreaking emptiness, minimalist wide composition, documentary realism, quiet aftermath, archival cinematic mood, soft grain, nature pretending innocence."
+  },
+  {
+   "id": "shot_023",
+   "shot": 23,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Enam menit! Dari gagah menjadi bangkai hanya dalam enam menit! Laut Jawa malam itu menelan segalanya tanpa sisa. Syalala. Dan sampai hari ini, misterinya belum terpecahkan.",
+   "visual_prompt": "Underwater view looking up at a massive dark hull plunging through deep black water, spiraling bubbles and wreckage, the last shaft of pale surface light fading above, cold blue-black abyss closing in, terrifying silent descent, suffocating deep-sea darkness, cinematic and haunting, heavy grain, the final resting place.",
+   "video_prompt": "Underwater perspective looking up as a massive dark hull plunges down through deep black water, bubbles and wreckage spiraling, last shaft of pale light from the surface fading, camera sinks slowly with the wreck, suffocating deep-sea darkness, cold blue-black abyss, terrifying silent descent, cinematic and haunting.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_024",
+   "shot": 24,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Jadi, apa yang sebenarnya terjadi di kegelapan malam itu? Mesin yang meledak, atau muatan yang bergeser? Jangan ke mana-mana, karena jawabannya lebih mengejutkan dari dugaanmu.",
+   "visual_prompt": "A lone searchlight beam cutting through midnight-black seawater, illuminating drifting particles and the faint ghostly outline of a sunken shipwreck far below, deep blue-black abyss, mysterious and unresolved, vertical composition, cold cinematic grade, haunting question hanging in the dark, fine grain, documentary mystery mood, the truth still sleeping."
+  },
+  {
+   "id": "shot_025",
+   "shot": 25,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Hamka menelurkan cerita bersambung di majalah Pedoman Masyarakat, dua tahun setelah tragedi itu, lalu terbit sebagai novel di Medan setahun kemudian — kisah yang meledak ke seluruh Nusantara!",
+   "visual_prompt": "Warm sepia interior of a nineteen-thirties letterpress hall in Medan, towering machines rolling with ink and paper, printed Malay columns fluttering through golden afternoon light streaming from tall windows, dust motes drifting like memories, a scholar's hand resting on a typewriter beside manuscript pages, shallow depth of field, nostalgic romantic atmosphere.",
+   "video_prompt": "Slow dolly-in across a nineteen-thirties letterpress hall, camera gliding past rolling presses and fluttering manuscript pages, tilting up toward slanted golden light through tall windows, dust drifting like memories, ending on a tight close-up of typewriter keys striking the final page.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_026",
+   "shot": 26,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Zainuddin, tokoh sentral novel itu, adalah pemuda berdarah campuran Minang dan Makassar — dianggap anak pisang, tak jelas sukunya, dianggap sampah adat oleh kaumnya sendiri! Sakit? Jelas sakit.",
+   "visual_prompt": "Warm sepia portrait of a young nineteen-thirties Minang-Makassar man standing alone at the edge of a village gathering, half in shadow, traditional songket draped over one shoulder, downcast eyes full of quiet defiance, elders blurred in the golden background, dust glowing in late afternoon light, soft film grain, melancholic romantic composition with generous negative space."
+  },
+  {
+   "id": "shot_027",
+   "shot": 27,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Hayati, gadis Minang yang ia cintai sepenuh jiwa, justru dipaksa menikah dengan Aziz — lelaki terpandang pilihan keluarga! Cinta kalah oleh harta. Klasik! Terlalu klasik sampai menusuk.",
+   "visual_prompt": "Golden-hour colonial veranda in nineteen-thirties Java, a young Minang woman in embroidered kebaya leaning on a carved wooden railing, sheer curtains billowing in warm breeze, tear glistening on her cheek, bougainvillea petals drifting, soft sepia glow, romantic longing atmosphere, shallow depth of field, painterly cinematic framing.",
+   "video_prompt": "Slow push-in on a young Minang woman in nineteen-thirties kebaya standing at a wooden window, sheer curtains breathing in warm wind, camera circling gently to reveal her tearful eyes gazing toward the sea, golden hour light flaring through the lattice, ending on an extreme close-up of a single tear.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_028",
+   "shot": 28,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Zainuddin pergi merantau ke Jawa, lalu menjelma menjadi penulis terkenal yang namanya disanjung banyak orang — dari anak buangan menjadi bintang sastra! Nasib memang suka bercanda.",
+   "visual_prompt": "Warm sepia study of a nineteen-thirties Javanese study room, a confident young writer at a wooden desk piled with manuscripts, fountain pen in hand, framed newspaper clippings on the wall, golden lamplight pooling on paper, dust motes glowing, romantic triumphant atmosphere, soft film grain, intimate side-lit composition with layered depth."
+  },
+  {
+   "id": "shot_029",
+   "shot": 29,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Hayati pun menaiki kapal itu bersama suaminya, berlayar meninggalkan tanah Jawa — tanpa tahu bahwa bahtera besi itu sedang melaju menuju maut di Selat Jawa! Tegang! Sangat tegang.",
+   "visual_prompt": "Burning orange dusk over a nineteen-thirties colonial harbor, a Dutch steamship black silhouette against molten sky, crowds waving on the stone quay, seagulls wheeling through smoke from the tall funnel, waves slapping the hull, warm sepia romantic tones, epic wide composition with the gangway leading into glowing light.",
+   "video_prompt": "Sweeping crane shot over a nineteen-thirties colonial harbor, a Dutch steamship silhouette against a burning orange dusk, camera descending past waving crowds on the quay to the gangway where passengers board, seagulls wheeling, smoke curling from the tall funnel, waves slapping the hull.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_030",
+   "shot": 30,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Badai menghantam dan kapal nahas itu karam! Takdir mempertemukan keduanya di rumah sakit Tuban — Hayati wafat di pangkuan Zainuddin, lalu ia dimakamkan tepat di samping pusara kekasihnya. Maqoli inna rahmatan.",
+   "visual_prompt": "Heartbreaking warm sepia hospital ward in nineteen-thirties Tuban, a dying young woman in a white iron bed holding a man's hand, monsoon rain streaking the tall windows, a nurse silhouette in the doorway, golden candlelight against deep shadows, romantic tragic atmosphere, soft film grain, tender close composition with layered depth."
+  },
+  {
+   "id": "shot_031",
+   "shot": 31,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Catat ini baik-baik: kisah dua sejoli itu adalah FIKSI karangan Hamka — tetapi tragedi kapal yang karam itu adalah FAKTA sejarah! Novel menumpang di atas bangkai kapal sungguhan. Gila, kan?",
+   "visual_prompt": "Surreal sepia composition where an open novel's pages tear apart and transform into a churning storm sea, ink letters dissolving into foam, a sinking ship silhouette on the horizon, dramatic chiaroscuro lighting, pages swirling like gulls, romantic yet ominous atmosphere, high-contrast cinematic frame with dynamic motion.",
+   "video_prompt": "Dramatic push through a printed novel page that dissolves into churning black ocean waves, sepia ink transforming into storm foam, slow-motion paper tearing apart over a sinking ship silhouette, lightning flickering, ending on the book slamming shut in a flash of golden light.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_032",
+   "shot": 32,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Tahun sembilan belas enam puluh dua, novel itu dituding menjiplak karya Prancis 'Sous les Tilleuls' dari seribu delapan ratus tiga puluh dua — tudingan dinilai berbau politis! Karya besar selalu punya musuh.",
+   "visual_prompt": "Warm sepia Parisian study in the eighteen-hundreds, a French manuscript in elegant script on a mahogany desk, quill and inkwell beside stacked letters, tall windows with heavy drapes, golden dust drifting in sunbeams, romantic literary atmosphere, soft film grain, rich textured close composition with layered depth and quiet grandeur."
+  },
+  {
+   "id": "shot_033",
+   "shot": 33,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Coba hitung huruf nama Zainuddin — sembilan huruf pas! Sembilan adalah angka keramat yang melingkar tanpa ujung, awal sekaligus akhir! Kebetulan? Semesta tidak pernah bercanda tanpa alasan. Pikirkan itu!",
+   "visual_prompt": "Dark cosmic backdrop with glowing golden numerals and carved wooden letter tiles floating in space, a radiant nine-pointed star pulsing at the center, sparks drifting like fireflies, deep shadows with warm amber highlights, mystical playful atmosphere, symmetrical centered composition drawing the eye inward through hypnotic orbital motion.",
+   "video_prompt": "Playful macro push-in on carved wooden letter tiles spelling a name, camera spiraling around glowing golden numerals floating in dark space, each symbol bursting into sparks as counted, rack focus shifting between sharp characters and blurred cosmos, ending on a radiant nine-pointed star.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_034",
+   "shot": 34,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Tahun dua ribu tiga belas, kisah ini diangkat ke layar lebar oleh Sunil Soraya — dibintangi Herjunot Ali dan Pevita Pearce, dengan persiapan lima tahun dan biaya termahal pada masanya! Legenda pantas mahal.",
+   "visual_prompt": "Warm sepia behind-the-scenes of a grand film set, towering ship deck replica under studio lights, director's chair and vintage cameras, costumed actors in nineteen-thirties dress, golden practical lights glowing through haze, romantic epic atmosphere, soft film grain, dynamic wide composition full of bustle and layered depth."
+  },
+  {
+   "id": "shot_035",
+   "shot": 35,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Jadi, kapal karam itu nyata adanya, kisah cintanya murni karangan — tetapi jutaan penonton tetap menangis tersedu menontonnya! Syududu. Rupanya air mata manusia tak pandai membedakan fiksi dan fakta.",
+   "visual_prompt": "Nineteen-thirties cinema interior bathed in flickering projector light, rows of tearful audience faces glowing silver-blue, a giant screen showing a sinking ship, dust dancing in the light beam, velvet seats and art-deco lamps, warm nostalgic sepia tones, emotional romantic atmosphere, wide sweeping composition with layered depth.",
+   "video_prompt": "Slow-motion push-in through a nineteen-thirties cinema audience, faces wet with tears illuminated by flickering projector light, camera rising above the rows toward the giant glowing screen showing a sinking ship, dust dancing in the light beam, ending on a lone spotlight bursting into applause.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_036",
+   "shot": 36,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Hamka menulis kisah cinta yang tak pernah ada di atas kapal yang benar-benar tenggelam — fiksi menari di atas fakta sejarah! Penutur hanya bisa geleng-geleng kepala takjub. Luar biasa!",
+   "visual_prompt": "Warm sepia double exposure of a writer's quill over a stormy sea with a sinking ship silhouette, ink swirling into waves, pages flying like seabirds, golden horizon light breaking through dark clouds, romantic haunting atmosphere, soft film grain, poetic centered composition with layered depth and texture beneath a bruised golden sky."
+  },
+  {
+   "id": "shot_037",
+   "shot": 37,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Koran de Telegraaf edisi Oktober dua puluh dua, tahun tiga puluh enam, mencatat: lima puluh delapan tewas, empat puluh dua hilang, seratus lima puluh tiga selamat! Angka dingin dari tragedi panas.",
+   "visual_prompt": "Cold interrogation-style close study of a yellowed nineteen-thirties Dutch newspaper under a harsh desk lamp, bold casualty headlines in sharp focus, typewriter and cigarette smoke blurred behind, steel-blue desaturated tones, hard shadows, documentary tension, clinical composition with the death toll centered in merciless detail.",
+   "video_prompt": "Cold push-in on a yellowed nineteen-thirties Dutch newspaper filling the frame, camera gliding across bold casualty headlines, typewriter keys hammering in the background, harsh desk-lamp light cutting through cigarette smoke, ending on an extreme close-up of the printed death toll trembling in focus.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_038",
+   "shot": 38,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Tetapi Wikipedia justru menulis versi lain: empat tewas, empat puluh sembilan hilang! Jangan kabur dulu. Mana yang benar? Dua sumber, dua cerita — penyelidikan kita baru dimulai!",
+   "visual_prompt": "Cold documentary interrogation of two conflicting documents side by side under a single harsh lamp, one typed Dutch report and one modern printout, magnifying glass over contradictory numbers, steel-blue desaturated tones, hard shadows, tense clinical atmosphere, symmetrical split composition with stark contrast and forensic precision."
+  },
+  {
+   "id": "shot_039",
+   "shot": 39,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Banyak pekerja pribumi menumpang gelap tanpa tercatat di manifes — sehingga angka pasti korban TAK AKAN PERNAH DIKETAHUI! Dua versi resmi bertolak belakang, dan kebenaran tenggelam bersama bangkai kapal.",
+   "visual_prompt": "Night scene on a crowded nineteen-thirties steerage deck, shadowy unlisted workers moving between crates and coiled ropes, swinging lanterns casting long hard shadows, faces half-hidden in darkness, cold blue moonlight cutting through, tense documentary atmosphere, claustrophobic handheld-style framing with layered depth.",
+   "video_prompt": "Handheld-style drift through a crowded nineteen-thirties steerage deck at night, shadowy figures of unlisted workers moving between crates and ropes, lanterns swinging, camera weaving through the crowd as faces blur past, ending on an empty manifest ledger page fluttering in the wind.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_040",
+   "shot": 40,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Nakhoda B. C. Akkerman, pelaut berpengalaman dua puluh lima tahun, adalah orang terakhir yang meninggalkan kapal — setelah menyelamatkan seorang perempuan Belanda dan seorang anak! Kehormatan kapten sejati.",
+   "visual_prompt": "Cold steel-blue portrait of a weathered sea captain in nineteen-thirties uniform standing on a tilting deck at night, last man aboard, one hand gripping the rail, empty lifeboat davits behind him, rain streaking through searchlight beams, hard documentary lighting, heroic somber composition with dramatic depth and rain-lashed resolve."
+  },
+  {
+   "id": "shot_041",
+   "shot": 41,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Kapal Plancius berada sangat dekat dengan lokasi karam — TETAPI radionya mati total! Asykoli inna yama kalima. Bayangkan: bencana maut terjadi di sebelahnya dan mereka tak tahu apa-apa! Ironi yang menyakitkan.",
+   "visual_prompt": "Moonlit strait at night with two steamships separated by black water, the silent Plancius with its dead radio mast in cold silhouette, fog rolling across the waves, distant lights of the doomed vessel flickering, steel-blue desaturated palette, eerie documentary stillness, wide symmetrical composition steeped in dread and silence.",
+   "video_prompt": "Slow aerial drift between two steamships on a dark moonlit strait, camera orbiting the silent Plancius with its dead radio mast, panning across black water toward the distant lights of the doomed vessel, fog rolling, ending on a close-up of a cold unlit wireless room.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_042",
+   "shot": 42,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Delapan pesawat Dornier menyisir lautan — pukul tujuh empat puluh lima pagi terlihat manusia mengapung! Satu sekoci berisi sekitar lima puluh orang, tetapi tujuh sekoci lainnya lenyap entah ke mana!",
+   "visual_prompt": "Cold desaturated aerial view of a gray morning sea, tiny human figures floating among debris, a lone overcrowded lifeboat below, distant Dornier seaplanes as dark specks, hard flat light, bleak documentary atmosphere, vast empty composition emphasizing isolation and scale beneath an indifferent sky, every wave a question without answer."
+  },
+  {
+   "id": "shot_043",
+   "shot": 43,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Dewan Pelayaran menggelar sidang penyelidikan di Betawi pada dua puluh satu April sembilan belas tiga puluh tujuh — para ahli berkumpul, dokumen dibuka, saksi dipanggil! Dan hasilnya? Nihil! Nol besar!",
+   "visual_prompt": "Colonial courtroom in Batavia under hard shutter light, stern investigators in white uniforms behind a long teak table, stacks of documents and a brass gavel, portraits of officials on the wall, cold desaturated tones, oppressive documentary atmosphere, symmetrical composition with the empty witness chair centered under merciless light.",
+   "video_prompt": "Steadicam push through a colonial courtroom in Batavia, stern investigators in white uniforms seated at a long table, camera gliding past stacks of documents and stern portraits, hard shafts of light through shutters, ending on a judge's gavel frozen mid-air above the desk.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_044",
+   "shot": 44,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Kata jin penjaga selat, ombak malam itu sudah memberi peringatan berulang kali — tetapi diabaikan manusia yang merasa menguasai besi dan mesin! Datar saja penutur melaporkannya: begitulah kesombongan berakhir.",
+   "visual_prompt": "Cold moonlit strait with unnatural towering waves glowing steel-blue, an invisible presence suggested by swirling mist forming a watching shape, a small steamship dwarfed below, lightning frozen mid-sky, eerie documentary tension, ominous wide composition with oppressive negative space while the dark sea holds its breath."
+  },
+  {
+   "id": "shot_045",
+   "shot": 45,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Banyak teori penyebab karam beredar — badai, kesalahan manusia, kutukan! TAPI TAK SATU PUN TERBUKTI! Penyelidikan buntu, dokumen bisu, saksi mati! Inilah yang membuat darah penutur mendidih!",
+   "visual_prompt": "Violent underwater plunge toward a rusting shipwreck on a black seabed, storm clouds churning above the surface, shattered lifeboats and drowned documents swirling, pulsing red emergency glow, cold steel-blue palette, furious documentary energy, dramatic diagonal composition full of motion and debris in merciless cold light.",
+   "video_prompt": "Rapid whip-pan montage of storm clouds, shattered lifeboats, and drowned documents swirling underwater, camera plunging beneath black waves toward a rusting hull on the seabed, red emergency light pulsing, ending on a furious close-up of a fist slamming a table of scattered evidence.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_046",
+   "shot": 46,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Radio mati di saat genting! Penumpang gelap tak tercatat! Sekoci hilang tanpa jejak! Kelalaian demi kelalaian menumpuk seperti bangkai! Manusia! Kapan kalian belajar dari laut?!",
+   "visual_prompt": "Cold interrogation-style tableau of maritime failures: a dead radio set with severed wires, an empty manifest ledger, a missing lifeboat davit, all arranged under harsh white light on black, steel-blue desaturated tones, hard shadows, accusatory documentary atmosphere, stark centered composition with forensic precision."
+  },
+  {
+   "id": "shot_047",
+   "shot": 47,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Semut-semut di dermaga sudah gelisah sejak subuh — mereka mencium bau maut sebelum manusia sadar! Man asyidi issad asyida. Itu bahasa semut. Semut pun paham, manusia justru tuli!",
+   "visual_prompt": "Extreme macro of ant columns streaming across weathered harbor wood at dawn, tiny bodies glowing amber in backlight, morning mist drifting, the massive steamship hull looming blurred above, cold blue shadows against warm highlights, tense documentary atmosphere, shallow focus tracking the urgent march toward an unseen warning.",
+   "video_prompt": "Macro dolly across a harbor pier at dawn, columns of ants streaming over weathered wood, camera following their urgent march in extreme close-up, morning mist glowing behind them, tilting up to reveal the massive steamship looming above, ending on ants scattering as a horn blares.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_048",
+   "shot": 48,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Sembilan puluh tahun berlalu dan misteri ini tetap membisu — salah siapa sebenarnya? Laut? Manusia? Atau takdir? Penutur serahkan jawabannya kepada kalian. Pikirkan baik-baik!",
+   "visual_prompt": "Cold desaturated wide shot of an endless gray sea under heavy clouds, a faint shipwreck silhouette far below the surface, a single shaft of light breaking through, bleak contemplative documentary atmosphere, minimal composition with vast negative space as the silent horizon refuses to answer and the deep keeps its secret."
+  },
+  {
+   "id": "shot_049",
+   "shot": 49,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Simpan baik-baik. Puluhan kapal layar nelayan Brondong menerjang gelombang begitu mendengar kabar, mengangkat seratus empat puluh korban dari sekoci yang terombang-ambing tanpa tahu siapa yang mereka tolong.",
+   "visual_prompt": "Golden dawn breaks over the Java Sea as a flotilla of traditional wooden layar fishing boats surges through rolling waves, sails billowing full with wind. Fishermen silhouettes haul ropes on deck while sea spray catches the amber light. Warm memorial glow on the horizon, gold-tinted water shimmering, dramatic clouds parting, cinematic wide shot, golden underwater palette.",
+   "video_prompt": "Slow aerial drone pull-back over a fleet of traditional Indonesian layar sailboats racing through golden waves at dawn, sails full of wind, camera rising to reveal the horizon glowing warm amber.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_050",
+   "shot": 50,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Di halaman Kantor Pelabuhan Brondong, pemerintah Hindia Belanda membangun monumen art deco yang anggun, bukan untuk pejabat berdasi, melainkan untuk mengenang nelayan yang mempertaruhkan nyawa demi orang asing.",
+   "visual_prompt": "Sun-washed colonial harbor courtyard, an elegant art deco monument rising at its center, bronze reliefs honoring fishermen glowing in warm afternoon light. Frangipani trees frame the composition, shadows striping the stone plaza. Low angle shot, sepia-tinged warmth, amber and gold palette, nostalgic memorial atmosphere."
+  },
+  {
+   "id": "shot_051",
+   "shot": 51,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "September tahun berikutnya setelah sidang Betawi, penduduk desa Brondong diundang ke upacara yang tak pernah mereka lupakan, dan para nelayan menerima sembilan perahu dan uang sebagai penghargaan resmi pemerintah.",
+   "visual_prompt": "Colonial-era village square in the late nineteen thirties, crowds gathered around a wooden stage as officials hand over small fishing boats, bunting flags fluttering overhead. Children perch on shoulders, fishermen in sarongs grin broadly, warm golden afternoon light bathing the cheering crowd, dust motes dancing in sunbeams. Amber and gold palette, documentary realism.",
+   "video_prompt": "Slow dolly-in across a festive nineteen-thirties village ceremony in a Javanese coastal square, camera gliding past cheering crowds toward a wooden stage, golden afternoon light flaring through dust motes.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_052",
+   "shot": 52,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Coba hitung, dana tiga ribu gulden datang dari tiga sumber: Docus Rijkers Fonds, KPM, dan pemerintah. Tiga ribu untuk tiga hari lautan menahan napas menunggu kabar kapal yang tak kunjung kembali!",
+   "visual_prompt": "Close-up of weathered colonial-era banknotes and coins spilling from an old wooden donation chest, warm lantern light glowing from the side, three neat stacks symbolizing the donors. Dust particles drift through golden shafts of light, dark teak background, shallow depth of field, amber and honeyed gold palette, quiet memorial warmth, cinematic macro still."
+  },
+  {
+   "id": "shot_053",
+   "shot": 53,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Empat mayat dibawa pulang dari perairan itu, salah satunya operator radio yang pesan terakhirnya sudah kita dengar. Ia gugur di dekat alatnya. Tetap di posisi. Sampai titik penghabisan.",
+   "visual_prompt": "Dim interior of a nineteen thirties ship's radio room, a brass telegraph key and silent headphones on a wooden desk, a single warm lamp glowing beside a draped flag. Outside the porthole, grey-green waves roll under a brooding sky. Shaft of golden light cutting through dust, teak panels gleaming, amber memorial warmth against cold sea tones, cinematic intimate framing.",
+   "video_prompt": "Slow push-in through a dim nineteen-thirties ship radio room toward the silent brass telegraph key, camera drifting past the porthole as grey waves roll outside, warm lamp flickering.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_054",
+   "shot": 54,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Maqoli inna rahmatan. Kalau bukan karena keberanian para nelayan itu, berapa ratus nyawa lagi yang ikut tenggelam hari itu? Langit mencatat semuanya, dan lautan tidak pernah berutang pada siapa pun.",
+   "visual_prompt": "Night sea under a vast starry sky, a lone fisherman standing at the bow of a wooden boat, lantern in hand, golden light haloing his silhouette against deep indigo waves. Above, stars shimmer like an open ledger of the heavens, warm gold reflections rippling on the water, solemn and majestic mood, wide cinematic composition, deep gold and indigo palette, fine film grain."
+  },
+  {
+   "id": "shot_055",
+   "shot": 55,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Kata hujan yang turun sore itu, manusia memang gemar mengulang kesalahan yang sama — ia menertawakan kita dari langit, sambil tetap membasahi topi para pelaut yang pulang ke rumah.",
+   "visual_prompt": "Tropical downpour over the Java Sea at dusk, rain streaks slanting through shafts of golden sunset light, a small fishing boat bobbing on dark swells below. Storm clouds part to reveal glowing amber sky, rain glinting like silver threads, melancholic yet playful mood, slow motion raindrops, cinematic wide shot, gold and slate palette, atmospheric haze.",
+   "video_prompt": "Slow-motion rain slanting through golden dusk light over the Java Sea, camera tilting down from glowing storm clouds to a lone fishing boat riding dark swells below.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_056",
+   "shot": 56,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "April dua ribu dua puluh satu, tim BPCB Jatim menemukan bangkai di kedalaman lima puluh empat meter di Laut Brondong, yang diduga kuat adalah Van der Wijck — dugaan yang masih diperdebatkan para ahli.",
+   "visual_prompt": "Deep underwater scene, a mysterious shipwreck resting on the sandy seabed, golden god rays piercing the blue-green water from above. A diver's silhouette approaches the rusted hull with a flashlight beam, schools of small fish swirling, particles drifting in the light, haunting and majestic mood, cinematic wide composition, gold and deep teal palette, subtle film grain."
+  },
+  {
+   "id": "shot_057",
+   "shot": 57,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Kini bangkai itu malah menjadi objek wisata selam! Orang-orang turun membawa kamera dan berfoto di samping besi yang pernah menelan nyawa — pariwisata memang tidak mengenal kata duka, kawan.",
+   "visual_prompt": "Recreational divers exploring a historic shipwreck, flashlight beams sweeping across the encrusted iron hull, one diver photographing a rusted porthole while bubbles rise in golden shafts. Schools of silver fish part around them, warm underwater glow, playful ironic mood, cinematic tracking shot alongside the divers, gold and teal palette, crisp documentary realism.",
+   "video_prompt": "Cinematic tracking shot gliding alongside recreational divers exploring a historic shipwreck, flashlight beams sweeping the rusted hull as bubbles rise through golden underwater shafts.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_058",
+   "shot": 58,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Delapan puluh lima tahun lebih sudah berlalu, dan penyebab karam serta lokasi pasti bangkai itu tetap menjadi misteri. Arsip lengkap, kesaksian ada, tapi jawabannya? Nihil. Sunyi.",
+   "visual_prompt": "Dusty colonial archive room, towering shelves of leather-bound ledgers and yellowed documents, a single shaft of warm light falling on an open empty file folder. Motes drift in the golden beam, deep shadows in the corners, an old brass lamp glowing softly, mysterious and unresolved mood, rich amber and brown palette, cinematic still, quiet tension."
+  },
+  {
+   "id": "shot_059",
+   "shot": 59,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Syalala. Badai datang dalam enam menit, misteri bertahan delapan puluh lima tahun — lautan memang juara bertahan dalam hal menyimpan rahasia, sedangkan kita hanya bisa menebak-nebak!",
+   "visual_prompt": "Split composition: above, a violent storm churning the sea into white foam under dark clouds; below the surface, serene golden calm around a silent shipwreck. Lightning frozen mid-flash above, gold rays below, dramatic contrast of chaos and peace, cinematic vertical sweep, amber gold and storm grey palette, powerful and ironic mood.",
+   "video_prompt": "Dramatic vertical camera sweep from a violent storm churning above the sea down through the surface into serene golden calm around a silent shipwreck below.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_060",
+   "shot": 60,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Kecelakaan, kelalaian, atau kutukan Laut Jawa? Penutur hanya membawakan cerita, bukan vonis. Maka jawabannya ada di tanganmu — menurutmu, apa yang sebenarnya menenggelamkan kapal nahas itu?",
+   "visual_prompt": "A lone figure standing on a moonlit Brondong beach at night, gazing out at the dark Java Sea where a faint golden glow shimmers on the horizon. Questions hang in the air, waves whispering against the shore, stars above, lantern light warm at his feet, contemplative and haunting mood, cinematic wide shot, deep gold and midnight blue palette, fine film grain."
+  }
+ ]
+}
