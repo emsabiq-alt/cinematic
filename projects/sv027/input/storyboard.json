@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Fajar hari pertama tahun dua ribu tujuh berkabut di Juanda. Burung besi orange meraung di landasan. Pukul dua belas lewat lima puluh lima menit, pesawat Adam Air itu lepas landas. Tujuan: Sam Ratulangi Manado!",
+      "visual_prompt": "Pre-dawn at Juanda International Airport, Surabaya, two thousand seven: a Boeing 737 in bright orange livery taxis through thin ground fog on a wet runway, amber runway edge lights glowing, dark blue-grey twilight sky, silhouettes of ground crew with signal wands, cinematic wide shot with shallow depth of field, cold desaturated palette, faint mist drifting, film grain.",
+      "video_prompt": "Cinematic aerial drone shot sweeping low over a foggy airport runway at dawn, revealing an orange-liveried Boeing 737 accelerating for takeoff, camera tracking alongside the aircraft then tilting up as it lifts into a pale blue-grey sky, runway lights streaking below, cold morning haze, subtle film grain, dramatic slow motion.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Di kabin ada seratus dua jiwa: sembilan puluh enam penumpang dan enam awak. Delapan puluh lima dewasa, tujuh anak-anak, empat balita. Ada yang pulang kampung, ada yang liburan. Langit menyimpan rahasia!",
+      "visual_prompt": "Interior of an economy-class aircraft cabin at dawn: rows of passengers seated quietly, soft golden light streaming through oval windows, flight attendants walking the aisle, overhead bins closed, warm tungsten cabin glow contrasting the cold blue sky outside, intimate handheld documentary framing, shallow focus on a child's hand gripping an armrest, film grain."
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Rute Surabaya–Manado dilalui maskapai orange itu tiap hari. Estimasi tiba pukul empat lewat empat belas menit waktu Indonesia tengah. Cuaca cerah, radar mengawal. Terlihat sempurna. Terlalu sempurna!",
+      "visual_prompt": "A commercial jet cruising at high altitude above a vast sea of clouds at sunrise, seen from slightly behind and below the wing, warm golden sunlight breaking over the horizon, contrails trailing, endless cloudscape, hopeful serene atmosphere, rich amber and rose palette, cinematic anamorphic look, subtle film grain.",
+      "video_prompt": "A commercial jet cruising at high altitude above a vast sea of clouds at sunrise, camera slowly orbiting from behind and below the wing to reveal an endless cloudscape, warm golden sunlight breaking over the horizon, contrails trailing, hopeful serene atmosphere, rich amber and rose palette, cinematic anamorphic look.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Pukul dua lewat lima puluh tiga menit waktu Indonesia tengah, titik hijau di radar lenyap. Posisi terakhir: delapan puluh lima mil laut barat Makassar. Ketinggian tiga puluh lima ribu kaki. Hening total!",
+      "visual_prompt": "Dark air traffic control radar room in Makassar: a large green phosphor radar scope dominating the frame with a single blip vanishing into static, tense operators leaning over consoles lit by monitor glow, coffee cups and headsets scattered, deep shadows, cold green-black palette, documentary realism, faint scan-line texture."
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "ATC Makassar memanggil berkali-kali tanpa jawaban. Dengar baik-baik. Radio mati, radar buta, sinyal darurat pun tidak ada! Pesawat itu lenyap dari langit. Hitung mundur menuju kepanikan nasional!",
+      "visual_prompt": "Interior of an air traffic control tower cab at midday: operators in panic shouting into headsets and radios, wall of glowing radar screens, a supervisor's worried face, harsh fluorescent light mixed with daylight, urgent documentary energy, desaturated teal tones, cinematic realism.",
+      "video_prompt": "Interior of an air traffic control tower cab at midday, operators in panic shouting into headsets and radios, wall of glowing radar screens, camera pushing in handheld through the chaos toward a supervisor's worried face, harsh fluorescent light mixed with daylight, urgent documentary energy, desaturated teal tones.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Tim pencarian dikerahkan ke barat Sulawesi. Helikopter terbang, kapal berpatroli, sonar menyisir dasar laut. Malam itu tak ada yang tidur. Semua bertanya: ke mana perginya seratus dua jiwa itu? Syududu.",
+      "visual_prompt": "Night search operation over a dark sea: a rescue helicopter hovering low with a brilliant searchlight beam cutting through rain and mist, waves churning below, distant lightning on the horizon, silhouettes of crew in the open door, cold blue-black palette with a single warm light pool, dramatic chiaroscuro, cinematic tension."
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Keesokan harinya kabar datang tentang pesawat Adam Air itu. Menhub Hatta Rajasa mengumumkan: pesawat menabrak gunung di desa Rangoan! Televisi heboh, keluarga histeris. Tapi tunggu! Ada yang tidak beres!",
+      "visual_prompt": "A government press conference room flooded with camera flashes: a minister at a podium with microphones, rows of journalists raising hands, TV cameras jostling, sterile fluorescent palette with harsh highlights, documentary realism, tense atmosphere.",
+      "video_prompt": "A government press conference room flooded with camera flashes, camera slowly dollying forward through a crowd of journalists capturing flashing lights and chaotic energy toward a minister at a podium with microphones, rows of raised hands, TV cameras jostling, sterile fluorescent palette with harsh highlights, documentary realism.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Rinciannya meyakinkan: sembilan puluh tewas, dua belas hilang. Lokasi: dua ratus lima puluh kilometer dari Makassar. Resmi, kan? Bohong besar! Tim SAR tiba dan tidak menemukan apa-apa. Nol! Kabar burung!",
+      "visual_prompt": "Remote mountain village of Rangoan in West Sulawesi at dusk: empty misty slopes and dense jungle, a small SAR team with flashlights and headlamps finding nothing but mud and leaves, a toppled search tent, grey overcast sky, desaturated olive-grey palette, eerie stillness, wide desolate composition."
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Coba hitung: satu Januari, seratus dua jiwa, lalu kabar resmi menguap. Angka-angkanya pas, faktanya nol. Kabar dari mulut pejabat ternyata dusta! Pejabat bicara, rakyat percaya, media menyebar. Retak besar!",
+      "visual_prompt": "Collage of two thousand seven television news graphics and newspaper front pages: bold headlines and numbers dissolving into static, layers of broadcast screens receding into darkness, cold blue broadcast glow, glitchy archival texture, unsettling rhythm, cinematic composition.",
+      "video_prompt": "Montage of two thousand seven television news graphics and newspaper front pages spinning past the lens, bold headlines and numbers dissolving into static, camera pulling back through layers of broadcast screens into darkness, cold blue broadcast glow, glitchy transitions, unsettling rhythm, cinematic archival collage.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Bagaimana bisa menteri mengumumkan penemuan sebelum tim SAR tiba?! Kepala SAR kaget. Keluarga menangis untuk jenazah yang tidak ada! Memalukan! Bukan salah info biasa — nyawa manusia dijadikan berita!",
+      "visual_prompt": "Grief-stricken families crowded in an airport waiting hall at night: women crying into tissues, men staring blankly at TV screens showing breaking news, abandoned luggage, harsh overhead lighting mixed with blue monitor glow, raw documentary emotion, desaturated palette with warm skin tones, intimate close framing."
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Sementara itu di lautan, pencarian terus berjalan tanpa henti. Kapal-kapal menyisir Selat Makassar, badai Januari menghantam. Setiap puing diperiksa. Harapan menipis, mesin tak berhenti. Belum menyerah!",
+      "visual_prompt": "Search vessels cutting through rough grey seas of the Makassar Strait under storm clouds: a helicopter circling overhead, white spray crashing over bows, churning ocean, distant rain squalls on the horizon, desaturated steel-blue palette, relentless motion, heavy atmosphere, cinematic wide shot, documentary realism.",
+      "video_prompt": "Search vessels cutting through rough grey seas of the Makassar Strait under storm clouds, helicopter circling overhead, camera tracking low over crashing waves alongside the ships then rising to a wide aerial view of the churning ocean, white spray over bows, desaturated steel-blue palette, relentless motion.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Mereka lenyap tanpa jejak di awal tahun itu. Negara mengumumkan kabar bohong tanpa bukti. Lautan menyimpan jawaban yang tak muncul. Dari langit hening terdengar bisikan: Maqoli inna rahmatan. Babak baru mulai!",
+      "visual_prompt": "Vast empty ocean at dusk, endless dark water meeting a pale horizon, a single distant cloud bank glowing faint orange, profound stillness and absence, no ships, no land, melancholic deep-blue and slate palette, minimalist composition with heavy negative space, haunting quiet, cinematic wide shot."
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Inilah dia. Boeing tujuh tiga tujuh seri empat ratus, registrasi PK-KKW, lahir tahun sembilan belas delapan puluh sembilan. Umurnya delapan belas tahun saat malam itu. Tua? Ya. Tapi tunggu dulu.",
+      "visual_prompt": "Cinematic wide shot of an aging jetliner with faded orange livery parked on rain-slicked tarmac at dusk, amber sodium floodlights glinting off worn fuselage panels, ground crew silhouettes crossing the frame, rust-orange clouds stacked on the horizon, fine rain drifting through the light beams, slow push-in toward the aircraft nose, teal-shadowed industrial melancholy, subtle film grain.",
+      "video_prompt": "Slow cinematic push-in toward the nose of an aging orange-liveried jetliner on wet tarmac at dusk, camera gliding low over rain reflections, amber floodlights flaring gently, fine rain visible in the beams.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Sebelum mendarat di sini, dia sudah dipakai delapan maskapai: Dan-Air, British Airways, GB Airways, National Jets Italy, WFBN, Air One, Jat Airways. Delapan bendera di ekornya. Delapan kali dibuang.",
+      "visual_prompt": "Extreme close-up of an aircraft tail fin layered with peeling paint, ghost outlines of faded airline logos showing through cracked orange topcoat, rust streaks bleeding from rivet lines, a mechanic's gloved hand scraping a loose paint flake, warm tungsten work-lamp glow from the left, deep amber and umber palette, shallow depth of field, gritty industrial texture."
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Total jam terbangnya? Empat puluh lima ribu tiga ratus tujuh puluh satu jam. Bayangkan: lima tahun penuh dia tidak pernah tidur. Mesinnya menjerit, tapi jadwalnya tidak pernah berhenti.",
+      "visual_prompt": "Slow orbital shot around a weathered jet engine intake inside a dim hangar, soot-stained turbine blades and chipped paint on the cowling, a mechanic's silhouette passing with a trouble lamp, golden rim light tracing the engine lip, floating dust motes in amber air, shallow focus shifting across rivets, industrial dusk mood with teal-blue shadows.",
+      "video_prompt": "Slow orbital camera move around a worn jet engine intake in a dim hangar, circling past soot-stained blades and chipped cowling paint, golden rim light and drifting dust, focus pulling across rivet lines.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Dan maskapai orange itu berani bilang: ini pesawat baru. Baru?! Umurnya lima belas tahun lebih saat disewa! Itu namanya bohong. Bohong yang dibungkus cat orange mengilap dan senyum pramugari.",
+      "visual_prompt": "Close-up of a paint sprayer laying fresh glossy orange paint over cracked, sun-faded old livery on an aircraft fuselage, paint drips catching harsh white work light, peeling edges and corrosion spots visible beneath the new coat, a masked painter's silhouette, high-contrast industrial palette of burnt orange against cold steel grey, shallow focus, gritty realism."
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Alat navigasinya rusak seratus lima puluh empat kali dalam tiga bulan. Catat ini. Oktober, November, Desember dua ribu enam, terutama IRS kiri. Seratus lima puluh empat kali!",
+      "visual_prompt": "Slow dolly into an open avionics bay of an aging airliner at night, tangled wire bundles and a dust-caked navigation unit, a mechanic's flashlight beam sweeping across blinking red fault indicators, drifting dust in the beam, oily fingerprints on metal panels, deep amber work light against cold blue night shadows, tense claustrophobic industrial mood.",
+      "video_prompt": "Slow handheld-style dolly into an open avionics bay at night, flashlight beam sweeping over tangled wires and a blinking red fault indicator, dust drifting in the beam, amber work light against cold blue shadows.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Perbaikannya? Dibersihkan, lalu dipasang kembali. Itu saja. Berkali-kali rusak, solusinya cuma lap kain. Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Catat baik-baik.",
+      "visual_prompt": "Close-up of a mechanic's weathered hands wiping a dust-covered aircraft instrument with a grimy rag inside a cramped dim compartment, scratched dials and faded labels, a single hanging work bulb casting hard yellow light and long shadows, rust flakes on the frame edges, sepia-tinged industrial grit, shallow depth of field, documentary realism."
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Adam Air mulai terbang sembilan belas Desember dua ribu tiga. Tumbuh tercepat di negeri ini. Burung besi orange membanjiri langit. Tiket murah, jadwal padat, senyum di mana-mana.",
+      "visual_prompt": "Rising crane shot over a bustling airport ramp at dawn, three airliners with bright orange tails taxiing and lifting off in sequence, heat haze and jet exhaust shimmering, ground vehicles streaking below, soft rose-gold sunrise washing over concrete, energetic optimistic palette of peach and steel, wide cinematic scope, subtle grain.",
+      "video_prompt": "Rising crane shot over a busy airport ramp at dawn as three orange-tailed airliners taxi and take off in sequence, camera tilting up to follow the climbing jets, rose-gold sunrise and heat shimmer.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Sebelas Februari dua ribu enam, penerbangan tujuh delapan dua kehilangan arah. Mendarat darurat di Tambolaka, Nusa Tenggara Timur. Seratus lima puluh dua nyawa selamat. Pilotnya? Dipecat.",
+      "visual_prompt": "Dramatic wide shot of an airliner making an emergency landing on a remote dusty runway at golden hour, dust clouds billowing from the tires, emergency vehicles with flashing lights racing alongside, worried onlookers at the fence line, scorched amber sky with heavy clouds, high-contrast documentary tension, warm dusty palette with deep shadows."
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kata malaikat maut, daftarnya sudah panjang sejak sore itu. Malam tahun baru, semua orang ingin pulang ke rumah. Dia hanya mencatat nama, satu per satu. Tenang. Rapi. Tanpa tergesa. Seperti biasa.",
+      "visual_prompt": "Slow lateral tracking shot past a dark airport terminal window at night, blurred silhouettes of a New Year's Eve crowd with luggage inside, cold fluorescent interior glow against pitch-black glass reflections, a lone hooded figure drifting through the foreground, faint fireworks blooming far behind the terminal, somber indigo and steel palette, quiet ominous stillness.",
+      "video_prompt": "Slow lateral tracking shot past a dark airport terminal window at night, blurred New Year's Eve crowd silhouettes inside, camera drifting left as a lone hooded figure crosses the foreground, faint fireworks far behind.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Nah, sekarang saya tanya baik-baik. Pesawat berumur delapan belas tahun, alat navigasi jebol lebih dari seratus kali, diperbaiki cuma pakai lap kain. Siapa berani naik?! Angkat tangan sekarang!",
+      "visual_prompt": "Low-angle shot looking up at a massive rusted aircraft landing gear and dark engine intake looming overhead, corroded metal and oil stains, a tiny mechanic silhouette dwarfed beneath, single harsh sodium lamp cutting through humid night air, intimidating monumental composition, burnt umber and deep black palette, dramatic chiaroscuro."
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Malam itu jadwalnya padat seperti biasa. Adam Air tetap menerbangkannya, awak kabin tersenyum, penumpang berebut pulang. Tidak ada yang tahu burung besi orange ini sedang sekarat.",
+      "visual_prompt": "Slow forward dolly through light night rain toward passengers climbing airstairs into an orange-tailed airliner, harsh white floodlights and a pulsing red beacon on the fuselage, wet tarmac mirroring the lights, umbrellas and hurried silhouettes, melancholic electric-blue night palette pierced by hot orange accents, documentary immediacy.",
+      "video_prompt": "Slow forward dolly through light rain toward passengers climbing airstairs under harsh floodlights, camera weaving gently, red beacon pulsing on the fuselage, wet tarmac mirroring the lights.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Delapan belas tahun umur, delapan maskapai berganti, empat puluh lima ribu jam terbang, kerusakan navigasi kelewat seratus kali. Pesawat ini bukan terbang. Dia merangkak menuju malam. Syalala.",
+      "visual_prompt": "Lone airliner silhouette on an empty night runway, red anti-collision beacon flashing against towering storm clouds, distant city glow on the horizon, wet asphalt reflecting the beacon pulse, a single set of landing lights fading into black, funereal deep-indigo and blood-orange palette, vast oppressive stillness, cinematic finality."
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Malam itu Selat Makassar mengamuk. BMKG mencatat awan sampai tiga puluh ribu kaki, angin lebih dari tujuh puluh knot. Seratus tiga puluh kilometer per jam. Langit tidak sedang murung. Dia sedang marah besar!",
+      "visual_prompt": "Satellite-style night view of a colossal thunderstorm churning over the dark Makassar Strait, towering cumulonimbus lit from within by flickering lightning, deep teal-green storm palette with electric white bolts, wind-torn cloud tops glowing faintly, rain shafts falling like curtains over black churning sea, cinematic wide aerial sweep, volumetric haze, ominous grandeur, photorealistic, dramatic chiaroscuro.",
+      "video_prompt": "Slow aerial sweep over a massive night thunderstorm above the Makassar Strait, lightning flickering inside towering cumulonimbus, camera gliding forward through rain haze toward the storm's glowing core.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Direktur Bandara Juanda sempat menelepon kokpit malam itu. Cuaca di depan sangat buruk, katanya. Peringatan resmi, tercatat. Tapi mesin tetap meraung. Pesawat itu tetap berangkat!",
+      "visual_prompt": "Dimly lit airport director's office at night, an older man in uniform gripping a telephone receiver, urgent expression half-lit by a desk lamp, tall rain-streaked windows behind him revealing runway lights blurred by heavy rain, papers scattered on the desk, deep blue-night palette with warm amber lamp glow cutting through teal shadows, shallow depth of field, cinematic realism, tense quiet atmosphere."
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Kontak radio terakhir terdengar janggal. Pilot bilang angin datang dari kiri. Menara menjawab dari kanan. Kiri kata yang satu, kanan kata yang lain! Langit yang sama, ceritanya beda. Aneh, kan?",
+      "visual_prompt": "Cockpit interior at night in heavy turbulence, rain lashing the windshield, intermittent lightning flashes washing the panels in harsh white-green light, pilot's hand pressed to headset, glowing green instrument dials and radio stack, co-pilot glancing sideways in confusion, camera slowly pushing in past rain-streaked glass, teal-dark cockpit glow, claustrophobic tension, photorealistic cinematic detail.",
+      "video_prompt": "Slow push-in through a rain-streaked cockpit windshield toward a pilot clutching his headset, lightning flashing across green-lit instruments, rain hammering the glass.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Rekaman kotak suara membuka semuanya. Tiga belas menit terakhir, kedua pilot sibuk mengutak-atik navigasi IRS yang rusak. Tiga belas menit! Perhatian habis untuk alat, bukan untuk menerbangkan pesawat. Astaga!",
+      "visual_prompt": "Forensic audio laboratory in near darkness, investigators with headphones leaning over a glowing console, a recovered cockpit voice recorder unit on the table, green waveform readouts pulsing on black monitors, single overhead lamp pooling warm light on tense faces, deep emerald-teal shadows, film grain, documentary realism, heavy air of dread."
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Saat itulah kata semut di kokpit berbisik: Asykoli inna yama kalima. Pesawat tanpa nakhoda adalah bangkai yang menunggu jatuh. Malam itu kokpitnya memang tanpa nakhoda. Semua sibuk dengan kabel!",
+      "visual_prompt": "Extreme close-up of a pilot's headset in a storm-battered cockpit, lightning strobing through the windshield behind, tiny ant silhouettes crawling across the instrument glare, camera drifting in a slow hypnotic arc, rain hammering the glass, surreal teal-green instrument glow mixed with violet lightning, dreamlike dread, cinematic macro detail, otherworldly tension.",
+      "video_prompt": "Slow hypnotic arc around a pilot's headset in a storm-lit cockpit, macro drift past tiny ant silhouettes on glowing panels, lightning strobing the windshield.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Lalu sebuah tangan memindah pemilih IRS ke posisi ATT. Klik kecil. Autopilot langsung mati. Tanpa alarm keras, tanpa peringatan dramatis. Hanya sunyi. Pesawat terbang manual, dan tak satu pun dari mereka sadar!",
+      "visual_prompt": "Macro shot of a weathered hand flipping an aircraft IRS mode selector switch to ATT, cockpit bathed in dim green instrument light, the autopilot disconnect indicator glowing amber-red, rain blurred on the side window, shallow focus on the switch with bokeh dials behind, sickly green-teal palette with cold red accent, cinematic tension, photorealistic detail."
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Perlahan, tanpa suara, pesawat miring ke kanan. Lima derajat, sepuluh, dua puluh, lebih dari tiga puluh lima derajat! Sayap kanan menukik ke laut. Tidak ada yang menoleh. Tidak ada yang menarik tuas!",
+      "visual_prompt": "Exterior night shot of a passenger jet slowly banking right over a black storm sea, right wing dropping toward churning waves, lightning illuminating the fuselage in strobing teal-white flashes, rain streaking past, camera orbiting the aircraft in a slow menacing arc, dark green-black storm palette, growing tilt, silent cinematic horror, photorealistic.",
+      "video_prompt": "Slow menacing orbit around a passenger jet banking right over a black storm sea at night, right wing dropping toward the waves, lightning illuminating the fuselage.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kemudian hidungnya jatuh. Seratus derajat menunduk, Mach nol koma sembilan dua enam! Tiga koma lima g positif menghantam, lalu dua koma delapan g negatif. Manusia di dalamnya? Sudah tak bisa berpikir!",
+      "visual_prompt": "Chaotic cockpit interior during a steep dive at night, attitude indicator spinning, red warning lights flooding the panels, rain-smeared windshield showing only black sea rushing up, pilots' silhouettes braced against crushing g-force, camera tilted at a sickening angle, blood-red and acid-green palette clash, motion blur on loose papers, visceral cinematic terror."
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Coba hitung. Tiga belas menit terakhir, dua pilot, satu pesawat. Tiga belas kurang dua kurang satu, sisa sepuluh. Sepuluh detik terakhir barulah mereka sadar. Angka tidak bohong. Manusia yang lalai!",
+      "visual_prompt": "Surreal night sky over the Makassar Strait, storm clouds swirling into the shape of a giant clock face, lightning striking at the thirteen-minute mark, rain lashing sideways, camera pulling back in a slow reveal, deep indigo-teal storm palette with gold lightning edges, symbolic dread, cinematic wide shot, photorealistic clouds, ominous grandeur.",
+      "video_prompt": "Slow pull-back reveal of storm clouds swirling into a giant clock face over the night sea, lightning striking at the thirteen-minute mark.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Yang paling menyayat: mereka tak pernah sadar pesawat sedang jatuh. Instrumen berteriak, tapi telinga mereka sibuk. Laut mendekat dengan kecepatan maut. Kesadaran datang sedetik sebelum semuanya gelap!",
+      "visual_prompt": "POV from inside the cockpit as the black ocean rushes up to meet the windshield at night, a pilot's face frozen in dawning horror lit by sickly green instrument glow, raindrops suspended on the glass, lightning flash freezing the moment, teal-black palette with cold white glare, extreme tension, cinematic photorealism, the last second before impact."
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Lalu laut menelan semuanya. Dentuman di permukaan Selat Makassar, lalu sunyi. Tidak ada yang selamat. Tidak ada mayday terakhir. Hanya ombak yang menutup rahasia malam itu!",
+      "visual_prompt": "Night over the Makassar Strait, a distant fireball erupting on the black sea surface as the aircraft strikes, shockwave rippling through rain and spray, camera slowly pulling back as flames shrink into darkness, lightning still strobing the teal-black clouds, embers fading, then only moonlit waves, somber cinematic wide shot, tragic finality.",
+      "video_prompt": "Slow pull-back from a fireball erupting on the black night sea, flames shrinking into darkness as rain and lightning fade, leaving only moonlit waves.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Catat ini. Tiga belas menit untuk mengutak-atik alat, nol menit menerbangkan pesawat. Begitulah besi raksasa kalah oleh kelalaian manusia. Pelajaran termahal dalam sejarah penerbangan negeri ini. Syududu.",
+      "visual_prompt": "Moonlit sea at night after the storm has passed, unnaturally calm black water under a clearing teal sky, faint wreckage silhouette barely breaking the surface, a single ripple spreading outward, cold silver-blue palette with deep green shadows, stillness after catastrophe, cinematic wide static shot, quiet haunting finality."
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Baru hilang, mulut liar sudah kerja! Ada yang bilang pesawat diculik makhluk gaib, ada yang bisik soal tumbal malam tahun baru. Enak sekali omongannya, seolah bukti tidak perlu! Tukang karang!",
+      "visual_prompt": "Cinematic aerial night shot of a dark stormy strait, forked lightning illuminating churning black waves, heavy clouds lit from within by cold blue flashes, a distant plane silhouette vanishing into cloud, oppressive dread atmosphere, deep navy and electric blue palette with harsh storm glow",
+      "video_prompt": "Cinematic night sky over dark ocean, lightning flickers behind storm clouds; camera slowly tilts down from ominous clouds to black waves, embers drifting in wind, eerie moonlit atmosphere, handheld tension",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Jangan kabur dulu. Agustus dua ribu delapan, beredar rekaman percakapan terakhir kokpit. Pengunggahnya bersumpah ini bukti bukan human error. Tapi keasliannya tak pernah terbukti. Siapa yang bicara? Entahlah!",
+      "visual_prompt": "Close-up of a vintage cassette recorder on a worn wooden table in a dark room, single harsh interrogation lamp beam cutting through dust, tape reels spinning, shadows of venetian blinds across the wall, cold greenish desk light mixed with deep shadow, tense conspiratorial mood"
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Untuk apa teori gaib kalau faktanya begini! Seratus lima puluh empat kerusakan IRS dibiarkan! Perbaikannya cuma dibersihkan lalu dipasang lagi! Itu bukan perawatan, itu judi nyawa penumpang! Gila!",
+      "visual_prompt": "Interior of a neglected aircraft maintenance hangar at night, corroded inertial reference unit on a workbench, blinking red warning indicators, scattered greasy tools, a single swinging overhead lamp casting long harsh shadows, industrial decay, rust-orange and blood-red palette under cold fluorescent spill",
+      "video_prompt": "Slow push-in toward a corroded aircraft instrument panel in a dark hangar, warning lights blinking red; camera dollies forward past neglected tools and oily rags, dust particles in a shaft of light, building anger in the framing",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Pilotnya kurang latihan menghadapi kerusakan segawat ini! Manual dibaca setengah hati, simulator tak pernah menyentuh skenario itu. Lalu yang disalahkan? Setan! Jin! Enak betul. Yang lalai malah cuci tangan!",
+      "visual_prompt": "Empty cockpit at night lit by a single interrogation-hard spotlight from above, yoke and dead instruments in stark chiaroscuro, cracked windshield reflecting lightning, a torn flight manual on the seat, accusatory atmosphere, steel-blue and white-hot contrast, heavy film grain"
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Dengar baik-baik: Ma askoli inna kaliyamata inna asqoli. Jelas bagi yang paham — pesawat sebesar itu tak mungkin lenyap tanpa tangan gaib yang menariknya! Logika manusia mentok. Dalil yang bicara. Catat!",
+      "visual_prompt": "Surreal night descent through swirling storm clouds toward a vast moonlit ocean, a colossal shadowy hand of mist reaching down toward the black water, stars distorted above, supernatural dread, silver-blue moonlight against abyssal indigo, volumetric god rays through cloud",
+      "video_prompt": "Drone shot descending through thick night clouds toward a moonlit ocean abyss, stars wheeling above; camera spirals downward as mist parts, revealing dark water below, mystical pull, slow hypnotic rotation",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Sepuluh Januari tahun dua ribu tujuh, sembilan hari setelah hilang, serpihan ditemukan mengapung dekat Parepare. Pelampung darurat, potongan ekor. Laut yang menelan, laut yang mengembalikan bukti!",
+      "visual_prompt": "Floating aircraft debris scattered across grey dawn waves near a distant coastline, an orange emergency slide half-submerged, rescue boat searchlights sweeping low, overcast steel-grey sky, somber discovery mood, desaturated blue-grey palette with a single orange accent"
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Dua puluh satu Januari dua ribu tujuh, sinyal locator beacon terdengar! Bunyi kecil dari dasar laut, memanggil seperti rintihan. Teknisi menandai titiknya. Kapal pun datang. Harapan menyala terang malam itu!",
+      "visual_prompt": "Deep underwater abyss, pitch-black blue water pierced by a faint pulsing red beacon far below, twin searchlight beams from a ship slicing down through marine snow, sonar rings expanding outward, lonely hopeful tension, deep-sea cobalt fading to total black",
+      "video_prompt": "Underwater shot in abyssal darkness, a faint red beacon pulsing far below; camera slowly pushes deeper through drifting particles and cold blue searchlight beams from a surface ship, sonar pings visualized as expanding rings, mounting hope",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Kata jin penjaga selat, malam itu ombak sudah memberi peringatan. Ombak meninggi bukan tanpa sebab — itu tanda jangan terbang dulu. Tapi manusia tidak dengar. Sekarang sibuk saling tuding!",
+      "visual_prompt": "Towering night waves crashing against black coastal rocks under a blood-orange moon, spray frozen mid-air like grasping fingers, an ancient gnarled tree silhouetted on the cliff, warning omen mood, burnt-orange moonlight against deep teal water, dramatic rim lighting on foam"
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Dua puluh tujuh dan dua puluh delapan Agustus dua ribu tujuh, kotak hitam diangkat dari kedalaman dua ribu meter perairan Majene! Phoenix International yang menariknya. Biaya lebih dari dua puluh tujuh miliar!",
+      "visual_prompt": "Offshore recovery ship at night in heavy swell, giant crane lowering cables into ink-black water, deck floodlights blazing white against the dark sea, crew silhouettes in rain gear, industrial triumph mood, harsh white floodlight cutting through navy-black night and sea spray",
+      "video_prompt": "Massive offshore recovery vessel at night, crane cables descending into black water; camera cranes up from the churning sea to the deck where floodlights blaze, crew silhouettes hauling, then tilts down following the cable into the abyss",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Kotak hitam diserahkan ke KNKT, dianalisis bersama NTSB Amerika. Data penerbangan dan suara kokpit dibuka lembar demi lembar. Angka tidak bisa bohong! Dan angka itu bicara tentang kelalaian, bukan hantu!",
+      "visual_prompt": "Forensic laboratory at night, a scorched black box on a steel examination table under a hard ring of interrogation lamps, analysts in silhouette studying waveform printouts on glowing monitors, clinical revelation mood, sterile white-blue light against deep shadow, sharp specular highlights"
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Semut-semut di dasar laut menyaksikan semuanya — mereka tahu pasti apa yang terjadi. Manusia saja yang ribut sendiri!",
+      "visual_prompt": "Macro view of the dark ocean floor, tiny luminous trails weaving between scattered wreck fragments and sediment, faint bioluminescent motes rising like witnesses, a single pale shaft of surface light far above, quiet certainty mood, deep ultramarine darkness with soft cyan glow",
+      "video_prompt": "Macro shot drifting over dark seabed sediment where tiny glowing trails weave between wreck fragments; camera glides low across the ocean floor as bioluminescent motes rise, then slowly tilts up toward a shaft of distant surface light",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Sampai hari ini tak satu pun jenazah ditemukan. Laut menyimpan semuanya rapat-rapat. Silakan pilih: diculik makhluk gaib, atau dikorbankan sistem yang bobrok? Saya sudah bicara. Sekarang giliran Anda menilai!",
+      "visual_prompt": "Vast empty ocean horizon at dusk, sun sinking into a bruised purple sea, a single white flower wreath floating on gentle waves, no ship anywhere in sight, faint mist hanging on the waterline, mournful unresolved stillness, violet and ember-orange gradient melting into deep blue shadow"
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Dua puluh lima Maret dua ribu delapan, KNKT membacakan hasil akhirnya. Penyebabnya tiga. Cuaca buruk yang mengamuk, alat navigasi rusak yang dibiarkan, dan pilot yang kehilangan arah. Tiga dosa! Satu tragedi.",
+      "visual_prompt": "Cinematic wide shot of an official government investigation press conference room with investigators in suits seated at a long table full of documents and microphones, tall windows casting warm amber shafts of light, solemn documentary atmosphere, shallow depth of field, film grain texture, muted teal and gold palette, hazy volumetric light in the background",
+      "video_prompt": "Cinematic wide shot of an official government investigation press conference room, investigators in suits at a long table with documents and microphones, camera slowly pushes in toward the lead investigator speaking, warm amber lighting from tall windows, dramatic documentary atmosphere, shallow depth of field, film grain, slow dolly-in movement",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Dephub sempat menurunkan maskapai orange itu ke kategori tiga pada Maret dua ribu tujuh, predikat terburuk se-Indonesia. Lalu sekejap naik lagi ke kategori dua. Simpan baik-baik. Ingat cara nyawa dipermainkan.",
+      "visual_prompt": "Cinematic still image of a rusted orange airplane tail fin half-submerged in shallow turquoise sea water at golden hour, gentle waves lapping around it, distant fishing boats silhouetted on the horizon, warm orange and deep blue tones, melancholic memorial mood, soft lens flare, fine film grain, contemplative composition"
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Dua puluh satu Februari dua ribu tujuh, pesawatnya tergelincir di Juanda, rodanya keluar landasan. Semua penumpang selamat. Bukannya bertobat, maskapai itu malah terbang lebih berani. Kepleset lalu lari! Gila.",
+      "visual_prompt": "Cinematic dramatic scene of a commercial airplane skidding off a rain-soaked runway at dusk, rain streaking across the fuselage, blurred runway lights, flashing orange emergency beacons, dark storm clouds above, wet asphalt mirrors, intense documentary drama, cold slate-blue palette with hot orange accents, rain droplets on lens, heavy film grain",
+      "video_prompt": "Cinematic dramatic reenactment of a commercial airplane skidding off a wet runway at dusk, rain streaking across the fuselage, camera tracks laterally alongside the aircraft as it slides, runway lights blurring past, orange emergency lights flashing, dark stormy clouds above, wet asphalt reflections, intense documentary drama, slow-motion lateral tracking shot",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Coba hitung sekarang. Tiga puluh lima ribu kaki di atas, penumpang duduk santai memesan kopi. Dua ribu meter jurang biru menunggu di bawah. Jaraknya cuma hitungan menit jatuh. Nah! Beda satu keputusan.",
+      "visual_prompt": "Breathtaking aerial still image high above the clouds at golden hour, an airplane wing cutting through soft pink and gold cloud layers, far below a dark blue ocean abyss fading into shadow, immense sense of height and fragility, serene yet ominous, pastel rose and deep indigo palette, soft atmospheric haze, fine grain, meditative composition"
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Maqoli inna rahmatan. Konon begitu doa para penumpang sebelum pesawat menukik tajam. Saya tidak tahu doa siapa yang didengar langit. Sore itu langit tetap biru keemasan. Tenang. Terlalu tenang untuk perpisahan.",
+      "visual_prompt": "Cinematic aerial view of a calm golden sea at sunset with gentle shimmering waves, a few white birds crossing the frame, flower petals floating on the water, peaceful and haunting memorial atmosphere, lens flare from the low sun, warm honey-gold palette melting into soft violet horizon, dreamlike haze, fine film grain",
+      "video_prompt": "Cinematic slow aerial shot drifting over a calm golden sea at sunset, gentle waves shimmering in warm light, camera slowly descends toward the water surface, a few white birds crossing the frame, peaceful and haunting atmosphere, lens flare from the low sun, floating flower petals on the water, slow descending crane-like movement",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Tanggal sepuluh bulan ketiga tahun itu, satu pesawatnya lagi tergelincir di Batam. Tidak ada korban jiwa. Tapi kesabaran Dephub habis total. Delapan hari kemudian izin terbang dicabut. Selesai sudah, kawan!",
+      "visual_prompt": "Cinematic still image of an empty airport runway at twilight with a single grounded orange-tailed airplane parked in the distance, ground crew walking away with their backs to the camera, floodlights glowing in the purple dusk, melancholic end-of-an-era mood, deep violet and amber palette, long shadows, soft mist, film grain, wide contemplative framing"
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Hari kedelapan belas bulan yang sama, izin terbang dicabut. Esok harinya, seluruh armada dilarang terbang. Tiga bulan kemudian sertifikatnya dicabut. Maskapai orange itu bangkrut dan lenyap. Pergi! Begitu saja.",
+      "visual_prompt": "Cinematic interior of a vast airplane hangar at dawn, a row of orange-tailed aircraft parked in darkness, shafts of morning light slicing through floating dust, silhouetted workers, hangar doors half closed, somber documentary mood, dusty gold beams against deep shadow, volumetric light, heavy film grain, melancholic industrial beauty",
+      "video_prompt": "Cinematic shot of an airplane hangar interior at dawn, a row of orange-tailed aircraft parked in darkness, camera slowly pulls back and rises as hangar doors begin to close, shafts of morning light slicing through dust, workers in silhouette, somber documentary mood, slow backward crane movement, volumetric light beams",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Seratus dua nama. Satupun tidak punya kuburan. Bangkai dan penumpangnya masih tidur di dasar laut Majene. Ada yang sedang mudik tahun baru. Ada anak-anak yang belum sempat besar. Saya diam. Ini tidak lucu.",
+      "visual_prompt": "Deeply moving memorial still image on a quiet beach at golden hour, a row of lit candles and white flowers arranged in the sand facing a calm shimmering sea, gentle waves, a small wooden plaque with no name, warm candle glow against the blue-pink dusk sky, tender and sorrowful atmosphere, soft bokeh, fine grain, intimate composition"
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Kata hujan di atas Selat Makassar, malam itu ia menangis pilu. Katanya, manusia ini sok perkasa, terbang seenaknya di langitku. Lalu hujan itu tertawa kecil. Tawa hujan, kawan. Jangan coba bayangkan suaranya.",
+      "visual_prompt": "Cinematic scene of heavy tropical rain falling over a dark restless sea at dusk, rain streaks glowing in the last amber light, lightning flickering far on the horizon, churning waves below, melancholic and mystical atmosphere, deep slate and copper palette, rain on lens, atmospheric haze, slow and mournful composition",
+      "video_prompt": "Cinematic shot of heavy tropical rain falling over a dark restless sea at dusk, camera slowly tilts up from the churning waves to the storm clouds above, rain streaks glowing in the last amber light, lightning flickering far on the horizon, melancholic and mystical mood, slow upward tilt movement, atmospheric haze",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Kalau naik pesawat sekarang dan pramugari membagikan permen, jangan protes. Itu tanda maskapai masih punya uang beli permen. Berarti mesinnya ikut dirawat. Logika saya sederhana. Tapi belum pernah salah!",
+      "visual_prompt": "Playful cinematic still image inside a bright airplane cabin at golden hour, sunlight streaming through the windows, a flight attendant in orange uniform handing out candy to smiling passengers, warm and lighthearted mood, floating dust in sunbeams, honey-gold and cream palette, soft glow, gentle film grain, cheerful composition"
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Katanya waktu menyembuhkan segalanya. Bohong besar! Keluarga korban masih menunggu sampai hari ini. Mereka tidak butuh janji manis. Mereka butuh kebenaran. Syalala. Jawaban itu tenggelam bersama bangkainya.",
+      "visual_prompt": "Cinematic close scene of a weathered family photograph held by elderly hands, flickering candles on a wooden table beside it, faded faces in warm candlelight against deep shadow, quiet grief, floating dust particles, intimate and heartbreaking, amber glow melting into darkness, shallow focus, fine film grain",
+      "video_prompt": "Cinematic slow push-in on a weathered family photograph held by elderly hands, candles flickering beside it on a wooden table, camera moves in close to the faded faces in the photo, warm candlelight against deep shadow, quiet grief, dust particles floating in the light, intimate and heartbreaking, slow deliberate push-in",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Adam Air sudah mati delapan belas tahun lalu. Tapi pertanyaannya masih hidup sampai kini. Apakah langit kita kini benar-benar aman? Atau kita hanya duduk manis menunggu tragedi berikutnya datang menjemput?",
+      "visual_prompt": "Haunting final still image of an endless calm sea meeting a vast burning sunset sky, a single small paper boat floating on the golden water, no land in sight, profound silence, deep orange and crimson sky fading to indigo, mirror-like water, meditative and unsettling, soft atmospheric glow, fine grain, wide epic composition"
+    }
+  ]
+}
