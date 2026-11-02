@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Selat Malaka, Juni tahun sembilan belas empat puluh tujuh: laut yang tak pernah tidur mendadak jadi panggung misteri abadi. Diam. Kapal hantu itu melayang tanpa suara di jalur tersibuk dunia.",
+      "visual_prompt": "Aerial night view over the Malacca Strait, silver moonlight tearing through storm clouds onto black-blue water, thin fog swallowing the horizon, tiny steamer lights blinking far below like dying stars, a lone nineteen forties cargo ship silhouette drifting motionless, deep indigo and silver moonlight palette, thirty-five millimeter film grain, heavy oppressive stillness.",
+      "video_prompt": "Slow aerial sweep descending over the moonlit strait, camera gliding above drifting fog toward the distant ship lights while clouds part and silver moonbeams rake the black water.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Namanya Ourang Medan, kapal kargo Belanda yang melintasi perairan Indonesia, Malaysia, dan Singapura pada malam naas itu. Semua tampak normal. Lampu-lampu menyala. Lalu sunyi total tanpa peringatan.",
+      "visual_prompt": "Side profile of a Dutch cargo steamer from the nineteen forties gliding through night fog, warm porthole lights glowing along the dark hull, silver moonlight tracing the waterline, thin mist curling around the bow, deep indigo shadows with silver highlights, thirty-five millimeter film grain, quiet and deceptively peaceful maritime atmosphere."
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Lewat tengah malam, operator radio dua kapal dagang Amerika, Silver Star dan City of Baltimore, menangkap ketukan Morse yang gemetar. Pesan darurat. SOS. Dari kapal yang melayang entah di mana.",
+      "visual_prompt": "Cramped nineteen forties ship radio room at night, a tense operator pressing brass headphones to his ears, a Morse key glowing under a swinging oil lamp, scattered signal logs across the desk, pale moonlight leaking through a small porthole, deep indigo darkness with silver edges, thirty-five millimeter film grain, electric dread hanging in the air.",
+      "video_prompt": "Slow push-in toward the radio operator's tense face, camera creeping past the glowing Morse key as his hand freezes mid-signal while the oil lamp swings gently overhead.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Isi pesannya bikin bulu kuduk berdiri: seluruh perwira termasuk kapten tewas di ruang peta dan anjungan, kemungkinan seluruh awak ikut mati. Disusul titik garis acak tak terbaca. Lalu hening panjang.",
+      "visual_prompt": "Extreme close-up of a weathered hand hovering over a telegraph tape covered in Morse dots and dashes, dim lamplight revealing frantic pencil underlines, ink-stained fingers trembling above the desk, deep shadows pooling around scattered papers, silver moonlight bleeding through a porthole, deep indigo tones, thirty-five millimeter film grain, suffocating tension."
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Sinyal kacau itu sempat berhenti sejenak. Dengar baik-baik. Lalu terdengar dua kata terakhir yang sangat jelas sebelum radio mati total: Aku mati. Dua kata. Dari manusia yang tahu ajalnya tiba.",
+      "visual_prompt": "Empty night deck of a drifting cargo ship, a tall radio mast silhouetted against a huge silver moon, guy wires humming in the sea wind, thin fog rolling across the weathered planks, black-blue ocean stretching to a glowing horizon, deep indigo palette with silver moonlight, thirty-five millimeter film grain, haunting maritime silence.",
+      "video_prompt": "Slow lateral dolly across the empty night deck, camera drifting past the towering radio mast while thin fog rolls over the planks beneath a huge silver moon.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Kedua kapal Amerika itu mentriangulasi posisi sinyal dan hasilnya menunjuk satu titik sunyi di tengah selat. Silver Star yang paling dekat. Tanpa buang waktu, haluan dibelokkan menuju koordinat misterius itu.",
+      "visual_prompt": "Old nautical chart table lit by a single brass lantern, dividers and parallel rulers lying across a hand-drawn Malacca Strait map, a penciled cross marking a mysterious position, calloused fingers tracing the shipping lanes, deep indigo shadows with warm lantern glow, thin dust drifting in the air, thirty-five millimeter film grain, urgent quiet focus."
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Silver Star membelah kabut malam dengan kecepatan penuh, lampu sorot raksasa menyapu laut yang hitam pekat. Para awak berdiri tegang di geladak. Tak ada yang bicara. Semua mata menatap satu arah.",
+      "visual_prompt": "Bow of a nineteen forties American freighter cutting through thick night fog, a powerful searchlight beam stabbing across black-blue water, spray bursting silver against the dark hull, tense sailors gripping the rail in silhouette, deep indigo night pierced by silver light, thirty-five millimeter film grain, relentless forward momentum.",
+      "video_prompt": "Low tracking shot racing alongside the freighter's bow, camera skimming the bursting spray as the searchlight beam sweeps the thick fog, then rising to reveal the tense crew gripping the rail.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Dan di sanalah ia: si kapal bisu mengapung tanpa bergerak, lambungnya utuh tanpa bekas tabrakan atau kebakaran. Mesin mati. Lampu redup. Bagai kota terapung yang ditinggalkan penghuninya sekejap mata.",
+      "visual_prompt": "Distant view of a motionless cargo ship floating on a dead-calm black sea, hull intact and dark, faint dying lights flickering along the deck, thick fog swallowing the stern, a pale moon halo reflected in glassy water, deep indigo and silver moonlight palette, thirty-five millimeter film grain, unnatural frozen stillness."
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Coba hitung huruf nama Ourang Medan: kata pertama enam huruf, kata kedua lima huruf, jumlahnya tepat sebelas. Sebelas! Angka ganjil yang menantang akal sehat. Kebetulan? Penutur ini tak percaya kebetulan.",
+      "visual_prompt": "Close-up of a rusted name board bolted to a dark ship hull, raised metal letters catching cold silver moonlight, salt-streaked paint and peeling varnish around the weathered frame, thin fog drifting past the bow, deep indigo shadows with silver lettering glow, thirty-five millimeter film grain, ominous quiet revelation.",
+      "video_prompt": "Slow push-in on the rusted name board, camera creeping closer as cold moonlight crawls across the raised metal letters while thin fog drifts through the frame.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Dari kejauhan tampak bendera Belanda berkibar lemas di tiang buritan kapal dari Medan itu. Tak ada asap, tak ada deru mesin, tak ada cahaya kabin. Hanya keheningan yang terlalu sempurna untuk kapal berawak.",
+      "visual_prompt": "Stern deck of an abandoned cargo ship at night, a limp Dutch tricolor hanging lifeless on the mast, empty lifeboat davits creaking softly in the wind, no cabin lights burning anywhere, silver moonlight pooling on wet planks, thin fog coiling through the rigging, deep indigo palette, thirty-five millimeter film grain, absolute lifeless calm."
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Kapal penolong merapat perlahan ke lambung kapal Belanda itu, tali dilempar dan tangga besi diturunkan. Jantung para pelaut berdegup kencang. Apa yang menunggu di atas? Tak seorang pun berani menebak!",
+      "visual_prompt": "Two nineteen forties freighters lying side by side on a foggy night sea, sailors heaving coiled ropes across the narrow gap, an iron boarding ladder lowered against the dark hull, lantern light swinging between the vessels, silver moonlight shimmering on black-blue water, deep indigo tones, thirty-five millimeter film grain, breathless anticipation.",
+      "video_prompt": "Slow crane rise between the two hulls, camera ascending from the thrown ropes to the iron boarding ladder, then tilting down into the dark silent deck waiting below.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Malam itu Selat Malaka menyimpan rahasia terbesarnya, dan para saksi bisu hanya sempat mencatat apa yang terdengar lewat udara sebelum semuanya bungkam. Sisanya? Syududu.",
+      "visual_prompt": "Endless empty night ocean under a vast star field, a single distant ship silhouette dissolving into silver mist, the moon's bright path shimmering across black-blue water, thin fog erasing the horizon line, deep indigo and silver moonlight palette, thirty-five millimeter film grain, a mystery left forever unanswered in the dark."
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kapal Amerika itu merapat pelan-pelan. Cerobongnya diam. Tak ada asap. Tak ada teriakan. Tak ada lambaian tangan. Lautan Selat Malaka mendadak bisu, seakan seluruh dunia menahan napas bersama mereka. Hening!",
+      "visual_prompt": "Wide shot from the Silver Star's foredeck closing on a motionless Dutch cargo ship adrift on a glassy tropical sea at vertical noon. No smoke leaves the stranger's funnel. Sailors crowd the rail, shielding eyes, pointing in disbelief. Bleached planks glow white, hard shadows slash rusted fittings, dust hangs in glare. Warm desaturated palette, punishing contrast, 35mm grain.",
+      "video_prompt": "Slow forward dolly across the Silver Star's sunlit deck toward the silent ship, camera rising gently to reveal the smokeless funnel against a blazing white sky.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Tujuh pelaut memanjat ke geladak yang sunyi itu. Sepatu berderit di kayu panas. Angin membawa bau aneh yang tak terjelaskan. Di depan mata mereka terbentang pemandangan yang membekukan darah. Astaga!",
+      "visual_prompt": "Low-angle shot of weathered sailors in 1940s work clothes hauling themselves up rope ladders onto the silent Dutch freighter's deck at vertical noon. Boots scrape bleached planks, heat shimmer. The deck lies empty and blindingly bright, hatches gaping dark. Hard shadows pool under coiled ropes, dust drifts in light. Warm desaturated palette, harsh contrast, 35mm grain."
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Mayat berserakan di mana-mana. Geladak penuh tubuh yang tak bergerak. Ruang peta sunyi. Anjungan membisu. Ruang mesin pun berhenti berdenyut. Kapal hantu itu menjadi kuburan terapung di tengah samudra. Seram!",
+      "visual_prompt": "Overhead view gliding above the sun-scorched main deck of the 1940s cargo ship, motionless crewmen lying scattered in the white heat, turned toward the sky, stillness the only subject. No blood, only silence and posture. Bleached wood glows, black shadows stripe the deck, heat haze shimmers, dust floats in brutal light. Warm desaturated palette, merciless contrast, 35mm grain.",
+      "video_prompt": "Slow overhead crane drifting above the sun-scorched deck, passing over the still figures without stopping, emphasizing total silence.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Semua jenazah telentang menatap langit. Mata melotot. Mulut menganga. Wajah membeku dalam ketakutan yang tak terucap. Mereka menatap ancaman yang sama sebelum ajal tiba. Ourang Medan mati dalam satu ketakutan!",
+      "visual_prompt": "Tight restrained close-up of a fallen sailor's upturned face in merciless noon light, eyes open to the sky, mouth agape, expression frozen in terror, shadow carving every line. No gore, only the haunting stillness of the gaze. Behind him the blurred white-hot deck and a dark doorway. Bleached highlights, crushed blacks, dust drifting. Warm desaturated palette, 35mm grain."
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kapten ditemukan di anjungan. Para perwira di ruang kemudi dan ruang peta. Semua dalam posisi yang sama. Semua dengan wajah yang sama. Maqoli inna rahmatan. Satu malam. Satu ketakutan. Satu bangkai bisu!",
+      "visual_prompt": "View pushing through the open bridge doorway: the captain's motionless body slumped at the wheel in blazing noon light, officers collapsed by the chart table. Dust swirls in the light beams, the binnacle compass gleams untouched. Bleached brass and white-hot wood, hard-edged shadows, air thick with heat. Warm desaturated palette, oppressive stillness, 35mm grain.",
+      "video_prompt": "Slow push-in through the bridge doorway toward the wheel, light flaring through the windows as dust swirls in the beams.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Anjing kapal pun ikut mati. Tubuhnya kaku dalam posisi menyalak. Gigi menyeringai ke arah kekosongan. Seolah ancaman tak terlihat masih berdiri di sana. Bahkan si anjing melihatnya. Gila!",
+      "visual_prompt": "Low close-up on the ship's dog lying rigid on the blinding deck, body locked mid-bark, teeth bared toward empty sunlit planks where nothing stands. A coiled rope and a fallen sailor's cap nearby, untouched. Vertical sunlight flattens all to white and black, dust motes hang in the glare. Warm desaturated palette, bleached wood, cruel contrast, 35mm grain."
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Tak ada luka di satu pun jenazah. Lambung kapal utuh tanpa goresan. Muatan tak tersentuh sama sekali. Tidak ada perampokan. Tidak ada pertempuran. Lalu apa yang membunuh mereka semua dalam diam? Jawab!",
+      "visual_prompt": "Tracking view through the cargo hold of the 1940s freighter, crates and sacks stacked perfectly intact under shafts of noon light falling through open hatches, not a single box disturbed, no sign of struggle anywhere. Dust dances in the light columns. The hull plates gleam undamaged. Bleached wood, deep shadow pockets, warm desaturated tones, merciless clarity, 35mm grain.",
+      "video_prompt": "Slow tracking move between the untouched cargo stacks, shafts of light sweeping across pristine crates and sacks.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Catat ini. Cerita ini berasal dari mulut para pelaut Silver Star sendiri. Mereka yang naik. Mereka yang melihat. Mereka yang bersumpah atas apa yang mereka saksikan di geladak bisu itu. Kesaksian mereka!",
+      "visual_prompt": "Intimate close-up of three weathered 1940s sailors on the Silver Star's deck, sunburned faces half in harsh shadow, one gesturing emphatically as he swears to what he saw, the others nodding grimly. Behind them the silent Dutch ship looms white in the noon glare. Bleached planks, sweat glistening, dust in the air. Warm desaturated palette, 35mm grain."
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kata malaikat maut, malam itu ia bekerja lembur. Satu kapal penuh dijemput sekaligus tanpa kecuali. Kapten, perwira, kelasi, bahkan anjingnya. Semua diambil dalam sunyi tanpa sempat berteriak. Begitu katanya.",
+      "visual_prompt": "Surreal wide shot of the ghost ship's deck at blinding noon, every crewman lying still beneath a white-hot sky, view tilting up past the smokeless funnel into the searing sun until the frame blooms near-white. An invisible weight presses over the vessel. Dust and heat shimmer fill the air. Warm desaturated palette, bleached to the edge of exposure, 35mm grain.",
+      "video_prompt": "Slow upward tilt from the still deck past the smokeless funnel into the blinding sun, frame blooming to near-white.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Tidak ada asap dari cerobongnya. Tidak ada panggilan darurat dari radionya. Si Orang Medan melayang tanpa suara, tanpa gerakan, tanpa kehidupan. Mereka tahu sedang menatap sesuatu yang mustahil. Merinding!",
+      "visual_prompt": "Epic wide shot of the Dutch freighter lying dead still on a mirror-calm tropical sea at high noon, not a thread of smoke from its funnel, no flag movement, no wake, the ship a pale silhouette against a bleached sky. Heat haze blurs the horizon. The sea reflects the punishing light. Warm desaturated palette, vast emptiness, harsh contrast, 35mm grain."
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Coba hitung. Cerobongnya diam. Radionya bisu. Mesinnya mati. Tiga hal berhenti dalam satu malam yang sama. Tiga! Angka keramat yang selalu muncul di setiap misteri besar. Kebetulan?",
+      "visual_prompt": "Dynamic shot gliding low across the deck past three silent details in sequence: the smokeless funnel, the dead radio room doorway, the motionless engine telegraph, each bleached by vertical noon sun, each wrapped in hard shadow. Dust swirls through every frame. Warm desaturated palette, bleached wood and brass, rhythmic cutting feel, 35mm grain.",
+      "video_prompt": "Low gliding camera move linking three details in one continuous pass: the smokeless funnel, the dead radio room doorway, the motionless engine telegraph.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Jadi apa yang membunuh mereka? Tidak ada luka. Tidak ada kerusakan. Tidak ada jawaban. Kapal misterius itu tetap menyimpan rahasianya sampai hari ini. Syalala. Misteri yang menolak mati!",
+      "visual_prompt": "Final wide shot of the ghost ship drifting alone into a white-hot tropical haze at noon, its outline dissolving into glare and heat shimmer on an empty sea, the mystery sailing away unanswered. The Silver Star's bow cuts the foreground, watching. Bleached sky melts into bleached water, dust glowing in the light. Warm desaturated palette, haunting emptiness, 35mm grain."
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Sialnya, saat tim hendak memasang tali derek ke kapal misterius itu, asap kelabu mengepul dari palka kargo nomor empat. Api menjalar cepat. Semua lari tunggang-langgang kembali ke dek Silver Star. Kacau balau!",
+      "visual_prompt": "Crew in rain gear rushing across a heaving deck toward a drifting freighter as thick gray smoke billows from cargo hold number four, flames licking the hatch coaming, lantern light swinging wildly, volumetric chemical-green haze mixing with amber glow, rusted drums at the hold mouth, rain streaking, palette amber plus toxic green plus abyssal black, 35mm film grain.",
+      "video_prompt": "Handheld camera pushing through panicked rescue crew on a heaving night deck as thick gray smoke erupts from a cargo hold mouth, flames licking the hatch coaming, lanterns swinging wildly, chemical-green haze mixing with amber glow, rain streaking across frame, rusted drums visible at the hold lip.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Ledakan itu menggelegar memekakkan telinga. Saksi bersumpah bangkai terapung itu sempat terangkat dari permukaan air. Lalu perlahan ia tenggelam ke dasar Selat Malaka, membawa semua rahasianya ke dalam gelap.",
+      "visual_prompt": "Cataclysmic maritime explosion at night: a freighter hull lifted by a fireball erupting from its midsection, burning debris arcing across a black sky, a water column glowing green at its base, distant observers frozen on a rescue ship deck, amber blast light against abyssal black sea, volumetric smoke, palette amber plus toxic green plus abyssal black, heavy 35mm grain."
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Penyelidikan mustahil. Tak ada bangkai yang bisa diperiksa, tak ada awak yang bisa ditanya. Yang tersisa hanya cerita lisan dan pertanyaan membara puluhan tahun. Siapa yang menutupi muatan kapal Belanda itu?!",
+      "visual_prompt": "A freighter stern sinking into abyssal black water at night, dying lantern lights flickering out along the rail, streams of bubbles and green chemical murk rising, camera descending alongside the hull into darkness, faint amber glow dissolving with depth, volumetric underwater haze, palette amber plus toxic green plus abyssal black, 35mm grain texture.",
+      "video_prompt": "Slow descending camera alongside a sinking stern disappearing into ink-black water, dying lantern lights flickering out one by one, bubbles and green chemical murk rising past the lens, abyssal darkness swallowing the hull, faint amber glow fading with depth.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Koran De Locomotief edisi Februari-Maret tahun sembilan belas empat puluh delapan mengangkat teori pertama. Sang penyintas tunggal konon ditemukan sekarat oleh misionaris di atol Toangi, Kepulauan Marshall.",
+      "visual_prompt": "Aged Dutch-Indonesian newspaper archive: yellowed front page of De Locomotief under a warm amber desk lamp, bold vintage headlines, typewritten manuscript pages beside it, a missionary silhouette kneeling on a remote atoll beach at dusk, palm fronds swaying, volumetric dust in lamplight, palette amber plus toxic green plus abyssal black, 35mm grain."
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Sebelum meninggal, si penyintas mengaku kapal hantu itu memuat asam sulfat yang ditata sembarangan. Uap beracun bocor dan meracuni hampir semua awak. Jangan kabur dulu. Cerita paling gelap belum keluar!",
+      "visual_prompt": "Deathbed confession in a thatch hut at night: a dying sailor whispering inside a mosquito net, a missionary leaning close to catch his words, oil lamp casting amber light across sweat-beaded skin, rain streaking the palm walls, toxic green shadows creeping at the frame edges, volumetric haze, palette amber plus toxic green plus abyssal black, 35mm grain.",
+      "video_prompt": "Slow rack focus from an oil lamp flame to a dying sailor's whispering lips inside a mosquito net, a missionary leaning close to listen, rain pattering on palm thatch, amber lamplight flickering across sweat-beaded skin, toxic green shadows creeping at the frame edges.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Teori kedua datang dari penulis Vincent Gaddis. Katanya kebakaran kecil yang tak terdeteksi memicu keracunan karbon monoksida massal. Tapi teori ketiga jauh lebih gelap. Ma askoli inna kaliyamata inna asqoli.",
+      "visual_prompt": "Clandestine night dock loading: shadowy wooden crates stenciled with skull markings being hauled by soldiers in gas masks, green vapor seeping from a cracked barrel, a single hanging lantern throwing amber light across rusted drums, low mist coiling over wet planks, conspiratorial gloom, palette amber plus toxic green plus abyssal black, 35mm grain."
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Versi ketiga: si kapal bisu diam-diam mengangkut senjata kimia sisa Perang Dunia Kedua, gas saraf yang tak boleh diketahui dunia. Kalau benar, wajar semua pihak bungkam! Persetan dengan kebenaran!",
+      "visual_prompt": "Cover-up in firelight: hands feeding shipping manifests and stamped documents into a roaring fire, wax seals curling in amber flames, sparks spiraling into darkness, green-tinted smoke coiling upward, a shadowed figure watching from the gloom, embers drifting, palette amber plus toxic green plus abyssal black, 35mm grain.",
+      "video_prompt": "Top-down slow push over hands feeding shipping documents into a roaring fire, official stamps and wax seals curling in amber flames, sparks spiraling upward into darkness, green-tinted smoke coiling, a shadowed figure watching, embers drifting past the lens.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Tapi tunggu, jangan telan mentah-mentah. Tidak ada manifes kargo yang pernah ditemukan. Tidak ada satu pun dokumen resmi. Semua teori berdiri di atas cerita lisan belaka. Aku pun tidak mau dibohongi!",
+      "visual_prompt": "An empty cargo manifest ledger with blank pages flipping in a cold wind, a rusted clipboard abandoned on a dark interrogation table, a single bare bulb swaying overhead casting amber pools, green chemical fog seeping under the door, deep shadows swallowing the corners, faint scratches on steel walls, palette amber plus toxic green plus abyssal black, 35mm grain."
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Coba hitung dengan tenang. Satu tambah sembilan tambah empat tambah tujuh sama dengan dua puluh satu. Dua puluh satu jiwa melayang dalam satu malam. Cocoklogi? Terserah. Aku hanya menyampaikan!",
+      "visual_prompt": "Numerology ritual in candlelight: chalk numbers glowing on a blackboard, a finger tapping each digit one by one, dust motes drifting through amber candle glow, green shadows pooling at the frame edges, volumetric haze, shallow depth of field, rows of cryptic tallies beneath, palette amber plus toxic green plus abyssal black, 35mm grain.",
+      "video_prompt": "Extreme close-up push-in on chalk writing glowing numbers on a blackboard in candlelight, fingers tapping each digit, dust motes drifting through amber candle glow, shallow depth of field, green shadows pooling at the frame edges, hypnotic slow advance.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kabarnya malaikat Izrail sudah menunggu di ambang palka sejak pagi buta. Serangga di dek pun menjauh dari bau menyengat itu. Semua makhluk paham tanda bahaya. Hanya manusia yang sok berani!",
+      "visual_prompt": "Macro shot of an ant column marching across weathered deck planks, green chemical vapor curling between the boards, a swinging lantern throwing amber light, dead insects scattered nearby, ominous stillness, extreme detail on rust and wood grain, faint hissing mist, palette amber plus toxic green plus abyssal black, 35mm grain."
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Kata semutnya begini, man asyidi issad asyida. Itu bahasa semut. Semut pun paham mana racun. Kalau semut saja menjauh dari palka nomor empat, kenapa manusia malah mendekat? Bodoh!",
+      "visual_prompt": "Surreal whisper scene: a human ear leaning impossibly close to a macro ant colony on dark deck planks, green particles rising like spoken words, a lantern pulsing amber nearby, toxic green mist curling around rusted drums in soft focus, dreamlike dread, chitin detail gleaming, palette amber plus toxic green plus abyssal black, 35mm grain.",
+      "video_prompt": "Slow spiral descent into a macro ant colony on a dark deck, a human ear leaning impossibly close to the planks, surreal green particles rising like whispered words, lantern amber pulsing softly, shallow focus drifting between ant and ear, dreamlike dread.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Jadi mana yang benar, asam sulfat bocor, karbon monoksida, atau senjata kimia? Aku tidak memvonis. Bangkainya sudah terkubur di dasar laut. Menurutmu, rahasia apa yang ikut tenggelam bersamanya?",
+      "visual_prompt": "Empty ocean at dawn: a vast misty horizon with no ship in sight, a single drifting life ring bobbing on dark swells, amber sunrise breaking through low clouds, faint green tint in the fog, profound silence and absence, gulls wheeling far off, sea mist glowing toxic green, palette amber plus toxic green plus abyssal black, 35mm grain."
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Para skeptis datang membawa buku besar Lloyd's Register, lalu bilang dengan pongah: tak ada kapal bernama Ourang Medan. Ya jelas tak ketemu, namanya saja ditulis zaman Belanda. Basi total!",
+      "visual_prompt": "A dim maritime archive reading room, towering wooden shelves crammed with leather-bound shipping registers, one massive dusty volume pulled halfway out, cold grey window light raking across floating dust motes, a clerk's brass lamp glowing amber in the corner, sepia tones mixed with dusty grey shadows, heavy 35mm film grain, deep focus, no readable text.",
+      "video_prompt": "Slow dolly-in through a dim maritime archive toward a massive dusty shipping register being pulled from its shelf, cold grey window light sweeping across floating dust, camera pushes past towering wooden shelves and ends on an extreme close-up of the worn leather spine.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Mereka juga menggeledah arsip pelayaran Belanda sampai berdebu, dan hasilnya nihil. Lalu dengan bangga menyimpulkan ini dongeng. Hei, arsip yang rapi itu justru mencurigakan. Paham sekarang?",
+      "visual_prompt": "Close-up of gloved hands flipping through brittle yellowed Dutch shipping archive pages in a dim records vault, towering stacks of bound ledgers behind, a single shaft of cold grey window light cutting through dust, sepia paper tones against dusty grey metal shelves, shallow depth of field, heavy 35mm film grain, blurred illegible text, no readable text."
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Dan tidak ada satu pun manusia yang berani mengaku pernah berlayar di kapal misterius itu. Peneliti Roy Bainton menyelidiki, menemukan kejanggalan demi kejanggalan. Aneh! Sangat aneh!",
+      "visual_prompt": "A vast empty archive hall with endless rows of filing cabinets fading into darkness, one open drawer glowing under cold grey window light, scattered crew manifests with blurred illegible entries on a wooden table, sepia and dusty grey palette, drifting dust in light beams, heavy 35mm film grain, symmetrical composition, no readable text.",
+      "video_prompt": "Slow crane shot descending over an endless archive hall of filing cabinets, one open drawer glowing under cold window light, camera drifts down past scattered crew manifests on a wooden table and settles into a low symmetrical frame.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Masalah terbesar justru menimpa si penyelamat. Silver Star di era empat puluhan bernama Santa Juana, dan log kapalnya sunyi: tak ada panggilan darurat, tak ada upaya penyelamatan, tak ada kebakaran. Nol besar!",
+      "visual_prompt": "Extreme close-up of a ship's logbook with blank empty pages, faint water stains and a torn ribbon marker, inkwell and brass compass beside it on a dark oak desk, cold grey window light from the left casting long shadows, sepia paper glow against dusty grey darkness, macro detail of paper texture, heavy 35mm film grain, no readable text."
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Ingat-ingat ini. Log kapal itu ibarat mulut yang dibungkam: diam total soal panggilan mayday, diam soal penyelamatan, diam soal api. Kalau tak ada apa-apa, kenapa log-nya serapi itu? Mikir dong!",
+      "visual_prompt": "A stern archivist's silhouette slamming a heavy ledger shut on a wooden counter, a brass desk bell and scattered index cards beside it, dust bursting into cold grey window light, stacks of yellowed 1948 newspapers tied with string behind, sepia paper tones and dusty grey shadows, dramatic side lighting, heavy 35mm film grain, frozen motion, no readable text.",
+      "video_prompt": "Handheld whip-pan across a reading room as an archivist slams a heavy ledger shut, dust exploding into cold window light, camera pushes in fast on the impact then slowly pulls back over stacked yellowed newspapers.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Pembela cerita menjawab telak: semua dokumen itu dibersihkan, ini penutupan resmi. Asykoli inna yama kalima. Begitu kata dalilnya, datar dan pasti: yang berkuasa bisa menghapus tinta sejarah. Catat itu!",
+      "visual_prompt": "Two facing walls of an archive corridor covered floor to ceiling with red-stamped classified folders, a lone desk lamp burning amber at the far end, cold grey window light slicing diagonally between the shelves, sepia document tones against dusty grey gloom, heavy 35mm film grain, symmetrical vanishing point, no readable text."
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Estelle Hargraves menggali koran Inggris era empat puluhan: Yorkshire Evening Post dan Daily Mirror mengutip AP. Tapi lokasinya Kepulauan Solomon, bukan Selat Malaka, berkoneksi ke kota Trieste. Kok bisa!",
+      "visual_prompt": "A newspaper microfilm reader glowing in a dark archive room, dusty spools of film and yellowed 1948 newspaper clippings scattered on the desk, cold grey window light behind the machine, sepia paper glow against dusty grey darkness, shallow depth of field, heavy 35mm film grain, blurred illegible headlines, no readable text.",
+      "video_prompt": "Slow orbital move around a glowing microfilm reader in a dark archive room, camera circles the machine while yellowed newspaper clippings drift in the foreground, cold window light flaring behind, ending on the illuminated screen.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Jin penjaga Selat Malaka yang melihat semuanya hanya diam, katanya bukan urusannya ikut campur urusan manusia. Aku tanya baik-baik, dia jawab datar: kapal itu lewat, aku lihat, sudah. Titik, selesai.",
+      "visual_prompt": "A misty strait at dawn seen through an archive window, faint ghost ship silhouette on grey water, old nautical charts and a brass divider on the windowsill, a half-burned candle and scattered brass coins beside the charts, cold grey daylight mixing with warm sepia lamplight, dusty grey mist, heavy 35mm film grain, layered depth, no readable text."
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Koran De Locomotief lain lagi ceritanya: kejadian itu empat ratus mil laut tenggara Kepulauan Marshall, tujuh ratus empat puluh kilometer dari Selat Malaka. Lokasi pindah-pindah terus. Curiga berat!",
+      "visual_prompt": "An old wall map of the Pacific with blurred illegible labels, a red string pinned between the Marshall Islands and the Strait of Malacca, a magnifying glass on a brass stand, scattered push pins and a coiled measuring tape along the map's edge, cold grey window light from the right, sepia map tones against dusty grey wall, heavy 35mm film grain, no readable text.",
+      "video_prompt": "Slow tracking shot gliding along an old Pacific wall map, red string stretched between pinned points, camera follows the string from the Marshall Islands toward the Strait of Malacca as a magnifying glass enters frame.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Kata skeptis, ini hoax yang ditulis ulang tiap dekade agar tetap laku. Kata pembela, dokumen sengaja dibersihkan supaya dunia lupa. Dua-duanya punya logika, dua-duanya tanpa bukti mutlak. Bingung kan?",
+      "visual_prompt": "Two archivists arguing across a long reading table piled with contradictory documents, one gesturing angrily while the other crosses his arms, a toppled brass lamp spilling amber light across the papers, cold grey window light from tall windows, sepia paper stacks against dusty grey panelled walls, heavy 35mm film grain, medium wide shot, no readable text."
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Kalau ini hoax, siapa yang pertama mengarangnya dan untuk apa repot-repot. Kalau ini nyata, siapa yang menghapus catatannya sampai bersih begitu. Dua pertanyaan itu masih menggantung. Jawab sendiri!",
+      "visual_prompt": "A lone researcher standing before a towering wall of file boxes, arms spread in exasperation, scattered folders at his feet and a fallen step ladder leaning against the shelves, single cold grey window beam cutting through dust above him, sepia cardboard tones against dusty grey shadows, heavy 35mm film grain, low angle shot, no readable text.",
+      "video_prompt": "Low-angle slow push-in on a lone researcher standing before a towering wall of file boxes, arms spread in exasperation, a single beam of cold window light cutting through dust above him, camera rising slightly as he turns.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Jadi mau dibilang hoax atau ditutup-tutupi, si kapal bisu itu tetap berlayar di kepala kita semua malam ini. Para skeptis boleh teriak sepuasnya, aku tetap pada ceritaku. Syududu.",
+      "visual_prompt": "A massive archive door slowly closing, darkness swallowing rows of document shelves, one last sliver of cold grey window light on yellowed 1948 newspapers, dust motes dancing in the dying light and a brass key turning in the lock, sepia paper glow fading into dusty grey black, heavy 35mm film grain, slow push-in composition, no readable text."
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Delapan puluh tahun sudah berlalu sejak kabar Ourang Medan itu menyebar ke dunia maritim, tapi sampai hari ini tak ada bangkai kapal yang pernah ditemukan di dasar selat yang sibuk. Cari ke mana-mana. Nihil.",
+      "visual_prompt": "Stormy dusk over the open Malacca Strait, camera drifting low above churning indigo waves, a distant modern container ship silhouetted against towering charcoal clouds, lightning flickering on the far horizon, drizzle streaking across the lens, deep indigo and charcoal palette with electric lightning rim light, rain haze, 35mm film grain, melancholic maritime mystery.",
+      "video_prompt": "Slow aerial dolly forward over stormy indigo waves at dusk toward a distant container ship silhouette, lightning flashing on the horizon, rain streaking past the lens, cinematic wide shot.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Tak ada kuburan awak yang terdaftar di mana pun. Tak ada daftar nama resmi di arsip pelabuhan mana pun juga. Seolah seluruh awak kapal hantu itu lenyap dari muka bumi, dari catatan, dari sejarah. Raib.",
+      "visual_prompt": "Empty rain-slicked colonial harbor archive office at stormy dusk, tall wooden shelves with scattered ledgers and faded crew manifests, one open book with blank pages catching pale window light, charcoal storm clouds visible through tall windows, deep indigo shadows, lightning rim light on paper edges, fine drizzle outside, 35mm film grain, haunting stillness."
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Satu-satunya jejak tertulis hanyalah majalah Proceedings of the Merchant Marine Council edisi Mei tahun sembilan belas lima puluh dua, terbitan penjaga pantai Amerika Serikat. Selebihnya? Kabut tebal.",
+      "visual_prompt": "Extreme close-up of a yellowed vintage magazine page turning slowly in sea wind on a rain-wet ship railing at stormy dusk, blurred charcoal clouds rolling behind, a lightning flash illuminating the old typography, deep indigo and charcoal palette with electric rim light, drizzle droplets on paper, 35mm grain, fragile historical evidence mood.",
+      "video_prompt": "Slow push-in on a weathered magazine page fluttering on a wet ship railing, lightning flash revealing old print, rain droplets beading on paper, stormy dusk sea behind, macro cinematic shot.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Coba hitung pesan terakhir operator radio itu: I itu kata pertama, die itu kata kedua. Dua kata paling hemat dalam sejarah maritim sebelum sunyi total melanda geladak kapal. Dua kata. Titik.",
+      "visual_prompt": "Antique brass ship radio telegraph key on a dark wooden desk in a storm-tossed radio cabin at dusk, fingers frozen mid-tap above the key, porthole revealing charcoal rolling clouds and a lightning bolt splitting the horizon, deep indigo interior shadows, electric lightning rim light on brass, rain lashing the glass, 35mm film grain, frozen final moment."
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Hari ini Selat Malaka tetap menjadi jalur tersibuk di dunia, kapal-kapal raksasa modern melintas tepat di atas titik misteri yang tak pernah terpecahkan. Mereka membunyikan klakson. Santai saja.",
+      "visual_prompt": "Wide stormy dusk seascape with three massive modern container ships crossing the strait in single file, tiny against towering charcoal thunderheads, lightning webbing across the horizon behind them, deep indigo water with white foam wakes, drizzle in the air, electric rim light on hulls, 35mm film grain, ironic scale of modern life over mystery.",
+      "video_prompt": "Slow lateral tracking shot alongside a convoy of giant container ships crossing stormy indigo waters at dusk, lightning flickering behind charcoal clouds, rain haze, epic wide cinematic framing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Bayangkan, nakhoda kapal kontainer itu menyeruput kopi sambil melintas di atas kuburan misteri terbesar abad lalu. Lucu, kan? Laut menyimpan rahasia, manusia menyimpan jadwal. Keduanya jalan terus.",
+      "visual_prompt": "Cozy modern ship bridge interior at stormy dusk, a captain silhouette sipping coffee from a steaming mug, radar screens glowing green, rain streaming down the panoramic windows, outside a wall of charcoal clouds split by distant lightning, deep indigo cabin tones, lightning rim light on the captain's profile, 35mm grain, dry everyday calm over the abyss."
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Man asyidi issad asyida. Itu bahasa semut. Semut pun tahu laut ini menyimpan rahasia yang tak boleh dibuka manusia, jadi mereka memilih diam di sarangnya. Kita? Malah sibuk menebak-nebak.",
+      "visual_prompt": "Macro shot of tiny ants marching along a rain-wet wooden ship deck plank at stormy dusk, droplets magnifying their bodies, blurred charcoal sea and lightning-lit clouds beyond the rail, deep indigo and charcoal palette, electric lightning rim light on water beads, drizzle falling, 35mm film grain, nature keeping its own counsel.",
+      "video_prompt": "Slow macro dolly along a line of ants on a rain-wet deck plank, water droplets glistening, stormy lightning-lit sea blurred behind, dusk light, intimate cinematic macro shot.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Dengar baik-baik: status kisah ini sampai detik ini adalah BELUM TERBUKTI. Bukan terbukti bohong, bukan terbukti nyata. Dia menggantung di antara dua dunia dan menolak dihakimi siapa pun. Sabar.",
+      "visual_prompt": "A lone wooden rowboat adrift on glassy indigo water between two worlds at stormy dusk, half the frame in deep shadow and half lit by a distant lightning strike on the horizon, charcoal clouds swirling overhead, fine drizzle, lightning rim light tracing the boat's edge, deep indigo and charcoal palette, 35mm grain, unresolved verdict suspended in time."
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Hujan yang turun di atas selat malam itu berbicara dalam bahasa hujan. Setiap tetesnya ikut menyimpan rahasia si kapal bisu. Hujan tak pernah berbohong, katanya. Tapi hujan juga tak pernah mau bersaksi. Diam!",
+      "visual_prompt": "Night rain falling in silver sheets over the dark strait, camera beneath a ship awning looking out at rain curtains lit by intermittent lightning, charcoal clouds churning, a faint ghostly ship shape dissolving in the downpour on the horizon, deep indigo and charcoal palette, lightning rim light on raindrops, 35mm grain, the sea refusing testimony.",
+      "video_prompt": "Slow crane-up through sheets of night rain over the strait, lightning illuminating rain curtains and a faint dissolving ship silhouette on the horizon, charcoal storm clouds, cinematic noir framing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Para pelaut tua masih berbisik di warung-warung pelabuhan, sebagian bersumpah pernah mendengar panggilan radio aneh di frekuensi yang sepi. Sebagian lagi tertawa, menganggapnya dongeng pengantar tidur.",
+      "visual_prompt": "Dimly lit harbor warung at stormy dusk, weathered old sailors hunched over tea cups whispering, a crackling vintage radio on the counter, rain hammering the tin roof, charcoal storm visible through the open doorway with lightning on the horizon, deep indigo interior, lightning rim light on faces, 35mm grain, living oral legend."
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Si kapal Belanda itu mungkin tak pernah ada sama sekali. Atau mungkin justru ada, dan laut menelannya bulat-bulat beserta seluruh buktinya. Dua-duanya mungkin! Itu yang bikin kisahnya awet. Gila.",
+      "visual_prompt": "A ghostly Dutch freighter silhouette half-dissolved in storm mist at dusk, bow sinking into indigo waves that close over it without a trace, charcoal clouds spiraling above, a lightning bolt striking the sea where it vanished, drizzle, deep indigo and charcoal palette, lightning rim light on spray, 35mm grain, swallowed whole by the ocean.",
+      "video_prompt": "Slow orbit around a ghostly freighter dissolving into storm mist as indigo waves swallow it, lightning striking the empty sea behind, charcoal clouds spiraling, dusk, haunting cinematic shot.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Syalala. Jadi, kapal misterius itu nyata atau sekadar dongeng pelaut yang kebablasan? Buktinya nol besar, ceritanya abadi. Kamu yang menilai. Tulis pendapatmu di kolom komentar sekarang juga!",
+      "visual_prompt": "Final frame: empty stormy strait at dusk after the tempest, parting charcoal clouds revealing a last shaft of indigo light on calm water, a single distant container ship sailing toward the horizon under clearing skies, faint lightning fading far away, drizzle easing, deep indigo and charcoal palette, 35mm grain, open question hanging over the sea."
+    }
+  ]
+}
