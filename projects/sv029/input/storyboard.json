@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Malam Sabtu, tanggal satu Oktober tahun dua ribu dua puluh dua. Stadion Kanjuruhan di Malang membara seperti lautan biru. Puluhan ribu nyawa berdesakan dalam satu doa: Arema menang malam ini. Tapi doa itu sebentar lagi runtuh.",
+      "visual_prompt": "Night aerial establishing shot of a packed football stadium in Malang, East Java, glowing under massive floodlights; electric green pitch, sea of blue supporter scarves rippling in the stands, deep blue-black night sky above, thin mist drifting over the roofline, anamorphic lens flares streaking across frame, cinematic film grain, slow majestic push-in from high above.",
+      "video_prompt": "Slow majestic aerial push-in from high above toward the glowing stadium, descending gradually over the roofline as floodlights flare.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Derbi Jawa Timur bukan sekadar sepak bola. Ini dendam puluhan tahun antara Arema dan Persebaya Surabaya. Satu arena, dua kubu, nyanyian perang bersahutan. Sejak sore hari, tribun sudah tidak waras. Semua menanti peluit pertama.",
+      "visual_prompt": "Wide cinematic still of a roaring football stadium at night, two rival supporter sections facing off across the pitch, walls of blue and green scarves, flares burning orange smoke, floodlight beams cutting through haze, electric green grass glowing, dark indigo sky, telephoto compression, anamorphic flare, gritty film grain texture."
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Tiket tercetak empat puluh dua ribu sembilan ratus enam. Kapasitasnya hanya tiga puluh delapan ribu lima puluh empat. Sudah kelebihan, sudah sesak, sudah gila! Panitia tutup mata. Cuan dulu, nyawa belakangan!",
+      "visual_prompt": "Slow dolly across a chaotic stadium ticket gate at night, crowds pressing shoulder to shoulder, torn paper tickets raised in hands, harsh floodlight spill, steam rising from bodies, blue-black sky overhead, shallow focus on desperate faces, handheld sway, anamorphic flare, heavy cinematic grain, rising tension.",
+      "video_prompt": "Slow lateral dolly gliding past the packed ticket gate at night, desperate faces pressing toward the lens through the crowd.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Peluit babak pertama berbunyi dan arena malam itu meledak. Ribuan tenggorokan menggelegar, tiang lampu ikut bergetar. Asap flare mengepul tebal, syal biru berkibar liar. Belum ada yang sadar: pesta ini sedang menghitung mundur.",
+      "visual_prompt": "Cinematic still from behind the goal at night: players mid-kickoff on an electric green pitch, towering floodlight pylons, stands erupting with blue scarves and orange flare smoke, night sky deep blue-black, volumetric light beams, motion frozen, anamorphic streaks, rich film grain, epic wide composition."
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Dengar baik-baik. Gol demi gol lahir, skor berkejaran hingga tiga dua untuk Persebaya. Sho Yamamoto mencetak gol penentu di menit lima puluh satu. Kekalahan kandang pertama Arema dari rival abadinya dalam dua puluh tiga tahun!",
+      "visual_prompt": "Tracking shot along the touchline at night as a striker scores, net rippling, crowd exploding behind the goal, floodlights blazing, torn blue scarves thrown in the air, electric green turf kicked up, blue-black night sky, fast lateral camera move, anamorphic flare, cinematic grain, electric tension.",
+      "video_prompt": "Fast lateral tracking shot along the touchline following the striker as he scores, net rippling, crowd erupting behind the goal.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Bunyi peluit panjang mengakhiri laga. Tiga dua. Stadion ini terdiam sepersekian detik, lalu pecah berkeping. Amarah meledak lebih keras dari sorak tadi. Inilah detik ketika malam pesta mulai berubah wujud. Dan wujudnya gelap.",
+      "visual_prompt": "Haunting cinematic still of a stadium falling silent at night, players walking off a floodlit electric green pitch, stands frozen mid-gasp, a single flare dying in orange smoke, deep blue-black sky pressing down, cold white floodlight glare, telephoto isolation, anamorphic flare, somber film grain."
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Sekitar tiga ribu suporter menyerbu turun ke lapangan. Marah, kecewa, tak terima kalah di rumah sendiri. Aparat siaga di garis pinggir. Tegangan menggantung bagai petir sebelum hujan. Dan petir itu akhirnya menyambar.",
+      "visual_prompt": "Handheld rush shot of thousands of supporters pouring down stadium stairs onto the pitch at night, blue scarves streaming, floodlights flickering, electric green grass trampled underfoot, distant security line, blue-black sky, chaotic forward camera push, dust and haze, anamorphic flare, raw cinematic grain.",
+      "video_prompt": "Chaotic handheld forward push through the rushing crowd pouring down the stadium stairs toward the pitch.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Aparat bergerak maju. Asap gas air mata menyembur pekat menelan tribun. Ribuan orang berlarian dan terjepit di lorong sempit. Pintu-pintu tertutup rapat. Tangis bercampur teriak. Stadion di Malang itu berubah jadi neraka.",
+      "visual_prompt": "Terrifying cinematic still of a night stadium engulfed in white tear-gas smoke, floodlight beams piercing the haze, silhouettes of fleeing supporters, electric green pitch barely visible, crushed barriers, deep blue-black sky, high-contrast chiaroscuro, anamorphic flare, oppressive film grain, frozen chaos."
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Coba hitung... korban jiwa seratus tiga puluh lima. Satu tambah tiga tambah lima sama dengan sembilan. Angka sembilan! Angka akhir, angka tutup buku! Kebetulan belaka? Atau langit memang sudah menulis naskah duka ini sejak sore?",
+      "visual_prompt": "Slow ominous crane shot rising over an empty night stadium, rows of vacant seats, a single flickering floodlight, abandoned shoes scattered on concrete steps, electric green pitch glowing below, blue-black night sky, drifting mist, anamorphic flare, mournful cinematic grain, funereal pacing.",
+      "video_prompt": "Slow ominous crane shot rising over the empty stands, ascending steadily into the blue-black night sky.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Seratus tiga puluh lima jiwa tidak pulang malam itu. Ratusan lainnya luka, terbaring di lorong rumah sakit. Sepatu tertinggal berserakan di tribun sepi. Pesta telah usai. Yang tersisa hanya sunyi dan pertanyaan pahit.",
+      "visual_prompt": "Somber cinematic still at dawn outside the stadium, ambulances with red lights flashing against a fading blue-black night sky, weary silhouettes carrying stretchers, floodlights still burning, mist over the parking lot, cold desaturated palette, anamorphic flare, heavy film grain, documentary realism."
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Siapa yang salah? Panitia yang menjual tiket melebihi kapasitas? Atau kita semua yang menormalkan kegilaan ini? Marah saya! Nyawa melayang demi sepak bola, lalu kita masih sibuk berdebat soal siapa duluan. Sungguh memalukan!",
+      "visual_prompt": "Aggressive low-angle push-in toward a stadium entrance at night, torn banners and trampled tickets on wet asphalt, floodlight glare bleeding through haze, empty turnstiles, blue-black sky, rain-slick reflections, accusing camera movement, anamorphic flare, furious cinematic grain, confrontational energy.",
+      "video_prompt": "Aggressive low-angle push-in toward the stadium entrance at night, camera advancing steadily past torn banners and trampled tickets.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Tragedi ini bukan sekadar cerita duka. Ini cermin paling pahit untuk sepak bola negeri ini. Malam itu langit Malang menangis tanpa suara, dan bumi mencatatnya dengan tinta hitam. Syududu.",
+      "visual_prompt": "Final elegiac cinematic still of the stadium at night under a bruised blue-black sky, one floodlight pylon still glowing, black ribbons tied to the fence, candles flickering on the steps, electric green pitch swallowed by darkness, anamorphic flare dissolving into shadow, quiet film grain, heavy silence."
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Langit Kanjuruhan malam itu pecah oleh tembakan gas air mata! Menghujani lapangan dan tribun yang penuh sesak manusia. Bukan perusuh yang disasar — penonton biasa yang duduk tenang. Itu bukan pengamanan. Itu serangan!",
+      "visual_prompt": "Sweeping night aerial over a packed football stadium bathed in harsh sodium floodlights, thick white tear gas smoke rolling across the grandstands and spilling onto the pitch, panicked spectators surging through aisles, desaturated panic-grade color, motion blur on fleeing silhouettes, flare embers glowing orange inside the haze, handheld documentary urgency, high-contrast chiaroscuro, photorealistic cinematic chaos.",
+      "video_prompt": "Slow aerial push-in from high above the stadium descending toward the smoke-filled stands, subtle handheld shake, drifting through the tear gas haze.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Bahkan tribun selatan ikut diserang, padahal di sana tidak ada gesekan! Mereka duduk diam. Tak ada yang turun. Gas tetap ditembakkan ke arah mereka. Logikanya di mana? Kalau ini prosedur, siapa penulisnya!",
+      "visual_prompt": "Eye-level view inside a crowded stadium stand at night, bewildered spectators covering their faces with shirts as white tear gas smoke drifts toward them, no clash anywhere in sight, harsh green-white floodlight glare, desaturated cold tones, motion blur on coughing figures, shallow depth of field, documentary realism, tense stillness before panic, photorealistic, dramatic rim lighting."
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "FIFA melarang keras gas air mata di stadion! Tertulis dalam FIFA Stadium Safety and Security, Pasal sembilan belas huruf b: senjata api atau gas pengendali massa dilarang dibawa dan digunakan. Aturanmu sendiri kau injak-injak!",
+      "visual_prompt": "Dramatic low-angle shot of a giant stadium LED screen at night displaying an official rulebook page, a huge red prohibition stamp slamming over an illustration of a tear gas canister, smoke drifting across the glowing screen, harsh sodium floodlight spill, desaturated steel-blue grade with a green tint, floating dust particles, mounting cinematic tension, photorealistic, confrontational framing.",
+      "video_prompt": "Slow push-in toward the giant LED screen as the red prohibition stamp slams down, camera tilting slightly upward, smoke drifting across the frame.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Komnas HAM turun tangan dan temuannya menusuk: penggunaan kekuatan berlebihan! Aparat tidak mengikuti tahapan yang benar, langsung tembak ke kerumunan. Maqoli inna rahmatan. Dalil itu berdiri tegak. Tak perlu dibela.",
+      "visual_prompt": "Close-up of an investigator's desk at night lit by a single warm desk lamp, official human rights commission report pages scattered, a tear gas canister photographed as evidence beside a magnifying glass, smoke drifting past the dark window, desaturated teal-and-amber grade, shallow depth of field, dust motes floating in lamplight, quiet accusatory stillness, photorealistic, noir documentary mood."
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kesaksian korban selamat membalik semuanya! Mereka turun ke lapangan bukan untuk rusuh — melainkan menyemangati pemain dan meminta maaf. Itu tradisi lama, sudah bertahun-tahun begitu. Tradisi dibalas gas air mata. Gila!",
+      "visual_prompt": "Handheld tracking shot following supporters walking peacefully down stadium stairs toward the pitch at night, scarves raised, applauding their players, thin curls of tear gas smoke creeping in at the frame edges, sodium floodlight glare, desaturated panic tones, gentle motion blur, documentary realism, heartbreaking contrast between calm tradition and looming threat, photorealistic.",
+      "video_prompt": "Handheld tracking shot moving with the supporters down the stairs, gentle pan right revealing the players on the pitch, natural camera bob.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Perkap Nomor satu Tahun dua ribu sembilan sudah mengatur tahapannya dengan jelas! Peringatan lisan dulu, lalu tindakan bertahap — bukan langsung tembakan. Tahapan itu dilompati semua, seolah aturan cuma pajangan.",
+      "visual_prompt": "Macro shot of an official Indonesian police regulation document lying on a dark desk at night, a thick red line striking through its procedural steps, a tear gas canister blurred in the background, single cold fluorescent tube overhead, desaturated green-gray grade, shallow depth of field, dust drifting through the light, bureaucratic menace, photorealistic, dramatic side lighting."
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Pintu keluar hanya dibuka sedikit, dan di sanalah neraka sesungguhnya terjadi! Ribuan orang berdesakan di lorong sempit menuju Pintu tiga belas. Mereka lari dari asap, lalu terjebak di pintu. Tragis! Sungguh tragis!",
+      "visual_prompt": "Chaotic stadium corridor at night, a massive crowd crush pressing toward a barely-open steel exit gate marked thirteen, bodies compressed in a narrow passage, tear gas haze seeping through the crowd, harsh white-green fluorescent glare, desaturated panic grade, heavy motion blur, violently shaking handheld camera, claustrophobic dread, photorealistic, high-contrast documentary chaos.",
+      "video_prompt": "Handheld camera pushing slowly through the crushing crowd toward the narrow exit gate, shaking and jostling, brief whip-pan across desperate faces.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Catat ini. Nyawa-nyawa itu melayang bukan karena bentrokan! Mereka meninggal karena sesak napas — asfiksia — dan terinjak-injak di tengah desakan. Ajal menjemput dalam himpitan, tanpa udara, tanpa jalan keluar.",
+      "visual_prompt": "Somber night scene of an empty stadium corridor littered with abandoned sandals and a dropped supporter scarf, a single shaft of cold fluorescent light cutting through lingering tear gas haze, desaturated blue-gray mourning tones, dust drifting slowly in the light beam, oppressive silence, grief made visible, photorealistic, elegiac documentary stillness."
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kata malaikat maut malam itu, ia mencatat yang terlihat. Tapi rekaman CCTV justru hilang tiga jam dua puluh satu menit lima puluh empat detik! Alasannya? Gangguan internet. Ada rekaman yang dilarang diunduh aparat.",
+      "visual_prompt": "Eerie night shot inside a stadium CCTV control room, rows of monitors flickering, one screen filled with static where a timestamp gap should be, a hand reaching to pull a cable, cold green monitor glow washing over tense faces, thin cigarette smoke curling upward, desaturated surveillance palette, creeping paranoia and cover-up mood, photorealistic, voyeuristic framing.",
+      "video_prompt": "Slow lateral dolly across the bank of CCTV monitors, pausing on the static-filled screen, subtle rack focus to the hand pulling the cable.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Beredar kabar yang tak kalah mengerikan: gas air mata yang dipakai sudah kedaluwarsa! Itu masih kabar yang beredar, belum putusan resmi — tapi kalau benar, bayangkan racun basi ditembakkan ke wajah ribuan orang. Basi!",
+      "visual_prompt": "Extreme close-up of a corroded tear gas canister lying on wet asphalt at night, a faded expiry stamp barely legible beneath grime and rust, a shallow puddle reflecting harsh green-white floodlight, desaturated toxic palette, macro detail of peeling label and corrosion, a faint smoke wisp curling upward, forensic still-life menace, photorealistic, dramatic top lighting."
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Angkanya membuat darah mendidih: lebih dari seratus tiga puluh korban tewas, ratusan luka-luka! Itu bukan statistik, itu nyawa manusia — ayah, ibu, anak yang tak pernah pulang. Semua bermula dari satu keputusan gegabah.",
+      "visual_prompt": "Aerial night shot pulling back from a sea of mourners holding candles outside a dark stadium, hundreds of small flames forming a solemn glowing pattern, light rain falling through beams of sodium floodlight, desaturated deep-blue mourning grade with warm candle accents, slow majestic ascent, overwhelming collective grief, photorealistic, cinematic elegy.",
+      "video_prompt": "Slow crane ascent pulling back and upward from the candle vigil, revealing the full pattern of flames against the dark stadium silhouette.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Luka malam itu tak akan sembuh, dan pertanyaannya tak terjawab. Siapa menembak? Siapa memerintah? Siapa menghapus rekaman? Kebenaran mungkin ditunda, tapi tidak bisa dibunuh. Syalala.",
+      "visual_prompt": "Final wide shot of the empty stadium in the first cold blue light of dawn, last wisps of tear gas dissolving above silent stands, one floodlight still burning harsh white-green, desaturated frozen palette, long shadows stretching across empty seats, unanswered stillness hanging in the air, faint ground mist, photorealistic, haunting documentary closure."
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Satu per satu! Rantai kesalahan malam itu mulai terkuak. Bukan satu orang yang lalai, melainkan satu sistem yang bobrok dari hulu sampai ke hilir. Pegang erat-erat, ini baru permulaan!",
+      "visual_prompt": "Dimly lit institutional meeting room at night, long empty conference table covered with permit documents and rubber stamps, single cold fluorescent tube flickering overhead, desaturated teal-gray color grade, shallow depth of field on a signed paper, dust particles drifting in harsh light, sterile bureaucratic atmosphere, faint CCTV timestamp overlay in the corner, cinematic documentary realism, oppressive silence before accountability.",
+      "video_prompt": "Slow push-in from a wide view of the empty conference table to a close-up of the signed permit documents, fluorescent light flickering, dust drifting through the frame.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Mesin pencetak tiket bekerja lembur malam itu. Tiket yang keluar jauh melampaui daya tampung tribun, seolah kursi bisa digandakan dengan mantra. Logika bisnis menelan logika keselamatan hidup-hidup!",
+      "visual_prompt": "Rows of stadium turnstiles under cold neon corridor lighting, torn ticket stubs scattered across wet concrete floor, desaturated teal and gray palette, harsh overhead fluorescent glare, shallow focus on a pile of printed tickets, institutional sterility, blurred crowd shadows on the wall, cinematic documentary realism, greed made visible in cold light."
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Pemerintah membentuk tim pencari fakta pimpinan Mahfud MD. Hasilnya telak: tiket overkapasitas, aturan FIFA dilanggar, koordinasi keamanan gagal total. PSSI diminta bertanggung jawab. Bertanggung jawab!",
+      "visual_prompt": "Government press conference room with an empty podium and a row of microphones, harsh white spotlights cutting through darkness against wood paneling, desaturated cold blue-gray grade, stacked investigation files on the table, floating dust in the light beams, sterile official atmosphere, subtle film grain, cinematic realism, the heavy tension of unanswered accountability.",
+      "video_prompt": "Slow lateral tracking shot moving past the empty podium and the stacked investigation files, cold spotlight glare sweeping across the microphones.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Versi polisi begini: suporter membuat kerusuhan dan menyerang pemain serta ofisial. Aparat disebut melindungi pemain dan menghentikan kerusuhan. Itu kata mereka. Ini baru satu versi, jangan buru-buru percaya!",
+      "visual_prompt": "Split diptych composition: left side a line of riot police shields in a dark corridor under red emergency light, right side frightened supporters pressed against a metal fence in cold blue light, desaturated institutional palette, high CCTV-style angle, documentary realism, heavy grain and static noise, two truths divided by a thin black line."
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Jangan kabur dulu. Versi Komnas HAM dan para korban selamat justru sebaliknya: eskalasi kekuatan aparat dinilai berlebihan, jauh melampaui tahapan aturan. Dua versi bertolak belakang. Mana yang benar?!",
+      "visual_prompt": "Interior of a human rights commission office at night, metal shelves stacked with case files and testimony folders, cold desk lamp glowing on an open dossier, desaturated teal-gray grade, dust drifting in the lamplight, sterile bureaucratic silence, cinematic documentary realism, a quiet accusation hanging in the air.",
+      "video_prompt": "Slow dolly move along the metal archive shelves as case files pass in the foreground, the cold desk lamp glow lingering at the end of the aisle.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Laga akbar digelar pukul delapan malam, puluhan ribu manusia dijejalkan ke dalam gelap. Asykoli inna yama kalima. Dalilnya jelas. Siapa yang berani menjamin malam seperti itu tetap terkendali?!",
+      "visual_prompt": "Aerial night view of a packed football stadium glowing under harsh floodlights, surrounding streets swallowed by darkness, desaturated cold blue grade, tiny human figures filling the concrete stands, distant city haze on the horizon, documentary realism, ominous calm before chaos, faint digital noise like degraded CCTV footage."
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Enam nama jadi tersangka. Akhmad Hadian Lukita, direktur utama PT LIB, lalai memverifikasi kelayakan venue. Abdul Haris, ketua panitia pelaksana Arema FC, terseret. Baru dua nama, jangan ngos-ngosan!",
+      "visual_prompt": "Police investigation room in dim light, a cork board with six blurred portrait frames connected by red string, cold fluorescent panel overhead, desaturated gray-teal grade, scattered case documents on a metal desk, sterile procedural atmosphere, cinematic realism, quiet dread of names being pinned one by one.",
+      "video_prompt": "Slow pan from left to right across the investigation board, red strings and blurred portraits passing through cold fluorescent light.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Suko Sutrisno, petugas keamanan pertandingan, menyusul masuk daftar. AKP Hasdarmawan, komandan kompi Brimob Polda Jawa Timur, ikut ditetapkan tersangka. Rantai komando yang gagal, daftar nama yang panjang!",
+      "visual_prompt": "Long empty police corridor at night, rows of steel lockers and a single fallen peaked cap on the polished floor, cold neon tubes reflecting on wet tiles, desaturated teal-gray palette, deep one-point perspective, institutional sterility, faint fluorescent flicker, documentary realism, the heavy silence of a failed chain of command."
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Coba hitung: empat puluh dua ribu sembilan ratus enam tiket dikurangi tiga puluh delapan ribu lima puluh empat kursi. Hasilnya: empat ribu delapan ratus lima puluh dua manusia tanpa kursi! Taruhannya nyawa!",
+      "visual_prompt": "Extreme close-up of a calculator and printed ticket stubs spread on a metal desk, glowing numbers on the display under a cold desk lamp, desaturated blue-gray grade, shallow depth of field, dust particles floating in the lamplight, sterile accounting-room mood, cinematic realism, the arithmetic of negligence laid bare.",
+      "video_prompt": "Slow rack focus from the glowing calculator display to the pile of ticket stubs, then a subtle tilt upward across the scattered numbers.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kesalahan malam itu berlapis-lapis sampai semut pun bisa melihatnya. Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Kalau semut saja paham, masa manusia yang berwenang tidak?!",
+      "visual_prompt": "Extreme macro of black ants marching across a torn official document, shallow depth of field, cold desaturated light with teal shadows, paper texture and faded ink stamps visible, documentary realism, surreal quiet detail, nature witnessing human bureaucracy, faint film grain, stillness with a sting."
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Kompol Wahyu Setyo Pranoto, kepala bagian operasi Polres Malang, dan AKP Bambang Sidik Achmadi, kepala satuan samapta Polres Malang, melengkapi daftar enam tersangka. Lengkap sudah semuanya. Komplit!",
+      "visual_prompt": "Empty interrogation room with two metal chairs facing a one-way mirror, a single cold fluorescent panel buzzing overhead, desaturated gray-green grade, bare concrete walls, slow orbital camera movement around the chairs, sterile official dread, cinematic realism, unanswered questions hanging thick in the air.",
+      "video_prompt": "Slow orbital move around the two empty metal chairs, the buzzing fluorescent panel reflected in the one-way mirror.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Jadi, siapa yang paling salah? Tiketnya, komandannya, atau sistemnya? Saya tidak menghakimi, biar kalian yang menilai. Tapi satu hal pasti: nyawa yang hilang tak kembali dengan permintaan maaf!",
+      "visual_prompt": "Rain-streaked window overlooking an empty stadium at dawn, gray-blue desaturated light washing over silent concrete stands, a single white candle flame reflected on the glass, documentary realism, quiet institutional aftermath, faint city haze beyond the roof, cinematic stillness, grief without a verdict."
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Pengadilan Negeri Surabaya menggelar sidang perkara Kanjuruhan pada enam belas Maret, setahun setelah tragedi, dan lima orang duduk sebagai terdakwa dengan vonis yang membuat publik melongo kaget.",
+      "visual_prompt": "Cinematic wide shot inside an Indonesian courtroom, harsh midday sunlight cutting through venetian blinds in sharp diagonal bars across dark mahogany wall panels, a judge's wooden gavel resting on the polished bench, black robes draped over a chair, five empty defendant seats in a row, dust motes drifting through the light beams, deep oppressive shadows, high-contrast chiaroscuro, muted teal and amber grade, subtle 35mm grain, tense solemn air",
+      "video_prompt": "Wide static shot slowly pushing in toward the judge's bench while the bars of light shift across the dark wood; fine dust drifting in the beams.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Dua perwira bebas: Wahyu Setyo Pranoto dan Bambang Sidik Achmadi. Tiga lainnya cuma divonis ringan. Koalisi masyarakat sipil menyebut putusan ini pelecehan keadilan. Tenang, cerita belum selesai!",
+      "visual_prompt": "Low-angle shot of a courthouse corridor, cold daylight streaming through tall barred windows, long iron-bar shadows striping the marble floor, an empty wooden bench against cracked plaster walls, scattered legal documents, a toppled scale-of-justice statue in the corner, desaturated steel-blue tones pierced by warm shaft highlights, heavy contrast, gritty texture, hollow acquittal mood"
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "AKP Hasdarmawan diganjar satu setengah tahun. Abdul Haris satu setengah tahun juga. Suko Sutrisno satu tahun. Vonis ringan untuk tragedi sebesar ini? Publik berteriak. Keluarga korban menangis. Ini pengadilan atau dagelan?!",
+      "visual_prompt": "Slow push-in on a judge's gavel striking a dark wooden sounding block, extreme close-up, splinters of wood dust bursting inside a hard shaft of window light, shallow depth of field blurring black-robed figures behind, chiaroscuro lighting, brass scales of justice glinting in the background, dramatic high contrast, warm amber against deep shadow, cinematic tension, faint film grain",
+      "video_prompt": "Slow push-in ending in an extreme close-up as the gavel strikes the block; wood dust bursting in slow motion through the light shaft.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Saya dengar ada yang bilang begini. Ma askoli inna kaliyamata inna asqoli. Artinya jelas: keadilan tidak boleh kabur begitu saja. Kalau vonis bisa seringan ini, kapan keluarga korban bisa tidur tenang?",
+      "visual_prompt": "Overhead shot of a courtroom table strewn with case files tied in red ribbon, a brass nameplate half-buried in paper, a single harsh beam of daylight from a high window cutting the gloom, dark wood and black leather textures, an overturned ink bottle bleeding black across documents, moody chiaroscuro, desaturated sepia shadows, quiet conspiratorial stillness"
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Ingat-ingat ini. Kasasi Mahkamah Agung dua puluh tiga Agustus tahun berikutnya membatalkan vonis bebas. Bambang Sidik Achmadi dihukum dua tahun. Wahyu Setyo Pranoto dua tahun enam bulan. Terbukti lalai. Titik!",
+      "visual_prompt": "Tracking shot gliding past a row of stern courtroom portraits in gilded frames, venetian blind shadows striping the dark oak wall, camera settling on a towering stack of appeal dossiers bound in black cloth, harsh noon light flaring through the slats, dust swirling in the beams, deep shadows, cold steel palette with amber edges, relentless forward momentum, cinematic gravity",
+      "video_prompt": "Smooth lateral tracking shot gliding past the framed portraits, then tilting down to settle on the stack of black-bound appeal dossiers.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Pasal tiga ratus lima puluh sembilan dan tiga ratus enam puluh jadi palu godamnya. Abdul Haris diperberat menjadi dua tahun penjara. Keadilan mulai merangkak kembali. Tapi tunggu, masih ada yang kabur!",
+      "visual_prompt": "Close-up of an open law book with highlighted passages, a heavy iron gavel chain draped across the pages, hard window light raking across the embossed text, dark walnut desk surface, a black judicial robe sleeve entering the frame, dramatic side lighting, deep blacks and burning highlights, crimson accent on a wax seal, weighty oppressive mood"
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Pengadilan militer ikut bicara. Tujuh Februari di tahun yang sama, Serda Tofan Baihaqi Widodo dihukum empat bulan penjara atas penganiayaan korban. Empat bulan! Silakan pilih: tertawa atau menangis?",
+      "visual_prompt": "Handheld shot weaving through a military courtroom, green-uniformed officers standing rigid at attention, harsh fluorescent tubes mixing with slatted daylight, a lone defendant's cap on a steel table, camera pushing toward a stern tribunal panel, jittery documentary energy, olive and steel color cast, deep shadows, raw confrontational atmosphere",
+      "video_prompt": "Handheld camera weaving between the rigid officers toward the tribunal panel, slight natural shake, pushing in steadily.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Kata jin penjaga tribun selatan, ada berkas yang tak kunjung tuntas. Berkas Akhmad Hadian Lukita dikembalikan jaksa karena belum lengkap. Belum disidang sampai sekarang. Jinnya pun geleng-geleng kepala.",
+      "visual_prompt": "Empty courtroom at dusk, last amber light slanting through half-closed venetian blinds, a single forgotten case folder on the defendant's chair, cobwebbed corner of dark wood paneling, a ceiling fan casting slow rotating shadows, ghostly blue-grey palette with dying orange streaks, eerie abandoned stillness, faint supernatural whisper hanging in the air"
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Komnas HAM mencatat tujuh persoalan: gas air mata berlebihan, hak atas keadilan, hak hidup, kesehatan, rasa aman, hak anak, bisnis yang mengabaikan HAM. Fakta Pintu tiga belas belum terungkap gamblang. Sampai kapan?",
+      "visual_prompt": "Slow crane shot descending over a press conference table stacked with human rights reports, microphones bristling like thorns, camera operators' silhouettes against blinding window light, venetian shadows striping the wall of framed emblems, dust and tension thick in the air, desaturated documentary palette, hard contrast, mounting public pressure",
+      "video_prompt": "Slow crane descending over the report-strewn press table, then tilting up to the silhouetted camera operators against the blinding windows.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Tuntutan agar perkara ini diklasifikasi pelanggaran HAM berat terus bergaung. Korban bukan angka statistik. Mereka anak, ayah, saudara kita. Pengabaian ini tidak boleh tenggelam. Jangan pernah lupa!",
+      "visual_prompt": "Silhouette of grieving families holding framed photographs outside a courthouse, harsh midday sun bleaching the concrete steps, black mourning clothes stark against white stone, a justice banner rippling in hot wind, high-contrast near-monochrome with a single red accent, raw emotional weight, unforgiving light, solemn defiance"
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Coba hitung sendiri: vonis bebas dijatuhkan, lalu dibatalkan kasasi. Itu artinya putusan awal salah besar. Kalau di pengadilan saja bisa salah, apalagi yang tak pernah diadili? Renungkan. Lalu bersiaplah marah!",
+      "visual_prompt": "Rapid whip-pan across a wall of newspaper headlines about overturned verdicts, papers pinned in chaotic overlapping layers, camera racing along the wall then slamming to a stop on a circled red headline, venetian light flickering across the print, aggressive kinetic energy, high-contrast monochrome with blood-red highlights, accusatory pulse",
+      "video_prompt": "Fast whip-pan racing left to right across the headline wall, then a hard stop on the circled red headline; light flickering over the print.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Sidang boleh selesai, vonis boleh dibaca, tapi pertanyaan belum terjawab. Keadilan untuk ratusan nyawa tidak bisa ditutup palu. Ingat pesan lama ini. Syududu.",
+      "visual_prompt": "Final wide shot of an empty courtroom at night, moonlight through venetian blinds striping the judge's vacant high bench, the gavel lying on its side, dust settling in silver beams, black robes hanging motionless, deep blue-black shadows, faint warm ember glow from a dying desk lamp, unresolved heavy silence, cinematic finality"
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Pagi ini stadion di Malang itu berdiri beda. Tribun rapi, kursi baru berwarna, jalur evakuasi diperlebar. Renovasi total, katanya sudah aman. Catat ini: bangunannya cantik, luka warganya belum tentu sembuh.",
+      "visual_prompt": "Cinematic wide shot of a renovated football stadium at dawn, empty rows of bright new plastic seats catching soft golden sunrise light, thin morning fog drifting over the pitch, long shadows stretching from the roof structure, quiet melancholic stillness, subtle 35mm film grain, muted teal and warm gold color grade, deep atmospheric perspective.",
+      "video_prompt": "Slow aerial drone push-in descending toward the renovated stadium facade as dawn light washes over the new roof and empty stands, smooth forward glide, peaceful and solemn pacing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Sehari sebelum peringatan empat tahun, keluarga korban dan warga berziarah ke kawasan tempat ini. Bunga, doa, foto wajah-wajah yang hilang. Langit mendung ikut berkabung. Air mata tidak mengenal renovasi.",
+      "visual_prompt": "Melancholic view of the stadium entrance plaza before sunrise, small clusters of people in dark clothing placing flowers and candles on makeshift memorial steps, framed portrait photos of victims, soft blue-grey pre-dawn light, low fog curling around their feet, shallow depth of field, delicate film grain, desaturated palette pierced by warm candle glows."
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Kandang Arema kini sepi. Rata-rata penonton dalam dua musim belakangan cuma sekitar dua ribu tiga ratus orang. Kapasitasnya dua puluh satu ribu! Stadion sempit oleh kenangan, bukan oleh massa. Sedih, kan?",
+      "visual_prompt": "High-angle shot inside the stadium bowl at golden hour, vast rows of empty colorful seats, a single lonely groundskeeper walking the pitch far below, long dramatic shadows, hazy sunlight streaming through the roof gap, echo of silence, fine film grain, warm nostalgic color grade with soft contrast.",
+      "video_prompt": "Slow crane descent over the empty colorful seating bowl toward the lonely groundskeeper on the pitch below, golden haze drifting through the frame, steady controlled vertical movement.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Coba hitung. Dari satu Oktober tahun dua ribu dua puluh dua ke satu Oktober tahun dua ribu dua puluh enam, empat tahun berlalu. Empat! Setiap Oktober, doa yang sama naik. Setiap Oktober, jawab yang sama hilang. Masih menunggu.",
+      "visual_prompt": "Split-composition cinematic frame: left half an abstract shadowed texture of October chaos rendered in dark newsprint grain, right half the same stadium gate at peaceful sunrise four years later, thin fog separating the two eras, golden light breaking through, symbolic contrast of past and present, subtle grain, melancholic gold and ash palette."
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Restitusi enam ratus tujuh puluh juta rupiah untuk tujuh puluh tiga keluarga, disalurkan bulan Agustus tahun lalu. Dengar baik-baik: nyawa anak tidak punya harga jual. Banyak keluarga menyebutnya tidak memadai. Sakit sekali.",
+      "visual_prompt": "Intimate dawn scene at a modest family home near the stadium, an elderly mother holding a framed photo of her child on a worn wooden table, soft morning window light, dust particles floating in the light beam, untouched stacks of documents beside her, quiet grief, tender shallow focus, melancholic calm, fine grain.",
+      "video_prompt": "Slow dolly-in toward the elderly mother holding the framed photo, soft window light flaring gently, intimate and restrained movement, shallow focus tightening on her face.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Di luar arena itu, pola lama berulang. Gas air mata masih ditembakkan aparat ke kerumunan sipil saat unjuk rasa. Pelajarannya tidak dipelajari. Jangan kabur dulu. Senjata yang sama, wajah korban berbeda.",
+      "visual_prompt": "Distant wide shot of a city street demonstration at blue dawn, small silhouettes of protesters with banners, faint white tear-gas smoke drifting through the air, street lamps still glowing, barricade lights flashing softly in the haze, documentary realism, cool desaturated palette, subtle grain, tense pre-dawn quiet."
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Coba tanya semut di rumput stadion ini. Man asyidi issad asyida. Itu bahasa semut. Semut pun paham. Kejahatan yang dibungkus prosedur tidak pernah hilang, hanya ganti kostum. Semut kecil, nalurinya tajam.",
+      "visual_prompt": "Macro cinematic shot of green stadium grass at sunrise, dew drops glistening on the blades, a line of small ants crossing a fallen leaf, extreme shallow depth of field, golden bokeh from the rising sun, a quiet miniature world full of life, soft warm light, delicate film grain, peaceful yet watchful mood.",
+      "video_prompt": "Slow macro tracking shot gliding alongside the ant line across the dewy grass blade, golden bokeh pulsing gently, low lateral movement at ground level.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Keadilan substantif belum dirasakan keluarga korban. Tuntutan klasifikasi pelanggaran HAM berat dan investigasi ulang terus bergaung, makin lantang. Keadilan bukan belas kasihan. Keadilan adalah hutang negara kepada para korban.",
+      "visual_prompt": "Somber medium shot of a weathered protest banner hung on the stadium fence at dawn, painted victim portraits and bold demanding text, morning wind gently lifting its edges, empty plaza behind, thin fog, first golden light striking the fabric, melancholic resolve, raw documentary texture, fine grain, restrained warm-grey palette."
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Malam peringatan itu hujan turun deras di atas arena ini. Hujan malam itu berbicara dalam bahasa hujan, kata para warga yang berjaga: jangan lupa. Laporan biasa saja dari langit. Langit pun ikut bersaksi. Kita semua mendengarnya.",
+      "visual_prompt": "Atmospheric night rain over the empty stadium, heavy rain streaks backlit by tall floodlights, wet concrete reflecting orange and white light, deserted terraces glistening, low clouds swallowing the roofline, rain drumming on metal, poetic loneliness, cinematic chiaroscuro, cool blue tones with warm light accents, fine grain.",
+      "video_prompt": "Slow tilt up through the falling night rain toward the glowing floodlights, rain streaks shimmering, camera drifting upward into the storm-lit sky above the stadium.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Sekarang bangunannya megah, tribunnya mulus. Kursi-kursi baru itu rapi seperti gigi artis sinetron. Masalahnya satu: penontonnya tidak mau duduk diam di atas kenangan. Stadion boleh dicat ulang. Sejarah menolak diplester.",
+      "visual_prompt": "Playful low-angle shot of brand-new stadium seats in vivid colors at sunrise, one seat slightly tilted like a crooked tooth, comedic framing against a dramatic golden sky, long shadows stretching across the empty rows, soft morning fog, ironic cheerful melancholy, crisp detail, warm saturated grade, subtle grain."
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Empat tahun berlalu dan ratusan nyawa masih menunggu jawaban! Berhenti pura-pura lupa! Lihat daftar nama itu dan rasakan sendiri. Tragedi sebesar ini tidak boleh selesai hanya dengan cat tembok baru. Tidak boleh!",
+      "visual_prompt": "Powerful rising drone shot pulling away from a long memorial wall of victim portraits outside the stadium at dawn, names carved in stone rows, bouquets of flowers at the base, golden sun cresting the roofline behind, mist parting slowly, solemn crescendo, epic yet intimate, warm golden grade, fine film grain.",
+      "video_prompt": "Rising drone pull-back ascending over the memorial wall as the sun crests the stadium roof, revealing the full scale of the carved portraits, majestic slow retreat.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Syalala. Setelah empat tahun, apakah nyawa-nyawa itu sudah mendapat keadilan? Atau keadilan hanya kata indah di spanduk peringatan? Jawab di hatimu sendiri. Kamera kami pamit, pertanyaan ini tinggal.",
+      "visual_prompt": "Final lingering wide shot of the stadium silhouette against a blazing sunrise, empty gates, a single wisp of morning mist rising over the pitch like an unanswered question, long soft shadows, profound stillness, melancholic hope, cinematic fade of gold into soft white, delicate film grain, quiet unresolved ending."
+    }
+  ]
+}
