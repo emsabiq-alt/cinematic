@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Jumat sore, dua puluh delapan September dua ribu delapan belas. Langit di ujung teluk itu biru biasa saja dan angin pantai bergerak pelan. Tapi justru dari sore yang paling tenang inilah cerita besar selalu dimulai.",
+      "visual_prompt": "Wide aerial drone shot over a calm tropical bay at golden hour, fishing boats bobbing gently on glassy water, pastel sky melting into the sea, a peaceful coastal town along the shoreline, children playing near the water, serene Friday afternoon mood, warm golden-hour glow, soft tropical haze, gentle film grain, nostalgic warmth., distant mosque silhouette on the horizon, children racing the gentle tide",
+      "video_prompt": "Slow aerial drone push-in over a calm tropical bay at golden hour, glassy water, drifting fishing boats, peaceful shoreline town below, serene and unsuspecting mood.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Di Pantai Talise, panggung festival sudah berdiri megah sejak pagi. Festival Pesona Nomoni membuka acaranya sore itu dan tarian Balia bersiap naik panggung. Ratusan penonton mulai memadati bibir pantai.",
+      "visual_prompt": "Vibrant festival stage on Talise beach at dusk, colorful banners fluttering in the sea breeze, Balia dancers in traditional costume preparing backstage, a growing crowd gathering on the sand, string lights beginning to glow, warm golden-hour glow, soft tropical haze, gentle film grain, festive anticipation., close-up of dancers' ornate costumes catching the last sunlight"
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Dua ratus lima puluh anggota Satpol PP dikerahkan mengamankan lokasi acara. Spanduk warna-warni berkibar dan musik mulai dites. Sore itu terasa seperti pesta rakyat biasa yang hangat dan meriah.",
+      "visual_prompt": "Rows of uniformed Satpol PP officers securing a beach festival perimeter, food stalls with smoke curling upward, families strolling between tents, stage lights testing in the background, a lively expectant crowd, warm golden-hour glow, soft tropical haze, gentle film grain, communal joy., grilled corn smoke drifting through the crowd, children's balloons bobbing",
+      "video_prompt": "Slow dolly through a lively beach festival, banners fluttering, crowds strolling, stage lights warming up, joyful anticipation in the air.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Tapi alam sudah memberi bisikan kecil sejak siang. Menjelang pukul dua, gempa enam koma nol mengguncang Donggala dengan keras. Warga menganggapnya gempa biasa saja. Dengar baik-baik: ini peringatan pertama.",
+      "visual_prompt": "Close-up of a swaying festival banner against a darkening afternoon sky, a subtle ground-tremor blur rippling through the frame, people glancing around uneasily, dust rising from the sand, the first hint of unease, warm golden-hour glow fading, soft tropical haze, gentle film grain, creeping tension., a dropped festival flyer tumbling across the sand in a sudden gust"
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Gempa pembuka itu berpusat di kedalaman sepuluh kilometer. Orang-orang sempat keluar rumah sebentar, lalu kembali masuk dengan tenang. Tidak ada yang berlari ke tempat tinggi. Tidak ada yang membaca tanda.",
+      "visual_prompt": "Residents stepping out of modest houses onto a quiet street, looking up at the sky with mild curiosity, a cracked wall detail in the foreground, afternoon light slanting through palm fronds, calm after a small tremor, warm golden-hour glow, soft tropical haze, gentle film grain, false reassurance., a wall clock stopped mid-tick, neighbors exchanging puzzled glances",
+      "video_prompt": "Handheld shot of residents stepping outside, glancing at the sky, a subtle ground-tremor blur, uneasy calm settling over the street.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Anak-anak masih bermain bola di lapangan dekat pantai. Ibu-ibu menjajakan gorengan di tepi acara festival. Semua orang menikmati Jumat sore yang hangat itu. Semua orang merasa aman sepenuhnya.",
+      "visual_prompt": "Children playing football on a sandy field near the beach, mothers selling fried snacks from wheeled carts, laughter frozen mid-air, long afternoon shadows stretching across the sand, idyllic coastal life, warm golden-hour glow, soft tropical haze, gentle film grain, innocent peace., a football frozen mid-flight, vendors' carts casting long shadows"
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Di pesisir barat, nelayan menarik perahu seperti biasa tanpa curiga. Ombak berderak pelan memecah pasir pantai. Burung-burung camar berputar rendah, seolah mencari sesuatu yang hilang di udara sore.",
+      "visual_prompt": "Fishermen hauling wooden boats ashore on the western shoreline, gentle waves lapping at the hulls, seagulls circling low against an amber sky, fishing nets drying on bamboo racks, timeless coastal routine, warm golden-hour glow, soft tropical haze, gentle film grain, quiet foreboding., weathered hands mending nets, gulls reflected in wet sand",
+      "video_prompt": "Slow tracking shot of fishermen hauling boats ashore, gulls circling low, amber waves, a timeless routine under a heavy sky.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Dan tepat di bawah kaki mereka semua, sesuatu yang raksasa sedang menahan napas. Sesar Palu-Koro, retakan aktif yang membelah pulau ini, sedang mengumpulkan seluruh tenaga terakhirnya.",
+      "visual_prompt": "Dramatic underground cross-section beneath the town, a glowing fault line splitting the earth deep below, tectonic plates grinding against each other, red-hot stress fractures pulsing, the unaware city resting above, warm golden-hour glow above ground, soft haze, cinematic tension, impending rupture., glowing magma veins pulsing beneath oblivious streets and houses"
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Sesar itu sudah menunggu ratusan tahun lamanya. Setiap tahun ia bergeser sedikit, diam-diam, tanpa suara, tanpa ampun. Sore itu kesabarannya habis total. Ia tidak mau menunggu lagi.",
+      "visual_prompt": "Time-lapse of tectonic plates creeping over centuries, cracked earth slowly widening in the deep dark, pressure building in glowing magma veins, a colossal natural clock ticking toward zero, warm subterranean glow, soft haze, gentle grain, patient menace., a colossal subterranean clock face cracking under mounting pressure",
+      "video_prompt": "Time-lapse of tectonic plates grinding underground, glowing stress fractures widening, centuries of pressure compressed into seconds.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Tidak ada sirine yang meraung. Tidak ada pengumuman dari pengeras suara. Tidak ada satu pun manusia yang tahu bahwa dalam hitungan jam, seluruh kota ini akan berubah menjadi legenda.",
+      "visual_prompt": "Silent empty street at dusk, no sirens anywhere, festival lights flickering on one by one, a lone dog crossing the road, heavy unnatural stillness in the air, everything paused before the storm, warm golden-hour glow, soft tropical haze, gentle film grain, dreadful calm., flickering festival bulbs reflected in a stray dog's wary eyes"
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Inilah sore terakhir yang tenang. Ingat wajah-wajah riang di panggung festival itu. Ingat tawa anak-anak di tepi pantai. Karena setelah malam ini, tidak ada yang akan pernah sama lagi.",
+      "visual_prompt": "Slow-motion montage of smiling festival faces, children laughing on the beach, dancers caught mid-spin, frozen joyful moments, golden sunlight on skin, memories about to become history, warm golden-hour glow, soft tropical haze, gentle film grain, bittersweet nostalgia., an elder's wrinkled smile, a toddler's laughter caught forever",
+      "video_prompt": "Slow-motion montage drifting across smiling festival faces, children laughing, dancers spinning, golden sunlight, bittersweet nostalgia.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Syududu. Angin sore tiba-tiba berhenti berembus di seluruh teluk. Laut menahan ombaknya rapat-rapat. Alam sedang menarik napas panjang, sebelum berteriak sekencang-kencangnya!",
+      "visual_prompt": "The sea holding its breath, waves frozen mid-curl, wind dying over motionless palm fronds, an unnatural stillness gripping the bay, dark clouds massing at the horizon, warm golden-hour glow dimming, soft haze, gentle grain, nature inhaling before the scream., palm fronds hanging motionless, the horizon swallowing the last light"
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Pukul lima lewat dua menit sore, bumi meledak. Gempa utama menghantam dengan kekuatan yang membuat tanah melompat seperti permadani dikibas raksasa. Inilah detik ketika sore yang tenang itu mati.",
+      "visual_prompt": "The ground erupting upward in a massive earthquake, buildings swaying violently, dust exploding into the air, people thrown off balance, a whole city convulsing at once, desaturated steel-blue palette, harsh contrast, handheld tremor, choking dust., a minaret swaying like a metronome against a dust-choked sky",
+      "video_prompt": "Violent handheld shake as the ground erupts, buildings swaying, dust exploding into the air, people thrown off balance.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Pusatnya dua puluh tujuh kilometer timur laut Donggala, kedalamannya hanya sepuluh kilometer. Dangkal! Semakin dangkal pusat gempa, semakin brutal hantaman yang diterima permukaan. Catat ini.",
+      "visual_prompt": "Aerial view of the epicenter zone, cracked earth radiating outward from a glowing point, a depth marker plunging ten kilometers straight down, shockwaves rippling across the landscape, desaturated steel-blue palette, harsh contrast, trembling frame, brutal shallowness., concentric shockwave rings spreading across a satellite map overlay"
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Coba hitung: tanggal dua puluh delapan, dua tambah delapan sama dengan sepuluh. Kedalaman pusat gempanya: sepuluh kilometer. Kebetulan? Saya tidak percaya kebetulan. Angka tidak pernah berbohong!",
+      "visual_prompt": "Giant glowing numbers forming in cracked earth, two plus eight equals ten, depth markers aligning in burning dust, a cosmic calculator etched into the ground, fate written in arithmetic, desaturated steel-blue palette, harsh contrast, handheld tremor, numerological dread., dust particles swirling into the shape of ancient numerals",
+      "video_prompt": "Slow push-in on giant glowing numbers forming in cracked earth, the arithmetic of fate etched in dust.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Sesar itu bergerak menyamping dengan kecepatan gila, lebih cepat dari gelombang gempanya sendiri. Kata semutnya begini: lari, lari! Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahaya.",
+      "visual_prompt": "Ants streaming out of cracked soil in fast motion, a fault line tearing sideways at impossible speed, a supersonic rupture visualized as a glowing shock cone, nature's smallest creatures fleeing first, desaturated steel-blue palette, harsh contrast, trembling frame, primal warning., a cracked sidewalk splitting beneath a toppled food cart"
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Awalnya BMKG melaporkan magnitudo tujuh koma tujuh, lalu direvisi menjadi tujuh koma empat. Tujuh koma empat! Bayangkan seluruh kota diguncang seperti botol yang dikocok tangan raksasa.",
+      "visual_prompt": "Extreme close-up of a seismograph needle slamming to maximum, red warning lights flashing, a revised magnitude stamp crashing down over the old figure, the whole frame shaking violently, desaturated steel-blue palette, harsh contrast, handheld tremor, measured fury., a technician's hand frozen over the emergency broadcast button",
+      "video_prompt": "Extreme close-up of a seismograph needle slamming to maximum, red lights flashing, the frame shaking violently.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Retakannya merobek tanah sepanjang dua ratus sepuluh kilometer. Dua ratus sepuluh kilometer! Itu seperti garis patahan dari ujung ke ujung sebuah provinsi. Bumi benar-benar terbelah dua sore itu.",
+      "visual_prompt": "Satellite view of a two-hundred-ten-kilometer crack splitting the island, a glowing fissure snaking through towns and forests, the continent torn open from orbit, desaturated steel-blue palette, harsh contrast, slow orbital push-in, planetary wound., tiny villages strung along the glowing fissure like beads"
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Pergeseran maksimumnya tiga koma sembilan meter dalam sekali hentak. Tiga koma sembilan meter! Tanah yang kemarin rata, sore itu bergeser sejauh lompatan kijang dewasa.",
+      "visual_prompt": "Drone shot racing along a sheared road, the ground offset sideways by meters, buildings torn from their foundations, a deer's leap frozen beside the rupture for scale, desaturated steel-blue palette, harsh contrast, handheld tremor, impossible displacement., a snapped power line whipping through dust-filled air",
+      "video_prompt": "Drone racing along a sheared road, ground offset sideways, buildings torn from foundations, impossible displacement.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Coba hitung lagi: dua puluh delapan dibagi empat sama dengan tujuh. Magnitudonya tujuh koma empat. Angka-angka ini tersusun terlalu rapi untuk disebut kebetulan. Ada yang mengatur dari balik layar!",
+      "visual_prompt": "Burning numbers dividing in a storm of dust, twenty-eight over four equals seven, magnitude figures aligning like a rigged equation, a hidden hand arranging the digits, desaturated steel-blue palette, harsh contrast, trembling frame, arranged coincidence., a gambler's dice tumbling through smoke, landing on fateful numbers"
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Para ilmuwan menyebutnya supershear, pergerakan sesar yang melampaui kecepatan gelombang seismiknya sendiri. Seperti jet tempur yang memecah dinding suara, tapi ini bumi yang memecah dirinya sendiri.",
+      "visual_prompt": "Supersonic rupture visualized in high speed, a fault plane outrunning its own seismic waves, a Mach cone of destruction rippling outward through rock, the earth breaking its own sound barrier, desaturated steel-blue palette, harsh contrast, high-speed phantom camera, violent physics., rock strata folding like paper in ultra slow motion",
+      "video_prompt": "High-speed phantom shot of a fault plane outrunning its own seismic waves, a Mach cone of destruction.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Bangunan-bangunan runtuh dalam hitungan detik. Hotel, mal, masjid, dan rumah sakit ambruk seperti kartu domino. Debu tebal menelan jalanan dan jeritan pecah di mana-mana.",
+      "visual_prompt": "Buildings collapsing like dominoes in sequence, a hotel folding inward, a mosque dome crumbling, a hospital facade shearing off, tidal waves of dust rolling down the streets, desaturated steel-blue palette, harsh contrast, handheld tremor, urban annihilation., a wedding photo frame shattering on a collapsing hotel wall"
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Listrik padam total dan komunikasi terputus seketika. Kota ini mendadak buta, tuli, dan bisu di tengah kepanikan. Tidak ada yang bisa menghubungi siapa pun. Tidak ada yang tahu apa yang terjadi.",
+      "visual_prompt": "A city plunged into total blackness, dead traffic lights, silent phone towers, panicked crowds lit only by the glow of phone screens, total communication collapse, desaturated steel-blue palette, harsh contrast, handheld tremor, sensory darkness., a dead traffic light swinging over an abandoned intersection",
+      "video_prompt": "Slow drift through a blacked-out city, crowds lit only by phone screens, dead towers, total sensory darkness.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Maqoli inna rahmatan. Di tengah debu dan jeritan itu, satu kebenaran berdiri tegak: manusia itu kecil. Sangat kecil di hadapan bumi yang sedang marah. Dan bumi belum selesai marah!",
+      "visual_prompt": "A tiny human silhouette standing before a towering wall of dust and debris, the earth raging like an angered god, the figure dwarfed into nothingness, desaturated steel-blue palette, harsh contrast, slow crane shot rising, humbling scale., a child's abandoned sandal half-buried in grey ash"
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Lima menit setelah gempa, BMKG mengeluarkan peringatan dini tsunami. Gelombang diprediksi tiba pukul enam lewat dua puluh dua menit waktu tengah, tingginya setengah sampai tiga meter.",
+      "visual_prompt": "A tense BMKG warning room, operators scrambling between consoles, a red tsunami alert banner flashing on wall monitors, a countdown clock ticking toward the predicted wave arrival, controlled panic in the air, sickly green-grey grade, sodium streetlight glare, VHS archival texture, bureaucratic urgency., a red phone ringing unanswered on a cluttered desk",
+      "video_prompt": "Urgent push-in through a tsunami warning control room, operators scrambling, red alert banners flashing on monitors.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Warga yang mendengar diminta menjauhi pantai. Sebagian berlari ke bukit, sebagian masih terpaku menatap laut. Di Anjungan Nusantara, panggung festival porak-poranda diterjang guncangan.",
+      "visual_prompt": "Crowds fleeing toward the hills in panic, others frozen staring at the sea, a festival stage collapsed sideways at Anjungan Nusantara, chaotic evacuation along a coastal road, sickly green-grey grade, sodium streetlight glare, VHS archival texture, divided instincts., an overturned becak amid the stampede toward the hills"
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Lalu keputusan paling kontroversial itu diambil. Pukul enam lewat tiga puluh tujuh menit, BMKG mengakhiri peringatan dini tsunami. Alasannya: air tampak surut dan kenaikan hanya enam sentimeter.",
+      "visual_prompt": "A giant rubber stamp slamming CANCELLED across a tsunami warning document, a wall clock frozen at the fateful minute, officials turning away from their monitors, a single bureaucratic gesture sealing fates, sickly green-grey grade, sodium glare, VHS archival texture, fatal paperwork., an official's trembling hand hovering over the cancellation order",
+      "video_prompt": "Slow-motion close-up of a giant CANCELLED stamp slamming onto a tsunami warning document.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Enam sentimeter! Berdasarkan pengamatan saksi mata, salah satunya staf mereka sendiri di Mamuju. Asykoli inna yama kalima. Keputusan raksasa diambil dari data sekecil itu. Gila! Benar-benar gila!",
+      "visual_prompt": "An absurd close-up of a six-centimeter ruler held against a calm harbor, a single staffer's handwritten eyewitness note, a colossal life-or-death decision balanced on a tiny measurement, sickly green-grey grade, sodium glare, VHS archival texture, catastrophic triviality., a harbor tide gauge showing a barely perceptible ripple"
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Padahal di saat yang sama, air laut justru sedang ditarik mundur dengan dahsyat. Itulah tanda klasik tsunami: laut surut dulu sebelum datang menghantam. Tanda yang dibaca terbalik oleh mereka yang berwenang.",
+      "visual_prompt": "Timelapse of the sea dramatically receding, exposed seabed with flopping fish, fishing boats stranded tilted on wet sand, a deceptive unnatural calm, nature's classic warning sign tragically misread, sickly green-grey grade, sodium glare, VHS archival texture, misread omen., crabs scuttling across the suddenly exposed seabed",
+      "video_prompt": "Timelapse of the sea receding, seabed exposed, boats stranded on wet sand, an eerie deceptive calm.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Ingat-ingat ini: peringatan dicabut BUKAN karena bahaya hilang, tapi karena bahayanya disalahartikan. Laut yang surut itu bukan kabar baik. Itu napas terakhir sebelum gelombang raksasa menerjang.",
+      "visual_prompt": "A stark split screen, a calm receding sea on one side and a towering incoming wave on the other, a pointing finger aimed at the wrong side, the anatomy of a fatal misreading, sickly green-grey grade, sodium glare, VHS archival texture, tragic irony., a fisherman pointing seaward, his warning drowned by the wind"
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Dan gelombang itu datang. Tsunami tercatat tertinggi sebelas koma tiga meter di Tondo, di sisi timur teluk. Sebelas koma tiga meter! Itu setinggi gedung empat lantai yang berlari ke darat.",
+      "visual_prompt": "A terrifying low-angle shot of an eleven-meter wall of water towering over Tondo's shoreline, a four-story surge racing inland, rooftops vanishing beneath the foam, sickly green-grey grade, sodium glare, VHS archival texture, unstoppable mass., palm trees bending flat before the wall of water",
+      "video_prompt": "Terrifying low-angle shot of an eleven-meter wall of water towering over the shoreline, racing inland.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Titik terendah tercatat dua koma dua meter di Mapaga, Donggala. Tapi umumnya gelombang bergerak antara satu setengah sampai tujuh meter. Cukup untuk menyapu apa pun yang berdiri di pantai.",
+      "visual_prompt": "A smaller but deadly wave sweeping through Mapaga village, fishing boats tossed like toys, stilt houses crumpling at the waterline, the sea reclaiming the coast house by house, sickly green-grey grade, sodium glare, VHS archival texture, relentless advance., a floating prayer mat spinning in the churning current"
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Pantai Talise yang sore tadi penuh tawa, malam itu disapu bersih. Panggung festival, tenda pedagang, dan ratusan manusia terseret arus. Tidak ada yang sempat berlari cukup jauh.",
+      "visual_prompt": "Talise beach completely erased, the festival stage splintered and swept away, market tents tumbling in churning brown foam, the shoreline scrubbed clean of every trace of joy, sickly green-grey grade, sodium glare, VHS archival texture, erased celebration., a snapped banner of festival joy tangled in debris",
+      "video_prompt": "Aerial pull-back as brown foam erases the festival beach, the stage splintering, the shoreline scrubbed clean.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "BNPB kemudian menyatakan alat deteksi dini tsunami sudah tidak bisa dioperasikan. Alatnya mati! Jadi peringatan dikeluarkan setengah buta, lalu dicabut dalam kegelapan total. Mau marah ke siapa?!",
+      "visual_prompt": "A dead tsunami detection buoy floating uselessly in dark water, corroded sensors, a control room full of blank silent screens, abandoned instruments, technology's ultimate betrayal, sickly green-grey grade, sodium glare, VHS archival texture, blind instruments., barnacles crusting over a long-dead sensor housing"
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Para ahli berdebat sengit sampai hari ini. Benarkah peringatan itu dicabut terlalu cepat? Ataukah memang tidak ada yang bisa memprediksi gelombang sebesar itu? Dua kubu, satu pertanyaan tanpa jawaban.",
+      "visual_prompt": "Experts arguing across a dramatic split screen, seismologists versus officials, clashing graphs and data, a single unanswered question hanging in the air between them, sickly green-grey grade, sodium glare, VHS archival texture, unresolved blame., two podiums facing each other across an empty debate hall",
+      "video_prompt": "Split-screen push-in on arguing experts, clashing graphs, one unanswered question hanging between them.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Syalala. Peringatan dicabut, gelombang tiba, ratusan nyawa melayang. Inilah babak paling pahit dari tragedi ini, bencana yang diperparah oleh keputusan manusia. Bukan oleh alam semata!",
+      "visual_prompt": "An empty warning siren on a pole against a storm-dark sky, waves crashing on the rocks below, the haunting silence after a cancelled alarm, a rusting monument to a fatal decision, sickly green-grey grade, sodium glare, VHS archival texture, bitter epitaph., a child's balloon snagged on the silent siren pole"
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Tapi malam itu belum selesai menghukum. Di Petobo, Balaroa, dan Jono Oge, tanah mulai berubah menjadi sesuatu yang mustahil: tanah padat berubah menjadi bubur cair yang menelan segalanya.",
+      "visual_prompt": "The ground turning to liquid before your eyes, solid earth rippling like water, houses tilting at impossible angles, a whole neighborhood dissolving into sludge, muddy umber monochrome, thick dust haze, desaturated earth tones, suffocating stillness., a doorway tilting forty-five degrees into black sludge",
+      "video_prompt": "Slow tilt down as solid earth ripples like water, houses tilting, a neighborhood dissolving into mud.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Coba hitung yang lain: seratus delapan puluh satu hektar di Petobo, satu tambah delapan tambah satu sama dengan sepuluh. Lagi-lagi sepuluh! Alam ini sedang menulis pesan dengan angka.",
+      "visual_prompt": "Glowing numbers rising from black churning mud, one plus eight plus one equals ten, hectare figures burning in the muck, nature writing its message in arithmetic, muddy umber monochrome, thick dust haze, desaturated earth tones, numerological dread., a half-buried hectare marker stone glowing in the muck"
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Likuifaksi! Itulah nama ilmiahnya. Guncangan hebat membuat butiran pasir kehilangan gesekan dan air tanah menyembur ke atas. Tanah yang diinjak berubah menjadi lumpur hidup.",
+      "visual_prompt": "Scientific cross-section animation of liquefaction, sand grains losing friction under shaking, groundwater erupting upward through the soil, solid ground becoming living mud, an educational nightmare, muddy umber monochrome, thick dust haze, desaturated earth tones, geological horror., a laboratory beaker of sand and water shaking into soup",
+      "video_prompt": "Animated cross-section of liquefaction: sand losing friction, groundwater erupting, soil becoming living mud.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Ma askoli inna kaliyamata inna asqoli. Lumpur hitam setinggi tiga sampai lima meter menyembur dari perut bumi. Rumah-rumah tenggelam perlahan seperti kapal karam di lautan lumpur.",
+      "visual_prompt": "Black mud fountains erupting three to five meters into the air, houses sinking slowly like capsizing ships, a churning sea of sludge swallowing an entire street, muddy umber monochrome, thick dust haze, desaturated earth tones, earth vomiting., a rooftop antenna disappearing beneath the rising sludge"
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Di Balaroa, sekitar seribu tujuh ratus empat puluh tujuh rumah tenggelam ditelan lumpur. Di Petobo, tujuh ratus empat puluh empat rumah lenyap. Bayangkan: seluruh kampung hilang dalam semalam!",
+      "visual_prompt": "High aerial view of Balaroa and Petobo drowned in black mud, hundreds of rooftops poking from the sludge like islands, entire neighborhoods erased in a single night, muddy umber monochrome, thick dust haze, desaturated earth tones, drowned villages., a mosque dome tilted sideways, half-swallowed by mud",
+      "video_prompt": "High aerial pull-back over villages drowned in black mud, rooftops poking from sludge, neighborhoods erased overnight.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Jangan kabur dulu. Ini bagian paling mengerikannya: tanah tidak hanya amblas, tapi BERGERAK. Tanah bergeser lateral hingga seratus lima puluh meter, menyeret rumah, jalan, dan pohon.",
+      "visual_prompt": "The earth sliding sideways in a slow-motion nightmare, an intact house carried one hundred fifty meters from its foundation, roads bent like ribbons, trees travelling with their roots, muddy umber monochrome, thick dust haze, desaturated earth tones, migrating ground., a displaced front gate standing alone in an empty field"
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Sebagian tanah amblas sedalam lima meter, sebagian justru terangkat naik dua meter. Peta kampung berubah total dalam hitungan menit. Tetangga yang kemarin di depan rumah, kini entah di mana.",
+      "visual_prompt": "A bizarre split-level landscape, one side sunken five meters deep, the other thrust two meters upward, a village map redrawn in minutes, neighbors displaced into nowhere, muddy umber monochrome, thick dust haze, desaturated earth tones, rewritten geography., a surveyor's tripod toppled over the new cliff edge",
+      "video_prompt": "Slow crane shot over a split-level landscape, one side sunken deep, the other thrust upward, a rewritten geography.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Kata semutnya begini: tanah ini menangis! Man asyidi issad asyida. Itu bahasa semut, dan semut tidak pernah salah membaca getaran tanah. Mereka kabur sebelum manusia sadar.",
+      "visual_prompt": "Ants pouring from trembling soil in massive waves, tiny creatures reading vibrations no human can feel, a great insect exodus before the disaster, muddy umber monochrome, thick dust haze, desaturated earth tones, small prophets., a magnified ant carrying an egg through trembling soil"
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Di dalam tanah Petobo, cacing-cacing kabur lebih dulu sebelum guncangan tiba. Kata cacingnya begini: pergi, pergi, ke atas! Itu bahasa cacing. Makhluk kecil selalu tahu lebih dulu.",
+      "visual_prompt": "Macro fast-motion of earthworms surfacing and fleeing upward through cracked mud, a subterranean evacuation in progress, the soil's smallest residents sounding the alarm first, muddy umber monochrome, thick dust haze, desaturated earth tones, underground warning., raindrops beading on a worm's glistening segmented body",
+      "video_prompt": "Macro fast-motion of earthworms fleeing upward through cracked mud, a subterranean evacuation in progress.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Mengapa justru di sini? Badan Geologi sudah mencatat sejak dua ribu dua belas: endapan aluvial, lapisan pasir di kedalaman satu sampai tujuh koma dua meter, muka air tanah di bawah dua meter. Resep bencana!",
+      "visual_prompt": "A geological survey map from two thousand twelve, alluvial deposits highlighted in warning colors, shallow water tables glowing blue beneath the villages, a deadly trap drawn years before it snapped shut, muddy umber monochrome, archival paper texture, desaturated earth tones, documented doom., a geologist's red circle drawn around the three doomed districts"
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Tiga wilayah itu dibangun tepat di atas jebakan geologi. Pasir jenuh air ditambah guncangan tujuh koma empat sama dengan tanah cair. Ilmuwan menyebutnya likuifaksi, warga menyebutnya azab. Keduanya benar!",
+      "visual_prompt": "A house built on wet sand splitting apart at the seams, saturated soil turning to soup beneath its foundations, science and fate finally agreeing with each other, muddy umber monochrome, thick dust haze, desaturated earth tones, engineered tragedy., a cracked family portrait sinking into the liquefied floor",
+      "video_prompt": "Slow push-in on a house splitting apart as saturated soil turns to soup beneath its foundations.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Syududu. Tiga bencana dalam satu malam: gempa, tsunami, dan tanah yang menelan kota. Sejarah mencatatnya sebagai triple disaster terbesar abad ini. Dan malam itu belum juga berakhir!",
+      "visual_prompt": "Triple disaster montage converging: quake cracks splitting, a tsunami wave rising, and the earth liquefying, three furies striking in a single night, a triptych of destruction, muddy umber monochrome, thick dust haze, desaturated earth tones, total calamity., three storm fronts merging into one apocalyptic spiral"
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Dua puluh lima Oktober dua ribu delapan belas, data resmi keluar. Dua ribu delapan puluh satu nyawa melayang. Dua ribu delapan puluh satu! Setiap angka adalah nama, wajah, dan keluarga.",
+      "visual_prompt": "Official casualty figures materializing over a field of two thousand eighty-one candles, thousands of flames flickering in the darkness, each light a name, a face, a family, cold dawn light, pale grey-blue palette, slow measured dolly, fragile hope., an elderly woman lighting one more candle with shaking hands",
+      "video_prompt": "Slow dolly across a field of two thousand eighty-one candles flickering in the darkness.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Seribu tujuh ratus tujuh di kota ini, seratus tujuh puluh satu di Donggala, seratus delapan puluh delapan di Sigi, lima belas di Parigi Moutong. Empat wilayah, satu duka yang sama dalamnya.",
+      "visual_prompt": "Four districts named on cold stone memorials, endless rows of white markers stretching to the horizon, mourning families placing flowers in silence, one shared grief across four regions, cold dawn light, pale grey-blue palette, slow dolly, collective sorrow., fresh frangipani petals scattered over white marble names"
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Seribu tiga ratus sembilan orang dinyatakan hilang. Empat ribu enam ratus dua belas luka berat. Dua ratus enam ribu empat ratus sembilan puluh empat mengungsi. Kota ini menjadi lautan tenda.",
+      "visual_prompt": "A vast sea of refugee tents under grey skies, thousands of displaced families queuing for aid, relief trucks threading through muddy paths, an entire city living outdoors, cold dawn light, pale grey-blue palette, slow measured dolly, fragile hope., a volunteer handing a blanket to a shivering toddler",
+      "video_prompt": "Slow aerial drift over a sea of refugee tents under grey skies, aid trucks threading through mud.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Simpan ini baik-baik: bencana terbesar bukan gempanya, tapi lupa. Manusia lupa membaca tanda, lupa merawat alat peringatan, lupa bahwa bumi ini hidup dan bisa marah kapan saja.",
+      "visual_prompt": "A rusted forgotten warning siren leaning on its pole, an unmaintained buoy rotting in the harbor, a cracked monument to negligence, humanity's dangerously short memory cast in metal, cold dawn light, pale grey-blue palette, slow dolly, bitter lesson., cobwebs spanning the dead siren's silent mouth"
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Tapi lihat sisi lucunya, kalau boleh tertawa di tengah duka. Manusia membangun kota di atas pasir basah, lalu kaget ketika pasirnya bertingkah seperti air. Ini komedi geologi!",
+      "visual_prompt": "A darkly comic scene: a brand-new house wobbling comically on wet sand, a geologist facepalming in the foreground, the sheer absurdity of building a city on soup, cold dawn light, pale grey-blue palette, slow measured dolly, geological comedy., a for-sale sign planted absurdly in the wobbling yard",
+      "video_prompt": "Slow dolly past a new house wobbling on wet sand, dark comedy, a geologist shaking his head.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Syalala. Hujan sore itu seolah berkata: sudah kubilang, jangan bangun di sini. Itu bahasa hujan. Sayangnya manusia lebih fasih berbahasa beton daripada berbahasa alam.",
+      "visual_prompt": "Afternoon rain falling softly on rebuilt rooftops, raindrops streaking down a window like tears, a city washed clean but not yet healed, nature's quiet commentary from above, cold dawn light, pale grey-blue palette, slow dolly, weeping sky., a rainbow faintly arching through the clearing rain"
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Para ilmuwan Jerman tahun dua ribu sembilan belas akhirnya memecahkan misteri: sesar geser yang miring mengubah dasar laut hingga dua koma delapan meter. Misteri tsunami terjawab lewat superkomputer!",
+      "visual_prompt": "A supercomputer simulation of the Munich study, a tilted strike-slip fault plane lifting the glowing seafloor, vertical displacement waves radiating outward, science finally cracking the mystery, cold dawn light, pale grey-blue palette, slow push-in, solved enigma., glowing data streams converging into a breakthrough moment",
+      "video_prompt": "Slow push-in on a supercomputer simulation: a tilted fault plane lifting the glowing seafloor.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jadi tsunami raksasa dari sesar geser itu memang mungkin. Sains akhirnya menang, tapi datang setelah ribuan nyawa pergi. Pelajaran termahal selalu dibayar dengan air mata.",
+      "visual_prompt": "A lone scientist holding the answers too late, a timeline showing knowledge arriving after the funerals, the cruelest delay in all of science, cold dawn light, pale grey-blue palette, slow measured dolly, tardy truth., a calendar page for September tearing away in the wind"
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Kini kota itu bangkit lagi. Bangunan baru berdiri, pantai ditata ulang, anak-anak kembali bermain bola. Bumi boleh marah, tapi manusia menolak kalah. Itu sifat kita yang paling keras kepala!",
+      "visual_prompt": "A rising crane shot over the rebuilding city, construction cranes swinging over new buildings, a reorganized beachfront promenade, children playing football where ruins once stood, defiant rebirth, cold dawn light, pale grey-blue palette, slow dolly, stubborn resilience., a mason laying the first brick of a new seawall",
+      "video_prompt": "Rising crane shot over the rebuilding city, cranes swinging, children playing where ruins stood.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Festival Nomoni pun digelar lagi di tahun-tahun berikutnya. Tarian Balia kembali naik panggung di tepi pantai yang sama. Hidup terus berjalan, dengan luka yang tidak akan pernah hilang.",
+      "visual_prompt": "The Nomoni festival reborn on the same beach, Balia dancers spinning in colorful costume, bright banners against a healed sky, life insisting on continuing, cold dawn light, pale grey-blue palette, slow measured dolly, returning rhythm., an old dancer teaching a child the Balia steps"
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Tujuh tahun sudah berlalu dan pertanyaan besarnya tetap sama: bila peringatan tidak dicabut malam itu, berapa nyawa yang bisa diselamatkan? Tidak ada yang berani menjawab dengan pasti.",
+      "visual_prompt": "A haunting unanswered question glowing over the rebuilt coastline, ghostly what-if scenarios flickering like apparitions, the crushing weight of a cancelled warning, cold dawn light, pale grey-blue palette, slow dolly, lingering doubt., a lighthouse beam sweeping over the question-mark clouds",
+      "video_prompt": "Slow drift over the rebuilt coast, ghostly what-if scenarios flickering, a haunting unanswered question.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jadi, menurut kalian: ini murni bencana alam, atau bencana yang diperparah oleh keputusan manusia? Tulis pendapat kalian di kolom komentar. Dan jangan lupa: bumi tidak pernah berjanji untuk diam.",
+      "visual_prompt": "The earth at peace but never promising silence, a calm sea under a vast open sky, a question mark shaped by drifting clouds, the audience invited to deliver the verdict, cold dawn light, pale grey-blue palette, slow pull-back, open ending., a single paper boat drifting toward the open horizon"
+    }
+  ]
+}
