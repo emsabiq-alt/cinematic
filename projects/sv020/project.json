@@ -5,8 +5,9 @@
   "mode": "step",
   "pacing": "8-12s",
   "project_dir": "projects/sv020",
-  "status": "rendering",
+  "status": "published",
   "title": "SARANJANA: Kota Gaib yang Tidak Ada di Peta",
   "total_shots": 60,
-  "voice": "user-clone-voice"
+  "voice": "user-clone-voice",
+  "youtube_id": "Ez2PCo6Dkzk"
 }
