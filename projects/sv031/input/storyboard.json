@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Sepuluh September sembilan belas delapan puluh empat. Di kawasan pelabuhan Jakarta Utara yang bernama Tanjung Priok, malam turun pelan dan lampu musala kecil di gang Sindang masih menyala hangat.",
+      "visual_prompt": "Wide establishing shot of a 1980s Indonesian port district at dusk, a small neighbourhood mosque glowing warm amber among low rooftops, fishing boats and container cranes silhouetted on the horizon, laundry lines and becak on a narrow street, warm amber dusk light, soft haze, gentle 35mm film grain, nostalgic port-town atmosphere, distant prayer mood, a becak driver pausing to watch the crowd, cigarette smoke curling in the warm evening air",
+      "video_prompt": "Slow aerial drone push-in over a 1980s Jakarta port district at dusk, mosque glowing amber, container cranes on the horizon, nostalgic haze drifting.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Musala itu bernama As Saadah, dan pengurusnya seorang pria yang disegani warga bernama Amir Biki. Di dindingnya tertempel brosur yang mengkritik keras kebijakan asas tunggal Pancasila.",
+      "visual_prompt": "Close shot of a modest neighbourhood mosque in 1980s Jakarta, a bulletin board plastered with paper leaflets and hand-painted banners, a respected middle-aged caretaker in sarong and peci arranging papers, curious residents gathering, warm amber dusk light, soft haze, gentle film grain, quiet tension beneath everyday calm, wooden fishing boats painted turquoise and red, nets drying on bamboo racks along the quay"
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Datanglah seorang Babinsa bernama Sersan Hermanu, meminta brosur itu dicopot karena dianggap menghasut. Tokoh itu menolak mentah-mentah. Brosur itu, katanya, suara warga.",
+      "visual_prompt": "Medium shot inside a modest mosque office, a uniformed Babinsa soldier in 1980s Indonesian army fatigues pointing at a wall of political leaflets, an unyielding mosque caretaker standing his ground, a ceiling fan turning slowly, warm amber dusk light, soft haze, gentle film grain, simmering confrontation, children chasing each other between market stalls, their laughter echoing through the narrow lanes",
+      "video_prompt": "Slow dolly into a modest mosque office, soldier pointing at leaflets, caretaker standing firm, ceiling fan turning, tension rising.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Hermanu lalu menghapus sendiri brosur dan spanduk itu dengan tangannya. Kabar buruknya, ia dilaporkan masuk ruang salat tanpa melepas sepatu. Dengar baik-baik: di sinilah api mulai menyala.",
+      "visual_prompt": "Low-angle shot of a soldier's boots stepping onto a mosque prayer hall carpet without removing them, torn leaflets scattered on the floor, a row of sandals lined at the doorway, worshippers' shocked faces in soft focus behind, warm amber dusk light, soft haze, gentle film grain, sacrilege and outrage, a street vendor frying banana fritters, the smell of hot oil drifting through the humid dusk"
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Kabar sepatu di ruang salat itu menyebar dari mulut ke mulut seperti api menjilat jerami kering. Warga marah, jemaah tersinggung, dan suasana musala yang tadinya teduh berubah menjadi tegang.",
+      "visual_prompt": "Crowded alley scene at night in a 1980s Jakarta port neighbourhood, neighbours whispering urgently in doorways, a woman gesturing toward the mosque, children peeking from windows, kerosene lamps flickering, warm amber dusk light, soft haze, gentle film grain, rumour spreading like fire, cracked plaster walls covered in faded political posters, a stray cat sleeping on a doorstep",
+      "video_prompt": "Slow tracking shot down a crowded Jakarta alley at night, neighbours whispering in doorways, kerosene lamps flickering, rumour spreading.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Tidak lama kemudian empat jemaah musala ditahan aparat tanpa penjelasan yang jelas. Empat orang biasa yang semalam masih salat berjemaah, pagi harinya sudah berada di balik jeruji.",
+      "visual_prompt": "Somber interior of a modest 1980s Indonesian police holding cell corridor, four empty prayer mats folded on a bench, a barred window casting stripes of moonlight, a family member clutching a bundle of clothes, warm amber dusk light, soft haze, gentle film grain, quiet dread, palm fronds swaying gently above corrugated rooftops, the harbour breeze carrying salt and diesel"
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Empat nama itu adalah Syarifuddin Rambe dan Sofwan Sulaeman, beserta dua jemaah lainnya. Keluarga mereka menunggu kabar, tetapi yang datang hanya diam dan pintu yang tertutup rapat.",
+      "visual_prompt": "Portrait-style scene of a worried family waiting outside a 1980s Jakarta police post, an elderly mother holding a plastic bag of food, two young men arguing softly with a guard, a closed iron gate, warm amber dusk light, soft haze, gentle film grain, anxious waiting, an old radio playing dangdut from a warung, men in sarongs sipping sweet tea on low stools",
+      "video_prompt": "Slow push-in on a worried family waiting outside a police post, mother clutching a food bag, iron gate closed, anxious stillness.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Dua hari kemudian, pada dua belas September, warga menggelar tabligh akbar di Jalan Sindang. Ribuan orang datang membawa satu tuntutan yang sama: bebaskan keempat jemaah itu sekarang juga.",
+      "visual_prompt": "Mass religious gathering on a wide Jakarta street at night in 1984, thousands of seated worshippers in white caps listening to a sermon from a makeshift stage, loudspeakers on bamboo poles, street vendors at the edges, warm amber dusk light, soft haze, gentle film grain, solemn unity, fishing nets draped over wooden fences, seagulls circling the masts of anchored trawlers"
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Tabligh itu dipimpin langsung oleh pengurus musala itu, yang berdiri di depan ribuan jemaah dengan suara lantang. Ia menuntut keadilan dengan bahasa yang sederhana, tanpa basa-basi, tanpa takut.",
+      "visual_prompt": "Close-up of a charismatic preacher in white robes speaking passionately into a microphone at a night sermon, his hand raised, a sea of upturned faces below the stage, banners fluttering, warm amber dusk light, soft haze, gentle film grain, commanding presence, a hand-painted sign for the mosque, its letters peeling, glowing faintly under a bare bulb",
+      "video_prompt": "Slow crane rise over a night sermon, preacher raising his hand, sea of white caps below, banners fluttering in the warm night air.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Malam itu pengajian menggema sampai ke gang-gang sempit di sekitar Sindang. Anak-anak menonton dari beranda, ibu-ibu mengintip dari balik pintu. Tidak ada yang menyangka malam akan berubah.",
+      "visual_prompt": "Night street scene in a 1980s Jakarta port district, children watching a sermon from a house veranda, women peeking through half-open doors, a loudspeaker cone glowing under a streetlamp, warm amber dusk light, soft haze, gentle film grain, a neighbourhood holding its breath, women in headscarves carrying baskets of vegetables home, chatting softly in the fading light"
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Tuntutan demi tuntutan disampaikan, tetapi jawaban dari aparat tak kunjung datang. Massa yang tadinya duduk tenang mulai berdiri, mulai gelisah, mulai bertanya-tanya apa yang sebenarnya terjadi.",
+      "visual_prompt": "Restless crowd of worshippers rising from their seats at a night sermon, murmuring and gesturing toward the street, a preacher pausing mid-sentence, loudspeakers humming, warm amber dusk light, soft haze, gentle film grain, patience wearing thin, a bicycle leaning against a teak door, its bell glinting, a rooster pecking at scattered rice",
+      "video_prompt": "Slow pan across a restless crowd rising from their seats at a sermon, murmurs spreading, loudspeakers humming, patience breaking.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Syududu. Angin malam tiba-tiba berhenti berembus di gang Sindang. Suara pengajian mereda sejenak, dan seluruh kawasan itu seperti menahan napas sebelum badai pecah!",
+      "visual_prompt": "Eerie still shot of a Jakarta side street at midnight in 1984, a loudspeaker cone silhouetted against a dark sky, laundry lines motionless in windless air, a single kerosene lamp burning in a window, warm amber dusk light, soft haze, gentle film grain, the calm before the storm, the call to prayer drifting over the rooftops, mixing with the distant horns of harbour ships"
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Pukul dua puluh tiga malam, massa akhirnya bergerak dari Jalan Sindang menuju Kodim Jakarta Utara dan Polsek Koja. Di Tanjung Priok, ribuan langkah kaki mulai menggema di jalanan malam yang gelap.",
+      "visual_prompt": "Long night shot of a huge crowd marching down a dark Jakarta avenue at eleven at night, rows of men in white caps walking in silence, sodium streetlamps casting orange pools of light, a military compound gate looming ahead, cold sodium night light, deep blue shadows, tense silence, cinematic wide frame, a stray dog trotting alongside the marchers, its eyes catching the orange lamplight",
+      "video_prompt": "Long tracking shot following a huge crowd marching down a dark Jakarta avenue at night, white caps under sodium lamps, footsteps echoing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Jumlah mereka diperkirakan seribu lima ratus orang, bahkan ada yang menyebut sampai ribuan. Laki-laki, perempuan, dan pemuda berjalan beriringan di jalanan malam yang gelap dan sepi.",
+      "visual_prompt": "Aerial night view of a massive crowd flowing like a river through Jakarta's northern streets, thousands of white caps bobbing under sodium lamps, narrow alleys feeding into the main road, cold sodium night light, deep blue shadows, tense silence, overwhelming scale, closed shop shutters rattling faintly as the crowd passes, a neon sign buzzing overhead"
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Lampu sodium jalanan menyala kuning redup di atas kepala mereka, sementara langkah kaki berderap serempak seperti genderang perang. Tidak ada yang berteriak, tetapi udara terasa sangat berat.",
+      "visual_prompt": "Ground-level tracking view of marching feet on wet asphalt at night, sandals and bare feet moving in rhythm, sodium lamps flickering overhead, long shadows stretching ahead, cold sodium night light, deep blue shadows, tense silence, heartbeat of a crowd, a woman clutching her child's hand, whispering prayers under her breath as they walk",
+      "video_prompt": "Low tracking shot of marching feet on wet asphalt at night, sandals moving in rhythm, sodium light flickering, long shadows ahead.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Kata semutnya begini: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahwa malam ini bukan malam biasa, dan mereka sudah lebih dulu bersembunyi di balik batu.",
+      "visual_prompt": "Macro shot of black ants marching in a line across cracked asphalt at night, a sodium lamp glowing in the blurred background, tiny insects moving with eerie purpose, cold sodium night light, deep blue shadows, tense silence, nature mirroring the crowd, puddles on the asphalt reflecting the sodium lamps like scattered coins of orange light"
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Di persimpangan jalan, barisan massa makin membesar karena warga dari gang-gang lain ikut bergabung. Semakin dekat ke markas, semakin tegang wajah-wajah yang berjalan dalam diam itu.",
+      "visual_prompt": "Wide shot of a crowd swelling at a Jakarta intersection at night, side-street residents joining the march, a police truck parked at the corner with headlights on, sodium lamps buzzing, cold sodium night light, deep blue shadows, tense silence, momentum building, a military jeep parked in shadow, its radio antenna swaying, an officer watching silently",
+      "video_prompt": "Slow push-in on a crowd swelling at a Jakarta intersection, side-street residents joining, police truck headlights glowing, momentum building.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Catat ini: seribu lima ratus orang berjalan kaki di tengah malam bukan untuk piknik. Mereka datang menuntut empat orang saudaranya dibebaskan, dan mereka tidak mau pulang dengan tangan kosong.",
+      "visual_prompt": "Close-up of determined faces in a night march, a young man clutching a handwritten placard, an elderly woman walking with a cane, sweat glistening under sodium light, cold sodium night light, deep blue shadows, tense silence, resolve in every face, the smell of kretek smoke and sweat hanging in the humid night air between the marchers"
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Gedung Kodim Jakarta Utara akhirnya tampak di ujung jalan, dijaga aparat yang sudah bersiaga sejak sore. Tuntutan diteriakkan lagi, kali ini lebih keras, lebih lantang, lebih tidak sabar.",
+      "visual_prompt": "Imposing shot of a 1980s Indonesian military district headquarters at night, high walls, a guarded iron gate, floodlights sweeping the street, a crowd stopping before it, cold sodium night light, deep blue shadows, tense silence, two worlds facing off, a boy on his father's shoulders, pointing toward the floodlit gate at the end of the road",
+      "video_prompt": "Slow dolly toward a military headquarters gate at night, floodlights sweeping, crowd stopping before the wall, two worlds facing off.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Coba hitung: dua belas September, empat jemaah ditahan — dua belas dibagi empat sama dengan tiga. Tiga itu angka yang aneh, karena tiga puluh menit kemudian semuanya berubah menjadi tragedi.",
+      "visual_prompt": "Symbolic night shot of a wall clock showing eleven at night above a military gate, a crowd's raised hands in the foreground, numbers glowing faintly, sodium lamps hazing the air, cold sodium night light, deep blue shadows, tense silence, time running out, power lines sagging between leaning poles, a moth circling each buzzing sodium lamp"
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Suasana di depan markas makin panas ketika teriakan tuntutan tak kunjung dijawab. Massa mendesak maju selangkah demi selangkah, dan barisan aparat di depan mereka tidak bergerak sama sekali.",
+      "visual_prompt": "Tense confrontation at a military gate at night, a line of soldiers with rifles standing shoulder to shoulder, a crowd pressing forward with raised fists, a megaphone crackling, cold sodium night light, deep blue shadows, tense silence, the edge of violence, a torn campaign poster flapping on a wall, its corner lifting in the warm night breeze",
+      "video_prompt": "Handheld push-in toward a tense confrontation at a military gate, soldiers shoulder to shoulder, crowd pressing forward, megaphone crackling.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Dua sisi kini berhadapan muka: di satu sisi ribuan warga yang menuntut keadilan, di sisi lain aparat bersenjata yang menjaga markasnya. Malam itu, tidak ada pihak yang mau mundur.",
+      "visual_prompt": "Split-composition night shot: on the left a sea of civilian faces, on the right a wall of uniformed soldiers, a narrow strip of empty asphalt between them, sodium lamps overhead, cold sodium night light, deep blue shadows, tense silence, a standoff frozen in time, bare feet slapping the warm asphalt in rhythm, the sound rolling down the street like thunder"
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Detik-detik berlalu seperti jam yang berdetak terlalu keras. Ada yang berdoa dalam hati, ada yang menggenggam tangan saudaranya erat-erat. Semua orang tahu, sesuatu yang besar akan segera terjadi.",
+      "visual_prompt": "Close-up of hands at night: one hand gripping another tightly, prayer beads wrapped around trembling fingers, a wristwatch ticking past eleven, sodium light on skin, cold sodium night light, deep blue shadows, tense silence, fear and faith intertwined, a food cart abandoned at the roadside, its lantern still burning, steam rising into the dark",
+      "video_prompt": "Slow close-up dolly on trembling hands gripping each other at night, prayer beads, a wristwatch ticking past eleven, sodium light on skin.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Maqoli inna rahmatan. Malam itu langit di atas markas terasa sangat rendah, seolah-olah ikut menunduk mendengarkan. Dan dalam hitungan detik, sejarah kawasan ini berubah selamanya!",
+      "visual_prompt": "Dramatic low-angle shot of a dark Jakarta sky pressing low over a military compound at night, floodlights cutting through haze, a crowd silhouetted below, storm clouds gathering, cold sodium night light, deep blue shadows, tense silence, history about to turn, the moon hidden behind low clouds, only the orange lamps marking the road ahead"
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Tiba-tiba tembakan pecah memecah malam. Personel Batalyon Arhanudse enam melepaskan tembakan ke arah massa, dan pelabuhan Jakarta Utara itu berubah menjadi medan yang kacau balau.",
+      "visual_prompt": "Chaotic night scene of gunfire erupting at a Jakarta military gate, bright muzzle flashes strobing the darkness, a crowd scattering in panic, smoke curling under floodlights, harsh red and blue flashes, acrid smoke, violent chaos, handheld documentary urgency, a dropped white cap spinning on the asphalt, blood pooling dark beneath the streetlights",
+      "video_prompt": "Rapid handheld shot of gunfire erupting at a military gate, muzzle flashes strobing, crowd scattering, smoke curling under floodlights.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Massa berhamburan ke segala arah sambil berteriak dan menangis. Ada yang jatuh, ada yang tersandung, ada yang menolong saudaranya yang terluka. Jalanan yang tadinya penuh langkah kini penuh jeritan!",
+      "visual_prompt": "Panicked crowd fleeing down a dark Jakarta street at night, people tripping and helping each other up, a fallen sandal and a dropped placard on the asphalt, muzzle flashes in the distance, harsh red and blue flashes, acrid smoke, violent chaos, raw terror, a soldier's helmet rolling into the gutter, its strap torn, smoke coiling around it"
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Di tengah kekacauan itu, pemimpin aksi itu tewas tertembak. Dua kesaksian menyebut ia sempat mencoba bangkit dari tanah, lalu ditikam dengan bayonet. Sungguh, ini di luar batas kemanusiaan!",
+      "visual_prompt": "Tragic close-up of a fallen preacher in white robes lying on bloodstained asphalt at night, a bayonet glinting under floodlights, a comrade reaching toward him, smoke drifting, harsh red and blue flashes, acrid smoke, violent chaos, a martyr's final moment, a woman screaming into the night, her hands pressed to her face, a child clinging to her leg",
+      "video_prompt": "Slow mournful dolly toward a fallen preacher in white robes on bloodstained asphalt, bayonet glinting, a comrade reaching out.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kata malaikat Izrail malam itu, tugasnya datang lebih cepat dari jadwal. Ia mencatat nama demi nama dengan tenang, sementara manusia di bawah sibuk berlari menyelamatkan diri masing-masing.",
+      "visual_prompt": "Surreal night image of a dark-winged figure standing unseen above a Jakarta street where a crowd flees, a ledger glowing faintly in its hands, muzzle flashes below, harsh red and blue flashes, acrid smoke, violent chaos, death keeping count, sparks from a shattered streetlamp raining onto the pavement, glass crunching underfoot"
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Truk-truk kemudian datang mengangkut jenazah dari lokasi kejadian. Saksi mata melihat tubuh-tubuh ditumpuk di atas truk seperti barang, tanpa nama, tanpa upacara, tanpa ada yang boleh mendekat.",
+      "visual_prompt": "Grim night scene of military trucks loading bodies under floodlights, soldiers stacking covered forms into a truck bed, a witness watching from a dark alley, harsh red and blue flashes, acrid smoke, violent chaos, a secret carried away, a torn banner trampled into the mud, its painted letters smeared with ash and blood",
+      "video_prompt": "Slow tracking shot of military trucks loading bodies under floodlights, covered forms lifted into a truck bed, a witness watching from an alley.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Asykoli inna yama kalima. Seluruh penembakan itu selesai dalam waktu kurang dari tiga puluh menit. Tiga puluh menit! Secepat itu ratusan nyawa bisa hilang dari muka bumi ini.",
+      "visual_prompt": "Stopwatch close-up at night showing less than thirty minutes elapsed, bloodstained asphalt and a dropped prayer cap in soft focus behind, a muzzle flash frozen in the distance, harsh red and blue flashes, acrid smoke, violent chaos, half an hour of horror, the smell of gunpowder thick in the air, mixing with the smoke of burning shops"
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Di tengah kekacauan, sebuah apotek terbakar dan sebuah toko ikut dilalap api. Asap hitam membubung ke langit malam, dan bau mesiu bercampur dengan bau hangus yang menusuk hidung semua orang.",
+      "visual_prompt": "Burning pharmacy and shop on a Jakarta street at night, black smoke billowing into the sky, flames reflecting in puddles, a firefighter's hose lying abandoned, harsh red and blue flashes, acrid smoke, violent chaos, a neighbourhood in flames, a broken loudspeaker dangling from its pole, its cable swinging, feedback squealing",
+      "video_prompt": "Slow pan across a burning pharmacy and shop at night, black smoke billowing, flames reflecting in puddles, a hose lying abandoned.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Simpan ini baik-baik: kata Munkar-Nakir, malam itu mereka bekerja lembur. Pertanyaan demi pertanyaan mereka ajukan, tetapi para korban hanya bisa diam, karena mereka bahkan tidak tahu mengapa mereka mati.",
+      "visual_prompt": "Unseen interrogators in shadow questioning the dead in a dark void, two stern spectral figures with glowing eyes above a Jakarta street at night, harsh red and blue flashes, acrid smoke, violent chaos, the afterlife on overtime, a man's sandals left behind in the stampede, one upright, one overturned in a puddle"
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Gila! Benar-benar gila! Tembakan ke arah massa yang hanya menuntut pembebasan empat orang saudaranya? Kalau ini caranya menyelesaikan masalah, lalu untuk apa ada pengadilan di negeri ini?!",
+      "visual_prompt": "Angry close-up of a shouting man in a crowd at night, veins bulging, finger pointed at a military gate, muzzle smoke drifting behind him, harsh red and blue flashes, acrid smoke, violent chaos, fury against the night, ambulance headlights sweeping the chaos, a stretcher carried through the panicking crowd",
+      "video_prompt": "Handheld close-up push-in on a shouting man in a crowd at night, finger pointed at a military gate, muzzle smoke drifting behind him.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Laporan awal menyebut dua puluh orang tewas. Tetapi keluarga-keluarga yang kehilangan anak dan suaminya berkata lain: angka itu terlalu kecil, terlalu rapi, terlalu mudah untuk dipercaya begitu saja.",
+      "visual_prompt": "Two contrasting newspaper front pages side by side on a table at night, one with a small official death toll, the other with a grieving family's handwritten list, a kerosene lamp between them, harsh red and blue flashes, acrid smoke, violent chaos, two versions of truth, embers drifting like fireflies over the rooftops, a shop awning curling in the flames"
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Menjelang fajar, jalanan di sekitar markas itu menjadi sunyi dan kosong. Yang tersisa hanyalah genangan darah, sandal yang tertinggal, dan bau mesiu yang masih menempel di udara pagi.",
+      "visual_prompt": "Empty Jakarta street at dawn after a night of violence, bloodstains on the asphalt, abandoned sandals and a torn banner, thin morning mist, a stray dog sniffing the ground, harsh red and blue flashes fading into grey, acrid smoke, violent chaos, silence after the storm, a police baton lying on the bloodied road, its owner nowhere to be seen in the smoke",
+      "video_prompt": "Slow dawn dolly down an empty Jakarta street after violence, bloodstains, abandoned sandals, thin mist, a stray dog sniffing the ground.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Syalala. Fajar menyingsing dengan malu-malu di atas kawasan pelabuhan itu, seolah-olah matahari pun enggan menyaksikan apa yang baru saja terjadi di malam yang paling gelap itu!",
+      "visual_prompt": "Reluctant sunrise over a Jakarta port district, the sun rising pale and ashamed behind container cranes, smoke still rising from a burnt shop, an empty street below, harsh red and blue flashes fading into grey, acrid smoke, violent chaos, a morning that wishes it never came, the dawn sky bruising purple at the edges, sirens wailing somewhere far behind the smoke"
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Setelah itu dimulailah perang angka yang tidak pernah selesai. Catatan resmi menyebut dua puluh empat orang meninggal dan lima puluh empat luka-luka, termasuk dari pihak militer, di Tanjung Priok.",
+      "visual_prompt": "Cold daylight scene of a government archive room, stacks of official reports on a metal desk, a typewriter and a rubber stamp, a clerk's hand circling a small death toll, a dusty window light, cold grey daylight, archival stillness, the official version, a rusted filing cabinet with a broken lock, folders spilling out onto the concrete floor",
+      "video_prompt": "Slow push-in on a government archive desk, stacks of official reports, a typewriter, a clerk's hand circling a small death toll.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Tetapi para korban selamat berkata lain: mereka melihat lebih dari seratus jenazah malam itu. Seratus! Dan mereka bersumpah di depan siapa pun bahwa mata mereka tidak sedang berbohong.",
+      "visual_prompt": "Interview-style scene of an elderly survivor in a modest Jakarta living room, his trembling hand raised as he counts the dead he saw, family photos on the wall behind him, dusty window light, cold grey daylight, archival stillness, memory against the record, a magnifying glass resting on a faded photograph, dust motes floating in the cold light"
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Warga kawasan itu memperkirakan jumlah korban mencapai empat ratus orang, tewas atau hilang. Laporan lain bahkan menyebut angka sampai tujuh ratus korban. Mana yang benar? Tidak ada yang tahu pasti!",
+      "visual_prompt": "Crowded Jakarta neighbourhood meeting at noon, residents arguing over a hand-drawn list of the missing, numbers written in chalk on a blackboard, children listening from the doorway, dusty window light, cold grey daylight, archival stillness, a community counting its dead, a wall of numbered archive boxes, some labels torn away, some sealed with red wax",
+      "video_prompt": "Slow pan across a neighbourhood meeting at noon, residents arguing over a hand-drawn list of the missing, chalk numbers on a blackboard.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Coba hitung: seratus tujuh puluh satu orang dilaporkan hilang oleh keluarga mereka. Satu tambah tujuh tambah satu sama dengan sembilan. Sembilan itu jumlah jenazah yang berhasil dinamai!",
+      "visual_prompt": "Close-up of a chalkboard covered in numbers and tally marks, one plus seven plus one equals nine written in white chalk, a hand underlining the nine, dusty window light, cold grey daylight, archival stillness, arithmetic of the missing, a chipped enamel mug of cold tea beside a stack of witness statements tied with string"
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Ingat-ingat ini: seratus enam puluh sembilan warga ditahan tanpa surat setelah malam itu. Seratus enam puluh sembilan orang hilang dari rumahnya, tanpa kabar, tanpa alasan, tanpa pengadilan.",
+      "visual_prompt": "Bleak scene of a detention centre corridor in daylight, a long line of families holding identity papers, a barred gate, a guard checking a list, dusty window light, cold grey daylight, archival stillness, names without charge, a flickering fluorescent tube buzzing above a long table covered in photocopied lists",
+      "video_prompt": "Slow tracking shot down a detention centre corridor, a long line of families holding identity papers, a barred gate ahead, quiet dread.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Ma askoli inna kaliyamata inna asqoli. Angka-angka itu berteriak dari balik arsip, tetapi tak satu pejabat pun mau mendengarkan teriakan mereka dengan sungguh-sungguh. Aneh, bukan?",
+      "visual_prompt": "Dusty archive shelf filled with bound investigation files, a single file pulled halfway out with a red seal, a shaft of cold daylight cutting through the dust, cold grey daylight, archival stillness, secrets hiding in plain sight, an old rotary telephone, its receiver off the hook, a notepad full of crossed-out numbers"
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Pada tahun sembilan belas sembilan puluh sembilan, Komnas HAM membentuk tim pencari fakta untuk mengusut tragedi itu. Laporan awalnya keluar pada Juni dua ribu, lalu tim tindak lanjut dibentuk dua belas Juli dua ribu.",
+      "visual_prompt": "Formal meeting room of a human rights commission in 1999, investigators in batik shirts examining documents around a long table, a wall calendar showing June, dusty window light, cold grey daylight, archival stillness, the state investigates itself, a pair of reading glasses left on an open case file, the pages yellowed at the edges",
+      "video_prompt": "Slow dolly into a human rights commission meeting room in 1999, investigators examining documents around a long table, calendar on the wall.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Kata semutnya begini: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahwa tanah di bawah kawasan itu menyimpan rahasia, dan mereka sudah lama berbisik tentang kuburan yang tidak bernama.",
+      "visual_prompt": "Macro shot of ants whispering in a line across old graveyard soil at noon, tiny mounds of earth, a weathered gravestone blurred behind, dusty window light, cold grey daylight, archival stillness, the ground remembers everything, a metal ashtray overflowing with cigarette butts beside a half-finished investigation report"
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Cacing di tanah itu berbisik bahwa kuburan-kuburan digali dan dipindahkan dalam diam. Para penyelidik menggali tanah mencari kebenaran, tetapi tanah itu hanya menjawab dengan sunyi yang panjang.",
+      "visual_prompt": "Forensic excavation scene in daylight, investigators in gloves digging a shallow unmarked grave, earthworms in the freshly turned soil, a white tent and a camera tripod, dusty window light, cold grey daylight, archival stillness, the earth gives up its dead, a hand-drawn map of the neighbourhood pinned to the wall, crosses marking unknown graves",
+      "video_prompt": "Slow push-in on a forensic excavation in daylight, investigators digging an unmarked grave, freshly turned soil, a white tent, cameras.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Hasil penyelidikan itu menyebut dua puluh empat orang meninggal, sembilan di antaranya teridentifikasi namanya, dan empat belas lainnya tak dikenal — mereka itulah yang selama ini disebut orang hilang.",
+      "visual_prompt": "Nine named photographs pinned on a corkboard beside fourteen blank frames, a hand placing a name card under one portrait, a window's cold light across the board, dusty window light, cold grey daylight, archival stillness, named and nameless, a rusted shovel leaning against a tent pole, mud-caked boots waiting by the excavation pit"
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Sembilan nama itu antara lain Amir Biki, Zainal Amran, Kasmoro bin Jian, dan M. Romli, beserta lima nama lainnya. Empat belas sisanya hanya tercatat sebagai angka, tanpa nama, tanpa wajah, tanpa kubur.",
+      "visual_prompt": "Close-up of nine identity photographs arranged in a row on a wooden table, an elderly woman touching one gently, a list of names handwritten beside them, dusty window light, cold grey daylight, archival stillness, faces the state finally named, a box of unlabelled photographs, faces staring up from the past, names missing",
+      "video_prompt": "Slow close-up pan across nine identity photographs on a wooden table, an elderly woman touching one gently, names handwritten beside them.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Syududu. Lalu datanglah islah: delapan puluh enam keluarga menerima islah pertama yang diwakili oleh Rambe, dan keluarga tokoh itu menerima islah kedua. Tetapi islah bukan jawaban atas angka yang hilang!",
+      "visual_prompt": "Reconciliation ceremony in a Jakarta community hall, eighty-six families seated in rows signing documents, a table with tea glasses and a stamp, late afternoon light through blinds, dusty window light, cold grey daylight, archival stillness, peace without answers, a cracked window letting in a shaft of grey daylight, rain beginning to patter outside"
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Delapan belas tahun kemudian, barulah pengadilan digelar. Sidang pengadilan HAM ad hoc dimulai sejak lima belas September dua ribu tiga, atas peristiwa yang terjadi di Tanjung Priok itu.",
+      "visual_prompt": "Stately human rights court building in Jakarta at dawn, a wide staircase leading to tall columns, a small group of lawyers arriving with briefcases, pale gold dawn light, soft morning mist, muted hope, the law wakes up late, a marble staircase worn smooth by decades of footsteps, pigeons pecking at scattered crumbs",
+      "video_prompt": "Slow crane shot rising over a human rights court building at dawn, lawyers climbing the wide staircase, pale gold light on tall columns.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Empat belas terdakwa duduk di kursi pesakitan dalam empat berkas perkara. Nama-nama mereka disebut satu per satu: Sutrisno Mascung dan sepuluh anggotanya, Butar-butar, Pranowo, dan Sriyanto.",
+      "visual_prompt": "Courtroom interior at dawn, fourteen defendants seated in a row behind a wooden barrier, judges in black robes entering, a packed public gallery, pale gold dawn light, soft morning mist, muted hope, fourteen men on trial, a court clerk carrying a stack of files, his shoes clicking on the polished stone floor"
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Di tingkat pertama, Butar-butar dijatuhi hukuman sepuluh tahun penjara, sementara Mascung hanya dua sampai tiga tahun. Vonis itu dibacakan dengan lantang, dan keluarga korban sempat menarik napas lega.",
+      "visual_prompt": "Close-up of a judge reading a verdict in a Jakarta courtroom, a gavel resting on the bench, the defendant's bowed head in the foreground, a family member clutching a tissue, pale gold dawn light, soft morning mist, muted hope, the first verdict, a bouquet of wilted flowers left at the courthouse gate, its ribbon faded by the sun",
+      "video_prompt": "Slow push-in on a judge reading a verdict, gavel resting on the bench, defendant's bowed head, a family member clutching a tissue.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Coba hitung: sidang dimulai lima belas September, tragedi terjadi dua belas September — bulan yang sama, September. Sembilan belas tahun menunggu, dan akhirnya mereka bertemu di bulan yang sama!",
+      "visual_prompt": "Symbolic image of two calendars on a courtroom wall, one showing September 1984 and one showing September 2003, a beam of dawn light falling between them, pale gold dawn light, soft morning mist, muted hope, nineteen years apart, the same month, a journalist's camera flash popping in the morning light, notebooks open, pens ready"
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Tetapi banding dan kasasi membalikkan semuanya. Satu per satu para terdakwa dibebaskan, sampai akhirnya tak satu pelaku pun dinyatakan bersalah. Nol! Benar-benar nol besar!",
+      "visual_prompt": "Empty courtroom benches at dawn, a defendant's chair standing vacant, a dropped file on the floor, sunlight streaming through tall windows, pale gold dawn light, soft morning mist, muted hope, acquittal after acquittal, a row of empty chairs in the public gallery, one jacket draped over a seat, waiting",
+      "video_prompt": "Slow pan across empty courtroom benches at dawn, a vacant defendant's chair, a dropped file, sunlight streaming through tall windows.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Syalala. Kata hujan yang turun di halaman pengadilan sore itu, ia sudah hafal cerita ini. Hujan turun, membasahi tangga gedung, lalu pergi begitu saja — seperti keadilan yang mampir sebentar lalu pulang.",
+      "visual_prompt": "Rain falling on the steps of a Jakarta courthouse at dusk, raindrops bouncing off marble, an abandoned umbrella, a lone figure walking away, pale gold dawn light fading into grey, soft morning mist, muted hope, the rain has seen this before, a brass plaque beside the courtroom door, its engraved letters catching the dawn light"
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Kompensasi diberikan kepada tiga belas korban senilai satu miliar lima belas juta lima ratus ribu rupiah, berdasarkan putusan tertanggal dua puluh Agustus dua ribu empat. Uang itu dibayar, perkara dianggap selesai.",
+      "visual_prompt": "Close-up of a compensation cheque and a court document on a wooden table, a hand counting banknotes, a family photo in soft focus behind, pale gold dawn light, soft morning mist, muted hope, the price of a life on paper, a janitor mopping the marble floor, his bucket reflecting the pale gold of the morning",
+      "video_prompt": "Slow close-up dolly on a compensation cheque and court document, a hand counting banknotes, a family photo soft-focused behind.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jangan pergi dulu: satu miliar untuk tiga belas nyawa, silakan hitung sendiri berapa harga satu nyawa menurut putusan itu. Saya tidak mau menyebut angkanya — nanti saya yang dimarahi kalkulator!",
+      "visual_prompt": "Ironic scene of a pocket calculator on a courtroom bench showing a small number, a lawyer's briefcase beside it, dawn light through the window, pale gold dawn light, soft morning mist, muted hope, arithmetic no one wants to do, a taxi waiting at the kerb, its driver reading a newspaper, the headline half visible"
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Pada tahun dua ribu dua puluh tiga, Presiden Jokowi mengakui dua belas pelanggaran HAM berat masa lalu. Dua belas kasus besar akhirnya diakui negara setelah puluhan tahun menunggu.",
+      "visual_prompt": "Presidential palace press conference in 2023, a president at a podium with microphones, a list of twelve cases projected on a screen behind him, television cameras, pale gold dawn light, soft morning mist, muted hope, twelve names read aloud, a flock of birds crossing the pale sky above the courthouse dome, wings catching the light",
+      "video_prompt": "Slow push-in on a presidential press conference in 2023, a president at a podium, a list of twelve cases projected on the screen behind him.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Tetapi tragedi ini tidak masuk dalam daftar dua belas kasus itu, karena kasusnya sudah pernah dibawa ke pengadilan — pengadilan yang membebaskan semua terdakwanya. Alasannya rapi sekali, bukan?",
+      "visual_prompt": "A printed list of twelve recognised human rights cases lying on a desk, a red pen circling the absence of one name, a hand hovering uncertainly, pale gold dawn light, soft morning mist, muted hope, the missing thirteenth, a lawyer adjusting his tie in the reflection of a glass door, briefcase heavy in his hand"
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Hebat, kan? Sudah diadili, sudah dibebaskan, sudah selesai — katanya. Kalau begitu, ke mana perginya seratus tujuh puluh satu orang hilang itu? Apakah mereka juga ikut dibebaskan? Lucu sekali!",
+      "visual_prompt": "Bitter close-up of an elderly woman laughing dryly outside a courthouse, tears and a smile at once, a grandson holding her arm, dawn light on her weathered face, pale gold dawn light, soft morning mist, muted hope, laughter at the absurd, a child's drawing of a family tucked into a court file, its crayon colours faded with time",
+      "video_prompt": "Slow intimate push-in on an elderly woman laughing dryly outside a courthouse, tears and a smile at once, grandson holding her arm.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jadi, berapa sebenarnya yang tewas pada malam itu di pelabuhan Jakarta Utara? Dua puluh empat, seratus, empat ratus, atau tujuh ratus? Jawabannya masih menunggu — dan mungkin hanya malam itu yang tahu.",
+      "visual_prompt": "Final wide shot of a Jakarta port district at night, a single question mark of light formed by streetlamps over the harbour, a lone figure standing on an empty street looking up, pale gold dawn light breaking on the horizon, soft morning mist, muted hope, the question that remains, the harbour visible in the far distance, ships moving slowly, the city waking up below"
+    }
+  ]
+}
