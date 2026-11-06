@@ -1,0 +1,604 @@
+{
+ "shots": [
+  {
+   "id": "shot_001",
+   "shot": 1,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Di jantung Kuningan, Jakarta Selatan, ada sebuah terowongan yang namanya diambil dari kota jauh di Maroko. Kasablanka. Jalan bawah tanah ini menghubungkan Sudirman dengan Jatinegara, dan setiap malam ribuan kendaraan melintasinya.",
+   "visual_prompt": "Wide aerial view of a Jakarta underpass at dusk in Kuningan, South Jakarta, traffic streaming through a concrete tunnel mouth, glass towers of the Sudirman business district rising behind, a large shopping mall glowing nearby, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a becak driver pausing beneath a flickering streetlamp, cigarette smoke curling in the warm evening air",
+   "video_prompt": "Slow aerial drone push-in over the Kuningan underpass at dusk, traffic flowing through the tunnel mouth, Sudirman towers glowing behind.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_002",
+   "shot": 2,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Namanya diambil dari Casablanca, sebuah kota pelabuhan di Maroko yang jauhnya ribuan kilometer dari sini. Entah siapa yang pertama kali menempelkan nama asing itu ke jalan Jakarta.",
+   "visual_prompt": "Vintage map of Morocco dissolving into a modern Jakarta street sign, an old harbour town in North Africa with white walls and blue sea, then a busy Indonesian avenue at dusk, a motorbike passing a weathered green road sign, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops in the warm dusk"
+  },
+  {
+   "id": "shot_003",
+   "shot": 3,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Jalan bawah tanah ini diresmikan pada pertengahan tahun sembilan belas sembilan puluh enam, ada pula yang mencatat setahun sesudahnya. Sejak hari itu, jalur ini tidak pernah benar-benar sepi.",
+   "visual_prompt": "Nineteen-nineties Jakarta street scene at dusk, a ribbon-cutting ceremony near a new concrete underpass, officials in suits and batik, vintage cars and public buses, construction barriers being removed, crowds watching, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a food cart's oil lamp glowing on the sidewalk, steam rising from a pot, the humid night air thick with haze",
+   "video_prompt": "Slow dolly along a 1990s Jakarta avenue at dusk, ceremony crowd near the new underpass, vintage buses passing, ribbon fluttering.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_004",
+   "shot": 4,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Dengar baik-baik: di sepanjang jalan itu berdiri pusat perbelanjaan besar dan sebuah pemakaman tua bernama TPU Menteng Pulo. Mal dan kuburan, berdampingan, seperti dua dunia yang dipaksa bertetangga.",
+   "visual_prompt": "Split composition of a bright modern shopping mall and an old Dutch-era cemetery separated by a narrow road, shoppers carrying bags on one side, rows of tilted gravestones and frangipani trees on the other, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a becak driver pausing beneath a flickering streetlamp, cigarette smoke curling in the warm evening air"
+  },
+  {
+   "id": "shot_005",
+   "shot": 5,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "TPU Menteng Pulo itu peninggalan zaman Hindia Belanda, kuburan tua yang sudah ada jauh sebelum jalan ini dibangun. Batu-batu nisannya berdiri rapi, sunyi, dan sebagian sudah miring dimakan usia.",
+   "visual_prompt": "Old Dutch colonial cemetery in Jakarta at dusk, weathered gravestones with Dutch inscriptions, moss-covered stone angels, frangipani trees casting long shadows, a caretaker sweeping dry leaves, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops in the warm dusk",
+   "video_prompt": "Slow tracking shot through an old colonial cemetery at dusk, mossy gravestones, frangipani shadows, a caretaker sweeping leaves.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_006",
+   "shot": 6,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Lalu datanglah proyek jalan baru, dan jalan itu harus membelah kuburan. Bayangkan: aspal panas digilas tepat di atas tanah tempat ratusan orang dikuburkan. Bukan di samping kuburan. Tepat di atasnya!",
+   "visual_prompt": "Construction site in 1990s Jakarta at dusk, bulldozers and excavators cutting a road straight through an old cemetery, uprooted gravestones stacked at the edge, workers in helmets, dust in the air, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a food cart's oil lamp glowing on the sidewalk, steam rising from a pot, the humid night air thick with haze"
+  },
+  {
+   "id": "shot_007",
+   "shot": 7,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Di bawah aspal yang kalian injak setiap hari, dulu ada deretan makam yang rapi dan terawat. Jalan ini tidak dibangun di tanah kosong. Jalan ini dibangun di atas kuburan.",
+   "visual_prompt": "Cross-section view of a Jakarta road at dusk, layers of fresh black asphalt above old gravestones and burial plots visible in a cutaway, a motorbike passing overhead, soil and roots exposed, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a becak driver pausing beneath a flickering streetlamp, cigarette smoke curling in the warm evening air",
+   "video_prompt": "Slow crane shot descending from traffic on the road surface to an imagined cutaway of old graves beneath the asphalt.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_008",
+   "shot": 8,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Di ujung jalan berdiri Kota Kasablanka, pusat perbelanjaan besar yang namanya sama dengan jalan ini. Orang berbelanja, makan, dan tertawa di atas tanah yang dulu sunyi dan penuh nisan.",
+   "visual_prompt": "Grand shopping mall facade glowing at dusk in Jakarta, families entering with shopping bags, food court lights warm and inviting, a small old cemetery visible across the road behind a fence, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops in the warm dusk"
+  },
+  {
+   "id": "shot_009",
+   "shot": 9,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Setiap malam, lampu-lampu mal itu menyala terang, sementara di seberang jalan, pemakaman Menteng Pulo gelap dan diam. Dua dunia itu hanya dipisahkan pagar dan beberapa meter aspal.",
+   "visual_prompt": "Night view across a Jakarta avenue, a brightly lit shopping mall on one side and a dark silent cemetery on the other, a rusty iron fence between them, a few candles flickering near a grave, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a food cart's oil lamp glowing on the sidewalk, steam rising from a pot, the humid night air thick with haze",
+   "video_prompt": "Slow pan from the bright mall entrance across the road to the dark silent cemetery fence at night.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_010",
+   "shot": 10,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Siang hari jalan ini macet luar biasa, klakson bersahutan dari segala arah. Tetapi begitu malam tiba, suasananya berubah total: sepi, dingin, dan entah kenapa terasa seperti sedang diawasi.",
+   "visual_prompt": "Jakarta underpass at night, a few cars passing with headlights on, an empty sidewalk, a lone street vendor closing his cart, long shadows on the concrete wall, a feeling of being watched, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a becak driver pausing beneath a flickering streetlamp, cigarette smoke curling in the warm evening air"
+  },
+  {
+   "id": "shot_011",
+   "shot": 11,
+   "babak": 1,
+   "chapter": 1,
+   "media": "video",
+   "narration": "Kasablanka bukan sekadar nama jalan. Bagi warga Jakarta, nama itu sudah lama identik dengan cerita-cerita yang tidak bisa dijelaskan logika. Cerita yang diwariskan dari sopir ke sopir, dari malam ke malam.",
+   "visual_prompt": "Close shot of an old Jakarta taxi driver at night telling a story to a passenger, expressive hands, rear-view mirror reflecting the dark tunnel behind, cigarette smoke curling, dashboard lights glowing, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops in the warm dusk",
+   "video_prompt": "Slow push-in on an old taxi driver telling a story at night, dashboard lights glowing, tunnel darkness in the mirror.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_012",
+   "shot": 12,
+   "babak": 1,
+   "chapter": 1,
+   "media": "image",
+   "narration": "Syududu. Malam ini kita akan masuk ke dalam terowongan itu, pelan-pelan, satu cerita demi satu cerita. Dan percayalah, setelah ini, kalian tidak akan pernah melintasinya dengan cara yang sama lagi!",
+   "visual_prompt": "Dark mouth of a Jakarta underpass at night, a single car entering the tunnel, headlights swallowed by darkness, a faint red glow deep inside, mist curling at the entrance, warm sodium amber streetlight, dusk haze, gentle 35mm film grain, a food cart's oil lamp glowing on the sidewalk, steam rising from a pot, the humid night air thick with haze"
+  },
+  {
+   "id": "shot_013",
+   "shot": 13,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Sebelum aspal digelar, ratusan makam harus dipindah. Bayangkan pekerjaan itu: menggali satu demi satu, memindahkan tulang-belulang, lalu menata ulang di tempat yang baru.",
+   "visual_prompt": "Exhumation scene at an old Jakarta cemetery under grey skies, workers in boots and gloves carefully lifting remains, shovels and wooden boxes, uprooted gravestones lined along a fence, cold desaturated tones, grey-green overcast light, excavation atmosphere, a rusted wheelbarrow and coiled rope left beside the open trench, mud caked on every boot",
+   "video_prompt": "Slow tracking shot across an exhumation site, workers lifting remains, gravestones stacked along a fence, grey sky above.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_014",
+   "shot": 14,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Keluarga ahli waris menerima uang ganti untung dari pemerintah. Uang itu dibayar, surat ditandatangani, dan pemindahan pun dimulai. Di atas kertas, semuanya beres dan rapi.",
+   "visual_prompt": "Close shot of hands signing official papers on a wooden table in a Jakarta cemetery office, a stamp coming down on a document, envelopes of compensation money, a family standing behind in silence, cold desaturated tones, grey-green overcast light, excavation atmosphere, crows circling above the disturbed earth, a torn black plastic sheet flapping over a pile of soil"
+  },
+  {
+   "id": "shot_015",
+   "shot": 15,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Tetapi di lapangan, cerita berbeda. Para pekerja mengaku suasana penggalian itu berat dan ganjil, seolah-olah tanah di sana tidak rela diganggu. Ada yang jatuh sakit, ada yang menolak kembali.",
+   "visual_prompt": "Tired excavation workers resting at the edge of a dug-up cemetery in Jakarta, one man wiping sweat and looking uneasy, shovels stuck in the soil, an open grave with a wooden coffin, cold desaturated tones, grey-green overcast light, excavation atmosphere, a broken wooden grave marker leaning against the fence, rain clouds gathering over the grey rooftops",
+   "video_prompt": "Slow dolly past tired workers resting beside open graves, one man glancing uneasily at the soil.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_016",
+   "shot": 16,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Kata semutnya begini: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahwa tanah itu sedang dibongkar, dan mereka sudah lebih dulu pindah sebelum sekop pertama menghantam tanah.",
+   "visual_prompt": "Extreme macro shot of ants marching in a long line across disturbed cemetery soil, tiny feet carrying grains away from a shovel blade, dew on grass, an excavator looming blurred in the background, cold desaturated tones, grey-green overcast light, excavation atmosphere, a rusted wheelbarrow and coiled rope left beside the open trench, mud caked on every boot"
+  },
+  {
+   "id": "shot_017",
+   "shot": 17,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Di tengah pemindahan massal itu, beredar kabar yang membuat semua orang merinding. Konon, ada satu jenazah yang ditemukan masih utuh, tidak membusuk, padahal sudah puluhan tahun terkubur.",
+   "visual_prompt": "Workers in a Jakarta cemetery uncovering a coffin, one man stepping back in shock, hands covering his mouth, the wooden lid half open, other workers frozen, cold desaturated tones, grey-green overcast light, excavation atmosphere, crows circling above the disturbed earth, a torn black plastic sheet flapping over a pile of soil",
+   "video_prompt": "Slow push-in on workers uncovering a coffin, one man stepping back in shock, hands over his mouth.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_018",
+   "shot": 18,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Catat ini: jenazah itu konon tidak sempat dipindah, karena konstruksi sudah berjalan terlalu jauh. Ia tertimbun di bawah beton, di bawah aspal, di bawah roda-roda kendaraan yang melintas setiap hari.",
+   "visual_prompt": "Concrete being poured over a burial ground in Jakarta, a cement mixer truck, wet grey concrete flowing across the soil, a worker guiding the hose, the old cemetery fence in the background, cold desaturated tones, grey-green overcast light, excavation atmosphere, a broken wooden grave marker leaning against the fence, rain clouds gathering over the grey rooftops"
+  },
+  {
+   "id": "shot_019",
+   "shot": 19,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Benarkah ada jenazah yang tertinggal di bawah jalan itu? Tidak ada dokumen resmi yang membuktikannya. Tetapi cerita ini hidup, diceritakan ulang, dan tidak pernah mati selama puluhan tahun.",
+   "visual_prompt": "Close shot of an elderly Jakarta resident telling a story in a small warung, neighbours leaning in to listen, a newspaper clipping about the tunnel on the wall, tea cups steaming, cold desaturated tones, grey-green overcast light, excavation atmosphere, a rusted wheelbarrow and coiled rope left beside the open trench, mud caked on every boot",
+   "video_prompt": "Slow push-in on an elderly resident telling a story in a warung, neighbours leaning in, tea steaming.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_020",
+   "shot": 20,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Coba hitung: jalan ini panjangnya satu koma enam kilometer. Satu tambah enam sama dengan tujuh. Tujuh! Angka yang di mana-mana dianggap angka keramat, angka gaib, angka yang tidak pernah kebetulan.",
+   "visual_prompt": "Aerial view of a one point six kilometre Jakarta road stretching through the city, a measuring line drawn over the map, the number seven glowing faintly above the tunnel entrance, traffic flowing below, cold desaturated tones, grey-green overcast light, excavation atmosphere, crows circling above the disturbed earth, a torn black plastic sheet flapping over a pile of soil"
+  },
+  {
+   "id": "shot_021",
+   "shot": 21,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Dari cerita jenazah yang tertimbun itu lahirlah sebuah tradisi. Setiap pengendara yang melintas dianjurkan membunyikan klakson tiga kali, sebagai tanda permisi kepada penunggu jalan ini.",
+   "visual_prompt": "Night shot inside a Jakarta underpass, a car driver pressing the horn three times, sound waves visualised as ripples in the air, the tunnel walls echoing, other cars behind doing the same, cold desaturated tones, grey-green overcast light, excavation atmosphere, a broken wooden grave marker leaning against the fence, rain clouds gathering over the grey rooftops",
+   "video_prompt": "Slow tracking shot following a car through the underpass at night, the driver pressing the horn three times, echoes rippling.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_022",
+   "shot": 22,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Tiga kali klakson, bukan sekali, bukan dua kali. Tiga! Ada yang melakukannya dengan khidmat, ada yang sambil tertawa, tetapi hampir semua pengendara malam melakukannya.",
+   "visual_prompt": "Close shot of a hand pressing a car horn three times at night in a Jakarta tunnel, the dashboard clock glowing, the driver glancing at the rear-view mirror, other headlights behind, cold desaturated tones, grey-green overcast light, excavation atmosphere, a rusted wheelbarrow and coiled rope left beside the open trench, mud caked on every boot"
+  },
+  {
+   "id": "shot_023",
+   "shot": 23,
+   "babak": 2,
+   "chapter": 2,
+   "media": "video",
+   "narration": "Tradisi itu bertahan sampai hari ini. Sopir taksi, pengemudi ojek, bahkan pengendara mobil mewah — semuanya menekan klakson tiga kali sebelum masuk ke mulut terowongan yang gelap.",
+   "visual_prompt": "Line of cars entering a dark Jakarta underpass at night, headlights on, a taxi, a motorcycle taxi and a luxury car in a row, all sounding their horns, the tunnel mouth swallowing them one by one, cold desaturated tones, grey-green overcast light, excavation atmosphere, crows circling above the disturbed earth, a torn black plastic sheet flapping over a pile of soil",
+   "video_prompt": "Wide shot of a line of cars entering the dark underpass at night, headlights on, horns sounding in turn.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_024",
+   "shot": 24,
+   "babak": 2,
+   "chapter": 2,
+   "media": "image",
+   "narration": "Tiga klakson itu seperti salam yang tidak pernah dijawab. Tetapi siapa yang berani melintas tanpa permisi, setelah mendengar cerita tentang jenazah yang tertinggal di bawah sana?",
+   "visual_prompt": "Empty Jakarta underpass at night after the last car has passed, silence, a single horn echo fading along the concrete walls, a faint mist at the far end, a streetlight flickering, cold desaturated tones, grey-green overcast light, excavation atmosphere, a broken wooden grave marker leaning against the fence, rain clouds gathering over the grey rooftops"
+  },
+  {
+   "id": "shot_025",
+   "shot": 25,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Sekarang kita masuk ke cerita yang paling terkenal: kuntilanak merah. Sosok wanita berambut panjang, berbaju merah darah, yang konon melayang di tengah jalan dan muncul tiba-tiba di depan pengendara.",
+   "visual_prompt": "A woman in a blood-red dress with long black hair floating above a dark Jakarta underpass at night, her feet not touching the asphalt, car headlights approaching from behind, her figure glowing faintly red, blood-red neon accents, dense shadows, drifting fog, a stray black cat crossing the road and freezing mid-step, eyes glowing in the red haze",
+   "video_prompt": "Slow crane shot rising toward a woman in a blood-red dress floating above the dark underpass, headlights approaching.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_026",
+   "shot": 26,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Konon, sosok itu adalah arwah seorang gadis cantik yang menjadi korban pemerkosaan dan pembunuhan sekelompok pemuda. Mayatnya dibuang di lokasi itu, dan sejak itu ia tidak pernah pergi.",
+   "visual_prompt": "Flashback scene at night near a Jakarta cemetery, a young woman in a red dress walking alone under a streetlight, shadows of young men lurking behind a wall, tension in the air, blood-red neon accents, dense shadows, drifting fog, a torn red ribbon fluttering from a roadside pole, a shattered mirror fragment glinting on the asphalt"
+  },
+  {
+   "id": "shot_027",
+   "shot": 27,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Pengendara yang melintas tengah malam mengaku melihatnya berdiri di tengah jalan, lalu lenyap begitu saja. Ada yang membanting setir, ada yang mengerem mendadak, ada yang berteriak dan langsung tancap gas.",
+   "visual_prompt": "Night scene inside a Jakarta underpass, a motorcyclist braking hard and swerving as a red figure vanishes before him, tyre smoke, brake lights glowing red, other cars honking, blood-red neon accents, dense shadows, drifting fog, moths circling a dying neon sign, the buzz of insects mixing with distant traffic and whispered prayers",
+   "video_prompt": "Handheld-style tracking shot of a motorcyclist swerving hard as a red figure vanishes, brake lights flaring.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_028",
+   "shot": 28,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Kata malaikat Izrail, malam-malam di terowongan ini jadwalnya padat sekali. Ia mencatat nama demi nama dengan tenang, sementara manusia di atas sibuk menghindar dari bayangan merah yang melayang.",
+   "visual_prompt": "A tall dark winged figure standing silently on the roof of a Jakarta underpass at night, writing names in a glowing ledger, oblivious drivers passing below, a red glow drifting past, blood-red neon accents, dense shadows, drifting fog, a stray black cat crossing the road and freezing mid-step, eyes glowing in the red haze"
+  },
+  {
+   "id": "shot_029",
+   "shot": 29,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Bukan hanya kuntilanak merah. Warga juga bercerita tentang sosok nenek-nenek yang muncul di pinggir jalan, dan sosok tinggi besar tanpa kepala yang berdiri di dekat pemakaman.",
+   "visual_prompt": "Two ghostly figures at the edge of a Jakarta cemetery at night, a bent old woman in a shawl by the roadside and a tall headless figure standing among the gravestones, a passing car lighting them briefly, blood-red neon accents, dense shadows, drifting fog, a torn red ribbon fluttering from a roadside pole, a shattered mirror fragment glinting on the asphalt",
+   "video_prompt": "Slow pan from a bent old woman by the roadside to a tall headless figure among the gravestones at night.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_030",
+   "shot": 30,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Maqoli inna rahmatan. Gadis itu konon masih menunggu di sana, menunggu keadilan yang tidak pernah datang. Dan setiap pengendara yang melintas, ia tatap satu per satu, seolah-olah sedang mencari wajah para pelakunya.",
+   "visual_prompt": "Close shot of a pale woman in a blood-red dress standing in the middle of a dark Jakarta underpass, long hair covering her face, staring at an approaching car, headlights illuminating her from below, blood-red neon accents, dense shadows, drifting fog, moths circling a dying neon sign, the buzz of insects mixing with distant traffic and whispered prayers"
+  },
+  {
+   "id": "shot_031",
+   "shot": 31,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Tangisan wanita juga sering terdengar di sekitar terowongan, berpindah-pindah dari satu titik ke titik lain. Kesaksian warga bernama Ibu Yati Mustofa menyebut suara itu nyata dan terdengar jelas.",
+   "visual_prompt": "A middle-aged Jakarta woman standing at her doorway at night, listening intently, a hand cupped to her ear, a faint female crying sound coming from the dark tunnel direction, neighbours peeking out, blood-red neon accents, dense shadows, drifting fog, a stray black cat crossing the road and freezing mid-step, eyes glowing in the red haze",
+   "video_prompt": "Slow push-in on a woman listening at her doorway at night, faint crying drifting from the dark tunnel.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_032",
+   "shot": 32,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Simpan ini baik-baik: kata Munkar-Nakir, malam itu mereka bekerja lembur di bawah terowongan. Pertanyaan demi pertanyaan mereka ajukan, tetapi arwah-arwah di sana hanya menjawab dengan tangis yang berpindah-pindah.",
+   "visual_prompt": "Two stern shadowy figures in dark robes questioning a weeping ghost beneath a Jakarta underpass at night, a faint light from above, the ghost turning away, blood-red neon accents, dense shadows, drifting fog, a torn red ribbon fluttering from a roadside pole, a shattered mirror fragment glinting on the asphalt"
+  },
+  {
+   "id": "shot_033",
+   "shot": 33,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Gila! Benar-benar gila! Cerita yang paling membuat merinding justru datang dari seorang tukang ojek. Ia mengantar seorang wanita ke perumahan di belakang pemakaman, tengah malam, sendirian.",
+   "visual_prompt": "An old motorcycle taxi driver at night in Jakarta, gripping his handlebars, a female passenger in a red dress sitting behind him, his eyes wide in the rear-view mirror, the cemetery fence passing by, blood-red neon accents, dense shadows, drifting fog, moths circling a dying neon sign, the buzz of insects mixing with distant traffic and whispered prayers",
+   "video_prompt": "Slow tracking shot of a motorcycle taxi at night, a woman in red sitting behind the driver, his eyes wide in the mirror.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_034",
+   "shot": 34,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Wanita itu turun, lalu membayar ongkosnya dengan sepotong daun. Sepotong daun! Tukang ojek itu menoleh sejenak, dan ketika ia menatap lagi, wanita itu sudah terbang ke atas pohon lalu menghilang.",
+   "visual_prompt": "A motorcycle taxi driver holding a single green leaf in his trembling palm at night, looking up at a tall tree where a woman in red is vanishing among the branches, his motorcycle parked beside him, blood-red neon accents, dense shadows, drifting fog, a stray black cat crossing the road and freezing mid-step, eyes glowing in the red haze"
+  },
+  {
+   "id": "shot_035",
+   "shot": 35,
+   "babak": 3,
+   "chapter": 3,
+   "media": "video",
+   "narration": "Sejak malam itu, tukang ojek itu tidak pernah lagi mengambil penumpang di sekitar terowongan. Ia bersumpah, ceritanya benar, dan ia tidak peduli apakah orang percaya atau menertawakannya.",
+   "visual_prompt": "An old motorcycle taxi driver sitting alone at a Jakarta street stall at night, refusing a passenger pointing toward the tunnel, shaking his head firmly, other drivers nodding in agreement, blood-red neon accents, dense shadows, drifting fog, a torn red ribbon fluttering from a roadside pole, a shattered mirror fragment glinting on the asphalt",
+   "video_prompt": "Slow dolly past a motorcycle taxi driver refusing a passenger at night, shaking his head firmly.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_036",
+   "shot": 36,
+   "babak": 3,
+   "chapter": 3,
+   "media": "image",
+   "narration": "Syalala. Kuntilanak merah, nenek-nenek, sosok tanpa kepala, tangisan yang berpindah, dan daun sebagai ongkos ojek. Semua cerita ini hidup di satu lorong gelap yang sama. Kebetulan? Mana mungkin!",
+   "visual_prompt": "Montage of ghostly figures inside a dark Jakarta underpass at night, a red dress floating, an old woman by the wall, a headless silhouette, a falling green leaf, all dissolving into fog, blood-red neon accents, dense shadows, drifting fog, moths circling a dying neon sign, the buzz of insects mixing with distant traffic and whispered prayers"
+  },
+  {
+   "id": "shot_037",
+   "shot": 37,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Sekarang kita bicara soal kecelakaan. Konon, kecelakaan di sekitar terowongan ini sering terjadi dalam radius sekitar empat puluh meter sesudah mulut terowongan. Selalu di titik yang sama.",
+   "visual_prompt": "A Jakarta underpass exit at night, a measuring line marking forty metres past the tunnel mouth, a dented guardrail, skid marks on the wet asphalt, a crashed motorcycle lying on its side, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a police officer's flashlight beam sweeping the wet road, an ambulance's red lights pulsing in the distance",
+   "video_prompt": "Slow aerial pull-back from the tunnel mouth to a marked forty-metre point, skid marks and a dented guardrail below.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_038",
+   "shot": 38,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Polanya mirip: pengendara mengaku melihat sosok perempuan menyeberang tiba-tiba, lalu membanting setir dan menabrak pembatas jalan. Sosok itu lenyap, tetapi tabrakannya nyata.",
+   "visual_prompt": "Night crash scene forty metres past a Jakarta underpass, a car with its front crumpled against the concrete barrier, a woman in red vanishing into the fog, the driver stumbling out in shock, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a shattered side mirror and scattered glass on the asphalt, a tow truck's yellow beacon rotating slowly"
+  },
+  {
+   "id": "shot_039",
+   "shot": 39,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Ada pula kisah kelam dari akhir tahun sembilan puluhan: seorang pria paruh baya ditemukan gantung diri dengan kain spanduk di mulut terowongan. Sejak itu, cerita mistis di sini makin menjadi-jadi.",
+   "visual_prompt": "A white cloth banner hanging from the mouth of a Jakarta underpass at night in the late nineties, swaying in the wind, a police line and a small crowd below, an old streetlight flickering, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a lone traffic cone knocked over at the roadside, a child's sandal lying forgotten near the guardrail",
+   "video_prompt": "Slow tilt up a white banner swaying at the tunnel mouth at night, a police line and small crowd below.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_040",
+   "shot": 40,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Coba hitung: tahun sembilan belas sembilan puluh enam. Satu tambah sembilan tambah sembilan tambah nol tambah enam sama dengan dua puluh lima. Dua tambah lima sama dengan tujuh. Tujuh lagi!",
+   "visual_prompt": "Numbers floating above a Jakarta underpass at night, digits dissolving into the number seven glowing over the tunnel entrance, cars passing underneath, a calculator-like glow on the wet road, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a police officer's flashlight beam sweeping the wet road, an ambulance's red lights pulsing in the distance"
+  },
+  {
+   "id": "shot_041",
+   "shot": 41,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Ingat-ingat ini: budayawan Betawi bernama Yahya Andi Saputra pernah diwawancarai soal terowongan ini. Katanya, cerita mistis itu menambah cita rasa kehidupan kota. Tetapi ia juga punya penjelasan lain.",
+   "visual_prompt": "A Betawi cultural figure being interviewed on camera near a Jakarta underpass at night, a microphone in front of him, the tunnel glowing behind, a journalist taking notes, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a shattered side mirror and scattered glass on the asphalt, a tow truck's yellow beacon rotating slowly",
+   "video_prompt": "Slow push-in on a Betawi cultural figure being interviewed near the underpass at night, tunnel glowing behind.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_042",
+   "shot": 42,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Asykoli inna yama kalima. Menurut Yahya, banyak pengendara yang kurang konsentrasi karena melamun saat melintas. Mereka terserempet, menabrak pinggir terowongan, atau menghantam marka jalan. Bukan hantu. Melamun!",
+   "visual_prompt": "A drowsy Jakarta driver at night inside an underpass, eyelids heavy, hands loose on the wheel, the car drifting toward the concrete wall, road markings blurring, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a lone traffic cone knocked over at the roadside, a child's sandal lying forgotten near the guardrail"
+  },
+  {
+   "id": "shot_043",
+   "shot": 43,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Penjelasan teknisnya juga masuk akal: jalan ini lebih sempit dari jalan biasa, dan rawan macet pada jam sibuk. Jalan sempit, pengendara lelah, risiko kecelakaan pun naik dengan sendirinya.",
+   "visual_prompt": "Narrow Jakarta underpass at rush hour, cars squeezed close together, a truck brushing the concrete wall, brake lights glowing in a long queue, a road sign warning of the narrow lane, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a police officer's flashlight beam sweeping the wet road, an ambulance's red lights pulsing in the distance",
+   "video_prompt": "Slow tracking shot through a narrow underpass at rush hour, cars squeezed together, brake lights glowing.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_044",
+   "shot": 44,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Tetapi warga tetap bertanya: kalau hanya soal jalan sempit dan melamun, kenapa kecelakaannya selalu terjadi di lokasi yang persis sama, dengan cerita sosok perempuan yang sama?",
+   "visual_prompt": "A group of Jakarta residents pointing at the same spot forty metres past the underpass at night, a dented barrier, skid marks, a woman in red faintly visible in the fog behind them, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a shattered side mirror and scattered glass on the asphalt, a tow truck's yellow beacon rotating slowly"
+  },
+  {
+   "id": "shot_045",
+   "shot": 45,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Cacing di tanah itu berbisik bahwa aspal di sini tidak pernah benar-benar tenang. Di bawahnya, tanah kuburan masih menyimpan dinginnya, dan dingin itu naik ke permukaan setiap kali malam tiba.",
+   "visual_prompt": "Extreme macro shot of earthworms moving through cold cemetery soil beneath a Jakarta road, frost-like mist rising through cracks in the asphalt, a car passing overhead, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a lone traffic cone knocked over at the roadside, a child's sandal lying forgotten near the guardrail",
+   "video_prompt": "Slow macro push-in on earthworms in cold soil beneath the road, mist rising through cracks in the asphalt.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_046",
+   "shot": 46,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Dua penjelasan kini berhadapan: versi mistis berkata ada penunggu yang mengganggu, versi rasional berkata pengendara lelah dan jalan sempit. Keduanya punya bukti, keduanya punya saksi. Mana yang kalian pilih?",
+   "visual_prompt": "Split-screen composition inside a Jakarta underpass at night, a ghostly red figure on one side and a tired drowsy driver on the other, both facing the camera, a question hanging between them, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a police officer's flashlight beam sweeping the wet road, an ambulance's red lights pulsing in the distance"
+  },
+  {
+   "id": "shot_047",
+   "shot": 47,
+   "babak": 4,
+   "chapter": 4,
+   "media": "video",
+   "narration": "Dan jangan lupa, ada pula paranormal yang mengklaim energi makhluk halus di terowongan ini sangat kuat. Klaim itu tidak bisa dibuktikan, tetapi juga tidak bisa dibantah dengan sekadar tertawa.",
+   "visual_prompt": "A paranormal investigator holding a glowing device inside a dark Jakarta underpass at night, the meter needle spiking, his face tense, a faint mist swirling around him, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a shattered side mirror and scattered glass on the asphalt, a tow truck's yellow beacon rotating slowly",
+   "video_prompt": "Slow push-in on a paranormal investigator inside the dark underpass, his device needle spiking, mist swirling.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_048",
+   "shot": 48,
+   "babak": 4,
+   "chapter": 4,
+   "media": "image",
+   "narration": "Syududu. Empat puluh meter sesudah terowongan, selalu di sana, cerita yang sama, kecelakaan yang sama. Kalau ini hanya kebetulan, kebetulan itu sudah terlalu rajin datang ke tempat yang sama!",
+   "visual_prompt": "Aerial night view of the same forty-metre stretch past a Jakarta underpass, repeated skid marks and dented barriers glowing under headlights, a faint red figure at the far end, harsh vehicle headlight glare, wet asphalt reflections, deep blue night, a lone traffic cone knocked over at the roadside, a child's sandal lying forgotten near the guardrail"
+  },
+  {
+   "id": "shot_049",
+   "shot": 49,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Cerita terowongan ini sudah masuk budaya pop. Pada tahun dua ribu tujuh, sebuah film berjudul Terowongan Casablanca dirilis dan membuat nama lorong ini makin terkenal di seluruh negeri.",
+   "visual_prompt": "A vintage Indonesian horror film poster for a tunnel ghost story, a red figure looming over a dark underpass, a cinema marquee in Jakarta glowing at night, moviegoers queuing below, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a street sweeper beginning his morning round, birds returning to the wires above the tunnel entrance",
+   "video_prompt": "Slow tilt up a glowing cinema marquee at night, moviegoers queuing below, a horror poster of a red figure.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_050",
+   "shot": 50,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Empat tahun kemudian, pada tahun dua ribu sebelas, sebuah buku berjudul enam enam enam Misteri Paling Heboh memuat kisah terowongan ini di antara ratusan misteri lainnya di Indonesia dan dunia.",
+   "visual_prompt": "Close shot of a thick Indonesian mystery book open on a table, a chapter about a haunted Jakarta tunnel, a hand turning the page, a cup of coffee steaming beside it, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a newspaper vendor arranging the morning papers, the first commuters appearing with coffee cups in hand"
+  },
+  {
+   "id": "shot_051",
+   "shot": 51,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Film dan buku itu membuat cerita mistis di sini tidak lagi sekadar bisik-bisik warga. Ia menjadi bagian dari imajinasi nasional, diceritakan ulang di televisi, di radio, dan kini di media sosial.",
+   "visual_prompt": "A Jakarta living room at night, a family watching a television documentary about a haunted tunnel, a smartphone glowing with social media comments, the screen reflecting on their faces, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a cat stretching on a sun-warmed wall, shop shutters rolling up, the city waking with a cautious yawn",
+   "video_prompt": "Slow pan across a living room at night, a family watching a tunnel documentary, phones glowing with comments.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_052",
+   "shot": 52,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Coba hitung: kata kuntilanak terdiri dari sepuluh huruf. Satu tambah nol sama dengan satu. Satu jalan, satu kuburan, satu cerita. Sepuluh huruf itu mengunci semuanya menjadi satu kisah yang sama.",
+   "visual_prompt": "The word kuntilanak written in glowing letters above a Jakarta underpass at dawn, each letter counted one by one, the letters merging into a single beam of light, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a street sweeper beginning his morning round, birds returning to the wires above the tunnel entrance"
+  },
+  {
+   "id": "shot_053",
+   "shot": 53,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Kasablanka kini hidup dalam dua wujud: sebagai jalan yang setiap hari dilalui ribuan kendaraan, dan sebagai legenda yang setiap malam diceritakan ulang. Fakta dan mitos berjalan berdampingan di aspal yang sama.",
+   "visual_prompt": "Dawn view of a Jakarta underpass, morning traffic flowing through while a faint red figure fades into the mist, a street sweeper starting his shift, the first sunlight touching the concrete, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a newspaper vendor arranging the morning papers, the first commuters appearing with coffee cups in hand",
+   "video_prompt": "Slow crane shot at dawn over the underpass, morning traffic flowing, a red figure fading into mist.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_054",
+   "shot": 54,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Ma askoli inna kaliyamata inna asqoli. Paranormal berkata energi di sini kuat, warga berkata penunggu di sini nyata, ilmuwan berkata ini soal jalan sempit dan pikiran yang melamun. Tiga suara, satu terowongan!",
+   "visual_prompt": "Three figures standing at the mouth of a Jakarta underpass at dawn, a paranormal investigator, a local resident and a scientist in a suit, each gesturing toward the tunnel, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a cat stretching on a sun-warmed wall, shop shutters rolling up, the city waking with a cautious yawn"
+  },
+  {
+   "id": "shot_055",
+   "shot": 55,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Kata hujan yang turun di atap terowongan malam itu, ia sudah hafal cerita ini. Hujan turun, membasahi aspal, lalu pergi begitu saja — seperti jawaban yang mampir sebentar lalu pulang tanpa pamit.",
+   "visual_prompt": "Rain falling on the roof of a Jakarta underpass at dawn, droplets running down the concrete, wet asphalt reflecting the first golden light, an empty road, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a street sweeper beginning his morning round, birds returning to the wires above the tunnel entrance",
+   "video_prompt": "Slow tracking shot of rain running down the underpass roof at dawn, wet asphalt reflecting golden light.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_056",
+   "shot": 56,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Jangan pergi dulu: kata jin yang tinggal di balik pagar pemakaman, ia tidak pernah mengganggu siapa pun yang memberi salam. Yang ia ganggu hanya mereka yang melintas sambil sombong dan tidak peduli.",
+   "visual_prompt": "A shadowy jin figure standing behind a cemetery fence at dawn in Jakarta, watching cars pass through the underpass, one driver honking politely and the figure nodding, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a newspaper vendor arranging the morning papers, the first commuters appearing with coffee cups in hand"
+  },
+  {
+   "id": "shot_057",
+   "shot": 57,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Jadi, klakson tiga kali itu sopan santun atau rasa takut? Permisi kepada penunggu, atau sekadar kebiasaan yang diwariskan tanpa pernah dipertanyakan? Jawabannya ada pada diri kalian masing-masing.",
+   "visual_prompt": "A car driver at dawn in a Jakarta underpass, hand hovering over the horn, thinking, the tunnel exit glowing ahead, a faint red figure in the mirror, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a cat stretching on a sun-warmed wall, shop shutters rolling up, the city waking with a cautious yawn",
+   "video_prompt": "Slow push-in on a driver at dawn, hand hovering over the horn, tunnel exit glowing ahead.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_058",
+   "shot": 58,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Hebat, kan? Satu terowongan, satu kuburan, satu kuntilanak merah, tiga klakson, dan empat puluh meter yang selalu menelan korban. Semua itu muat dalam satu koma enam kilometer aspal!",
+   "visual_prompt": "Wide dawn view of the whole Jakarta underpass and cemetery, a single road cutting through, a red figure, three horn sound waves and a forty-metre marker all visible in one frame, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a street sweeper beginning his morning round, birds returning to the wires above the tunnel entrance"
+  },
+  {
+   "id": "shot_059",
+   "shot": 59,
+   "babak": 5,
+   "chapter": 5,
+   "media": "video",
+   "narration": "Malam ini, kalau kalian melintas di sana, bunyikan klakson tiga kali. Bukan karena kalian percaya, tetapi karena tidak ada ruginya memberi salam kepada sesuatu yang mungkin sedang menunggu di kegelapan.",
+   "visual_prompt": "A car entering a Jakarta underpass at dawn, the driver pressing the horn three times, sound ripples travelling through the tunnel, a faint figure at the far end turning to listen, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a newspaper vendor arranging the morning papers, the first commuters appearing with coffee cups in hand",
+   "video_prompt": "Slow tracking shot following a car into the underpass at dawn, horn sounding three times, ripples travelling.",
+   "duration_hint": 10
+  },
+  {
+   "id": "shot_060",
+   "shot": 60,
+   "babak": 5,
+   "chapter": 5,
+   "media": "image",
+   "narration": "Jadi, terowongan ini angker karena penunggunya, atau angker karena kita yang terlalu takut untuk mengakuinya? Tulis pendapat kalian di kolom komentar, dan sampai jumpa di film berikutnya!",
+   "visual_prompt": "Final wide shot of a Jakarta underpass at sunrise, cars flowing freely, the cemetery quiet in golden light, a question mark formed by clouds above the tunnel, golden dawn light breaking through, warm and cold tones mixing, hopeful yet uncanny, a cat stretching on a sun-warmed wall, shop shutters rolling up, the city waking with a cautious yawn"
+  }
+ ]
+}
