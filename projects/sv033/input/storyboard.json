@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Di Cirendeu, Ciputat Timur, Tangerang Selatan, ada sebuah danau buatan yang namanya Situ Gintung. Danau tenang yang menyimpan air sejak zaman Belanda, dan pada suatu subuh di tahun dua ribu sembilan, danau itu mengamuk.",
+      "visual_prompt": "Wide aerial view of a calm man-made lake in Cirendeu, South Tangerang, an earthen dam curving along its edge, morning mist drifting over still teal-green water, small fishing boats moored at the bank, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops",
+      "video_prompt": "Slow aerial drone push-in over the calm lake at dawn, mist drifting across teal-green water.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Danau ini bukan danau alami. Ia dibangun oleh pemerintah kolonial Belanda pada tahun sembilan belas tiga puluh tiga, sebagai penampung air untuk mengairi sawah dan kebun di sekitarnya.",
+      "visual_prompt": "Black-and-white archival style view of Dutch colonial engineers building an earthen dam in the early twentieth century, workers compacting soil, wooden scaffolds, steam-era tools, sepia tones, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops"
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Tanggulnya terbuat dari tanah yang dipadatkan, tingginya mencapai enam belas meter. Di zamannya, tanggul tanah seperti ini dianggap cukup kuat untuk menahan air selama puluhan tahun.",
+      "visual_prompt": "Close-up of a tall earthen dam wall covered in grass, water pressing against its base, a cross-section view showing layered compacted soil, morning light raking across the slope, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops",
+      "video_prompt": "Low-angle tracking shot along the grassy earthen dam wall, water pressing at its base.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Dengar baik-baik: luas danau ini dua puluh satu koma empat hektare, dulu bahkan mencapai tiga puluh satu hektare. Tetapi pendangkalan demi pendangkalan membuat danau itu terus menyusut.",
+      "visual_prompt": "Aerial view of a wide lake shrinking at its edges, muddy shallows and silt banks exposed, fishermen wading through reeds, a village road running beside the water, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops"
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Di balik airnya yang tenang, danau ini menyimpan volume yang tidak main-main: dua koma satu juta meter kubik air. Air sebanyak itu, kalau tumpah sekaligus, bisa menelan satu kampung.",
+      "visual_prompt": "Underwater-style view of a vast reservoir holding millions of cubic metres, deep teal water, sunbeams piercing the surface, a small village visible far below the dam, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops",
+      "video_prompt": "Slow underwater-style push through deep teal water, sunbeams piercing the surface.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Di sekitar danau, kehidupan berjalan seperti biasa selama puluhan tahun. Anak-anak memancing di tepinya, ibu-ibu mencuci di pinggirnya, dan warga Cirendeu hidup berdampingan dengan danau itu.",
+      "visual_prompt": "Children fishing at the edge of a calm lake, mothers washing clothes on stone steps, laundry lines, a quiet village morning beside the water, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, a heron standing motionless in the shallows"
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Kata semutnya begini: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahwa tanah di bawah tanggul sudah lama digerogoti air, jauh sebelum manusia menyadarinya.",
+      "visual_prompt": "Macro view of ants marching along a cracked earthen dam wall, tiny insects carrying soil, water seeping through hairline cracks in the earth, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, smoke rising from distant village kitchens",
+      "video_prompt": "Extreme macro dolly along ants marching on a cracked earthen dam wall, water seeping through.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Tanggul tanah itu sudah berumur lebih dari tujuh puluh tahun ketika bencana datang. Tujuh puluh tahun menahan air, tanpa pernah dibangun ulang dari nol, hanya ditambal di sana-sini.",
+      "visual_prompt": "Old dam wall aged seventy years, grass growing over weathered earth, patched sections of fresh soil, a lone caretaker walking the crest at dawn, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, a wooden jetty creaking softly in the morning breeze"
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Warga yang tinggal di bawah tanggul tahu betul: kalau danau itu jebol, air akan jatuh langsung ke rumah mereka. Tetapi siapa yang menyangka tanggul Belanda itu bisa jebol?",
+      "visual_prompt": "A village sleeping below a towering earthen dam, rows of small houses with tin roofs, the massive dam wall looming above them in the morning haze, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, a heron standing motionless in the shallows",
+      "video_prompt": "Wide static shot of a village sleeping below the towering dam, morning haze, slow zoom-in.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Bayangkan: enam belas meter tanah menahan jutaan meter kubik air, tepat di atas kepala sebuah kampung yang sedang tidur nyenyak. Itulah danau itu sebelum subuh itu tiba.",
+      "visual_prompt": "Dramatic low-angle view of a sixteen-metre earthen dam towering over a sleeping village, millions of cubic metres of water held back behind it, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, smoke rising from distant village kitchens"
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Selama puluhan tahun, danau ini memberi manfaat: air untuk sawah, ikan untuk warga, dan pemandangan yang menenangkan. Tidak ada yang mengira danau yang sama akan berubah menjadi bencana.",
+      "visual_prompt": "Peaceful lake at golden hour, fishermen casting nets, rice fields beyond the water, a serene rural landscape that hides a lurking danger, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, a wooden jetty creaking softly in the morning breeze",
+      "video_prompt": "Slow golden-hour pan across the peaceful lake, fishermen casting nets, rice fields beyond.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Syududu. Malam itu, hujan turun deras di atas Cirendeu. Danau yang tenang itu mulai naik, perlahan-lahan, tanpa suara, tanpa peringatan. Dan subuh pun semakin dekat!",
+      "visual_prompt": "Night rain beginning to fall over a dark lake, heavy clouds gathering, first drops rippling the water surface, the dam silhouette against a storm sky, soft dawn mist, teal-green water, warm golden morning light, gentle film grain, distant mosque loudspeakers echoing softly, laundry lines swaying between low rooftops, a heron standing motionless in the shallows"
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kamis, dua puluh enam Maret tahun dua ribu sembilan, hujan deras mengguyur Situ Gintung seharian penuh. Seratus tiga belas koma dua puluh dua milimeter air hujan jatuh dalam satu hari. Danau itu pun meluap.",
+      "visual_prompt": "Torrential rain hammering a lake in Cirendeu on a dark Thursday afternoon, grey storm clouds, rain streaks, water level rising against the dam wall, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, villagers' windows glowing amber in the dark",
+      "video_prompt": "Handheld shot in torrential rain, water rising against the dam wall, grey storm clouds.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Hujan itu turun tanpa henti dari pukul empat sore sampai pukul sembilan malam. Lima jam hujan deras, dan air danau naik terus, sedikit demi sedikit, melewati batas yang biasa.",
+      "visual_prompt": "Rain falling nonstop for five hours over a flooded neighbourhood, streets turning to streams, villagers watching the rising water from their doorways, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, rain hammering on corrugated tin roofs"
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Warga di bawah tanggul mulai gelisah. Air sudah terlihat menggenang di beberapa titik, tetapi sebagian besar warga tetap di rumah. Hujan deras di bulan Maret bukanlah hal yang aneh bagi mereka.",
+      "visual_prompt": "Worried villagers standing at their gates watching floodwater creep toward their homes, umbrellas, anxious faces lit by porch lights in the rain, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, thunder rolling across the valley",
+      "video_prompt": "Slow dolly toward worried villagers at their gates, umbrellas, anxious faces in porch light.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Jumat dini hari, sekitar pukul dua, seorang petugas keamanan melihat bahaya itu datang. Ia memberi peringatan bahaya banjir kepada warga. Peringatan itu disampaikan, jelas dan keras.",
+      "visual_prompt": "A lone security guard in a raincoat raising an alarm in the dark at two in the morning, flashlight beam cutting through rain, empty streets, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, villagers' windows glowing amber in the dark"
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Tetapi peringatan itu tidak ditindaklanjuti dengan pengamanan apa pun. Tidak ada pengungsian, tidak ada evakuasi, tidak ada sirene yang membangunkan kampung yang sedang terlelap.",
+      "visual_prompt": "A quiet sleeping village at two in the morning, dark houses, no sirens, no evacuation, rain falling on tin roofs while danger approaches, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, rain hammering on corrugated tin roofs",
+      "video_prompt": "Slow pan across dark sleeping houses at two in the morning, no sirens, rain on tin roofs.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Catat ini: antara peringatan dan bencana, ada jeda sekitar dua jam. Dua jam yang seharusnya cukup untuk menyelamatkan ratusan nyawa. Dua jam yang terbuang begitu saja!",
+      "visual_prompt": "A clock ticking toward disaster, two hours of wasted time, an empty evacuation route, rain-soaked streets with no one moving, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, thunder rolling across the valley"
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Sementara itu, di dalam tubuh tanggul, air sudah menemukan jalannya sendiri. Air merembes, menggerogoti tanah dari dalam, diam-diam, seperti rayap yang memakan kayu dari dalam.",
+      "visual_prompt": "Cross-section view inside an earthen dam, water seeping through hidden channels, soil eroding from within, silent underground destruction, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, villagers' windows glowing amber in the dark",
+      "video_prompt": "X-ray style push inside the dam, water seeping through hidden channels, soil eroding.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Coba hitung: kata Gintung itu tujuh huruf. Tujuh! Angka yang di mana-mana dianggap keramat, angka yang selalu muncul di cerita-cerita besar. Dan bencana ini pun datang di tanggal dua puluh tujuh.",
+      "visual_prompt": "The word Gintung carved in wet sand with seven letters, rain washing over it, a mysterious numerology carved beside the lake at night, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, rain hammering on corrugated tin roofs"
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Pukul empat subuh, tanggul itu akhirnya menyerah. Bobol selebar tiga puluh meter, dengan ketinggian enam meter. Sebagian sumber bahkan menyebut lebar bobolnya mencapai tujuh puluh meter!",
+      "visual_prompt": "A thirty-metre breach tearing open in an earthen dam at four in the morning, muddy water exploding through the gap, debris flying, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, thunder rolling across the valley",
+      "video_prompt": "Wide shot of a thirty-metre breach tearing open, muddy water exploding through the gap.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Tiga puluh meter! Itu lebarnya hampir sama dengan panjang tiga bus yang dijejerkan. Dari celah sebesar itulah air raksasa itu tumpah sekaligus ke bawah.",
+      "visual_prompt": "Three buses lined up end to end for scale beside a massive dam breach, muddy floodwater pouring through a thirty-metre gap, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, villagers' windows glowing amber in the dark"
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Air itu jatuh seperti air terjun raksasa, menghantam permukiman di bawah tanggul. Gelombang pertama datang tanpa suara peringatan, tanpa sirene, tanpa teriakan. Hanya dentuman air yang mengguncang tanah.",
+      "visual_prompt": "A giant waterfall of muddy water crashing down from a breached dam onto houses below, dawn breaking, chaos and spray everywhere, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, rain hammering on corrugated tin roofs",
+      "video_prompt": "High-angle shot of a giant muddy waterfall crashing onto houses below, dawn breaking.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Syalala. Pukul empat lewat tiga puluh, danau itu sudah kosong separuh. Kampung di bawahnya sudah tidak sama lagi, dan matahari pun belum terbit. Yang tersisa hanya lumpur, puing, dan tangis yang tidak berhenti.",
+      "visual_prompt": "A half-empty lake at dawn, water drained away, cracked mud bed exposed, a devastated village below under a pale grey sky, deep blue-black storm night, cold silver moonlight, lightning flashes, heavy rain streaks, wet asphalt reflections, tense film grain, a distant siren that never comes, thunder rolling across the valley"
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Air dari Situ Gintung itu menyapu dua kawasan sekaligus: Perumahan Cirendeu Permai dan Kampung Poncol. Dua kawasan yang terletak tepat di jalur jatuhnya air, tanpa penghalang apa pun.",
+      "visual_prompt": "Aerial view of a flooded housing estate, Cirendeu Permai, brown water covering streets, rooftops poking through, rescue boats moving between houses, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, volunteers shouting names through megaphones",
+      "video_prompt": "Aerial drone sweep over the flooded housing estate, brown water, rooftops, rescue boats.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Sekitar empat ratus rumah terendam air bah itu. Dua ratus lima puluh di antaranya rusak berat atau hancur sama sekali. Rumah-rumah yang dibangun bertahun-tahun, lenyap dalam hitungan menit.",
+      "visual_prompt": "Four hundred submerged houses in a flooded village, rooftops and debris floating, muddy water up to the eaves, a scene of total devastation, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, clotheslines tangled in the flood debris"
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Bahkan Universitas Muhammadiyah Jakarta ikut terendam. Kampus yang berdiri di dekat danau itu digenangi air setinggi dada orang dewasa, buku dan perabotan mengambang ke mana-mana.",
+      "visual_prompt": "A university campus flooded to chest height, books and furniture floating in brown water, students wading through the submerged courtyard, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, a child's toy boat drifting among the wreckage",
+      "video_prompt": "Tracking shot through a flooded university campus, books floating, students wading chest-deep.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kata malaikat Izrail, subuh itu jadwalnya padat sekali di Cirendeu. Ia mencatat nama demi nama dengan tenang, sementara manusia di bawah sibuk berlari menyelamatkan diri dari air yang datang.",
+      "visual_prompt": "A dark figure in white robes standing calmly on a rooftop above the flood, recording names in a book, while chaos unfolds below, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, volunteers shouting names through megaphones"
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Warga sedang tidur ketika air itu datang. Sebagian terbangun karena suara dentuman, sebagian lagi terbangun karena air sudah masuk ke kamar. Banyak yang tidak sempat keluar dari rumahnya.",
+      "visual_prompt": "Villagers waking in terror as floodwater rushes into their bedrooms at dawn, a family climbing onto the roof, water rising fast, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, clotheslines tangled in the flood debris",
+      "video_prompt": "Handheld shot of villagers waking in terror as floodwater rushes into bedrooms at dawn.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Maqoli inna rahmatan. Korban jiwa terus bertambah dari jam ke jam. Angka awal menyebut lima puluh delapan orang tewas pada sore hari pertama, tetapi angka itu terus berubah seiring evakuasi.",
+      "visual_prompt": "Rescue workers in orange vests pulling survivors from rooftops, rubber boats navigating flooded alleys, dawn light over the disaster zone, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, a child's toy boat drifting among the wreckage"
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Pada akhirnya, sedikitnya sembilan puluh sembilan sampai seratus orang dinyatakan tewas, dan lima orang hilang. Seratus tiga belas orang luka-luka, dan sembilan ratus dua orang menjadi pengungsi.",
+      "visual_prompt": "A makeshift refugee shelter filled with displaced families, blankets, donated food, children sleeping on mats, volunteers distributing aid, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, volunteers shouting names through megaphones",
+      "video_prompt": "Slow pan across a crowded refugee shelter, blankets, donated food, children on mats.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Jangan kabur dulu: kata Munkar-Nakir, malam itu mereka bekerja lembur di bawah tanggul. Pertanyaan demi pertanyaan mereka ajukan, tetapi jawaban yang datang hanya tangis dan teriakan minta tolong.",
+      "visual_prompt": "Two shadowy questioning figures in a dark flooded alley, interrogating unseen souls, while floodwater reflects their silhouettes, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, clotheslines tangled in the flood debris"
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Gila! Benar-benar gila! Media menyebut peristiwa ini tsunami kecil. Air setinggi beberapa meter menyapu kampung seperti gelombang laut, padahal ini bukan laut. Ini danau yang jebol!",
+      "visual_prompt": "A small tsunami-like wave of muddy water sweeping through a village street, cars floating, walls collapsing, residents fleeing to higher ground, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, a child's toy boat drifting among the wreckage",
+      "video_prompt": "Wide shot of a tsunami-like wave sweeping a village street, cars floating, walls collapsing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Tim penyelamat datang dari berbagai penjuru. Perahu karet menyusuri gang-gang yang sudah menjadi sungai, mengevakuasi warga yang terjebak di atap rumah mereka.",
+      "visual_prompt": "Rescue boats weaving through flooded narrow alleys, survivors waving from rooftops, orange life vests, grey dawn light over brown water, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, volunteers shouting names through megaphones"
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Di antara puing-puing, warga saling mencari keluarga mereka. Ada yang menemukan, ada yang tidak. Kampung Poncol dan Cirendeu Permai berubah menjadi lautan lumpur dan puing dalam semalam.",
+      "visual_prompt": "Survivors searching through mud and rubble for their families, a mother calling out a name, debris of destroyed homes everywhere, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, clotheslines tangled in the flood debris",
+      "video_prompt": "Slow handheld walk through mud and rubble, survivors searching for family, calling names.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Syududu. Seratus nyawa, empat ratus rumah, dan satu kampus terendam. Semua itu terjadi dalam waktu kurang dari satu jam, di subuh hari, saat kampung sedang terlelap!",
+      "visual_prompt": "A devastated village one hour after the flood, a hundred lives lost, mud-covered streets, rescue workers carrying stretchers, sombre silence, muddy brown floodwater, grey dawn light, desaturated sombre tones, rescue boats and debris, heavy film grain, distant sirens echoing through the haze, a child's toy boat drifting among the wreckage"
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Setelah air surut, pertanyaan besar pun muncul: kenapa tanggul Situ Gintung bisa jebol? Tanggul yang berdiri sejak tahun sembilan belas tiga puluh tiga itu, kenapa baru jebol sekarang?",
+      "visual_prompt": "Investigators standing on a breached dam asking questions, measuring the thirty-metre gap, notebooks open, the ruined dam behind them, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a theodolite standing on a tripod nearby",
+      "video_prompt": "Slow push-in on investigators measuring the thirty-metre dam gap, notebooks open.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Badan Pengkajian dan Penerapan Teknologi, BPPT, punya jawaban yang mengejutkan: hujan BUKAN faktor utama. Hujan deras itu hanya pemicu, bukan penyebab sebenarnya.",
+      "visual_prompt": "A BPPT engineer in a hard hat explaining a dam failure, pointing at seepage channels inside the earthen wall, technical diagrams in hand, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, dry grass bending in the hot wind"
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Menurut BPPT, penyebab utamanya adalah erosi buluh, yang dikenal dengan istilah piping. Air merembes ke dalam tubuh tanggul, membentuk saluran-saluran kecil, dan menggerogoti tanah dari dalam.",
+      "visual_prompt": "Close-up of piping erosion inside an earthen dam, water carving tiny tunnels through soil, cross-section showing hidden channels, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a rusted warning sign half-buried in the soil",
+      "video_prompt": "Macro push into piping erosion, water carving tiny tunnels through soil, cross-section view.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Coba hitung: dua puluh tujuh Maret. Dua tambah tujuh sama dengan sembilan. Sembilan! Dan penelitian BPPT pada bulan Desember tahun dua ribu delapan sudah menemukan indikasi piping itu.",
+      "visual_prompt": "A calendar page showing March twenty seven, numbers circled in red, a BPPT research report from December on a desk, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a theodolite standing on a tripod nearby"
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Penelitian itu dilakukan tiga bulan sebelum bencana. Indikasi piping sudah terlihat jelas. Tetapi temuan itu tidak pernah berubah menjadi perbaikan besar pada tanggul yang sudah retak.",
+      "visual_prompt": "A cracked dam wall with visible fissures, weeds growing through the cracks, a warning sign ignored, harsh midday sun on dry earth, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, dry grass bending in the hot wind",
+      "video_prompt": "Slow tracking along a cracked dam wall, weeds in fissures, harsh midday sun on dry earth.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Asykoli inna yama kalima. Selain piping, BPPT juga menyebut kurangnya pemeliharaan dan retakan pada badan tanggul. Tanggul tua itu retak, tetapi retaknya dibiarkan, tahun demi tahun.",
+      "visual_prompt": "A government minister in a suit blaming extreme weather at a press conference, microphones, cameras flashing, a dam disaster backdrop, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a rusted warning sign half-buried in the soil"
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Warga Ponin punya kesaksian sendiri: tanggul utara sudah longsor sedikit demi sedikit selama dua tahun sebelumnya. Longsor kecil itu dilihat warga, tetapi tidak pernah dianggap darurat.",
+      "visual_prompt": "A slowly collapsing northern embankment, small landslides over two years, villagers pointing at the eroding slope, worried faces, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a theodolite standing on a tripod nearby",
+      "video_prompt": "Slow tilt down a slowly collapsing northern embankment, villagers pointing at the slope.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Ingat-ingat ini: pemerintah punya penjelasan yang berbeda. Menteri Pekerjaan Umum saat itu, Djoko Kirmanto, menyebut cuaca ekstrem sebagai pemicu utama jebolnya tanggul.",
+      "visual_prompt": "A press conference scene, a minister blaming extreme weather, journalists raising hands, a dam breach photograph projected on a screen, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, dry grass bending in the hot wind"
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Kata semutnya begini: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahwa tanah itu sudah berlubang-lubang, dan mereka sudah lebih dulu pindah sebelum tanggul itu roboh.",
+      "visual_prompt": "Ants marching away from a crumbling dam wall, carrying soil, sensing danger before humans, macro view of insects on cracked earth, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a rusted warning sign half-buried in the soil",
+      "video_prompt": "Macro dolly following ants marching away from a crumbling dam wall, sensing danger.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Cacing di tanah itu berbisik bahwa tubuh tanggul sudah seperti spons yang basah kuyup. Di bawahnya, tanah sudah berlubang-lubang, dan air mengalir bebas di dalam tanggul yang retak.",
+      "visual_prompt": "Earthworms wriggling in wet dam soil, close-up of sponge-like earth full of holes, water flowing freely through the porous ground, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a theodolite standing on a tripod nearby"
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Kepala BBWS Ciliwung Cisadane, Pitoyo Subandrio, menambahkan penjelasan lain: volume air sudah melampaui kapasitas maksimal waduk. Airnya terlalu banyak, tanggulnya tidak sanggup menahan.",
+      "visual_prompt": "Two conflicting explanations facing off, a scientist with a report versus an official with a statement, a split-screen debate scene, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, dry grass bending in the hot wind",
+      "video_prompt": "Split-screen push, a scientist with a report versus an official with a statement, facing off.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Syalala. Warga yang selamat tidak tinggal diam. Mereka menggugat pemerintah atas kelalaian itu. Tanggul jebol bukan takdir, kata mereka, melainkan kelalaian yang dibiarkan terlalu lama!",
+      "visual_prompt": "Angry flood survivors protesting and filing a lawsuit against the government, banners, a courthouse, determined faces demanding answers, cracked ochre earth, rust tones, harsh noon light, forensic investigation mood, dry dust in the air, sharp film grain, a measuring tape stretched across the breach, a rusted warning sign half-buried in the soil"
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Setelah bencana, Situ Gintung dibangun kembali. Perencanaan rehabilitasi berjalan dari bulan April sampai Juni, dan konstruksi dimulai pada tiga Desember tahun yang sama.",
+      "visual_prompt": "Construction workers rebuilding a dam in December, cranes and bulldozers, fresh concrete and compacted earth, a new beginning, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, children flying kites on the far bank, a fisherman mending his net in the shade",
+      "video_prompt": "Crane shot over dam reconstruction, cranes and bulldozers, fresh concrete, December work.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Tanggul baru dibangun lebih kuat, dengan teknologi yang lebih modern. Danau itu kini dijaga lebih ketat, dipantau lebih sering, dan tidak lagi dibiarkan retak diam-diam.",
+      "visual_prompt": "A newly rebuilt dam with modern monitoring equipment, sensors and gauges, engineers inspecting the wall, bright daylight, orderly scene, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a fisherman mending his net in the shade"
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Tetapi pertanyaan yang paling penting justru belum terjawab sampai hari ini: peringatan pukul dua itu kenapa tidak ditindaklanjuti? Siapa yang seharusnya membunyikan sirene dan membangunkan kampung?",
+      "visual_prompt": "An unanswered question hanging over a quiet village, a silent alarm that never rang, an empty evacuation route at dawn, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a small shrine with fresh flowers by the water, children flying kites on the far bank",
+      "video_prompt": "Slow pan across a quiet village, a silent alarm that never rang, an empty road at dawn.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Coba hitung: dua koma satu juta meter kubik air. Dua tambah satu sama dengan tiga. Tiga! Tiga lembaga yang disebut-sebut dalam laporan: BPPT, Kementerian Pekerjaan Umum, dan BBWS. Tiga suara, satu tanggul yang jebol.",
+      "visual_prompt": "Three institutions named on a report, BPPT, the public works ministry and the river basin authority, three voices debating one dam, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, children flying kites on the far bank, a fisherman mending his net in the shade"
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Danau itu hari ini tampak tenang kembali. Warga memancing di tepinya, anak-anak bermain di sekitarnya, dan kehidupan berjalan seperti biasa. Tetapi ingatan tentang subuh itu tidak pernah hilang.",
+      "visual_prompt": "A calm lake today, fishermen on the bank, children playing nearby, peaceful water reflecting a clear sky, life returning to normal, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a fisherman mending his net in the shade, a small shrine with fresh flowers by the water",
+      "video_prompt": "Gentle aerial drift over a calm lake today, fishermen on the bank, children playing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Ma askoli inna kaliyamata inna asqoli. Ada yang berkata danau itu sudah aman, ada yang berkata danau itu hanya menunggu waktu. Dua suara itu masih berdebat sampai hari ini, tanpa ada yang bisa membuktikan.",
+      "visual_prompt": "Two voices debating over a calm lake, one saying it is safe, one saying it is only waiting, a split scene of doubt and reassurance, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a small shrine with fresh flowers by the water"
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Kata hujan yang turun di Cirendeu malam itu, ia sudah memberi tanda sejak sore. Hujan turun deras, membasahi tanggul, lalu pergi begitu saja — seperti peringatan yang datang dan pergi tanpa didengar.",
+      "visual_prompt": "Rain falling gently on a lake at dusk, raindrops rippling the surface, clouds drifting, the rain telling its story to the water, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, children flying kites on the far bank, a fisherman mending his net in the shade",
+      "video_prompt": "Slow push-in on gentle rain falling on a lake at dusk, ripples spreading across the surface.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jangan pergi dulu: kata jin yang tinggal di balik pepohonan danau, ia tidak pernah mengganggu siapa pun yang menghormati air. Yang ia ganggu hanya mereka yang meremehkan tanda-tanda bahaya.",
+      "visual_prompt": "A shadowy jin figure behind the trees near a lake, watching respectfully, fireflies glowing, a mystical guardian of the water, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a fisherman mending his net in the shade, a small shrine with fresh flowers by the water"
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Jadi, bencana ini salah hujan, salah tanggul, atau salah manusia yang mengabaikan peringatan? Jawabannya ada pada diri kalian masing-masing, dan pada siapa yang berani mengakuinya.",
+      "visual_prompt": "A scale balancing blame between rain, dam and human negligence, a courtroom of public opinion, villagers thinking deeply, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a small shrine with fresh flowers by the water, children flying kites on the far bank",
+      "video_prompt": "Slow orbit around a scale balancing rain, dam and human negligence, villagers thinking.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Hebat, kan? Satu danau, satu tanggul tanah, satu subuh yang kelam, dan jutaan meter kubik air yang tumpah sekaligus. Semua itu muat dalam satu cerita yang tidak akan pernah dilupakan!",
+      "visual_prompt": "A single lake, a single earthen dam, a single dark dawn, a vast volume of water, all contained in one unforgettable story, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, children flying kites on the far bank, a fisherman mending his net in the shade"
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Malam ini, kalau kalian lewat di dekat danau tua mana pun, ingatlah subuh di Cirendeu. Peringatan yang diabaikan bisa berubah menjadi bencana yang tidak bisa ditarik kembali.",
+      "visual_prompt": "A traveller pausing beside an old lake at dusk, remembering a dawn disaster, a warning sign, a quiet moment of reflection, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a fisherman mending his net in the shade, a small shrine with fresh flowers by the water",
+      "video_prompt": "Slow tracking shot of a traveller pausing beside an old lake at dusk, reflecting quietly.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jadi, Situ Gintung jebol karena hujan, karena piping, atau karena peringatan yang tidak ditindaklanjuti? Tulis pendapat kalian di kolom komentar, dan sampai jumpa di film berikutnya!",
+      "visual_prompt": "A question mark formed by ripples on a calm lake surface, the audience invited to judge, a documentary closing scene at sunset, calm reflective water, hopeful pastel sunrise, soft warm light, gentle film grain, birdsong at dawn, peaceful morning haze over the rebuilt dam, a small shrine with fresh flowers by the water, children flying kites on the far bank"
+    }
+  ]
+}
