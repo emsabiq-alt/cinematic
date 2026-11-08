@@ -1,0 +1,604 @@
+{
+  "shots": [
+    {
+      "id": "shot_001",
+      "shot": 1,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Di Pelabuhan Tanjung Priok, Jakarta, pada malam dua puluh empat Januari tahun sembilan belas delapan puluh satu, sebuah kapal besar bersiap berlayar menuju Ujung Pandang. Namanya sudah lama dikenal para pelaut.",
+      "visual_prompt": "Wide aerial view of Tanjung Priok harbor at dawn, a large aging white-and-blue passenger ferry moored at the pier, cranes and containers silhouetted in morning haze, passengers boarding with luggage, gulls circling the masts, coiled ropes and cargo nets in the foreground, the city skyline fading into haze, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain",
+      "video_prompt": "Slow aerial drone push-in over Tanjung Priok harbor at dawn, mist drifting across the water.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_002",
+      "shot": 2,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Kapal itu bernama Tampomas Dua. Dulu ia bernama Great Emerald, dibangun di Jepang dua puluh lima tahun sebelum tragedi, lalu dibeli Pelni dan melayani rute antar pulau selama seperempat abad.",
+      "visual_prompt": "Vintage archival photograph style of a 1950s Japanese-built passenger ferry, steel hull with riveted plates, black-and-white tones with subtle sepia, dock workers loading cargo, a sailor coiling a thick rope on the wet deck, wooden crates stacked nearby, faint smoke from a distant chimney, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain"
+    },
+    {
+      "id": "shot_003",
+      "shot": 3,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Seperempat abad mengarungi laut bukan usia muda bagi sebuah kapal besi. Catnya mengelupas, mesinnya sudah berkali-kali diperbaiki, tetapi jadwal pelayaran tetap jalan terus tanpa henti.",
+      "visual_prompt": "Close-up of the rusted steel hull of an old ferry, peeling paint, corroded pipes and rivets, a worker inspecting the hull with a flashlight, passengers waving from the railing, children peeking through the bars, harbor lamps still glowing faintly, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain",
+      "video_prompt": "Slow tracking shot along the rusted hull, camera gliding past peeling paint and rivets.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_004",
+      "shot": 4,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Dengar baik-baik. Malam itu, seribu lima puluh lima penumpang tercatat naik ke kapal, bersama delapan puluh dua awak dan dua ratus mobil di geladak bawah. Angka resmi, catat itu baik-baik.",
+      "visual_prompt": "Busy boarding scene on a ferry deck at night, crowds of passengers carrying bags and boxes up the gangway, cars being driven into the lower vehicle deck, gulls circling the masts, coiled ropes and cargo nets in the foreground, the city skyline fading into haze, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain"
+    },
+    {
+      "id": "shot_005",
+      "shot": 5,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Tapi angka di atas kertas tidak pernah sama dengan angka di atas kapal. Penumpang gelap naik tanpa tiket, tidur di lorong dan di geladak, dan nama mereka tidak pernah tercatat di mana pun.",
+      "visual_prompt": "Narrow corridor inside a ferry at night, unregistered passengers sleeping on the floor with blankets and sacks, dim yellow bulbs, cramped bunks, a sailor coiling a thick rope on the wet deck, wooden crates stacked nearby, faint smoke from a distant chimney, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain",
+      "video_prompt": "Slow dolly through the narrow ferry corridor, camera passing sleeping passengers on the floor.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_006",
+      "shot": 6,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Perkiraan para penyelamat belakangan menyebut jumlah penumpang sebenarnya mendekati seribu empat ratus empat puluh dua orang. Selisih hampir empat ratus nyawa yang tidak punya nama di daftar.",
+      "visual_prompt": "Overhead view of a crowded ferry manifest desk, handwritten passenger lists, tickets and stamps, a clerk counting heads with a weary expression, passengers waving from the railing, children peeking through the bars, harbor lamps still glowing faintly, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain"
+    },
+    {
+      "id": "shot_007",
+      "shot": 7,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Kata semutnya begini: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham, kapal tua yang dipaksa berlayar tanpa istirahat itu sedang membawa nasib buruk di perutnya.",
+      "visual_prompt": "Macro shot of tiny black ants marching in a line across weathered steel deck plates, dewdrops glistening, shallow depth of field, dark background, gulls circling the masts, coiled ropes and cargo nets in the foreground, the city skyline fading into haze, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain",
+      "video_prompt": "Extreme macro tracking shot following ants marching across weathered steel deck plates.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_008",
+      "shot": 8,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Kapal itu berlayar di jalur yang sama dengan Segitiga Masalembo, perairan yang sudah lama ditakuti pelaut. Tapi malam itu tidak ada yang bicara soal segitiga, semua sibuk mencari tempat tidur.",
+      "visual_prompt": "Dark moody aerial view of the Java Sea at night, the Masalembo islands as shadowy shapes, a small ferry light crossing the black water, a sailor coiling a thick rope on the wet deck, wooden crates stacked nearby, faint smoke from a distant chimney, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain"
+    },
+    {
+      "id": "shot_009",
+      "shot": 9,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Di anjungan, Kapten Abdul Rivai memegang kemudi dengan tenang. Dua puluh empat Januari sudah hampir habis, laut Jawa di depan tampak gelap, dan angin mulai bertiup lebih kencang dari biasanya.",
+      "visual_prompt": "Interior of a ship bridge at night, a captain in white uniform gripping the wheel, glowing instrument panels, rain streaking the windows, tense atmosphere, passengers waving from the railing, children peeking through the bars, harbor lamps still glowing faintly, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain",
+      "video_prompt": "Slow push-in on the captain at the wheel, rain streaking the bridge windows behind him.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_010",
+      "shot": 10,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Ruang mesin di bawah dek berdenyut seperti jantung tua. Pipa-pipa bahan bakar sudah menua, sambungannya merembes pelan, dan tidak ada satu pun alat pendeteksi asap di seluruh kapal.",
+      "visual_prompt": "Dim engine room of an old ferry, aging fuel pipes, gauges and valves, a thin wisp of vapor leaking from a joint, flickering work lights, gulls circling the masts, coiled ropes and cargo nets in the foreground, the city skyline fading into haze, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain"
+    },
+    {
+      "id": "shot_011",
+      "shot": 11,
+      "babak": 1,
+      "chapter": 1,
+      "media": "video",
+      "narration": "Coba hitung: kapal dibangun tahun sembilan belas lima puluh enam, dan berlayar seperempat abad kemudian. Seperempat abad! Usia yang sama dengan umur kapal, dan mesin yang sama tuanya.",
+      "visual_prompt": "Split concept image: a 1950s black-and-white shipyard photo on the left, the same rusted ferry decades later on the right, calendar pages flipping between the years, a sailor coiling a thick rope on the wet deck, wooden crates stacked nearby, faint smoke from a distant chimney, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain",
+      "video_prompt": "Slow crossfade between a vintage shipyard photo and the rusted ferry, calendar pages flipping.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_012",
+      "shot": 12,
+      "babak": 1,
+      "chapter": 1,
+      "media": "image",
+      "narration": "Syududu. Malam pertama berjalan biasa saja, penumpang tertidur di kursinya, dan tidak seorang pun menyangka bahwa besok malam api akan menyala di perut kapal.",
+      "visual_prompt": "Quiet night shot of a ferry sailing on a calm dark sea, passengers asleep on deck chairs under dim lights, moonlight on gentle waves, deceptive peace before disaster, passengers waving from the railing, children peeking through the bars, harbor lamps still glowing faintly, cold steel-blue dawn light, harbor haze, muted teal-grey palette, fine film grain"
+    },
+    {
+      "id": "shot_013",
+      "shot": 13,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Dua puluh lima Januari, sekitar pukul delapan malam waktu Indonesia tengah, badai menghantam Laut Jawa. Ombak besar mengguncang Tampomas Dua, dan di ruang mesin, bahan bakar mulai merembes dari pipa yang bocor.",
+      "visual_prompt": "Violent storm over the Java Sea at night, huge waves crashing against a ferry hull, rain lashing the deck, lightning splitting the sky, waves smashing against the bow, spray flying over the railing, a torn flag whipping violently in the wind, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain",
+      "video_prompt": "Dramatic crane shot over storm waves crashing against the ferry hull, lightning flashing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_014",
+      "shot": 14,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Di atas sana, seseorang membuang puntung rokok begitu saja. Puntung itu jatuh lewat ventilasi, menyentuh uap bahan bakar yang bocor, dan dalam sekejap api kecil menyala di ruang mesin.",
+      "visual_prompt": "Close-up of a hand dropping a glowing cigarette butt down a metal ventilation shaft, the ember falling through darkness toward a fuel-slicked engine space below, a crewman clutching a railing as the deck tilts, loose crates sliding across the floor, alarms blinking red, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain"
+    },
+    {
+      "id": "shot_015",
+      "shot": 15,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Api kecil itu tidak tinggal kecil. Kru kapal melihatnya dan mencoba memadamkan dengan tabung pemadam portabel, tetapi api sudah lebih cepat, lebih rakus, dan tidak mau padam.",
+      "visual_prompt": "Small flame igniting in a dark engine room, fuel vapor catching light, a crewman rushing in with a small portable extinguisher, panic in his eyes, rain hammering the steel roof, water streaming down the stairwells, a flashlight beam cutting through the dark, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain",
+      "video_prompt": "Handheld shot rushing into the engine room as a small flame catches, crewman reacting.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_016",
+      "shot": 16,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Catat ini. Pintu dek dibiarkan terbuka, dan angin badai masuk seperti dipanggil. Api yang tadinya di ruang mesin kini menjalar ke kompartemen lain, dibantu angin yang tidak kenal ampun.",
+      "visual_prompt": "Open steel deck doors on a ferry in a storm, wind and rain blasting through the doorway, flames being dragged sideways by the gale, waves smashing against the bow, spray flying over the railing, a torn flag whipping violently in the wind, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain"
+    },
+    {
+      "id": "shot_017",
+      "shot": 17,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Dua jam kemudian, tenaga utama kapal mati total. Listrik padam, lampu-lampu mati, dan generator darurat yang seharusnya menyelamatkan keadaan ternyata ikut gagal berfungsi.",
+      "visual_prompt": "Pitch-black ferry interior during a total power failure, emergency lights dead, passengers silhouetted in darkness, a crewman shaking a failed generator, a crewman clutching a railing as the deck tilts, loose crates sliding across the floor, alarms blinking red, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain",
+      "video_prompt": "Slow pan across the pitch-black ferry interior, camera drifting past frightened silhouettes.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_018",
+      "shot": 18,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Bayangkan: kapal besar di tengah badai, gelap gulita, tanpa listrik, tanpa alat pemadam yang bekerja. Penumpang mulai panik, tetapi tidak ada yang memberi tahu mereka apa yang sebenarnya terjadi.",
+      "visual_prompt": "Crowded passenger deck in darkness, frightened faces lit only by distant flames, mothers clutching children, no crew giving directions, rain hammering the steel roof, water streaming down the stairwells, a flashlight beam cutting through the dark, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain"
+    },
+    {
+      "id": "shot_019",
+      "shot": 19,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Di geladak bawah, seratus sembilan puluh satu mobil dan dua ratus motor terparkir rapat, masing-masing dengan tangki bahan bakar yang masih terisi. Api menemukan pesta besar di sana.",
+      "visual_prompt": "Lower vehicle deck packed with cars and motorcycles, fuel tanks glinting, flames creeping between vehicles, heat shimmer rising, waves smashing against the bow, spray flying over the railing, a torn flag whipping violently in the wind, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain",
+      "video_prompt": "Slow tracking shot between parked cars on the vehicle deck, flames creeping into frame.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_020",
+      "shot": 20,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Api merambat dari satu kendaraan ke kendaraan lain dengan cepat, membakar semua dek satu demi satu. Kapal yang tadinya membawa manusia kini berubah menjadi tungku raksasa di tengah laut.",
+      "visual_prompt": "Raging fire consuming a ferry deck, rows of vehicles burning, thick smoke rolling across the ceiling, metal warping in the heat, a crewman clutching a railing as the deck tilts, loose crates sliding across the floor, alarms blinking red, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain"
+    },
+    {
+      "id": "shot_021",
+      "shot": 21,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Kata jin lautnya berbisik begini: api ini bukan kebetulan, ini tagihan lama yang akhirnya datang menagih. Jin pun mencatat, manusia saja yang lupa.",
+      "visual_prompt": "Eerie underwater scene of a shadowy sea spirit figure in dark teal water, glowing eyes, bubbles rising, a burning ferry silhouette far above the surface, rain hammering the steel roof, water streaming down the stairwells, a flashlight beam cutting through the dark, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain",
+      "video_prompt": "Slow underwater rise toward the surface, a burning ferry silhouette glowing far above.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_022",
+      "shot": 22,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Sementara itu di anjungan, kapten dan kru berjuang memadamkan api yang sudah tidak mungkin dipadamkan. Usaha itu akhirnya dihentikan, karena api sudah menang dan kapal sudah kalah.",
+      "visual_prompt": "Ship bridge in chaos at night, captain shouting orders into a dead radio, crew arguing, red alarm glow, rain hammering the windows, waves smashing against the bow, spray flying over the railing, a torn flag whipping violently in the wind, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain"
+    },
+    {
+      "id": "shot_023",
+      "shot": 23,
+      "babak": 2,
+      "chapter": 2,
+      "media": "video",
+      "narration": "Api itu tidak padam dalam hitungan menit. Ia membakar berjam-jam tanpa henti, dan setiap jam yang lewat membuat kapal semakin lemah, semakin panas, dan semakin dekat dengan akhirnya yang mengerikan.",
+      "visual_prompt": "Time-lapse concept of a burning ferry through the night, flames growing hour by hour, smoke column rising into storm clouds, a crewman clutching a railing as the deck tilts, loose crates sliding across the floor, alarms blinking red, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain",
+      "video_prompt": "Time-lapse of the burning ferry through the night, flames growing, smoke column rising.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_024",
+      "shot": 24,
+      "babak": 2,
+      "chapter": 2,
+      "media": "image",
+      "narration": "Syalala. Malam kedua berlalu dengan api yang terus menyala, dan pagi dua puluh enam Januari datang membawa hujan deras, tetapi hujan itu tidak memadamkan apa-apa. Justru sebaliknya.",
+      "visual_prompt": "Dawn breaking over a stormy sea, a ferry still burning in the distance, heavy rain falling on scorched decks, no rescue ships yet in sight, rain hammering the steel roof, water streaming down the stairwells, a flashlight beam cutting through the dark, deep teal-black palette, lightning flashes, orange fire glow, heavy rain, cinematic grain"
+    },
+    {
+      "id": "shot_025",
+      "shot": 25,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Pagi dua puluh enam Januari, hujan deras mengguyur Laut Jawa. Air hujan masuk ke ruang mesin yang terbakar, dan bukannya memadamkan api, air itu justru menyebarkan bahan bakar yang belum terisolasi ke mana-mana.",
+      "visual_prompt": "Torrential rain pouring onto a burning ferry, steam and smoke mixing, fire spreading through the engine room despite the downpour, survivors huddled under blankets on the rescue deck, a medic bandaging a burned arm, the sea still churning, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain",
+      "video_prompt": "High-angle shot of torrential rain hammering the burning deck, steam and smoke mixing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_026",
+      "shot": 26,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Di saat yang sama, kapal penyelamat pertama mendekat. KM Sangihe, di bawah Kapten Agus K. Sumirat, melihat gumpalan asap dari jauh dan sempat mengira itu asap anjungan minyak Pertamina.",
+      "visual_prompt": "A rescue ship approaching through rough seas, its searchlight sweeping the smoke on the horizon, crew on deck pointing toward the fire, a lifeboat swinging wildly from its davits, ropes creaking under strain, passengers screaming above the roar, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain"
+    },
+    {
+      "id": "shot_027",
+      "shot": 27,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Mualim satu Sangihe, J. Bilalu, adalah orang pertama yang sadar bahwa asap itu bukan dari anjungan minyak. Itu asap kapal yang terbakar, dan di dalamnya ada lebih dari seribu manusia yang berteriak minta tolong.",
+      "visual_prompt": "First officer on a rescue ship bridge staring through binoculars at a distant column of black smoke, realization dawning on his face, black smoke blotting out the sun, embers drifting across the water, a helicopter circling far overhead, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain",
+      "video_prompt": "Slow zoom on the first officer raising binoculars, smoke column growing on the horizon.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_028",
+      "shot": 28,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kata malaikat Izrail begini: aku tidak memilih siapa yang naik dan siapa yang tinggal, aku hanya mencatat yang waktunya tiba. Dan malam itu, catatannya panjang sekali.",
+      "visual_prompt": "Solemn symbolic scene of a dark winged figure standing silently on a rain-soaked ferry deck among frightened passengers, unnoticed, counting silently, survivors huddled under blankets on the rescue deck, a medic bandaging a burned arm, the sea still churning, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain"
+    },
+    {
+      "id": "shot_029",
+      "shot": 29,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Gila! Benar-benar gila! Sekoci diturunkan tanpa diarahkan, penumpang dibiarkan mencari jalan sendiri, dan sebagian kru malah menyelamatkan diri lebih dulu. Ini bukan evakuasi, ini kekacauan!",
+      "visual_prompt": "Chaotic lifeboat deck during a panicked evacuation, lifeboats being lowered unevenly, passengers pushing, crew shouting without coordination, a lifeboat swinging wildly from its davits, ropes creaking under strain, passengers screaming above the roar, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain",
+      "video_prompt": "Handheld chaotic shot on the lifeboat deck, camera shaking as passengers push toward boats.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_030",
+      "shot": 30,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Maqoli inna rahmatan. Laporan belakangan menyebut kru kapal tidak memahami cara memakai alat keselamatan, dan tidak seorang pun mengarahkan penumpang menuju sekoci saat api membesar.",
+      "visual_prompt": "Close-up of an unused life jacket and a rusted safety instruction placard on a ferry wall, smoke drifting past, a crewman walking away, black smoke blotting out the sun, embers drifting across the water, a helicopter circling far overhead, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain"
+    },
+    {
+      "id": "shot_031",
+      "shot": 31,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Pagi dua puluh tujuh Januari, ledakan mengguncang ruang mesin. Air laut menerobos masuk, ruang baling-baling dan ruang generator ikut terisi air, dan kapal miring empat puluh lima derajat ke satu sisi.",
+      "visual_prompt": "Massive explosion in a ferry engine room, a fireball bursting through steel, seawater flooding in, the ship lurching violently, survivors huddled under blankets on the rescue deck, a medic bandaging a burned arm, the sea still churning, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain",
+      "video_prompt": "Slow-motion explosion bursting from the engine room, water flooding in, ship lurching.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_032",
+      "shot": 32,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Kata Munkar-Nakir begini: siapa yang menumpuk bahan bakar di bawah dek dan siapa yang membiarkan pintu terbuka, semua akan ditanya satu per satu. Tidak ada yang lolos dari daftar pertanyaan itu.",
+      "visual_prompt": "Two shadowy questioning figures in dark robes standing in a flooded corridor of a sinking ship, water rising around their feet, solemn and still, a lifeboat swinging wildly from its davits, ropes creaking under strain, passengers screaming above the roar, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain"
+    },
+    {
+      "id": "shot_033",
+      "shot": 33,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Jangan kabur dulu. Dua ratus delapan puluh delapan orang masih terjebak di dek bawah ketika kapal miring. Mereka tidak sempat naik, tidak sempat berenang, dan nama mereka hilang bersama kapal ke dasar laut.",
+      "visual_prompt": "Lower deck of a sinking ferry filling with water, trapped passengers in darkness, tilted floor, floating debris, a single emergency lamp flickering, black smoke blotting out the sun, embers drifting across the water, a helicopter circling far overhead, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain",
+      "video_prompt": "Slow tilt down the flooding lower deck, water rising, a single lamp flickering.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_034",
+      "shot": 34,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Pukul dua belas lewat empat puluh lima menit siang, dua puluh tujuh Januari tahun sembilan belas delapan puluh satu, kapal itu tenggelam untuk selamanya. Sekitar tiga puluh jam setelah percikan api pertama menyala.",
+      "visual_prompt": "A large ferry sinking beneath the waves at midday, bow rising then slipping under, whirlpool forming, smoke still rising from the water, survivors huddled under blankets on the rescue deck, a medic bandaging a burned arm, the sea still churning, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain"
+    },
+    {
+      "id": "shot_035",
+      "shot": 35,
+      "babak": 3,
+      "chapter": 3,
+      "media": "video",
+      "narration": "Tujuh ratus lima puluh tiga orang berhasil diselamatkan. Tujuh ratus lima puluh tiga nyawa yang berhasil naik ke kapal penyelamat, sementara ratusan lainnya tidak pernah muncul lagi di permukaan.",
+      "visual_prompt": "Rescue scene at sea, survivors in orange life jackets being pulled aboard a rescue ship, exhausted faces, blankets, rough waves, a lifeboat swinging wildly from its davits, ropes creaking under strain, passengers screaming above the roar, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain",
+      "video_prompt": "Steadicam shot along the rescue ship deck as survivors are pulled aboard, blankets handed out.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_036",
+      "shot": 36,
+      "babak": 3,
+      "chapter": 3,
+      "media": "image",
+      "narration": "Syududu. Di dasar Laut Jawa, dekat Kepulauan Masalembo, kapal itu kini beristirahat selamanya, bersama dua ratus delapan puluh delapan penumpang yang tidak sempat keluar dari dek bawah.",
+      "visual_prompt": "Underwater view of a sunken ferry resting on the dark seabed, tilted hull, marine growth beginning, shafts of light from above, silent and still, black smoke blotting out the sun, embers drifting across the water, a helicopter circling far overhead, burning orange-red glow, thick black smoke, rain-soaked decks, harsh emergency light, dramatic chiaroscuro, film grain"
+    },
+    {
+      "id": "shot_037",
+      "shot": 37,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Setelah kapal tenggelam, pertanyaan besar menggantung di udara: siapa yang salah? Menteri Perhubungan waktu itu, Roesmin Nurjadin, tampil di depan pers dengan penjelasan yang mengejutkan banyak orang.",
+      "visual_prompt": "Press conference scene in 1980s Jakarta, a transport minister in a suit speaking at a podium, flashbulbs popping, reporters with notepads, a stenographer typing quietly in the corner, stacks of files tied with string, a wall clock ticking loudly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain",
+      "video_prompt": "Slow push-in on the minister at the podium, flashbulbs popping, reporters leaning forward.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_038",
+      "shot": 38,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Menurut menteri, tidak ada yang tidak normal di ruang mesin. Kelainan justru ada di geladak kendaraan, di bagian belakang, tempat sepeda motor terparkir dan guncangan ombak memicu percikan api.",
+      "visual_prompt": "Lower vehicle deck of a ferry, motorcycles parked in tight rows at the rear, a small spark near a fuel stain, investigators measuring distances, dust motes floating in a beam of window light, a faded portrait of a minister on the wall, an ashtray full, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain"
+    },
+    {
+      "id": "shot_039",
+      "shot": 39,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Tapi Masinis Tiga kapal itu, Wishardi Hamzah, berkata lain dengan tegas. Menurutnya kapal tua ini tidak memiliki sistem pendeteksi asap sama sekali. Api bisa menyala lama tanpa ada yang tahu!",
+      "visual_prompt": "Close-up of an old ship engineer in overalls pointing at a blank wall where a smoke detector should be installed, empty mounting bracket, a clerk stamping documents with a heavy seal, ink pads and paper clips scattered, a fan turning slowly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain",
+      "video_prompt": "Slow pan across the empty smoke detector bracket, engineer's finger pointing at the blank wall.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_040",
+      "shot": 40,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Perhatikan ini. Dua versi, dua cerita, satu bangkai kapal di dasar laut. Versi menteri menyalahkan guncangan dan kendaraan, versi masinis menyalahkan kapal yang tidak punya alat peringatan dini.",
+      "visual_prompt": "Two contrasting documents side by side on a desk, an official statement and a handwritten crew testimony, a magnifying glass over conflicting lines, a stenographer typing quietly in the corner, stacks of files tied with string, a wall clock ticking loudly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain"
+    },
+    {
+      "id": "shot_041",
+      "shot": 41,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Penyelidikan dipimpin Jaksa Bob Rush Efendi Nasution. Hasilnya? Tidak memberi jawaban yang berarti, karena pada akhirnya semua kesalahan dibebankan kepada kru kapal. Selesai. Titik.",
+      "visual_prompt": "Courtroom or inquiry room in 1980s Indonesia, a prosecutor in black robe reading a file, empty witness chairs, harsh fluorescent light, dust motes floating in a beam of window light, a faded portrait of a minister on the wall, an ashtray full, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain",
+      "video_prompt": "Slow dolly into the inquiry room, camera passing empty witness chairs toward the prosecutor.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_042",
+      "shot": 42,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Asykoli inna yama kalima. Kapal yang dibangun tahun sembilan belas lima puluh enam, tanpa deteksi asap, tanpa generator darurat yang berfungsi, dibiarkan berlayar membawa seribu nyawa. Siapa yang mengizinkan itu?",
+      "visual_prompt": "Aging ferry engine room with a missing smoke detector, corroded pipes and a failed emergency generator, a red tag reading unfit, a clerk stamping documents with a heavy seal, ink pads and paper clips scattered, a fan turning slowly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain"
+    },
+    {
+      "id": "shot_043",
+      "shot": 43,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Coba hitung: lima puluh enam tambah dua puluh lima sama dengan delapan puluh satu, dan delapan tambah satu sama dengan sembilan. Sembilan, angka keramat yang selalu muncul di akhir cerita kapal ini.",
+      "visual_prompt": "Calendar pages and arithmetic concept, two years written in chalk on a blackboard with a line connecting them, a ship silhouette between, a stenographer typing quietly in the corner, stacks of files tied with string, a wall clock ticking loudly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain",
+      "video_prompt": "Slow zoom on the chalkboard as the two years are connected by a drawn line.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_044",
+      "shot": 44,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Laporan penyelidikan resmi tidak pernah dibuka ke publik sampai hari ini. Tidak ada dokumen lengkap yang bisa dibaca, tidak ada sidang terbuka, dan keluarga korban dibiarkan bertanya tanpa jawaban.",
+      "visual_prompt": "Sealed archive boxes labeled with investigation files, dust-covered, a padlock on a cabinet drawer, a hand reaching but stopped, dust motes floating in a beam of window light, a faded portrait of a minister on the wall, an ashtray full, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain"
+    },
+    {
+      "id": "shot_045",
+      "shot": 45,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Kata semutnya begini, sekali lagi: Man asyidi issad asyida. Itu bahasa semut. Semut pun paham bahwa kebenaran yang tenggelam bersama kapal tidak akan pernah naik lagi ke permukaan.",
+      "visual_prompt": "Macro shot of ants crossing a dusty investigation file, tiny feet over stamped words, a magnifying glass enlarging the scene, a clerk stamping documents with a heavy seal, ink pads and paper clips scattered, a fan turning slowly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain",
+      "video_prompt": "Extreme macro shot of ants crossing the dusty investigation file, magnifying glass above.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_046",
+      "shot": 46,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Hujan yang turun pagi itu pun berkata begini: aku datang untuk memadamkan, tetapi api sudah terlalu besar dan kapal sudah terlalu tua. Hujan pun mengaku kalah hari itu.",
+      "visual_prompt": "Rain falling on a courthouse roof in Jakarta, water streaming down grey stone steps, an umbrella abandoned on the pavement, a stenographer typing quietly in the corner, stacks of files tied with string, a wall clock ticking loudly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain"
+    },
+    {
+      "id": "shot_047",
+      "shot": 47,
+      "babak": 4,
+      "chapter": 4,
+      "media": "video",
+      "narration": "Ada yang bilang ini murni kecelakaan. Ada yang bilang ini kelalaian yang dibungkus rapi. Dan ada yang bilang angka korban yang sebenarnya jauh lebih besar dari yang diumumkan. Tiga cerita, satu kapal.",
+      "visual_prompt": "Three diverging paths concept, a fork in a road at dusk, three signposts pointing different directions, a ship silhouette on the horizon, dust motes floating in a beam of window light, a faded portrait of a minister on the wall, an ashtray full, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain",
+      "video_prompt": "Slow aerial drift over a fork in the road at dusk, three signposts pointing apart.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_048",
+      "shot": 48,
+      "babak": 4,
+      "chapter": 4,
+      "media": "image",
+      "narration": "Syalala. Babak ini ditutup dengan satu fakta pahit: tidak satu pun pejabat yang bertanggung jawab atas kapal tua itu pernah diadili. Kapalnya tenggelam, kasusnya ikut tenggelam.",
+      "visual_prompt": "Empty courtroom bench at dusk, a gavel resting untouched, files stacked and forgotten, light fading through tall windows, a clerk stamping documents with a heavy seal, ink pads and paper clips scattered, a fan turning slowly, cold archival grey-blue tones, stark document light, desaturated bureaucratic palette, subtle grain"
+    },
+    {
+      "id": "shot_049",
+      "shot": 49,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Sekarang mari bicara soal angka, karena di sinilah cerita menjadi makin aneh. Angka resmi menyebut empat ratus tiga puluh satu orang tewas, dan tujuh ratus lima puluh tiga orang berhasil diselamatkan.",
+      "visual_prompt": "A large wall of numbers and newspaper clippings about a ferry disaster, two conflicting death tolls circled in red marker, a fisherman mending his net on the shore, children playing near the tide line, a mosque dome in the distance, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain",
+      "video_prompt": "Slow pan across the wall of numbers and clippings, red circles around conflicting tolls.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_050",
+      "shot": 50,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Tetapi sumber lain menyebut angka yang berbeda: sampai enam ratus enam puluh enam orang tewas. Selisih lebih dari dua ratus nyawa! Angka mana yang benar? Tidak ada yang bisa memastikan sampai hari ini.",
+      "visual_prompt": "Two conflicting newspaper front pages side by side, one headline with a smaller death toll and one with a larger toll, a question mark drawn between them, white flowers floating on the gentle waves, a small wooden boat rocking softly, seabirds calling overhead, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain"
+    },
+    {
+      "id": "shot_051",
+      "shot": 51,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Hebat, kan? Sebuah kapal tenggelam di depan mata ribuan orang, diselamatkan ratusan orang, tetapi jumlah korbannya masih diperdebatkan puluhan tahun kemudian. Itulah yang terjadi kalau penumpang gelap tidak tercatat.",
+      "visual_prompt": "Irony concept: a calm sunny ferry deck today with a few relaxed passengers, a lifeboat drill poster, bright and ordinary, an old sailor gazing at the horizon with folded arms, his cap in his hands, the sea calm and endless, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain",
+      "video_prompt": "Slow tracking shot across a calm sunny ferry deck, passengers relaxed, drill poster passing.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_052",
+      "shot": 52,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Coba hitung: empat ratus tiga puluh satu tambah dua ratus tiga puluh lima sama dengan enam ratus enam puluh enam. Selisihnya sendiri punya cerita, dan ceritanya bernama penumpang tanpa tiket yang tidak pernah dihitung.",
+      "visual_prompt": "Chalkboard arithmetic showing a simple addition with a surprising result, a hand writing the numbers, a small ferry drawing in the corner, a fisherman mending his net on the shore, children playing near the tide line, a mosque dome in the distance, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain"
+    },
+    {
+      "id": "shot_053",
+      "shot": 53,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Jangan pergi dulu. Nama-nama korban yang tercatat hanya seratus empat puluh tiga jenazah yang ditemukan, sisanya hilang bersama kapal. Hampir tiga ratus orang tanpa kubur, tanpa nisan, tanpa kepastian.",
+      "visual_prompt": "Memorial concept: a list of names on a white wall, many blank spaces, candles burning below, a single flower placed in front, white flowers floating on the gentle waves, a small wooden boat rocking softly, seabirds calling overhead, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain",
+      "video_prompt": "Slow push-in on the memorial wall, camera lingering on blank spaces between names.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_054",
+      "shot": 54,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Ma askoli inna kaliyamata inna asqoli. Di perairan Masalembo, tempat kapal itu tenggelam, para pelaut sampai hari ini masih menyebutnya perairan yang menelan kapal. Dan mereka tidak bercanda saat mengatakannya.",
+      "visual_prompt": "Masalembo islands seen from the sea at dawn, calm water, fishing boats, a distant buoy marking a wreck site, an old sailor gazing at the horizon with folded arms, his cap in his hands, the sea calm and endless, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain"
+    },
+    {
+      "id": "shot_055",
+      "shot": 55,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Kata jin lautnya begini: kapal itu masih di sana, di dasar laut, menjaga nama-nama yang hilang. Jin pun mencatat, manusia saja yang lupa mencatat.",
+      "visual_prompt": "Mystical underwater scene at dawn, a shadowy sea guardian figure watching over a sunken hull, light rays piercing the water, a fisherman mending his net on the shore, children playing near the tide line, a mosque dome in the distance, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain",
+      "video_prompt": "Slow underwater drift past the sunken hull, light rays piercing down from the surface.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_056",
+      "shot": 56,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Sejak tragedi itu, aturan keselamatan kapal feri di Indonesia berubah. Sekoci harus cukup, deteksi asap wajib ada, dan penumpang gelap tidak boleh lagi naik tanpa tercatat. Setidaknya begitu bunyi aturannya di atas kertas.",
+      "visual_prompt": "Modern ferry safety drill, crew demonstrating life jackets and smoke detectors to attentive passengers, bright and orderly, white flowers floating on the gentle waves, a small wooden boat rocking softly, seabirds calling overhead, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain"
+    },
+    {
+      "id": "shot_057",
+      "shot": 57,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Tapi aturan di atas kertas dan aturan di atas kapal adalah dua hal yang berbeda. Kapal tua masih berlayar, penumpang gelap masih naik, dan laut tidak pernah memberi ampun dua kali. Ingat itu!",
+      "visual_prompt": "Split image: a regulation book on a desk on the left, a crowded old ferry deck on the right, a wide gap between the two halves, an old sailor gazing at the horizon with folded arms, his cap in his hands, the sea calm and endless, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain",
+      "video_prompt": "Slow split-screen reveal, regulation book on one side, crowded deck on the other.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_058",
+      "shot": 58,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Jadi, apa yang sebenarnya menenggelamkan kapal itu? Puntung rokok kecil, pipa bocor yang menua, kapal tanpa deteksi asap, atau sistem yang membiarkan semuanya berjalan begitu saja?",
+      "visual_prompt": "Four question marks floating over a calm Java Sea at dawn, a small cigarette, a leaking pipe, a missing smoke detector and a rulebook drifting on the water, a fisherman mending his net on the shore, children playing near the tide line, a mosque dome in the distance, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain"
+    },
+    {
+      "id": "shot_059",
+      "shot": 59,
+      "babak": 5,
+      "chapter": 5,
+      "media": "video",
+      "narration": "Tampomas Dua sudah tidak ada lagi, tetapi pertanyaannya masih mengambang di atas Laut Jawa seperti asap yang tidak mau hilang. Angka resmi, atau angka yang lebih besar? Kalian yang menilai.",
+      "visual_prompt": "Smoke rising from the sea surface at dawn and slowly dissolving into golden light, a lone fishing boat passing through the haze, white flowers floating on the gentle waves, a small wooden boat rocking softly, seabirds calling overhead, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain",
+      "video_prompt": "Slow aerial pull-back as smoke dissolves into golden dawn light over the sea.",
+      "duration_hint": 10
+    },
+    {
+      "id": "shot_060",
+      "shot": 60,
+      "babak": 5,
+      "chapter": 5,
+      "media": "image",
+      "narration": "Kalau kalian berada di kapal itu malam itu, apa yang akan kalian lakukan? Tulis jawaban kalian di kolom komentar, dan sampai jumpa di film berikutnya. Laut masih menyimpan banyak cerita.",
+      "visual_prompt": "Open sea horizon at golden dawn, a viewer standing on a ferry deck looking toward the sunrise, hopeful and reflective mood, an old sailor gazing at the horizon with folded arms, his cap in his hands, the sea calm and endless, soft golden dawn over calm sea, pale gold and dusty blue palette, gentle haze, warm film grain"
+    }
+  ]
+}
